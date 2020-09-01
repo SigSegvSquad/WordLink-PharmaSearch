@@ -1,4 +1,4 @@
-![TitleBanner](https://github.com/OverPoweredDev/Pharma_NLPSearch/blob/master/images/EDI_banner.png)
+![TitleBanner](https://github.com/OverPoweredDev/Pharma_NLPSearch/blob/master/images/EDI_banner2.png)
 
 ## Introduction
 
