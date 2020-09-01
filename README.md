@@ -1,4 +1,6 @@
-# Pharma R&D NLP Search
+![TitleBanner](https://github.com/OverPoweredDev/Pharma_NLPSearch/blob/master/images/EDI_banner.png)
+
+## Introduction
 
 ![Python-3.8](https://img.shields.io/badge/Python-3.8-green?style=flat-square)
 ![gensim-3.8.3](https://img.shields.io/badge/gensim-3.8.3-blue?style=flat-square)
@@ -8,8 +10,6 @@
 ![PR](https://img.shields.io/badge/%20-Open%20Source-blueviolet?style=flat-square)
 
 EDI Project for Group SY-C-4
-
-## Introduction
 
 ## Dataset
 
