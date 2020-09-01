@@ -5,6 +5,7 @@
 ![NLTK](https://img.shields.io/badge/NLTK-3.5-purple?style=flat-square)
 ![Flask](https://img.shields.io/badge/Flask-1.1.5-lightgreen?style=flat-square)
 ![PR](https://img.shields.io/badge/PRs-welcome-red?style=flat-square)
+![PR](https://img.shields.io/badge/%20-Open%20Source-blueviolet?style=flat-square)
 
 EDI Project for Group SY-C-4
 
