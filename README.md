@@ -5,6 +5,7 @@
 ![Python-3.8](https://img.shields.io/badge/Python-3.8-green?style=for-the-badge)
 ![gensim-3.8.3](https://img.shields.io/badge/gensim-3.8.3-blue?style=for-the-badge)
 ![NLTK](https://img.shields.io/badge/NLTK-3.5-purple?style=for-the-badge)
+![Flask](https://img.shields.io/badge/Flask-1.1.5-lightblue?style=for-the-badge)
 ![PR](https://img.shields.io/badge/PRs-welcome-red?style=for-the-badge)
 ![PR](https://img.shields.io/badge/%20-Open%20Source-blueviolet?style=for-the-badge)
 
