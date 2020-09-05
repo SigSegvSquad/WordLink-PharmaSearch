@@ -1,7 +1,7 @@
 ![TitleBanner](https://github.com/OverPoweredDev/Pharma_NLPSearch/blob/master/images/EDI_banner3.png)
 
 ## Introduction
-halooo
+
 ![Python-3.8](https://img.shields.io/badge/Python-3.8-green?style=for-the-badge)
 ![gensim-3.8.3](https://img.shields.io/badge/gensim-3.8.3-blue?style=for-the-badge)
 ![NLTK](https://img.shields.io/badge/NLTK-3.5-purple?style=for-the-badge)
@@ -12,7 +12,7 @@ halooo
 
 ## Dataset
 
-Research articles from various journals like World journal of pharmaceuticals, international journal of pharmaceuticals, journal of biomedicine and pharmacotherapy etc. Also there are plenty of research articles by scientists.
+Research articles from various journals like World journal of pharmaceuticals, international journal of pharmaceuticals, journal of biomedicine and pharmacotherapy etc. Also there are plenty of research articles by scientists. Also some drugs related stuff is also there.
 
 ## Approach
 
