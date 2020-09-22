@@ -1,0 +1,1283 @@
+[Downloaded free from http://www.rpsjournal.net on Thursday, September 3, 2020, IP: 117.212.240.236]
+
+Research in Pharmaceutical Sciences, August 2020; 15(4): 367-380
+Received: 29-10-2019
+Peer Reviewed: 17-02-2020
+Revised: 28-04-2020
+Accepted: 20-08-2020
+Published: 28-08-2020
+
+School of Pharmacy & Pharmaceutical Sciences
+Isfahan University of Medical Sciences
+
+Original Article
+
+Anti-Toxoplasma gondii activity of 5-oxo-hexahydroquinoline
+derivatives: synthesis, in vitro and in vivo evaluations, and molecular
+docking analysis
+Mohammadsaeid Zahedi1, Qasem Asgari2, Fatemeh Badakhshan2, Amirhossein Sakhteman1,
+Sara Ranjbar3, and Mehdi Khoshneviszadeh1,4,*
+1
+
+Department of Medicinal Chemistry, School of Pharmacy, Shiraz University of Medical Sciences, Shiraz, I.R. Iran.
+Department of Parasitology and Mycology, School of Medicine, Shiraz University of Medical Sciences, Shiraz, I.R.
+Iran.
+3
+Pharmaceutical Sciences Research Center, Shiraz University of Medical Sciences, Shiraz, I.R. Iran.
+4
+Medicinal and Natural Products Chemistry Research Center, Shiraz University of Medical Sciences, Shiraz, I.R. Iran.
+2
+
+Abstract
+Background and purpose: The aim of this study was to evaluate the in vitro and in vivo anti-Toxoplasma
+gondii (T. gondii) effect of 5-oxo-hexahydroquinoline compounds. Moreover, molecular docking study of the
+compounds into the active site of enoyl-acyl carrier protein reductase (ENR) as a necessary enzyme for the
+vitality of apicoplast was carried out.
+Experimental approach: A number of 5-oxo-hexahydoquinoline derivatives (Z1-Z4) were synthesized. The
+T. gondii tachyzoites of RH strain were treated by different concentrations (1-64 μg/mL) of the compounds.
+The viability of the encountered parasites with compounds was assessed using flow cytometry and propidium
+iodide (PI) staining. Due to the high mortality effect of Z3 and Z4 in vitro, their chemotherapy effect was
+assessed by inoculation of tachyzoites to four BALB/c mice groups (n = 5), followed by the gavage of various
+concentrations of the compounds to the mice. Molecular docking was done to study the binding affinity of the
+synthesized 5-oxo-hexahydroquinolines into ENR enzyme active site byusing AutoDock Vina® software.
+Docking was performed by a Lamarckian Genetic Algorithm with 100 runs.
+Findings / Results: Flow cytometry assay results indicated compounds Z3 and Z4 had relevant mortality effect
+on parasite tachyzoites. Besides, in vivo experiments were also performed and a partial increase of mice
+longevity between control and experiment groups was recorded. Molecular docking of Z3 and Z4 in the binding
+site of ENR enzyme indicated that the compounds were well accommodated within the binding site. Therefore,
+it could be suggested that these compounds may exert their anti-T. gondii activity through the inhibition of the
+ENR enzyme.
+Conclusion and implications: Compounds Z3 and Z4 are good leads in order to develop better anti-T. gondii
+agents as they demonstrated both in vitro and in vivo inhibitory effects on tachyzoites viability and infection.
+Further studies on altering the route of administration along with additional pharmacokinetics evaluations are
+needed to improve the anti-T. gondii impacts of 5-oxo-hexahydroquinoline compounds.
+
+Keywords: Flow cytometry; Molecular docking; 5-Oxo-hexahydroquinoline; Propidium iodide; Toxoplasma.
+INTRODUCTION
+Toxoplasma gondii (T. gondii) is an
+intracellular protozoan parasite which causes
+toxoplasmosis, a common zoonotic infection in
+humans and animals (1). The estimation
+indicates that disease prevalence rate in humans
+is one-third of the world population people who
+*Corresponding author: M. Khoshneviszadeh
+Tel: +98-7112332225, Fax: +98-7112424128
+Email: khoshnevizm@sums.ac.ir
+
+have been chronically infected. The parasite
+engenders severe medical complications
+in the fetus and also immunocompromised
+people (2, 3).
+Access this article online
+Website: http://rps.mui.ac.ir
+DOI: 10.4103/1735-5362.293515
+
+[Downloaded free from http://www.rpsjournal.net on Thursday, September 3, 2020, IP: 117.212.240.236]
+
+Zahedi et al. / RPS 2020; 15(4): 367-380
+
+Moreover, despite of the relatively low rate of
+toxoplasmosis outbreak in immunocompetent
+ones, some studies report severe toxoplasmosis
+in healthy patients (4, 5). T. gondii is
+transmitted by felids, whereas their coccidian
+lifestyle through sexual reproduction leads to
+pouring oocysts in outside of their bodies (6-8).
+Rodents and other intermediate hosts may
+ingest oocysts, bringing about the initial
+expansion of growing tachyzoites and thus
+disseminating to all over the body which leads
+to acute infection of the parasite. In response to
+tachyzoites attack throughout the body, the
+immune reaction of the intermediate host's
+body occurs, and then parasite converts into the
+recumbent and slow-growing form of the
+parasite called the bradyzoite (9). Finally, the
+ingestion of raw meats or water involving
+oocysts causes infection in humans.
+The
+conventional
+treatment
+of
+toxoplasmosis in humans comprises of a
+combination of drugs of sulfadiazine (blocks
+dihydropteroate synthetase) and pyrimethamine
+(or trimethoprime which inhibits dihydrofolate
+reductase) (10). T. gondii first disseminates as
+tachyzoites then resides in tissue cysts
+causing a prolonged latent infection. In
+immunocompromised patients, bradyzoites can
+turn into tachyzoites that may cause pneumonia
+and encephalitis. Despite all advancements in
+drug discovery, encysted bradyzoites have not
+been yet destroyed by suitable drugs (11).
+Quinolines are a group of heterocyclic
+aromatic organic compounds with a multitude
+of medicinal properties (12-15). Quinoline ring
+and one of its derivatives, 2-methyl-3carbethoxyquinoline, were eligible to inhibit
+the T. gondii growth, 52-57% loss of a unique
+non-photosynthetic organelle of T. gondii
+tachyzoites called apicoplast (16). The
+synthesis of heme, isoprenoid precursors and
+fatty-acid synthesis (FAS) II pathway is done
+within this particular organelle(17,18). The
+enoyl-acyl carrier protein reductase (ENR) is
+among the specific enzymes FAS II pathway,
+the final and integral stage in the fatty acid
+chain elongation (17). Attempts have far
+revealed the vulnerability of a host of T. gondii
+to inhibition of fatty acids pathway and ENR
+subsequently by triclosan (19,20). As to
+compare with previous studies, quinoline
+
+derived drugs such as 4-aminoquinolines
+and 8-amino quinolines were more efficacious
+in treating malaria disease than revealing
+inhibition effect on T. gondii growth. On the
+other hand, benzylquine and bisquinoline were
+among the promising compounds against
+T. gondii with EC50 values less than 1 μM, in
+comparison with other candidates that have
+been used in the study which killed less
+T. gondii (21). Another research showed that
+endochin-like quinolone can reduce brain
+T. gondii tissue cyst numbers in mice due to
+inhibition of T. gondii cytochrome bc1 function
+(22). A review study reveals that the quinoline
+ring has anti-T. gondii activity through
+mechanisms of heme polymerization and
+degradation in the food vacuole, membrane
+transport interruption in the parasite (19), can
+disrupt apicoplast DNA and finally the whole
+apicoplast in the parasite (16,23).
+Regarding quinoline derivatives biological
+effects,
+we
+synthesized
+5-oxohexahydroquinoline analogs bearing different
+aromatic substitutions at C4 while, having
+different pyridyl alkyl carboxylates at C3
+(Fig. 1) and evaluated them for their in vitro and
+in vivo inhibitory effects on the viability and
+infectivity of Toxoplasma tachyzoites.
+
+Fig. 1. Structural formula of 5-oxo-hexahydroquinoline
+compounds (pyridin-3-yl methyl 4-(4-bromophenyl)-2methyl- 5- oxo-1,4,5,6,7,8- hexahydroquinoline-3carboxylate
+(Z1),
+pyridin-3-yl
+methyl
+4-(3hydroxyhenyl) -2- methyl- 5- oxo -1,4,5,6,7,8hexahydroquinoline-3-carboxylate (Z2), 3-(pyridin-3yl)propyl
+4-(4-methoxyphenyl)-2-methyl-5-oxo1,4,5,6,7,8-hexahydroquinoline-3-carboxylate (Z3), and
+pyridin2-ylmethyl
+2-methyl
+-5-oxo-4-(3,4,5trimethoxyphenyl) -1,4,5,6,7,8-hexahydroquinoline-3carboxylate (Z4).
+
+368
+
+[Downloaded free from http://www.rpsjournal.net on Thursday, September 3, 2020, IP: 117.212.240.236]
+
+Anti-Toxoplasma gondii activity of 5-oxohexahydroquinolines
+
+Alternatively,
+5-oxo-hexahydroquinoline
+derivatives were obtained by the reaction
+among oxobutanoate (2a, 2b, or 2c),
+corresponding aromatic aldehyde (2 mmol) and
+1,3-cyclohexanedione (2 mmol) in the presence
+of ammonium acetate (10 mmol) in ethanol
+(7 mL) for 8 h, while protected from light
+(Fig. 2) (15). The reaction was monitored by
+thin-layer chromatography (TLC). Ethanol was
+removed under reduced pressure and the
+residue was dissolved in chloroform. Then the
+reaction mixture was purified by TLC with
+chloroform-ethanol as the mobile phase.
+Finally, the product was recrystallized from the
+proper solvent to yield pure compounds
+(Fig. 2). All the molecular structures of final
+products were classified and confirmed by
+IR, 1H NMR, mass spectrometry (MS), and
+elemental analysis. Chemical structures and
+physical properties of the synthesized
+compounds are shown in Table 1.
+
+MATERIALS AND METHODS
+Chemicals
+Analytical degree chemicals and solvents
+were used in this experiment. Pyridine-2-ylmethanol, pyridine-3-yl-methanol, pyridine-3ylpropanol,
+aldehydes,
+and
+1,3cyclohexanedione were provided from Merck,
+Darmstadt, Germany. Propidium iodide (PI)
+was obtained from Sigma-Aldrich, USA.
+Apparatuses
+Carbon-13 nuclear magnetic resonance
+13
+( C NMR) and proton (1H) NMR spectra were
+detected with a Brucker 300 spectrometer.
+Infrared (IR) spectra were acquired on a PerkinElmer spectrometer (KBr disk) (Perkin-Elmer,
+Waltham, MA). Chemical shifts were reported
+as ppm and tetramethylsilane was used as an
+internal standard. Mass spectra (MS) were
+recorded with an Agilent spectrometer (Agilent
+technologies 9575c inert MSD, USA). A
+Costech elemental analysis instrument
+(Costech ESC 4010, Italy) was achieved as the
+elemental assessment and was within 0.4 % of
+the calculated value. A hot stage apparatus
+(Electrothermal, Essex, UK) was used to attain
+melting points.
+
+Biological activity procedures
+Animals
+Inbred BALB/c mice aging 6-8 weeks, and
+weighing 25-27 g were purchased from Pasteur
+Institute, Tehran, I.R. Iran. The whole procedures
+of trials and sacrifices were identical for all
+animals. In the course of the experiments,
+starting from November 2017 and ending up to
+February 2018, animals were maintained at
+22 °C with about 40-50% relative humidity, and
+also standard food and water ad libitum were
+available. The in vivo study was conducted
+based on the laboratory animal’s guidelines in
+literary and research disciplines (24).
+
+Synthesis
+of
+5-oxo-hexahydroquinoline
+derivatives (Z1-Z4)
+Oxobutanoates (2a, 2b, and 2c) were
+synthesized by reacting pyridin-3-ylmethanol
+(1a), pyridin-2-ylmethanol (1b) or pyridin-3ylpropanol (1c) with 2, 2, 6-trimethyl-4H-1, 3dioxin-4-one in high yields as shown in Fig. 2.
+
+Fig. 2. Synthetic approaches of compounds Z1-Z4.
+
+369
+
+[Downloaded free from http://www.rpsjournal.net on Thursday, September 3, 2020, IP: 117.212.240.236]
+
+Zahedi et al. / RPS 2020; 15(4): 367-380
+
+Table 1. Structures and drug likeness scores of synthesized compounds.
+
+Code
+
+R1
+
+Z1
+
+R2
+
+Yield (%)
+
+Log P
+
+HBA
+
+HBD
+
+TPSA
+
+nRB
+
+MW
+
+3-methylpyridine
+
+43
+
+2.048
+
+5
+
+1
+
+67.76
+
+6
+
+453
+
+Z2
+
+3-methylpyridine
+
+24
+
+1.214
+
+6
+
+2
+
+87.99
+
+5
+
+390
+
+Z3
+
+2-methylpyridine
+
+68
+
+2.173
+
+8
+
+1
+
+95.45
+
+8
+
+464
+
+Z4
+
+3-propylpyridine
+
+48
+
+2.051
+
+6
+
+1
+
+64.98
+
+6
+
+432
+
+LogP, Logarithm of partition coefficient between n-octanol and water; HBA, number of hydrogen bond acceptors;
+HBD, number of hydrogen bond donors; TPSA, topological polar surface area; nRB, number of rotatable bonds; MW,
+molecular weight.
+
+Parasites
+The virulent T. gondii RH strain was
+provided from Tehran University of Medical
+Sciences, Tehran, I.R. Iran. T. gondii
+Tachyzoites were taken by a serial
+intraperitoneal passage in BALB/c inbred mice
+and then they were collected 72 h after the
+inoculation of 106 parasites in the mice, by
+repeated flushing in the peritoneal cavity using
+phosphate-buffered saline (PBS) at a pH of 7.2.
+Next, tachyzoites were harvested and
+centrifuged for 10 min at 200 g at 25 °C to
+eliminate the peritoneal cells and cellular
+debris. The supernatant was then gathered and
+centrifuged for 10 min at 1200 rpm (800 g) (25).
+
+at 4 °C. Then, the tachyzoites were gathered in
+Eppendorf tubes staining with 50 μg/mL
+concentration of PI for 30 min at 4 °C. Finally,
+the parasites were preserved on ice and in dark
+condition until analysis. Positive controls were
+obtained by incubation of the parasites in the
+vicinity of 0.2% saponin. The cell suspension
+was transferred into polystyrene flow
+cytometry tubes (BD Falcon, USA). Data
+achievement and evaluation were performed
+with a FACS Calibur flow cytometer (BectonDickinson, San Jose, USA) and Cell Quest Pro
+software (25).
+Chemotherapy effect of the compounds
+A number of 2 × 105 tachyzoites were
+subcutaneously inoculated into 5 groups, 5
+mices in each group, including three
+concentrations (16, 32, 64 μg/mL) of
+compounds Z3, Z4.The other groups were
+negative and positive control (Sufadiazine 4
+μg/mL). Based on IC50 determination study of
+compounds Z3, Z4, these compounds were
+
+Extracellular viability assay (flow cytometry)
+Compounds Z1-Z4 were dissolved in
+dimethyl sulfoxide (DMSO) to attain a 10 mM
+stock solution. The tachyzoites (2 × 105/mL of
+PBS) were treated with DMSO (0.1% v/v) as
+the control and various concentrations (1-64
+μg/mL) of 5-oxo-hexahydroquinolines for 2 h
+370
+
+[Downloaded free from http://www.rpsjournal.net on Thursday, September 3, 2020, IP: 117.212.240.236]
+
+Anti-Toxoplasma gondii activity of 5-oxohexahydroquinolines
+
+selected for chemotherapy in mice. Toxicity
+assessment of compounds Z3 and Z4 was
+performed in the 6th group of mice; the
+compounds were orally gavaged into mice that
+have not been inoculated by the intact parasites.
+For the negative control, the mice only have
+been inoculated with parasites. Sulfadiazine
+(15 mg/kg) as an active substance was orally
+administered against T. gondii in the positive
+control group.
+
+resulting from docking was ranked due to the
+free energy of the interactions of ligandreceptors. Validation of molecular docking was
+done by extracting the structure of the
+cocrystallized ligand and re-docking it into the
+receptor (self-docking). The root mean square
+deviation (RMSD) was used to evaluate,
+optimize, and validate the docking calculations.
+We investigated the binding affinities of the
+synthesized 5-oxo-hexahydroquinolines into
+ENR enzyme active site. The docking process
+used a Lamarckian genetic algorithm with 100
+runs for each ligand, leaving other parameters
+at their default measures (28). Conformations
+were clustered and ranked by the energy. The
+conformation with the best-scored pose and the
+lowest binding energy was selected. The
+docking results were depicted using
+ChemOffice® software.
+
+Molecular docking analysis
+The 3D structures of the synthesized
+compounds were sketched using ChemOffice
+software (26) Then, the achieved structures
+were optimized in their conformation by the
+energy minimization process, in which the
+results were saved in pdb formats. After energy
+optimization and ligand preparation, the
+Gastiger’s partial charges and the number of
+torque’s angles of molecules were calculated.
+The ligands were also saved in pdbqt formats.
+In this study, we applied AutoDock Vina
+software to inquire about the affinity and
+binding modes of the synthesized derivatives to
+the binding pocket of P-gp. X-ray crystal
+structure of Enoyl-acyl Carrier Protein
+Reductase (Enoyl ACP Reductase) in complex
+with triclosan and NAD (PDB ID: 2O2S) was
+got from RCSB Protein Data Bank
+(http://www.rcsb.org). To prepare the enzyme
+for docking, we removed the innate ligand and
+water molecules, added hydrogen atoms,
+merged non-polar hydrogens, and added
+Gasteiger charges. All rotatable bonds of
+ligands, defined by default of the program, were
+allowed to rotate during the automated docking
+process, and then prepared protein and ligand
+structures were saved in the PDBQT format
+suitable for calculating energy grid maps. Auto
+Dock Tools were used to prepare the molecules
+and parameters before submitting it for docking
+analysis with Auto Dock (27). The grid
+dimensions were 30 × 30 × 30 Å along with a
+grid space value of 1 Å. The grid was centered
+at 3.177, 67.997, and 67.535 Å (X, Y, and Z)
+which involved the active site of triclosan. It is
+notable to say that macromolecule sequences
+were considered rigid and inflexible. Besides,
+the exhaustiveness factor was considered “8”,
+and then each of the conformational structures
+
+Statistical analysis
+Data analysis was done by FACS Calibur flow,
+Cell Quest Pro software and SPSS software
+(version 22, Armonk, NY, USA) using the one
+way ANOVA test as appropriate. Intergroup
+comparisons were undertaken using Tukey’s
+posthoc test, after log transformation for nonparametrically distributed variables. 𝑃 ≤ 0.05
+was contemplated statistically significant.
+RESULTS
+Synthesis
+of
+5-oxo-hexahydroquinoline
+derivatives
+The designed compounds were synthesized
+through conventional synthetic procedures and
+characterized by different methods.
+Pyridin-3-yl methyl 4-(4-bromophenyl)-2methyl-5-oxo-1,4,5,6,7,8-hexahydroquinoline3-carboxylate (Z1)
+Recrystallized
+from
+ethanol;
+pale
+1
+yellow crystals; M.P: 233 °C. H NMR
+(DMSO-d6, 300 MHz) δH (ppm): 1.72-1.91
+(m,
+2H,
+cyclohexenone),
+2.14-2.21
+(m, 2H, cyclohexenone), 2.30 (s, 3H,
+dihexadecylphosphate (DHP)-CH3), 2.44-2.50
+(m, 2H, cyclohexenone overlapped with
+DMSO), 4.87 (s, 1H, DHP-C4-H), 5.02 and 5.10
+(AB system, 2H, JAB = 12.6 Hz, COOCH2),
+7.05 (d, 2H, J = 8.4 Hz, phenyl-H-2, 6), 7.29371
+
+[Downloaded free from http://www.rpsjournal.net on Thursday, September 3, 2020, IP: 117.212.240.236]
+
+Zahedi et al. / RPS 2020; 15(4): 367-380
+
+7.35 (m, 3H, pyridine-H-5 and phenyl-H-3, 5),
+7.53 (dt, 1H, J = 7.8, 1.8 Hz, pyridine-H-4),
+8.45 (d, 1H, J = 1.8 Hz, pyridine-H-2), 8.50 (dd,
+1H, J = 4.8, 1.5 Hz, pyridine-H-6), 9.28 (brs,
+1H, NH). 13C NMR (DMSO-d6, 75 MHz) δH
+(ppm): 18.78, 21.16, 26.45, 35.88, 37.08, 63.02,
+102.62, 111.37, 119.26, 123.87, 130.17,
+131.17, 132.69, 136.10, 146.88, 147.39,
+149.48, 149.56, 151.73, 166.82, 195.19. MS
+(EI), m/z (%): 452 (M+, 3), 362 (18), 361 (3),
+360 (20), 297 (100), 237 (3), 205 (5), 180, 161
+(7), 133 (4), 92 (11), 65 (5). IR (KBr): υ 3207
+(NH), 3079 (CH-aromatic), 2952 (CHaliphatic), 1667, 1634 cm-1 (CO). Found C, 70.21;
+H, 4.68; N, 6.16%. Anal. (C23H21BrN2O3)
+requires C, 60.94; H, 4.67; N, 6.18%.
+
+and COOCH2CH2CH2), 3.55 (s, 3H, phenylOCH3), 3.78-3.98 (2m, 2H, COOCH2CH2CH2),
+4.94 (s, 1H, DHP-C4-H), 6.60 (d, 2H, J = 9 Hz,
+phenyl-H-3,5), 7.10 (d, 3H, J = 9 Hz, phenylH-2,6 and pyridine-H-5 ), 7.34 (d, 1H, J = 7.8
+Hz, pyridine-H-4), 8.06 (brs, 1H, NH), 8.21 (s,
+1H, pyridine-H-2), 8.25 (d, 1H, J = 0.6 Hz,
+pyridine-H-6). MS (EI) m/z (%): 432 (M+, 45),
+414 (59), 325 (100), 312 (27), 294 (9), 268 (18),
+206 (27), 161 (7), 120 (21), 92 (36). IR (KBr):
+υ 3279 (NH), 3074 (CH-aromatic), 2952 (CHaliphatic), 1694, 1646 cm-1 (COC). Anal. Calcd
+for C25H26N2O4: C 72.35, H 6.50, N 6.49%,
+found: C 72.20, H 6.53, N 6.48%.
+Pyridin-2-ylmethyl 2-methyl-5-oxo-4-(3,4,5trimethoxyphenyl)-1,4,5,6,7,8hexahydroquinoline-3-carboxylate (Z4)
+Recystallized from ethyl acetate; pale
+yellow crystals, M.P: 174 °C. 1H NMR
+(DMSO-d6, 300 MHz) δH (ppm): 1.77-194 (m,
+2H, cyclohexenone), 2.21-2.25 (m, 2H,
+cyclohexenone), 2.32 (s, 3H, DHP-CH3), 2.462.50 (m, 2H, cyclohexenone, overlapped with
+DMSO), 3.59 (s, 3H, phenyl-4-OCH3), 3.61 (s,
+6H, phenyl-3,5-OCH3), 4.95 (s, 1H, DHP-C4H), 5.10 and 5.18 (AB system, 2H, JAB = 13.8
+Hz, COOCH2), 6.42 (s, 2H, phenyl-H-2,6), 7.07
+(d, 1H, J = 8.1 Hz, pyridine-H-3), 7.28-7.32 (m,
+1H, pyridine-H-5), 7.67-7.72 (m, 1H, pyridineH-4), 8.51-8.53 (d, 1H, J = 4.5 Hz, pyridine-H6), 9.12 (brs, 1H, NH). MS (EI), m/z (%): 464
+(M+, 2), 433 (4), 372 (100), 328 (11), 297 (36),
+188 (35), 160 (13), 133 (4), 93 (14), 65 (5). IR
+(KBr): υ 3276 (NH), 3073 (CH-aromatic), 2935
+(CH-aliphatic), 1702, 1647 (CO), 1070, 1230
+cm-1 (COC). Found C, 67.42; H, 6.05; N,
+6.00%. Anal. (C26H28N2O6) requires C, 67.23;
+H, 6.08; N, 6.03%.
+
+Pyridin-3-yl methyl 4-(3-hydroxyhenyl)-2methyl-5-oxo-1,4,5,6,7,8-hexahydroquinoline3-carboxylate (Z2)
+Recrystallized from ethyl acetate and
+ethanol; pale yellow crystals; M.P: 214 °C. 1H
+NMR (DMSO-d6, 300 MHz) δH (ppm): 1.661.93 (m, 2H, cyclohexenone), 2.18-2.20 (m,
+2H, cyclohexenone) 2.30 (s, 3H, DHP-CH3),
+2.44-2.50 (m, 2H, cyclohexenone, overlapped
+with DMSO), 4.87 (s, 1H, DHP-C4-H), 5.04
+and 5.12 (AB system, 2H, JAB = 12.9 Hz,
+COOCH2), 6.46-6.49 (m, 1H, phenyl-H-4),
+6.54-6.57 (m, 2H, phenyl-H-2,6), 6.93 (t, 1H, J
+= 7.5 Hz, phenyl-H-5), 7.29-7.34 (m, 1H,
+pyridine-H-5), 7.53 (dt, 1H, J = 7.8, 1.5 Hz,
+pyridine-H-4), 8.46 (d, 1H, J = 1.5 Hz,
+pyridine-H-2), 8.49 (dd, 1H, J = 4.8, 1.5 Hz,
+pyridine-H-6), 9.13 (brs, 1H, NH), 9.21 (brs,
+1H, OH). MS (EI), m/z (%): 390 (M+, 11), 312
+(14), 297 (100), 254 (4), 216 (4), 161 (7), 133
+(4), 93 (18). IR (KBr): υ 3276 (NH), 3072 (CHaromatic), 2938 (CH-aliphatic), 1699, 1645 cm1
+(CO). Found C, 70.57; H, 5.64; N, 7.19%.
+Anal. (C23H22N2O4) requires C, 70.75; H, 5.68;
+N, 7.17%.
+
+Biological section
+Flow cytometric determination of T. gondii
+tachyzoite mortality evaluation in the presense
+of 5-oxo-hexahydroquinolines
+The synthesized and purified 5-oxohexahydroquinolines (Z1-Z4) were evaluated
+for their effect on T. gondii tachyzoite mortality
+using flow cytometric determination of PI.
+Flow cytometry analysis of different
+concentrations (1-64 μg/mL) of the compounds
+against T. gondii tachyzoites viability is
+demonstrated in Fig. 3.
+
+3-(pyridin-3-yl)propyl 4-(4-methoxyphenyl)-2methyl-5-oxo-1,4,5,6,7,8-hexahydroquinoline3-carboxylate (Z3)
+Recrystallized from ethanol; pale yellow
+crystals; M.P: 165 °C. 1H NMR (acetone, 300
+MHz) δH (ppm): 1.62-1.77 (m, 4H,
+cyclohexenone and COOCH2CH2CH2), 2.072.10 (m, 2H, cyclohexanone), 2.27 (s, 3H,
+DHP-CH3), 2.36-2.43 (m, 4H, cyclohexenone,
+372
+
+[Downloaded free from http://www.rpsjournal.net on Thursday, September 3, 2020, IP: 117.212.240.236]
+
+Anti-Toxoplasma gondii activity of 5-oxohexahydroquinolines
+
+373
+
+[Downloaded free from http://www.rpsjournal.net on Thursday, September 3, 2020, IP: 117.212.240.236]
+
+Zahedi et al. / RPS 2020; 15(4): 367-380
+
+Fig. 3. Flow cytometry analysis of Toxoplasma gondii tachyzoites exposed to different concentrations of Z1, Z2, Z3, Z4,
+negative and positive controls.
+
+Compounds Z3 and Z4 caused over 50%
+mortality of tachyzoites at high concentrations
+(8-64 μg/mL). The test results on tachyzoite of
+
+T. gondii exposed to DMSO, saponin as a
+positive control, and various doses of Z1-Z4 are
+shown in Table 2. The percentages of mortality
+374
+
+[Downloaded free from http://www.rpsjournal.net on Thursday, September 3, 2020, IP: 117.212.240.236]
+
+Anti-Toxoplasma gondii activity of 5-oxohexahydroquinolines
+
+64 μg/mL). Results revealed that after about
+10 days all the mice died and the mean
+longevity of the mice treated with 16, 32 and
+64 μg/mL of Z3 was 7, 8.5 and 8.6 days and for
+Z4 were 7.8, 9.1 and 9.6, respectively, while,
+the mean survival of the mice in the negative
+control group was 5.4 days (Fig. 4). The results
+showed a correlation between Z3 and
+Z4 administration and the mice resistance
+against T. gondii tachyzoites. It seems that
+increasing the administered doses of Z3 and
+Z4, leads to higher mice longevity.
+
+caused by the compounds improved in a
+concentration-dependent manner. Saponin
+(0.2%) was used to trigger mortality or
+apoptosis which was seen about 96.69% of the
+exposing tachyzoites.
+in vivo anti-T. gondii activity of 5-oxohexahydroquinolines
+The most active compounds, Z3 and Z4,
+were evaluated for their in vivo anti-T. gondii
+activity in the mice exposed to the tachyzoites
+in three different concentrations (16, 32,
+
+Table 2. The mortality (%) of Toxoplasma gondii tachyzoites after 1.5 h exposure to different concentrations of 5-oxohexahydroquinoline derivatives. 0.2% of saponin was used as the positive control, in the meantime, DMSO (0.1% v/v)
+was considered as the negative control.
+Concentrations
+(μg/mL)
+0
+1
+2
+4
+8
+16
+32
+64
+
+Compounds
+Z1
+0.41
+20.06
+21.48
+13.27
+26.46
+33.52
+38.86
+35.21
+-
+
+Z2
+0.41
+20.30
+21.49
+14.22
+24.51
+26.92
+38.20
+42.43
+-
+
+Z3
+0.41
+77.94
+73.03
+72.14
+63.70
+64.94
+74.56
+78.03
+-
+
+Controls
+Z4
+0.41
+76.68
+75.59
+85.47
+85.77
+83.93
+90.28
+90.57
+-
+
+DMSO
+16.32
+
+Saponin
+96.69
+
+Fig. 4. The mean of longevity (days) of mice groups inoculated by Toxoplasma gondii tachyzoites exposed to three
+different concentrations of compounds Z3 and Z4 (µg/mL). *P ≤ 0.05 indicates significant differences compared to the
+negative control group (DMSO). The mice treated with sulfadiazine as positive control but due to a longevity more than
+30 days, therefore the positive control is not shown on the graph. Data represent mean ± SD, n = 5.
+
+listed in Table 3. Molecular docking process
+was validated by extracting the structure of the
+co-crystallized ligand and redocking it into the
+receptor (self-docking).
+
+Molecular docking analysis
+We investigated the binding affinities of the
+synthesized 5-oxo-hexahydroquinolines into
+ENR enzyme active site. Docking results are
+375
+
+[Downloaded free from http://www.rpsjournal.net on Thursday, September 3, 2020, IP: 117.212.240.236]
+
+Zahedi et al. / RPS 2020; 15(4): 367-380
+
+Table 3. Docking results of 5-oxo-hexahydroquinoline derivatives into the Toxoplasma gondii Enoyl- acyl carrier
+protein Reductase enzyme binding site.
+Ligands
+Z1
+Z2
+
+ΔG (Kcal/mol)
+-8.4
+-7.8
+
+Z3
+
+-8.5
+
+Z4
+
+-9.2
+
+Triclosan
+
+-9.1
+
+Interaction
+H-bonding
+H-bonding
+H-bonding
+H-bonding
+H-bonding
+H-bonding
+H-bonding
+H-bonding
+
+Atom of ligand
+Oxygen (carbonyl)
+Oxygen (carbonyl)
+NH
+Oxygen (methoxy)
+NH
+Nitrogen (pyridine ring)
+Oxygen (carbonyl)
+OH
+
+Amino acid
+Gly131
+Gly131
+Ala129
+Lys237
+Ala129
+Arg230
+Ala231
+Tyr189
+
+Fig 5. Representation of the co-crystallized inhibitor (blue) docked into the binding site and superimposed on cocrystallized inhibitor (red) in the crystal structure of T. gondii Enoyl-ACP Reductase (PDB ID: 2O2S).
+
+Fig. 6. Docking model of compound Z4 in the Toxoplasma gondii enoyl-acyl carrier protein Reductase enzyme active
+site (PDB ID: 2O2S).
+
+376
+
+[Downloaded free from http://www.rpsjournal.net on Thursday, September 3, 2020, IP: 117.212.240.236]
+
+Anti-Toxoplasma gondii activity of 5-oxohexahydroquinolines
+
+Endochin-like quinolone structure was also
+previously surveyed for its potential use in
+clinics. The relevant results revealed that two of
+endochin-like derivatives were remarkably
+successful in the inhibition of acute and latent
+murine toxoplasmosis. Inhibition of the
+cytochrome bc1 complex in the parasites was
+suggested as a reason for this outstanding effect
+(22). Moreover, the other quinolone that reported
+to be effective against toxoplasmosis was
+enrofloxacin, which was better than sulfadiazine
+(as a strong anti-T. gondii compound) to protect
+human foreskin fibroblasts infected cells against
+T. gondii. Enrofloxacin proved to be an active
+compound for cleaning up the tissue parasites as
+well as it could alleviate the brain
+inflammations of T. gondii’s infected Calomys
+callosus. In addition, the reduction percentage
+of intracellular replication during the usage of
+enrofloxacin was more than sulfadiazine (30).
+Another research that was based on the
+combination of enrofloxacin and toltrazuril,
+resulted killing a significant number of parasites
+and entirely broking down the tachyzoite
+structure (31). Gatifloxacin, as a fluoroquinolone,
+has ultimately inhibited human foreskin
+fibroblasts T. gondii intracellular replication,
+therefore leads to increase the T. gondii's
+infected mice survival, and it has protected the
+mice against acute toxoplasmosis. As like as
+enrofloxacin, a synergistic effect, in vitro and in
+vivo, was observed by using gatifloxacin along
+with pyrimethamine. Moreover, juxtaposing
+infected mice associated with concurrent use of
+gatifloxacin and interferon gamma demonstrates
+appropriate effect of the drugs which was much
+higher than using them separated (32). In vivo
+study of several quinolone derivatives against
+acute and latent toxoplasmosis showed that two
+of the compounds had ED50 values of 0.14 and
+0.08 mg/kg in comparison with atovaquone
+having an ED50 value of 0.85 mg/kg (22). In our
+study, 5-oxo-hexahydroquinoline derivatives
+were evaluated for their anti-T. gondii effects.
+Reviewing the literature of quinoline derivatives
+in the previous studies, two compounds were
+analyzed and proved to be active agents against T.
+gondii with EC50 value of 0.03 mg/kg.
+Furthermore, they had an inhibitory effect on
+Plasmodium falciparum regarding the
+mitochondrial electron transport mechanism, a
+necessary phase of pyrimidines synthesis (33).
+
+RMSD between the best conformation of the
+native ligand docked into the binding site of
+T. gondii ENR and the experimental one was
+0.51 Å (Fig. 5). Binding interactions of the
+synthesized derivatives established H-bonding
+and H-Pi interactions with different amino acids
+including Gly131, Ala231, Asn130, Ala129,
+Lys237, and Arg230 (Table 3). Compounds Z3
+and Z4 possessed the most negative binding free
+energies (-8.5 and -9.2 kcal/mol) which were
+comparable to that of the innate ligand
+(-9.1 kcal/mol), were well accumulated in the
+binding pocket of ENR by making hydrogen
+bonds. The binding model of Z3 and Z4 is
+illustrated in Fig. 6. In the two active
+compounds (Z3 and Z4) a key hydrogen bond
+interaction could be seen between NH of the
+hexahydroquinolinone ring and Ala129. It
+seems that the residue Ala129 played a crucial
+role in making stable ligand-protein complexes.
+DISCUSSION
+5-Oxo-hexahydroquinoline
+compounds
+synthesis and evaluation were done to assess
+their anti-T. gondii effects. Flow cytometry
+results using PI staining on T. gondii
+extracellular tachyzoites indicated that
+compound Z3 (baering 2-pyridyl methyl
+carboxylate and 3,4,5-trimethoxyphenyl at
+C3 and C4) and Z4 (containing 23-pyridyl propyl
+carboxylate and 4-methoxyphenyl moiety at
+C3 and C4) are potential substances to exert antiT. gondii effects. Treating toxoplasmosis has
+some difficulties, such as adverse effects of
+currently available drugs, which could be
+resolved by looking for novel compounds with
+new effective mechanisms. One other major
+problem to address is the treatment of
+immunocompromised patients, which can be
+complicated due to their latent period.
+Furthermore, rising microbial resistance is also
+very challenging; therefore, developing new
+effective drugs that are devoid of previous
+problems are of great importance. A number of
+studies were conducted on quinolone derivatives
+evaluation. By way of example, an study showed
+that 1-hydroxyquinolones inhibited the growth of
+T. gondii by means of pyrimidine starvation
+associated with the ATP depletion in
+dihydroorotate dehydrogenase pathway (29).
+377
+
+[Downloaded free from http://www.rpsjournal.net on Thursday, September 3, 2020, IP: 117.212.240.236]
+
+Zahedi et al. / RPS 2020; 15(4): 367-380
+
+4-Aminoquinoline and 8-aminoquinoline
+derivatives such as tafenoquine were safer than
+primaquine, they are utilizing to prevent the
+relapse of Plasmodium vivax as well, but these
+compounds were ineffective against T. gondii
+eventually (34). Another study that was
+conducted on the effects of quinolone-like
+compounds on T. gondii indicated that
+quinolone has less EC50 than atovaquone, at the
+same time, the quinolone-like compounds were
+among the ones with higher EC50 amounts than
+other common drugs in toxoplasmosis
+treatment (21). A survey on the effect of
+8-hydroxyquinoline compounds as anti-T.
+gondii agents showed that 58 derivatives of
+these compounds containing one or two
+quinoline rings had very high effects (16). In
+the present study, the most active compounds
+(Z3 and Z4) were evaluated for their anti-T.
+gondii activity in mice at three different
+concentrations. in vivo results showed
+significant statistical differences between all
+doses of both compounds and the negative
+control group (P ≤ 0.05) except the compound
+Z3 at 16 μg/mL, the mean longevity was
+increased compared to the negative control
+group. Besides, toxicity effects were also
+analyzed, and the mice which were
+administered the highest dose (64 μg/mL) of
+compound Z3 and Z4 showed no signs of a
+certain amount of toxicity (weight loss, ruffled
+fur, inactivity and so forth). Biologically,
+T. gondii and the other Apicomplexa family
+parasites have an essential organelle for parasite
+living which is called apicoplast. FAS pathway
+is of utmost importance mechanism in the
+apicoplast. The FAS process in mammalians is
+type I, but in Apicomplexa parasites is type II.
+The fatty acid production in microorganisms is
+well studied, it helped scientists to discover
+relevant enzymes and substrates. Review studies
+show the key role of FAS II pathway inhibition in
+pathogen mortality (35,36). FAS comprised of 4
+stages of compression, reduction, hydration, and
+elongation, respectively. Elongation is the most
+important stage of the process that is catalyzed by
+ENR (37). ENR reduces the double bond between
+acetyl CoA and malonyl CoA in associated with
+NADH cofactor. Studies demonstrated that ENR
+is of great necessity for FAS (38,39). Drugs such
+as isoniazid, triclosan, diaborazine derivatives,
+and aminopyridine inhibitors are able to inhibit
+
+this enzyme in bacteria, triclosan certainly
+inhibits FAS in both T. gondii and Plasmodium
+falciparum (18,39). As previously mentioned,
+the quinolone derivatives were among the antiT. gondii apicoplast agents. Thus, the ENR
+enzyme within the apicoplast of the parasite
+provided us a chance to assess the
+hexahydroquinoline
+based
+compounds
+inhibition effect on the FAS process (23). These
+results propose using hexahydroquinoline
+derivatives with a similar structure to quinolone
+might exert anti-T. gondii effects. Back to our
+study, docking results of the 5-oxohexahydroquinolines showed that compound Z3
+and Z4 was well located within the active site of
+T. gondii ENR enzyme and possessed the least
+estimated free energy of binding compared to
+the innate ligand. In addition, the correlation
+between biological activities and the binding
+affinities anticipated by AutoDock Vina®
+modeling was appropriate for compound Z3 and
+Z4. Therefore, it is suggested that this
+compound may exert its anti-T. gondii activity
+through the inhibition of the ENR enzyme.
+Several studies surveyed ENR, for instance, in
+one study isoxazole-3-carboxamides, 4hydroxypyridine-2(1H)-ones,
+and
+3aminopyrazoles were considered the best
+inhibitors of ENR. However, this is not the only
+enzyme that should be inhibited and other
+mechanisms of fatty acid synthesis should be
+blocked as well to kill tachyzoites (19). The
+result of infectivity test on tachyzoites indicated
+that compound Z3 and Z4 prolonged the life
+duration of mice groups inoculated by
+Toxoplasma tachyzoites more effectively than
+negative control group; moreover, considrable
+statistical differences were observed between
+the compounds of intrest and the control group.
+Docking
+results
+of
+the
+5-oxohexahydroquinolines exposed that compounds
+Z4 and Z3 well located within the active site of
+T. gondii ENR enzyme and possessed the most
+negative estimated free energies of binding
+comparable to the innate ligand. In addition, the
+correlation between biological activities and the
+binding affinities predicted by AutoDock
+modeling was highly good for some compounds.
+Therefore, it could be suggested that these
+compounds may exert their anti-T. gondii activity
+through the inhibition of the ENR enzyme.
+378
+
+[Downloaded free from http://www.rpsjournal.net on Thursday, September 3, 2020, IP: 117.212.240.236]
+
+Anti-Toxoplasma gondii activity of 5-oxohexahydroquinolines
+
+5. Khan A, Ajzenberg D, Mercier A, Demar M, Simon
+S, Darde ML, et al. Geographic separation of domestic
+and wild strains of Toxoplasma gondii in French Guiana
+correlates with a monomorphic version of
+chromosome1a.
+PLOS
+Neglect
+Trop
+Dis.
+2014;8(9):e3182,1-12.
+DOI: 10.1371/journal.pntd.0003182.
+6. Freppel W, Ferguson DJ, Shapiro K, Dubey JP, Puech
+P-H, Dumètre A. Structure, composition, and roles of the
+Toxoplasma gondii oocyst and sporocyst walls. Cell
+Surf. 2019;5:100016-100026.
+DOI: 10.1016/j.tcsw.2018.100016.
+7. Dubey JP. The history and life cycle of Toxoplasma
+gondii. In: Weiss LM, Kim K, editors. The model
+Apicomplexan-perspectives and methods. 3th ed. New
+York: Academic Press; 2020. pp. 1-19.
+DOI: 10.1016/C2011-0-07157-0.
+8. Ramakrishnan C, Maier S, Walker RA, Rehrauer H,
+Joekel DE, Winiger RR, et al. An experimental
+genetically attenuated live vaccine to prevent
+transmission of Toxoplasma gondii by cats. Sci Rep.
+2019;9(1):1474-1487.
+DOI: 10.1038/s41598-018-37671-8.
+9. Saraf P, Shwab EK, Dubey JP, Su C. On the
+determination of Toxoplasma gondii virulence in mice.
+Exp Parasitol. 2017;174:25-30.
+DOI: 10.1016/j.exppara.2017.01.009.
+10. Konstantinovic N, Guegan H, Stäjner T, Belaz S,
+Robert-Gangneux F. Treatment of toxoplasmosis:
+current options and future perspectives. Food
+Waterborne Parasitol. 2019;15:e00036,1-15.
+DOI: 10.1016/j.fawpar.2019.e00036.
+11. Murata Y, Sugi T, Weiss LM, Kato K. Identification
+of compounds that suppress Toxoplasma
+gondii
+tachyzoites
+and
+bradyzoites.
+PloS
+One.
+2017;12(6):e0178203,1-14.
+DOI: 10.1371/journal.pone.0178203
+12. Kumari L, Mazumder A, Pandey D, Yar MS, Kumar
+R, Mazumder R, et al. Synthesis and biological potentials
+of quinoline analogues: A review of literature. MiniRev Org Chem. 2019;16:653-88.
+DOI: 10.2174/1570193X16666190213105146
+13. Ranjbar S, Edraki N, Firuzi O, Khoshneviszadeh M,
+Miri R. 5-Oxo-hexahydroquinoline: An attractive
+scaffold with diverse biological activities. Mol. Divers.
+2019;23:471-508.
+DOI: 10.1007/s11030-018-9886-4
+14. Ranjbar S, Khonkarn R, Moreno A, BaubichonCortay H, Miri R, Khoshneviszadeh M, et al. 5-Oxohexahydroquinoline derivatives as modulators of P-gp,
+MRP1 and BCRP transporters to overcome multidrug
+resistance in cancer cells. Toxicol Appl Pharm.
+2019;362:136-49.
+DOI: 10.1016/j.taap.2018.10.025
+15. Ranjbar S, Firuzi O, Edraki N, Shahraki O, Saso L,
+Khoshneviszadeh M, et al. Tetrahydroquinolinone
+derivatives as potent P-glycoprotein inhibitors: design,
+synthesis, biological evaluation and molecular docking
+analysis. MedChemComm. 2017;8:1919-33.
+DOI: 10.1039/C7MD00178A
+16. Kadri D, Crater AK, Lee H, Solomon VR,
+Ananvoranich S. The potential of quinoline derivatives
+
+CONCLUSION
+5-Oxo-hexahydroquinoline derivatives have
+been synthesized and evaluated for their anti-T.
+gondii activities. In conclusion, 5-oxohexahydroquinoline seems to be an attractive
+scaffold in this field and provides the context of
+further research for lead optimization and drug
+discovery. Compounds Z3 (baering 2-pyridyl
+methyl carboxylate and 3,4,5-trimethoxyphenyl
+at C3 and C4) and Z4 (containing 23-pyridyl
+propyl carboxylate and 4-methoxyphenyl moiety
+at C3 and C4) are good leads in order to develop
+better anti-T. gondii agents as they demonstrated
+both in vitro and in vivo inhibitory effects on
+tachyzoites viability and infection.
+
+ACKNOWLEDGMENTS
+This project was retrieved from Pharm. D.
+thesis of Mohammadsaeid Zahedi, which was
+financially supported (Grant No. 95-01-0513026) by the Vice-Chancellor of Research and
+Technology of Shiraz University of Medical
+Sciences, Shiraz, I.R. Iran.
+CONFLICTS OF INTEREST STATMENT
+All authors declare no conflict of interest in
+this study.
+AUTHORS’ CONTRIBUTION
+All authors contributed equally to this study.
+REFERENCES
+1. Dunay IR, Gajurel K, Dhakal R, Liesenfeld O,
+Montoya JG. Treatment of toxoplasmosis: historical
+perspective, animal models, and current clinical practice.
+Clin Microbiol Rev. 2018;31(4):e00057-17,1-33.
+DOI: 10.1128/CMR.00057-17.
+2. Hoffmann S, Batz MB, Morris JG. Annual cost of
+illness and quality-adjusted life year losses in the United
+States due to 14 foodborne pathogens. J Food Prot.
+2012;75(7):1292-1302.
+DOI: 10.4315/0362-028X.JFP-11-417.
+3. Weiss LM, Dubey JP. Toxoplasmosis: A history of
+clinical observations. . Int J Parasitol. 2009;39(8):895-901.
+DOI: 10.1016/j.ijpara.2009.02.004.
+4. Carme B, Demar M, Ajzenberg D, Dardé ML. Severe
+acquired toxoplasmosis caused by wild cycle of
+Toxoplasma gondii, French Guiana. Emerg Infect Dis.
+2009;15(4):656-658.
+DOI: 10.3201/eid1504.081306.
+
+379
+
+[Downloaded free from http://www.rpsjournal.net on Thursday, September 3, 2020, IP: 117.212.240.236]
+
+Zahedi et al. / RPS 2020; 15(4): 367-380
+
+free
+energy
+function.
+J
+Comput
+Chem.
+1998;19(14):1639-1662.
+DOI: 10.1002/(SICI)1096.
+29. Hegewald J, Gross U, Bohne W. Identification of
+dihydroorotate dehydrogenase as a relevant drug target
+for 1-hydroxyquinolones in Toxoplasma gondii. Mol
+Biochem Parasitol. 2013;190(1):6-15.
+DOI: 10.1016/j.molbiopara.2013.05.008.
+30. Barbosa BF, Gomes AO, Ferro EAV, Napolitano DR,
+Mineo JR, Silva NM. Enrofloxacin is able to control
+Toxoplasma gondii infection in both in vitro and in vivo
+experimental models. Vet Parasitol. 2012;187(1-2):4452.
+DOI: 10.1016/j.vetpar.2011.12.039.
+31. da Silva RJ, Gomes AO, Franco PS, Pereira AS,
+Milian IC, Ribeiro M, et al. Enrofloxacin and toltrazuril
+are able to reduce Toxoplasma gondii growth in human
+BeWo trophoblastic cells and villous explants from
+human third trimester pregnancy. Front Cell Infect
+Microbiol. 2017;7:340-360.
+DOI: 10.3389/fcimb.2017.00340.
+32. Khan AA, Slifer TR, Araujo FG, Remington JS.
+Activity of gatifloxacin alone or in combination with
+pyrimethamine or gamma interferon against Toxoplasma
+gondii. Antimicrob Agents Chemother. 2001;45(1):4851.
+DOI: 10.1128/AAC.45.1.48-51.2001.
+33. McPhillie M, Zhou Y, El Bissati K, Dubey J, Lorenzi
+H, Capper M, et al. New paradigms for understanding
+and step changes in treating active and chronic, persistent
+apicomplexan infections. S Sci Rep. 2016;6:2917929202.
+DOI: 10.1038/srep29179.
+34. Burrows JN, Burlot E, Campo B, Cherbuin S,
+Jeanneret S, Leroy D, et al. Antimalarial drug discovery–
+the path towards eradication. Parasitol. 2014;141(1):128139.
+DOI: 10.1017/S0031182013000826.
+35. Parsons JB, Frank MW, Subramanian C, Saenkham
+P, Rock CO. Metabolic basis for the differential
+susceptibility of Gram-positive pathogens to fatty acid
+synthesis inhibitors. Proc Natl Acad Sci U S A.
+2011;108(37):15378-15383.
+DOI: 10.1073/pnas.1109208108.
+36. Yao J, Rock CO. How bacterial pathogens eat host
+lipids: implications for the development of fatty acid
+synthesis
+therapeutics.
+J
+J
+Biol
+Chem.
+2015;290(10):5940-5946.
+DOI: 10.1074/jbc.R114.636241.
+37. Vaughan AM, O'Neill MT, Tarun AS, Camargo N,
+Phuong TM, Aly AS, et al. Type II fatty acid synthesis is
+essential only for malaria parasite late liver stage
+development. Cell Microbiol. 2009;11(3):506-520.
+DOI: 10.1111/j.1462-5822.2008.01270.x.
+38. Goodman C, McFadden G. Fatty acid biosynthesis as
+a drug target in apicomplexan parasites. Current drug
+targets. 2007;8:15-30.
+39. Surolia N, Surolia A. Triclosan offers protection
+against blood stages of malaria by inhibiting enoyl-ACP
+reductase of Plasmodium falciparum. Nat Med.
+2001;7(2):167-173.
+DOI: 10.1038/84612.
+
+for the treatment of Toxoplasma gondii infection. Exp
+Parasitol. 2014;145:135-144.
+DOI: 10.1016/j.exppara.2014.08.008.
+17. Brinster S, Lamberet G, Staels B, Trieu-Cuot P, Gruss
+A, Poyart C. Type II fatty acid synthesis is not a suitable
+antibiotic target for Gram-positive pathogens. Nature.
+2009;458(7234):83-86.
+DOI: 10.1038/nature07772.
+18. Salas-Navarrete C, Hernández-Chávez G, Flores N,
+Martínez LM, Martinez A, Bolívar F, et al. Increasing
+pinosylvin production in Escherichia coli by reducing the
+expression level of the gene fabI-encoded enoyl-acyl
+carrier protein reductase. Electron J Biotechnol.
+2018;33:11-16.
+DOI: 10.1016/j.ejbt.2018.03.001.
+19. Anquetin G, Greiner J, Vierling P. Quinolone-based
+drugs against Toxoplasma gondii and Plasmodium spp.
+Curr Drug Targets Infect Disord. 2005;5(3):227-245.
+DOI: 10.2174/1568005054880172.
+20. McLeod R, Muench SP, Rafferty JB, Kyle DE, Mui
+EJ, Kirisits MJ, et al. Triclosan inhibits the growth of
+Plasmodium falciparum and Toxoplasma gondii by
+inhibition of apicomplexan Fab I. Int J Parasitol.
+2001;31(2):109-113.
+DOI: 10.1016/s0020-7519(01)00111-4.
+21. Radke JB, Burrows JN, Goldberg DE, Sibley LD.
+Evaluation of current and emerging antimalarial
+medicines for inhibition of Toxoplasma gondii growth in
+vitro. Int J Parasitol. 2001;31(2):109-113.
+DOI: 10.1016/s0020-7519(01)00111-4.
+22. Doggett JS, Nilsen A, Forquer I, Wegmann KW,
+Jones-Brando L, Yolken RH, et al. Endochin-like
+quinolones are highly efficacious against acute and latent
+experimental toxoplasmosis. Proc Natl Acad Sci U S A.
+2012;109(39):15936-15941.
+DOI: 10.1073/pnas.1208069109.
+23. Smith AT, Livingston MR, Mai A, Filetici P, Queener
+SF, Sullivan WJ. Quinoline derivative MC1626, a
+putative GCN5 histone acetyltransferase (HAT)
+inhibitor, exhibits HAT-independent activity against
+Toxoplasma gondii. Antimicrob Agents Chemother.
+2007;51(3):1109-1111.
+DOI: 10.1128/AAC.01256-06.
+24. Akins CK, Panicker SE, Cunningham CL. Laboratory
+animals in research and teaching: Ethics, care, and
+methods: Am Psychol Assoc. 2005.
+25. Asgari Q, Keshavarz H, Rezaeian M, Motazedian
+MH, Shojaee S, Mohebali M, et al. Direct effect of two
+naphthalene-sulfonyl-indole compounds on Toxoplasma
+gondii tachyzoite. J Parasitol Res. 2013;2013,1-8.
+DOI: 10.1155/2013/716976.
+26. Buntrock RE. ChemOffice Ultra 7.0. J Chem Inf
+Model Comput Sci. 2002;42(6):1505-1506.
+DOI: 10.1021/ci025575p.
+27. Trott O, Olson AJ. AutoDock Vina: improving the
+speed and accuracy of docking with a new scoring
+function, efficient optimization, and multithreading. J
+Comput Chem. 2010;31(2):455-461.
+DOI: 10.1002/jcc.21334.
+28. Morris GM, Goodsell DS, Halliday RS, Huey R, Hart
+WE, Belew RK, et al. Automated docking using a
+Lamarckian genetic algorithm and an empirical binding
+
+380
+
+
