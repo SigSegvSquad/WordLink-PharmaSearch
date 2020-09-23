@@ -1,0 +1,92 @@
+editorial
+
+Downloaded via pritesh pawar on September 2, 2020 at 04:05:02 (UTC).
+See https://pubs.acs.org/sharingguidelines for options on how to legitimately share published articles.
+
+Molecular Pharmaceutics, a Vision for the Future
+The biomedical and pharmaceutical community is buzzing
+with excitement about the potential novel therapies resulting
+from the genomic revolution, bioinformatics, stem cell
+research, cloning, chemical biology, molecular and cell
+biology, and the basic and clinical implications of pharmacogenomics and pharmacogenetics. If the promises and
+expectations hold, the researchers in the pharmaceutical field
+will have, in the foreseeable future, more therapeutic targets
+than we could have possibly imagined just 10 years ago,
+and have multiple redundant strategies for identifying and
+developing drug candidates. The nature of therapeutic agents
+and delivery strategies that will emerge from all these
+enterprises will probably keep changing and is likely to be
+different from what we have seen in the past. In many cases,
+we will undoubtedly have good ideas regarding their pharmacologic mechanisms upon inception as well as specific
+locations of action and their therapeutic concentrations. These
+changes, often viewed as “revolutionary” and labeled as such,
+certainly give us high hopes for the future. Would they,
+however, necessarily translate into more and better drug
+products and therapeutic modalities? There is one thing that
+is clearly changing: these developments pose a tremendous
+challenge to “pharmaceutics” or “drug delivery” and at the
+same time provide accompanying opportunities.
+A majority of researchers in modern biomedical research,
+and in cell and molecular biology in particular, often focus
+their thinking and efforts primarily on discoveries of so-called
+“basic” mechanisms, while their share of active contributions
+to drug development beyond that point tends to abate. To
+many, when certain therapeutic molecules exhibit good
+specific activities at relatively low concentrations in a test
+tube or a cell culture system, they magically become drugs
+through a long yet mysterious process until they materialize
+in the clinical setting. It is not entirely clear where this
+attitude originates, but we still have the inclination, especially
+in the academic and basic science community, not to soil
+our pure scientific hands with application-oriented pharmaceutical drug product development. This, I tend to believe,
+is primarily due to the misconception about the science of
+pharmaceutics. Perhaps the “black box” of the drug product
+development process, which certainly includes pharmaceutics, has been viewed until relatively recently as being too
+
+10.1021/mp0400041 CCC: $27.50 © 2004 American Chemical Society
+Published on Web 03/26/2004
+
+much like engineering in nature and requiring little mechanism-based science.
+With the first two issues of Molecular Pharmaceutics, one
+cannot help but appreciate the salient: pharmaceutics or
+pharmaceutical sciences, the discipline that focuses on
+transforming the “drug” to a clinically viable therapeutic
+“drug product”, is indeed multidisciplinary and will become
+increasingly so. Even after refinement by the addition of the
+descriptive term molecular to the name, the range of research
+articles already seen in this journal derive from a multitude
+of scientific disciplines. With the molecular and mechanistic
+emphasis, drug delivery and pharmaceutics have been
+changing conceptually from a rather descriptive science into
+a logical and mechanism-based science that demands a
+molecular explanation of how the process works. The
+pressure is now on the pharmaceutical scientists, during the
+course of this evolution and revolution, to incorporate into
+pharmaceutical research the rapidly expanding body of
+knowledge in the molecular and cellular fields, rather than
+to focus exclusively in the traditional sense on formulating
+a delivery strategy for a given drug candidate even with the
+sacrifice of the molecular understanding of the design. This
+will undoubtedly force us into more intimate and successful
+collaboration with a wide range of scientific fields, which
+inevitably requires educating scientists from all relevant
+disciplines about the ever-evolving needs and concepts of
+molecular pharmaceutics. Like other fields in science,
+pharmaceutical sciences is truly multidisciplinary, and molecular pharmaceutics will be less apt to evolve and progress
+without collaborative efforts from a wide range of scientific
+disciplines.
+The editorial office and board of Molecular Pharmaceutics
+are pleased with the recognition of the enormous potential
+of the role provided by this particular forum in meeting the
+needs of the molecular revolution in pharmaceutics. It is safe
+to say that we can be excited and optimistic about the future
+of molecular pharmaceutics.
+Kyung-Dall Lee
+Associate Editor
+MP0400041
+
+VOL. 1, NO. 3, 173 MOLECULAR PHARMACEUTICS
+
+173
+
+

@@ -1,0 +1,26 @@
+Abstract
+Background and purpose: The aim of this study was to evaluate the in vitro and in vivo anti-Toxoplasma
+gondii (T. gondii) effect of 5-oxo-hexahydroquinoline compounds. Moreover, molecular docking study of the
+compounds into the active site of enoyl-acyl carrier protein reductase (ENR) as a necessary enzyme for the
+vitality of apicoplast was carried out.
+Experimental approach: A number of 5-oxo-hexahydoquinoline derivatives (Z1-Z4) were synthesized. The
+T. gondii tachyzoites of RH strain were treated by different concentrations (1-64 μg/mL) of the compounds.
+The viability of the encountered parasites with compounds was assessed using flow cytometry and propidium
+iodide (PI) staining. Due to the high mortality effect of Z3 and Z4 in vitro, their chemotherapy effect was
+assessed by inoculation of tachyzoites to four BALB/c mice groups (n = 5), followed by the gavage of various
+concentrations of the compounds to the mice. Molecular docking was done to study the binding affinity of the
+synthesized 5-oxo-hexahydroquinolines into ENR enzyme active site byusing AutoDock Vina® software.
+Docking was performed by a Lamarckian Genetic Algorithm with 100 runs.
+Findings / Results: Flow cytometry assay results indicated compounds Z3 and Z4 had relevant mortality effect
+on parasite tachyzoites. Besides, in vivo experiments were also performed and a partial increase of mice
+longevity between control and experiment groups was recorded. Molecular docking of Z3 and Z4 in the binding
+site of ENR enzyme indicated that the compounds were well accommodated within the binding site. Therefore,
+it could be suggested that these compounds may exert their anti-T. gondii activity through the inhibition of the
+ENR enzyme.
+Conclusion and implications: Compounds Z3 and Z4 are good leads in order to develop better anti-T. gondii
+agents as they demonstrated both in vitro and in vivo inhibitory effects on tachyzoites viability and infection.
+Further studies on altering the route of administration along with additional pharmacokinetics evaluations are
+needed to improve the anti-T. gondii impacts of 5-oxo-hexahydroquinoline compounds.
+
+Keywords: Flow cytometry; Molecular docking; 5-Oxo-hexahydroquinoline; Propidium iodide; Toxoplasma.
+

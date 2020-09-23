@@ -1,0 +1,704 @@
+Asian Journal of Pharmaceutical Sciences 15 (2020) 60–68
+
+Available online at www.sciencedirect.com
+
+journal homepage: www.elsevier.com/locate/AJPS
+
+Original Research Paper
+
+Multi-dimensional visualization for the morphology
+of lubricant stearic acid particles and their
+distribution in tablets
+Liu Zhang a,b, Shailendra Shakya b, Li Wu b, Jiangtao Wang c, Guanghui Jin c, Huimin Sun d,
+Xianzhen Yin b,∗, Lixin Sun a,∗∗, Jiwen Zhang a,b,∗
+a School
+
+of Pharmacy, Shenyang Pharmaceutical University, Shenyang 110016, China
+for Drug Delivery Systems, Shanghai Institute of Materia Medica, Chinese Academy of Sciences, Shanghai 201203, China
+c Weihai Disu Pharmaceutical Manufacturer, Weihai 264200, China
+d National Institutes for Food and Drug Control, Beijing 100050, China
+b Center
+
+a r t i c l e
+
+i n f o
+
+a b s t r a c t
+
+Article history:
+
+The shapes of particles and their distribution in tablets, controlled by pretreatment and
+
+Received 29 July 2018
+
+tableting process, determine the pharmaceutical performance of excipient like lubricant.
+
+Revised 18 November 2018
+
+This study aims to provide deeper insights to the relationship of the morphology and spa-
+
+Accepted 10 January 2019
+
+tial distribution of stearic acid (SA) with the lubrication efficiency, as well as the resulting
+
+Available online 1 March 2019
+
+tablet property. Unmodified SA particles as flat sheet-like particles were firstly reprocessed
+by emulsification in hot water to obtain the reprocessed SA particles with spherical mor-
+
+Keywords:
+
+phology. The three-dimensional (3D) information of SA particles in tablets was detected by
+
+Stearic acid
+
+a quantitative and non-invasive 3D structure elucidation technique, namely, synchrotron
+
+Morphology
+
+radiation X-ray micro-computed tomography (SR-μCT). SA particles in glipizide tablets pre-
+
+Spatial distribution
+
+pared by using unmodified SA (GUT), reprocessed SA (GRT), as well as reference listed drug
+
+SR-μCT
+
+(RLD) of glipizide tablets were analyzed by SR-μCT. The results showed that the reprocessed
+
+Glipizide tablets
+
+SA with better flowability contributed to similarity of breaking forces between that of GRT
+and RLD. SA particles in GRT were very similar to those in RLD with uniform morphology
+and particle size, while SA particles in GUT were not evenly distributed. These findings not
+only demonstrated the feasibility of SR-μCT as a new method in revealing the morphology
+and spatial distribution of excipient in drug delivery system, but also deepened insights of
+solid dosage form design into a new scale by powder engineering.
+© 2019 Shenyang Pharmaceutical University. Published by Elsevier B.V.
+This is an open access article under the CC BY-NC-ND license.
+(http://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+∗
+Corresponding authors. Center for Drug Delivery System, Shanghai Institute of Materia Medica, Chinese Academy of Sciences, No. 501
+of Haike Road, Shanghai 201203, China. Tel.: +86 20231980.
+∗∗
+Corresponding author. Department of Pharmaceutics, School of Pharmacy, Shenyang Pharmaceutical University, 103 Wenhua Road,
+Shenyang 110016, China. Tel.: +86 2423986365.
+E-mail addresses: yinxianzhen0001@163.com (X.Z. Yin), slx04@163.com (L.X. Sun), jwzhang@simm.ac.cn (J.W. Zhang).
+Peer review under responsibility of Shenyang Pharmaceutical University.
+
+https://doi.org/10.1016/j.ajps.2019.01.001
+1818-0876/© 2019 Shenyang Pharmaceutical University. Published by Elsevier B.V. This is an open access article under the CC BY-NC-ND
+license. (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+Asian Journal of Pharmaceutical Sciences 15 (2020) 60–68
+
+1.
+
+Introduction
+
+Excipients play an important role in the properties and performance of the final formulation of solid dosage forms, such
+as texture, stability, release, and bioavailability [1–3]. Among
+all the excipients, lubricant can significantly change the dynamics of blending, compression and the mechanical properties of compacts. The physical properties of lubricant such as
+magnesium stearate, stearic acid (SA) and talc can affect their
+performance in tablet and capsule formulations [4]. For pharmaceutical operations such as blending, roller compaction,
+tablet manufacturing and capsule filling, lubricants improve
+the flowability of blends, facilitate unit operations and powder processing properties by reducing the inter-particle friction [5,6]. In terms of the effect of lubricant particle properties, SA can improve density, stickiness, and flowability of
+powdered excipient-drug mixtures. SA with a large surface
+area and small particle size has the best lubrication efficiency,
+since the increase of surface area can provide more surface
+coverage [4,7]. Ingredient spatial distribution is closely related
+to the quality attribute of tablet [8,9]. To study the influence
+of SA on the physical properties of tablets, it should be verified that lubricant particles are homogeneously mixed with
+the rest constituents of the formulation [10]. Systematic studies of three-dimensional (3D) material distribution in solid
+dosage forms are restricted with limited techniques. Most of
+the existing researches using near-infrared chemical imaging, Raman imaging or Terahertz time-domain reflection spectroscopy have been confined to research the material distribution on the surface of a sample or the cross-sectional specimen [11,12]. Recently, innovative research of synchrotron radiation X-ray micro-computed tomography (SR-μCT) in conjunction with liquid chromatography enables materials spatial distribution visualization in tablets [13].
+SR-μCT is an advanced tomographic imaging technology
+which employs synchrotron radiation, the most intense artificial source of X-ray, as an illuminating source to obtain
+the internal and micro-structural details of a solid sample at
+micrometer scale. Methods combining the obtained X-ray tomography, image processing, and 3D reconstruction have been
+devised and evaluated to study systematically the researched
+objects. As SR-μCT can reveal the morphology and internal 3D
+structure, and give a better understanding of the properties of
+different materials, it has been used to extensively study geological specimens [14,15], bio-materials [16], tablets [17,18] and
+granules [19]. In contrast to conventional techniques, SR-μCT
+provides a non-invasive scan, quantitative visualization and
+evaluation of the 3D structures with high-speed imaging, intensive strength and high spatial resolution. Within pharmaceutical material science and drug delivery system research,
+SR-μCT has been applied to analyze the complex structural
+systems of HPMC-based extended release tablets and gain improved mechanistic knowledge on drug release [20]. For excipients in common use like microcrystalline cellulose, the high
+spatial resolution of SR-μCT makes it possible to evaluate individual structure of particles, processing behavior and to classify microcrystalline celluloses of the same grade from different manufacturers [21].
+
+61
+
+This study details multi-dimensional comparative research of SA particles in the reference listed drug (RLD) of glipizide tablets (Glucotrol® , 5 mg), glipizide tablets prepared using unmodified SA (GUT) and reprocessed SA (GRT). Considering the potential influence of morphology and size of SA particles on spatial distribution and tablet properties, efforts have
+been made to reprocess the common SA as flat sheet-like particles into SA particles with regular spherical morphology. SA
+particles, before and after being compressed into tablets, have
+been visualized and quantified in multi-dimension to verify
+the effect of SA morphology on tablet quality.
+
+2.
+
+Materials and methods
+
+2.1.
+
+Materials
+
+Glipizide tablet (Glucotrol® , 5 mg), manufactured by Pfizer U.S.
+Pharmaceuticals Group (New York, USA), was the reference
+listed drug (RLD). Stearic acid (≥99.5%, SA) and silicon dioxide
+(≥99.0%) were purchased from Huzhou Prospect Pharmaceutical Co., Ltd. (Zhejiang, China). Lactose (≥99.5%), microcrystalline cellulose (≥99.0%, MCC) and starch (≥99.5%) were produced by Shanghai Yunhong Pharmaceutical Excipients Co.,
+Ltd. (Shanghai, China). Glipizide (≥99.5%) and sodium lauryl
+sulfate (≥99.0%, SLS) were supplied by Sinopharm Chemical
+Reagent Co., Ltd (Shanghai, China.). Pure water was produced
+by water purification system (Academic, Millipore, USA).
+
+2.2.
+
+Reprocessing SA particles
+
+About 300 mg SLS was weighed and dissolved under ultrasonic agitation for 10 min in 150 ml pure water to get a solution (0.2%, w/v). Then, 15 g SA was added into the SLS solution.
+The system was moved directly to a magnetic heated stirrer
+(ETS-D5, IKA, Germany) at a rotor speed of 1000 rpm and controlled at 80 °C for half an hour (The melting point of SA is
+68.8 °C). After that, the obtained emulsion of liquid SA and water was transferred to a vertical overhead stirrer (10 M/M-D15,
+IKA, Germany) to stir at 1000 rpm. At the same time, pure water (600 ml at 0 °C) was rapidly poured into the system which
+resulted in a sudden fall in temperature below the melting
+point of SA. The stir was prolonged further for 40 min. The
+solid particles were collected by filtration with 0.45 μm millipore filter and washed with 50 ml pure water. The obtained SA
+particles were dried in a desiccator for 24 h and sieved through
+100 mesh size to obtain reprocessed SA particles.
+
+2.3.
+
+Flowability research of SA particles
+
+Unmodified SA particles were firstly sieved through 100 mesh
+size and the obtained ones were used for the determination
+of flowability and tableting. The angle of repose of unmodified
+SA particles and reprocessed SA particles were measured using a powder tester (PT-S, Hosokawa Micron, Co., Ltd., Shanghai, China). For each kind of SA particles, the measurement of
+angle of repose was analyzed in triplicate.
+
+62
+
+Asian Journal of Pharmaceutical Sciences 15 (2020) 60–68
+
+2.4.
+Preparation of glipizide tablets and determination of
+mass and breaking force
+From the label of Glucotrol® tablet published on the Food and
+Drug Administration, inert ingredients used were SA, silicon
+dioxide, lactose, MCC and starch. Unmodified SA particles or
+reprocessed SA particles (1.5%, w/w) were well blended with
+glipizide and other excipients specified in the prescription by a
+bench-top mixer (VH-2, Tianhe Machinery, Co., Ltd., Shanghai,
+China). Tablet compaction experiments were conducted on a
+bench-scale rotary tablet presser (ZPS8, Tianjiu Machinery factory, Shanghai, China) equipped with 8.0 mm diameter and
+shallow concave punches, using compression force as 5 kN.
+Force-measuring equipment was connected to strain gauges
+(RFS150E, Huqin Equipement, Shanghai, China) which allowed
+the pressure forces on the upper and under punches to be followed. The turret speed was set as 8 rpm. The filling depth of
+material was 5.60 mm. Mixed blend was directly compressed
+into ∼198 mg tablets with thickness of 3.80 ± 0.18 mm and diameter of 7.62 mm. GUT and GRT were produced, at the same
+time, die wall force and ejecting force of each tablet were also
+recorded for further analysis.
+The determination of mass was performed by weighing
+each kind of tablet with an analytical balance (CPA225D, Sartorius, Germany). According to the hardness test approved
+by USP (1217), the breaking force of RLD, GUT and GRT were
+measured with a hardness tester (YPD-200C, Hengqin Instrument Equipment Co., Ltd. Shanghai, China) by compressing
+the tablets between two slowly moving jaws until they were
+crushed. The mass and breaking force of each kind of glizipide
+tablet were measured from 6-tablet samples.
+
+2.5.
+
+Isolation of SA particles in tablets
+
+SA (specific gravity (s.g.): 0.86 at 20 °C) is practically insoluble
+in water and less dense than water. Lactose and starch are water soluble, and glipizide (s.g.: 1.29), silicon dioxide (s.g.: 2.20)
+and MCC (s.g.: 1.27–1.60) used in tablet are denser than water (all the data come from PubChem). Hence, according to the
+difference of solubility and density, SA particles can be separated from the tablet in water system, keeping their morphology and particle size unchanged.
+SA particles in RLD, GUT and GRT were isolated from active pharmaceutical ingredient (API) and other excipients by
+physical method without changing their morphology. For each
+kind of glipizide tablet, three tablets were dipped into 10 ml
+ice cold water (0 °C). The tablets swelled slowly and disintegrated in 10 min. Meanwhile, ingredients were found floating
+up in clusters. The suspension was allowed to set for another
+10 min at low temperature (0–10 °C) so that SA particles could
+float in water completely. The buoyant layer, about one-third
+of the suspension, was collected into a beaker. Then cold water (0 °C) was added to the beaker up to 20 ml. After setting for
+10 min, some ingredients were found at the bottom and extremely fine particles of SA floated on the water surface. The
+buoyant layer was collected again and the same procedures
+were repeated three times to isolate pure SA particles. The finally collected buoyant layer was transferred to an evaporating dish and placed in a desiccator at 20 °C till fully dried.
+
+2.6.
+
+Conventional morphological characterization
+
+Morphological characterization of SA particles was carried out
+by scanning electron microscopy (SEM, S-4800, Hitachi). To obtain SEM photographs, specimens were evenly immobilized
+on a metal stub with double-sided adhesive tape and coated
+with a thin layer of gold before being observed under magnification.
+
+2.7.
+
+Tablet structure measurement by SR-μCT
+
+SR-μCT tomographic images of three kinds of glipizide tablets
+were acquired with the BL13W1 beam line at Shanghai Synchrotron Radiation Facility (SSRF). Glipizide tablets were fixed
+on the sample stage with a double-sided adhesive tape to prevent any unexpected movements during scans. Axis adjustment of the sample stage was also taken to make sure that
+there was no deviation in the horizontal direction during sample rotation. RLD, GUT and GRT were measured in different SRμCT scans. According to the preliminary experiments and references, the imaging parameters have been optimized [22,23].
+The tablets were scanned with a photon energy of 18.0 keV. After penetration through the sample, the X-rays were converted
+into visible light by a YAG: Ce scintillator (200 μm thickness).
+Projections were magnified by diffraction-limited microscope
+optics (1.25 × magnification) and digitized in high-resolution
+with an effective pixel size of 5.2 μm (ORCA Flash 4.0 Scientific CMOS, Hamamatsu K.K., Shizuoka Pref., Japan, physical
+pixel size: 6.5 μm). The exposure time affects the X-ray photon number reaching the detector. When the exposure time
+increases, the flux used to capture a projection will be raised,
+as well as the analyzing time. In our study, the exposure time
+was 1 s. The distance between sample to detector (DSD) is also
+a key factor in-line phase contrast SR-μCT, and especially useful for the imaging of materials with low-Z elements and lowdensity. In order to enhance the contrast to show a small difference in density, the DSD was also adjusted appropriately
+and was set at 12 cm. For each acquisition, 900 projection images were captured with an angular step size of 0.2° for 180°.
+Flat-field images (i.e., X-ray illumination on the beam path
+without the sample) and dark-field images (i.e., X-ray illumination off) were also collected during each acquisition procedure, so as to correct the electronic noise and variations in the
+X-ray source brightness. Imaging acquisition time for each CT
+scan was 30 min.
+
+2.8.
+
+3D structure reconstruction
+
+In order to enhance the quality of reconstructed slices,
+propagation-based phase-contrast extraction was successfully conducted as described previously in our report [24].
+Software PITRE (Phase-sensitive X-ray Image processing and
+Tomography REconstruction), which extracts information of
+diffraction enhanced imaging, and PITRE BM (PITRE Batch
+Manager), which executes a series of tasks that created via
+PITRE [25], were applied to allow parallel-beam tomography
+reconstruction for conventional absorption CT information.
+Depending on the magnitude of X-ray absorption for different materials of the glipizide tablet, gray level images were
+
+Asian Journal of Pharmaceutical Sciences 15 (2020) 60–68
+
+63
+
+Fig. 1 – SEM micrographs of unmodified SA (A)–(C) and reprocessed SA (D)–(F) under different magnifications reveal that the
+morphology and size of reprocessed SA are more regular than those of unmodified SA. SEM images of SA particles isolated
+from RLD (G), GUT (H) and GRT (I) show that the morphologies of these three kinds of SA particles are similar.
+
+formed and the gray levels of various materials were determined, such that the SA particles of interest could be extracted
+from the 3D models by segmentation in imaging processing.
+Threshold was defined and certain gray value corresponding
+to the SA particles was determined (Fig. 3), so that SA particles
+can be separated from the solid matrix. The 3D rendered data
+were analyzed by using the commercially available softwareAmira (version 6.01, FEI, USA) and Image Pro Analyzer 3D (version 7.0, Media Cybernetics, Inc., Bethesda, MD, USA), to obtain structural and morphological information of SA particles
+in tablets. In line with the differences of materials in densities
+and molecular properties (Table S1), the precise profile parameters were calculated.
+
+3.
+
+Results and discussion
+
+3.1.
+
+Two dimensional morphology analysis of SA particles
+
+The morphology and surface characteristics of unmodified
+SA particles and reprocessed SA particles analyzed by SEM
+are presented in Fig. 1. Notably, unmodified SA particles
+
+(Fig. 1A–C) with flat sheet-like morphology are conspicuously
+varied in size, while reprocessed SA particles (Fig. 1D–F) are
+topographically more spherical and relatively more uniform
+in size. At individual particle level, some particles of unmodified SA are larger in size with a smooth surface, while some
+of reprocessed SA particles possess obscure invagination. In
+short, the morphology and size of reprocessed SA particles
+are more regular than those of unmodified SA particles. The
+comparatively big differences existing in unmodified and reprocessed SA particles make them distinguishable from each
+other.
+SEM images of SA particles isolated from RLD (Fig. 1G), GUT
+(Fig. 1H) and GRT (Fig. 1I) display similar appearance. Dramatic
+changes can be seen in the morphology of unmodified SA in
+GUT from an irregular flat shape to much rounder morphology, while no evident morphology changes are observed from
+reprocessed SA. Due to the low melting point of SA (68.8 °C),
+morphological changes of SA particles could be due to the heat
+production process of material mixing or tableting. The more
+uniform of the SA particles morphology, the more uniform
+force applied to SA, and the smaller frictional force among materials.
+
+64
+
+Asian Journal of Pharmaceutical Sciences 15 (2020) 60–68
+
+Fig. 2 – Reconstruction and phase contrast extraction process include shadow projection after flat-field and dark-field
+corrections (A), projection after phase retrieval (B), reconstructed slice (C), truncated slice (D), 3D image of a tablet (E) and SA
+particles in the tablet (F).
+
+SA particles were isolated according to the density and water solubility of each substance that formed the tablet, which
+were further confirmed by thermal platform microscope in
+our work and more relevant researches will be carried out in
+later studies.
+
+3.2.
+
+Glipizide tablets measured by SR-μCT
+
+By SR-μCT scan, original data of hundreds of shadow projections were firstly gotten (Fig. 2A) but revealed no useful information. Phase retrieval was performed with projection images using the software PITRE for propagation-based phase
+contrast extraction (Fig. 2B). Then, reconstructed 2D slices of
+the specimen were obtained and the value of α was calibrated
+from 32 bit to 8 bit (gray value 0–255) (Fig. 2C and 2D). The CT
+image values (gray-levels) provide information on the material
+X-ray attenuation coefficient at each point in the image. As the
+reconstructed 2D slice (Fig. 3A) of the RLD radial middle layer
+show, the lighter areas of the slice have a relatively high gray
+value and the darker areas with a low gray value. SA particles
+have the lowest density among all the ingredients in glipizide
+tablet, which reflects weaker X-ray absorption and the lowest
+gray value. Thus, it is certained that the small dark spots in the
+slice are the SA particles. Fig. 3B is the partial magnification
+of the slice, which shows how the threshold of SA particles
+defined. As shown in the line profile (Fig. 3C) of the selected
+SA particle, the steepest part of the line was chosen and the
+middle value of its vertical coordinate was determined as the
+threshold. In order to obtain as exact gray value of SA particles as possible, the dark spots in different slices of different
+glipizide tablets were calculated. As the threshold was defined
+
+and certain gray value corresponds to the SA particles was determined, SA particles can be separated from the solid matrix
+(Fig. 2F), which realistically reconstructs the morphology and
+position of SA particles in tablets.
+Then, all the 2D slices were processed by Amira to get the
+full reconstructed 3D images of tablets (Fig. 2E). The 3D morphological information of hundreds even thousands of SA particles can be obtained and 3D quantitative parameters are calculated. Besides, the uniformity of SA particles spatial distribution in tablets is monitored via high-resolution imaging using SR-μCT.
+The use of non-destructive X-ray micro-tomography allows
+one to characterize the density distribution of an individual
+tablet and then further characterize the particles within the
+tablet. The optimized 3D models provide full details of surface
+morphology and distribution of SA particles in the tablet. 3D
+images of SA particles existed in tablets are presented from
+two different perspectives (Fig. 4A, C and E). Partial magnifications of SA particles are also displayed (Fig. 4B, D and F)
+and each particle is colored randomly by Image Pro Analyzer
+3D. The mapping spatial distribution of SA particles from 3D
+overall view shows that SA particles in RLD (Fig. 4(A) and (B))
+and in GRT (Fig. 4E and F) are uniformly distributed. In some
+parts of GUT (Fig. 4C and D), there are SA clusters and some
+zones are without SA particles, reflecting that spatial distribution of SA particles is relatively heterogeneous in GUT. This
+phenomenon suggests that the inter-particle friction varied
+greater among different parts in GUT when compared with
+RLD and GRT. The size of SA particles in RLD and GRT is more
+regular than in GUT. Moreover, SA particles exhibit most standard morphology in GRT, followed by in RLD and then in GUT,
+
+65
+
+Asian Journal of Pharmaceutical Sciences 15 (2020) 60–68
+
+Fig. 3 – 2D original slice of the radial middle layer of the glipizide tablet (A), partial magnification of the slice containing the
+selected SA particle (B) and the line profile of the selected SA particle (C).
+
+Table 1 – Comparison and analysis of 3D morphological parameters like sphericity, equivalent diameter, area of surface, volume, total area of surface of individual SA particles, as well as the number of SA particles in RLD, GUT and GRT
+(mean ± SD).
+Morphology parameter
+
+Sphericity
+Equivalent diameter (μm)
+Area of surface (μm2 )
+Volume (μm3 )
+Total area of surface (μm2 )
+Number of particles
+
+Individual SA particles in tablets
+RLD
+
+GUT
+
+GRT
+
+0.86 ± 0.09
+36.28 ± 17.84
+5 786 ± 6 156
+45 872 ± 73 025
+4.88 × 107
+8432
+
+0.83 ± 0.09
+34.60 ± 22.90
+6 659 ± 12 644
+63 381 ± 222 477
+2.98 × 107
+4479
+
+0.86 ± 0.06
+26.45 ± 11.79
+3 086 ± 2 752
+15 923 ± 20 389
+8.60 × 107
+27 875
+
+which can be seen from partial magnifications (Fig. 4B, 4D and
+4F). Apparently, the size of SA particles in GUT are less regular,
+and the difference of morphological characteristics between
+different particle size ranges is also large. Bigger SA particles
+may also result from the agglomeration of the particles in GUT,
+which most likely due to the different SA particles used. With
+the powerful SR-μCT technology, physical state of SA particles
+located in solid dosage form is visualized from multiple vision
+perspectives with a high spatial resolution.
+3D morphological parameters like sphericity, equivalent
+diameter, area of surface, volume, total area of surface of SA
+particles, as well as number of SA particles in the three kinds
+of tablets were calculated and tabulated in Table 1. The frequency distributing graphs of sphericity and surface area of
+SA particles in each kind of tablet are also shown in Fig. 5 to
+visually compare the differences by mathematical statistics.
+Sphericity is usually defined as a ratio of the surface area of a
+sphere having the same volume with the particle to the actual
+surface area of the particle [26]. The sphericity of a sphere is
+“1” and any particle which is not a sphere will have sphericity less than “1” [27]. Average value of sphericity for SA particles in GRT is similar to that in RLD, while it is smaller in
+GUT. Both the standard deviation of sphericity and the frequency distributing graph of the sphericity (Fig. 5A) indicate
+the sphericity fluctuation of SA particles in GRT is the smallest. What’s more, the morphology of SA particles in GUT is
+the most non-uniform, which is clearly presented in the frequency distributing graph of sphericity. As sphericity of parti-
+
+cles is thought to be related to the flowability [4], SA particles
+used in GRT and RLD have better lubrication efficiency than
+those in GUT. In addition, the improved sphericity of SA particles in GRT is undoubtedly owing to the reprocessing.
+Equivalent diameter here is the diameter of a sphere with
+the same volume as the target object. The average value of
+equivalent diameter for SA particles in GRT is the smallest,
+while the standard deviation of equivalent diameter for SA
+particles in GUT is the biggest. Meanwhile, for average value
+of surface area and volume, SA particles in GRT, RLD and GUT
+arise by their turns. Therefore, it is easy to conclude that
+SA particles in GRT are relatively small. Because the usage
+amount of SA in GUT and GRT is the same, the smaller particle
+size contributes to larger number of particles. And the number of SA particles in GRT is the biggest, then in RLD, and followed by SA particles in GUT. Since the standard deviations of
+size parameters especially those of SA particles in GUT are so
+high, considering the average value of size parameters alone
+is not enough to get accurate information. As mentioned earlier, larger surface area contributes to improved lubrication efficiency. The total surface area of SA particles in GUT is the
+smallest, reflecting that SA particles with the biggest particle
+size in GUT have no better lubrication efficiency than those
+in the other two kinds of tablets. The frequency profiles (Fig.
+5B) of surface area indicate that rather than in GUT, the frequency distribution tendency of SA particles in GRT are more
+similar with in RLD. In short, from the 3D measurement using SR-μCT technology, uniformly spherical SA particles with
+
+66
+
+Asian Journal of Pharmaceutical Sciences 15 (2020) 60–68
+
+Fig. 4 – The 3D images of SA particles in different kinds of glipizide tablets. The left column shows location of the total SA
+particles in tablets and the right column shows a partial enlarged view of SA particles. (A, B), (C, D), (E, F) represent SA in
+RLD, GUT and GRT, respectively. Each particle is colored randomly by the software.
+
+Fig. 5 – Frequency distributing graphs of 3D morphological parameters of SA particles in RLD (blue), GUT (red) and GRT
+(green).
+
+a narrow size distribution can be observed in GRT, which is
+closer to the results in RLD. The elaborate quantitative results
+of SA particles in tablet, which cannot be obtained without the
+powerful 3D visualization tool, clearly have a profound significance for pharmaceutical design.
+
+Rather than the conventional microscopic evaluations only
+revealing incomplete morphology, the 3D structural and morphological elucidation technique of SR-μCT can satisfy the research requirements with reliable and comprehensive information in drug delivery system. Furthermore, the degree of
+
+Asian Journal of Pharmaceutical Sciences 15 (2020) 60–68
+
+fluctuation shown in standard deviations of 3D parameters is
+a reflection of the regularity in morphology. It is found that
+SA particles in GRT feature the best regular morphology that
+show superior flowability. SA particles in GUT have the highest fluctuation range in morphology. Particularly, for surface
+area and volume, standard deviations of SA particles in GUT
+are much higher than those in the other two kinds of tablets.
+The dramatic visualization of SR-μCT images offered a reliable
+semi-quantitative overview of the SA particles distribution in
+tablets. Overall, compared with SA particles in GUT, those in
+GRT are more consistent with those in RLD.
+As demonstrated by the excipient example presented in
+this report, accurate quantitative characterizations of component in tablet are possible when appropriate techniques are
+used. For SR-μCT, high spatial resolution and contrast imaging form the basis of reliable quantitative analysis. The spatial resolution in our study is 5.2 μm and SA particles below
+5.23 μm3 cannot be determined. The accuracy of the quantified SR-μCT experiments also depends on the stability of X-ray
+beam physical dimensions and intensity profile, the detection
+response characteristics and count rate ranges.
+
+3.3.
+Flowability, compression property and breaking force
+analysis
+The angles of repose for unmodified SA particles and reprocessed SA particles are 52.61 ± 0.90° and 49.08 ± 1.23°, respectively. For optimized SA particles, the average value of angle
+of repose is smaller, reflecting its better flowability than unmodified SA particles. What is more, the existence of the trace
+amount of SLS brings no improvement in the flowability of SA
+particles (data are not be provided). Average values of die wall
+force of GUT and GRT are 0.41 kN and 0.47 kN, and ejecting
+force are 0.23 kN and 0.17 kN, respectively. The die wall force
+indicates favorable compaction properties that prevent problems such as capping during mass manufacturing of tablets
+[28], the higher die wall force for GRT indicates that reprocessed SA particles are more suitable for tableting. For ejecting force, contrasted to unmodified SA particles, reprocessed
+SA particles make the tablet formulation possess lower adhesive force and frictional force during ejection of GRT from
+the die cavity. Tablet breaking force is a critical parameter in
+pharmaceutical process quality control, and depends on factors such as compression force, particle size and inter-particle
+force [29]. In our research, breaking force evolution for RLD
+(70.59 ± 6.82 N), GUT (86.58 ± 7.91 N) and GRT (68.09 ± 4.24 N)
+indicates that the effect of SA particles on the breaking force of
+tablet is obvious. The breaking force increased with the degree
+of irregularity of SA particles and GRT is much closer to RLD.
+Combined with the SR-μCT analysis, it seems that more regular morphology with higher sphericity of SA particles resulted
+in a less inter-particle force and decreased breaking force. It
+should be noted that the gap of morphological parameters like
+particle volume, surface area and total surface area between
+GRT and RLD are large, but the breaking force of RLD and GRT
+are overlapping. While more importantly, the order of these
+morphological parameters of RLD, GRT and GUT has the same
+trend as that of the breaking forces of the three kinds of tablets
+considering the mean ± SD values. Some complicated mathe-
+
+67
+
+matical or logical relationship may exist between these morphological parameters and breaking force. After all, it has been
+confirmed that the breaking force of tablets is affected by multiple factors, and the specific mathematical relationship has
+not been reported so far. It is thought that the usage of different kinds of SA particles chiefly contributed to the morphological differences among SA particles in RLD, GUT and GRT
+and resulted in difference in tablet breaking force, whereas
+the compaction conditions may also have impact on the results that cannot be underestimated. More detailed analyses
+of these impacts are beyond the scope of the present report
+but deserve further investigation.
+
+4.
+
+Conclusions
+
+In this study, a powerful structural method has been established for the characterization of morphology and spatial distribution of SA particles in tablet prepared with different morphologies of SA as a new way to research the material in
+solid dosage forms. The improved structural consistency between reprocessed SA particles in GRT and SA particles in
+RLD ensures high quality of glipizide tablets. For excipients
+like SA to function according to its particle structure and spatial distributions in tablets, 3D reconstruction and quantitative structure analysis by SR-μCT significantly deepen insights
+of solid dosage form design and evaluation as well as rational optimization of production process. More specifically,
+the novel methodology of excipient structure consistency research opens a new way to secure high quality for both generic
+and brand products of drugs in solid dosage forms.
+
+Conflicts of interest
+The authors declare that there is no conflicts of interest.
+
+Acknowledgments
+The authors are grateful for the financial support from
+the National Science and Technology Major Project
+(2017ZX09101001-006). Thanks to the BL13W1 beamline
+of the SSRF for the precious beam time and help from the
+team.
+
+Supplementary materials
+Supplementary material associated with this article can be
+found, in the online version, at doi:10.1016/j.ajps.2019.01.001.
+
+references
+
+[1] Matsuda Y, Minamida Y, Hayashi S. Comparative evaluation
+of tablet lubricants - effect of application method on tablet
+hardness and ejectability after compression. J Pharm Sci
+1976;65(8):1155–60.
+
+68
+
+Asian Journal of Pharmaceutical Sciences 15 (2020) 60–68
+
+[2] Shojaee S, Kaialy W, Cumming KI, Nokhodchi A.
+Comparative evaluation of drug release from aged prolonged
+polyethylene oxide tablet matrices: effect of excipient and
+drug type. Pharm Dev Technol 2016;21(2):189–95.
+[3] Villalobos JR, Villafuerte RL. Effect of carrier excipient and
+processing on stability of indorenate hydrochloride/excipient
+mixtures. Pharm Dev Technol 2001;6(4):551–61.
+[4] Li JJ, Wu YM. Lubricants in pharmaceutical solid dosage
+forms. Lubricants 2014;2(1):21–43.
+[5] Fridrun P, Mia Y. The influence of particle size and shape on
+the angle of internal friction and the flow factor of
+unlubricated and lubricated powders. Int J Pharm
+1996;144(2):187–94.
+[6] Wang J, Wen H, Desai D. Lubrication in tablet formulations.
+Eur J Pharm Biopharm 2010;75(1):1–15.
+[7] Barra J, Somma R. Influence of the physicochemical
+variability of magnesium stearate on its lubricant properties:
+possible solutions. Drug Dev Ind Pharm 1996;22(11):1105–20.
+[8] Amigo JM, Ravn C. Direct quantification and distribution
+assessment of major and minor components in
+pharmaceutical tablets by NIR-chemical imaging. Eur J
+Pharm Sci 2009;37(2):76–82.
+[9] Sando G, Dubois J. Seeing" the chemicals in pharmaceutical
+tablets with NIR chemical imaging. Chim Oggi
+2010;28(1):40–2.
+[10] Perrault M, Bertrand F, Chaouki J. An experimental
+investigation of the effect of the amount of lubricant on
+tablet properties. Drug Dev Ind Pharm 2011;37(2):234–42.
+[11] Wu Z, Tao O, Cheng W, Yu L, Shi X, Qiao Y. Visualizing
+excipient composition and homogeneity of compound
+liquorice tablets by near-infrared chemical imaging.
+Spectrochim Acta A Mol Biomol Spectrosc 2012;86(86):631–6.
+[12] Takeuchi I, Shimakura K, Ohtake H, Takayanagi J, Tomoda K,
+Nakajima T, et al. Nondestructive analysis of structure and
+components of tablet coated with film by the usage of
+terahertz time-domain reflection spectroscopy. J Pharm Sci
+2014;103(1):256–61.
+[13] Zhang L, Wu L, Wang CF, Zhang GQ, Yu L, Li HY,
+et al. Synchrotron radiation micro-computed
+tomography-guided chro-matographic analysis displays the
+material distribution in tablets. Anal Chem
+2018;90(5):3238–44.
+[14] Altman SJ, Uchida M, Tidwell VC, Boney CM, Chambers BP.
+Use of X-ray absorption imaging to examine heterogeneous
+diffusion in fractured crystalline rocks. J Contam Hydrol
+2004;69(1–2):1–26.
+[15] Tomioka S, Kozaki T, Takamatsu H, Noda N, Nisiyama S,
+Kozai N, et al. Analysis of microstructural images of dry and
+water-saturated compacted bentonite samples observed
+with X-ray micro CT. Appl Clay Sci 2010;47(1):
+65–71.
+[16] Zhang MQ, Zhou L, Deng QF, Xie YY, Xiao TQ, Cao YZ,
+et al. Ultra-high-resolution 3D digitalized imaging of the
+cerebral angioarchitecture in rats using synchrotron
+radiation. Sci Rep 2015;5:14982.
+
+[17] Laity PR, Cameron RE. Synchrotron X-ray microtomographic
+study of tablet swelling. Eur J Pharm Biopharm
+2010;75(2):263–76.
+[18] Li H, Yin X, Ji J, Sun L, Shao Q, York P, et al. Microstructural
+investigation to the controlled release kinetics of monolith
+osmotic pump tablets via synchrotron radiation X-ray
+micro-tomography. Int J Pharm 2012;427(2):270–5.
+[19] Crean B, Parker A, Le Roux D, Perkins M, Luk SY, Banks SR,
+et al. Elucidation of the internal physical and chemical
+microstructure of pharmaceutical granules using X-ray
+micro-computed tomography, Raman microscopy and
+infrared spectroscopy. Eur J Pharm Biopharm
+2010;76(3):498–506.
+[20] Yin XZ, Li HY, Guo Z, Wu L, Chen FW, Shao Q,
+et al. Quantification of swelling and erosion in the controlled
+release of a poorly water-soluble drug using synchrotron
+X-ray computed micro-tomography. AAPS J
+2013;15(4):1025–34.
+[21] Fang LW, Yin XZ, Wu L, He YP, He YZ, Qin W,
+et al. Classification of microcrystalline celluloses via
+structures of individual particles measured by synchrotron
+radiation X-raymicro-computed tomography. Int J Pharm
+2017;531(2):658–67.
+[22] Ren YQ, Chen C, Chen RC, Zhou GZ, Wang YD, Xiao TQ.
+Optimization of image recording distances for quantitative
+X-ray in-line phase contrast imaging. Opt Express
+2011;19(5):4170–81.
+[23] Yang S, Yin XZ, Wang CF, Li HY, He Y, Xiao TQ, et al. Release
+behaviour of single pellets and internal fine 3D structural
+features co-define the in vitro drug release profile. AAPS J
+2014;16(4):860–71.
+[24] Guo Z, Yin XZ, Liu CB, Wu L, Zhu WF, Shao Q,
+et al. Microstructural investigation using synchrotron
+radiation X-ray microtomography reveals taste-masking
+mechanism of acetaminophen microspheres. Int J Pharm
+2015;499(1–2):47–57.
+[25] Chen RC, Dreossi D, Mancini L, Menk R, Rigon L, Xiao TQ.
+PITRE: software for phase-sensitive X-ray image processing
+and tomograph y reconstruction. J Synchrotron Radiat
+2012;19(5):836–45.
+[26] Barksdale RD, Kemp MA, Sheffield WJ, Hubbard JL.
+Measurement of aggregate shape, surface area, and
+roughness. Transportation research record1301. Washington:
+National Research Council; 1991. p. 107–16.
+[27] Mora CF, Kwan KH. Sphericity, shape factor, and convexity
+measurement of coarse aggregate for concrete using digital
+image processing. Cem Concr Res 2000;30(3):351–8.
+[28] Kasa P, Bajdik J, Zsignond Z, Pintye-Hodi K. Study of the
+compaction behaviour and compressibility of binary
+mixtures of some pharmaceutical excipients during direct
+compression. Chem Eng Process 2009;48(4):859–63.
+[29] Javaheri H, Carter P, Elkordy AA. Wet granulation to
+overcome liquisolid technique issues of poor flowability and
+compactibility: a study to enhance glibenclamide
+dissolution. J Pharm Drug Dev 2014;2(3):1–12.
+
+
