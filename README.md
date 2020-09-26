@@ -12,7 +12,7 @@
 
 ## Dataset
 
-Research articles from various journals like World journal of pharmaceuticals, international journal of pharmaceuticals, journal of biomedicine and pharmacotherapy etc. Also there are plenty of research articles by scientists. Also some drugs related stuff is also there.
+Research articles from various journals like for example, International Journal of Pharmaceutical Sciences, The National Medical Journal of India, La Revue de Médecine Interne, MDPI Journals, RPS Journal and so on
 
 ## Approach
 
@@ -21,9 +21,6 @@ Research articles from various journals like World journal of pharmaceuticals, i
 - Find way to map research paper vectors to search phrase vectors
 - Create search engine using 1, 2 and 3
 - Build UI to house the search engine
-
-
-r   
 
 ## Technology Used
 
