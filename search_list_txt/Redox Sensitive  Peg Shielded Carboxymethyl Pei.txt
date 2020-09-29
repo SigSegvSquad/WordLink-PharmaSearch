@@ -1,95 +1,16 @@
-Asian Journal of Pharmaceutical Sciences 15 (2020) 69–82
+Abstract
 
-Available online at www.sciencedirect.com
-
-journal homepage: www.elsevier.com/locate/AJPS
-
-Original Research Paper
-
-Redox-sensitive, PEG-shielded carboxymethyl PEI
-nanogels silencing MicroRNA-21, sensitizes
-resistant ovarian cancer cells to cisplatin
-Sanaz Javanmardi a, Ali Mohammad Tamaddon b,c, Mahmoud Reza Aghamaali a,∗,
-Ladan Ghahramani b, Samira Sadat Abolmaali b,c,∗∗
-a Department
-
-of Biology, Faculty of Science, University of Guilan, Rasht 64891, Iran
-for Nanotechnology in Drug Delivery, Shiraz University of Medical Sciences, Shiraz 71345, Iran
-c School of Pharmacy, Shiraz University of Medical Sciences, Shiraz 71345, Iran
-b Center
-
-a r t i c l e
-
-i n f o
-
-a b s t r a c t
-
-Article history:
 
 A series of branched polyethylenimine (PEI) modifications including PEGylation (PEG2k-PEI)
-
-Received 27 July 2018
-
 for steric shielding, redox-sensitive crosslinking for synthesis PEG2k-PEI-ss nanogels and
-
-Revised 4 October 2018
-
 subsequent carboxymethylation (PEG2k-CMPEI-ss) for modulation of the polymer pka have
-
-Accepted 29 October 2018
-
 been introduced for cellular delivery of Anti-miR-21. The synthesis was characterized us-
-
-Available online 1 December 2018
-
 ing 1 H NMR, FTIR, TNBS, potentiometric titration, particle size and ζ potential. Loading of
 Anti-miR-21 at various N/P ratios was investigated by gel retardation, ethidium bromide dye
 
-Keywords:
+Keywords
 
-exclusion, heparin sulfate competition and DNase I digestion experiments. The miR-21 si-
-
-MicroRNA
-
-lencing was measured by stem-loop RT PCR in A2780 ovarian cancer cell lines whether it is
-
-PEI nanogels
-
-sensitive to resistant to cisplatin. It has been shown that PEG2k-CMPEI-ss was well suited
-
-Anti-miR-21
-
-for delivery of Anti-miR-21 in terms of nucleic acid loading, preservation against extracellu-
-
-Gene delivery
-
-lar matrix and nucleases and sequence-specific silencing of miRNA-21 in vitro. Moreover, it
-
-Cisplatin resistance
-
-has been demonstrated that pre-treating cells with Anti-miR-21 loaded nanogels can sensitize them to cis-Pt even at non-toxic concentraions. The results indicate that PEG2k-CMPEIss mediated microRNA delivery can be considered as a novel strategy for ovarian cancer
-therapy.
-© 2018 Shenyang Pharmaceutical University. Published by Elsevier B.V.
-This is an open access article under the CC BY-NC-ND license.
-(http://creativecommons.org/licenses/by-nc-nd/4.0/)
-
-∗
-
-Corresponding author. Department of Biology, Faculty of Science, University of Guilan, Rasht 64891, Iran.
-Corresponding author. Department of Pharmaceutical Nanotechnology and Center for Nanotechnology in Drug Delivery, Shiraz University of Medical Sciences, Shiraz 71345, Iran. Tel.: +98 71 32424127.
-E-mail addresses: aghamaali@guilan.ac.ir (M. Aghamaali), abolmaali@sums.ac.ir (S. Abolmaali).
-Peer review under responsibility of Shenyang Pharmaceutical University.
-∗∗
-
-https://doi.org/10.1016/j.ajps.2018.10.006
-1818-0876/© 2018 Shenyang Pharmaceutical University. Published by Elsevier B.V. This is an open access article under the CC BY-NC-ND
-license. (http://creativecommons.org/licenses/by-nc-nd/4.0/)
-
-70
-
-1.
-
-Asian Journal of Pharmaceutical Sciences 15 (2020) 69–82
+MicroRNA PEI nanogels Anti-miR-21 Gene delivery Cisplatin resistance
 
 Introduction
 
@@ -132,6 +53,8 @@ The most important challenge to achieve convenient therapeutic approaches for mi
 systemic delivery such as phagocytic elimination, renal filtration, nucleases degradation, cellular uptake and endosomal release for possible translation to clinical practices
 [23,24].
 
+Main
+
 PEIs have wide applications for gene delivery because of
 their controlled polycationic nature which allow them to
 condense negatively charged oligonucleotide chains, protect
@@ -163,14 +86,6 @@ nanogels were compared in terms of loading Anti-miR-21, formation of stable nano
 efficiency. In addition, the therapeutic value of Anti-miR-21
 loaded PEG2k-PEI-ss nanogels was compared in A2780 sensitive (A2780S) and resistant (A2780R) cell lines to cis-Pt.
 
-2.
-
-Materials and methods
-
-2.1.
-
-Chemical
-
 Polyethyleneimine 10 kDa (corresponding to Mw /Mn of 1.4)
 and methoxy polyethylene glycol 2 kDa (mPEG2000 –COOH)
 were purchased from Poly Sciences Inc. (Canada) and Jenkem
@@ -178,10 +93,6 @@ were purchased from Poly Sciences Inc. (Canada) and Jenkem
 (EDC), N-hydroxysuccinimide (NHS), 2,4,6-trinitrobenzene sulfonic acid (TNBS), disodium ethylenediaminetetraacetic acid
 (EDTA), agarose, 4,6-diamidino-2-phenylindole (DAPI), fluorescein isothiocyanate (FITC), sodium borohydride (NaBH4 ),
 4-morpholineethanesulfonic acid (MES), cisplatin (cis-Pt)
-
-Asian Journal of Pharmaceutical Sciences 15 (2020) 69–82
-
-71
 
 and
 3-(4,5-dimethyl-thiazol-2-yl)-2,5-diphenyltetrazolium
@@ -195,11 +106,6 @@ Macrogen (Korea).
 lyophilized products with KBr and compression of the mixtures to form discs. Twenty scans were signal averaged with a
 resolution of 4 cm−1 in range of 500–4000 cm−1 .
 
-2.2.
-
-2.4.4.
-
-Synthesis of PEG2k-PEI-ss nanogels
 
 Coordination complex, micellar template-assisted synthesis
 and characterization of PEG2k-PEI-ss was carried out according to the previous method by Abolmaali et al. [33,38]. Briefly,
@@ -901,23 +807,11 @@ Anti-miR-21 as presented in Fig. 7B, which can potentiate the
 expression of tumor suppressor PDCD4 and revoked apoptosis
 inhibitor c-IAP2 [22].
 
-4.
-
 Conclusion
-
 Various PEI modifications including PEG2k-PEI copolymer,
-PEG2k-PEI-ss and PEG2k-CMPEI-ss nanogels have been prepared to improve transfection of Anti-miR-21. Although the
-
-Fig. 10 – Fluorescence microscopy images of the cells treated with Anti-miR-21 and Scrambeled sequence loaded nanogels
-vs. untreated control cells. Green live cells showed normal morphology; yellowish-green early apoptotic cells showed
+PEG2k-PEI-ss and PEG2k-CMPEI-ss nanogels have been prepared to improve transfection of Anti-miR-21. Although the vs. untreated control cells. Green live cells showed normal morphology; yellowish-green early apoptotic cells showed
 nuclear margination and chromatin condensation, while late orange apoptotic cells showed fragmented chromatin and
-apoptotic bodies.
-
-80
-
-Asian Journal of Pharmaceutical Sciences 15 (2020) 69–82
-
-cross-linking and carboxymethylation reactions decrease primary amine contents of the PEG2k-PEI needed for oligonucleotide charge neutralization and condensation, protonation
+apoptotic bodies. cross-linking and carboxymethylation reactions decrease primary amine contents of the PEG2k-PEI needed for oligonucleotide charge neutralization and condensation, protonation
 of primary amines at physiologic pH and the general cytotoxicity are diminished. Moreover, the nanogels can effectively
 protect Anti-miR-21 against extracellular matrix and also
 DNase digestion. Notably, an enhanced endosomal escape
@@ -928,11 +822,7 @@ cellular trafficking of the nanogels, the biologic consequences
 of miR-21 down-regulation and molecular mechanisms of cisPt chemosensitization by the nanoplexes are suggested for
 further study.
 
-Compliance with ethical standards
-Conflicts of interest: The authors declare that they have no
-conflict of interest.
-
-Acknowledgment
+Acknowledgments
 This work was supported financially by Shiraz University of
 Medical Sciences (Grant No: SUMS-93-01-05-8630). The facility
 supports of "Center for Nanotechnology in Drug Delivery" are
@@ -1176,19 +1066,6 @@ encapsulation and delivery. J Control Release 2015;205:231–9.
 Higuchi A, et al. Tunable PEGylation of branch-type PEI/DNA
 polyplexes with a compromise of low cytotoxicity and high
 
-82
-
-[64]
-
-[65]
-
-[66]
-
-[67]
-
-[68]
-
-[69]
 
 Asian Journal of Pharmaceutical Sciences 15 (2020) 69–82
 
@@ -1253,4 +1130,4 @@ head and neck cancer. In: Hayat, editor. Stem cells and
 cancer stem cells, volume 9: Therapeutic application in
 disease and injury. Dordrecht: Springer; 2013. p. 291–8.
 
-
+end

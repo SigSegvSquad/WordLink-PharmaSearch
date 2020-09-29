@@ -1,9 +1,0 @@
-
-abstract
-
-checking for abstract
-
-keywords
-hello
-
-end

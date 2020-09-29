@@ -1,34 +1,7 @@
-International Journal of Pharmaceutics: X 1 (2019) 100003
-
-Contents lists available at ScienceDirect
-
-International Journal of Pharmaceutics: X
-journal homepage: www.journals.elsevier.com/international-journal-of-pharmaceutics-x
-
-Real time calorimetric characterisation of clay – drug complex dispersions
-and particles
-
-T
-
-A.M. Toteaa, I. Dorinb, G. Gavrilovc, P.R. Laityd, B.R. Conwaya, L. Watersa, K. Asare-Addoa,
-
-⁎
-
-a
-
-School of Applied Sciences, Department of Pharmacy, University of Huddersfield, Queensgate, Huddersfield HD1 3DH, UK
-Malvern Panalytical Ltd., Malvern, UK
-c
-Wienerberger, Baneasa Business & Technology Park, Bucharest, Romania
-d
-Department of Materials Science and Engineering, University of Sheffield, Sir Robert Hadfield Building, Mappin Street, Sheffield S1 3JD, UK
-b
-
-ARTICLE INFO
 
 ABSTRACT
 
-Keywords:
+Keywords
 Magnesium aluminium silicate
 Propranolol hydrochloride
 Isothermal titration calorimetry
@@ -47,7 +20,7 @@ however observed. SEM/EDX studies showed the occurrence of changes in the micros
 following complexation which may explain the potential of MAS-PPN complexes for controlled drug release
 promoting pharmaceutical innovation.
 
-1. Introduction
+Introduction
 Sustained-release drug formulation is of high importance as it
 achieves optimal therapeutic efficacy in chronic conditions where
 treatment must be administered at constant levels over a period of time,
@@ -62,6 +35,7 @@ as they can adsorb the active ingredient onto their structure and form
 complex dispersions and particles (Carretero and Pozo, 2009;
 Pongjanyakul et al., 2009; Rojtanatanya and Pongjanyakul, 2010;
 
+Main
 Kanjanakawinkul et al., 2013; Rongthong et al., 2013). These have been
 shown to modify the release of drugs upon administration, which would
 be desirable for drugs having a short half-life and require frequent
@@ -738,16 +712,13 @@ while the entropic contribution was comparatively small in both cases
 confirming the interaction to be enthalpically driven at both temperatures. The binding interaction had a negative heat capacity ΔCp
 (−0.24 kcal mol K−1/ −1.00 kJ mol K−1) indicating that upon increasing temperature the binding became more exothermic and enthalpically driven, thus in agreement with the binding parameters
 calculated.
-4. Conclusion
+Conclusion
 This study demonstrated the affinity of PPN for MAS and provided
 insights into its binding energetics. The process was shown to be exothermic, enthalpically driven and entropically unfavourable (lower affinity) suggesting hydrogen bonding and electrostatic interactions
 dominating the interaction. A simple, accurate and precise reversedphase HPLC method was developed for quantitative determination of
 PPN from the single and double drug loaded MAS–PPN complex particles which showed that PPN recovery was influenced by the
-10
 
-International Journal of Pharmaceutics: X 1 (2019) 100003
-
-A.M. Totea et al.
+references
 mesoporous materials. Eur. J. Pharm. Biopharm. 66 (3), 357–365.
 Park, J.K., et al., 2008. Controlled release of donepezil intercalated in smectite clays. Int.
 J. Pharm. 359 (1–2), 198–204.
@@ -785,6 +756,4 @@ Bentonite Clay For Personal Care and Pharmaceuticals What They Are, pp. 1–27.
 Weems, J.B., 1903. Chemistry of Clays, Iowa Geological Survey Annual Report, 14(15),
 pp. 319–346.
 
-11
-
-
+end

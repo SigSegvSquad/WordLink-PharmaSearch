@@ -1,30 +1,3 @@
-[Downloaded free from http://www.rpsjournal.net on Thursday, September 3, 2020, IP: 117.212.240.236]
-
-Research in Pharmaceutical Sciences, August 2020; 15(4): 323-330
-Received: 12-01-2020
-Peer Reviewed: 12-04-2020
-Revised: 15-04-2020
-Accepted: 31-07-2020
-Published: 28-08-2020
-
-School of Pharmacy & Pharmaceutical Sciences
-Isfahan University of Medical Sciences
-
-Original Article
-
-The effect of pramlintide, an antidiabetic amylin analogue,
-on angiogenesis-related markers in vitro
-Leila Safaeian1,*, Golnaz Vaseghi2, Mina Mirian3, and Mehdi Dehghani Firoozabadi1
-1
-
-Department of Pharmacology and Toxicology and Isfahan Pharmaceutical Sciences Research Center, School of
-Pharmacy and Pharmaceutical Sciences, Isfahan University of Medical Sciences, Isfahan, I.R. Iran.
-2
-Isfahan Cardiovascular Research Center, Cardiovascular Research Institute, Isfahan University of Medical Sciences,
-Isfahan, I.R. Iran.
-3
-Department of Pharmaceutical Biotechnology, School of Pharmacy and Pharmaceutical Sciences, Isfahan University
-of Medical Sciences, Isfahan, I.R. Iran.
 
 Abstract
 Background and purpose: Irregularities of angiogenesis may participate in the pathogenesis of diabetes
@@ -41,7 +14,9 @@ from HUVECs.
 Conclusion and implications: Findings of this research revealed the effect of pramlintide on angiogenesisrelated markers via enhancing migration and tubulogenesis in vitro, suggesting a worthwhile proposition for
 further clinical researches on improving vascular complications and healing of diabetic wounds.
 
-Keywords: Angiogenesis; Cell migration; Diabetes mellitus; HUVEC; Pramlintide; VEGF.
+Keywords
+Angiogenesis; Cell migration; Diabetes mellitus; HUVEC; Pramlintide; VEGF.
+
 INTRODUCTION
 Diabetes mellitus is a complicated endocrine
 disorder and the fourth leading cause of death
@@ -57,8 +32,6 @@ considered as the main pathological features of
 diabetic vascular problems (4). Angiogenesis
 refers to the development of new blood vessels
 *Corresponding author: L. Safaeian
-Tel: +98-3137927087, Fax: +98-3136680011
-Email: leila_safaeian@pharm.mui.ac.ir
 
 from preexisting vessels (5). This process
 occurs during some normal and pathological
@@ -71,13 +44,8 @@ formation, and finally in maturation and
 stabilization of the new vessel (6). Diabetes is
 associated with abnormal angiogenesis in a
 tissue-specific manner.
-Access this article online
-Website: http://rps.mui.ac.ir
-DOI: 10.4103/1735-5362.293510
 
-[Downloaded free from http://www.rpsjournal.net on Thursday, September 3, 2020, IP: 117.212.240.236]
-
-Safaeian et al. / RPS 2020; 15(4): 323-330
+Main
 
 Enhanced angiogenesis is a main
 pathological
@@ -187,10 +155,7 @@ eagle's medium (DMEM), fetal bovine serum
 (FBS), and 3-(4,5-dimethylthiazol-2-yl)-2,5diphenyltetrazolium bromide (MTT) assay kit
 were purchased from Bioidea Co. (Tehran, I.R.
 324
-
-[Downloaded free from http://www.rpsjournal.net on Thursday, September 3, 2020, IP: 117.212.240.236]
-
-Effect of pramlintide on angiogenesis
+effect of pramlintide on angiogenesis
 
 were removed and migrating cells were fixed
 with 70% ethanol and stained with 0.2% crystal
@@ -673,6 +638,4 @@ associated with oxidative stress regulation
 mechanisms. J Alzheimers Dis. 2019;69(1):157-168.
 DOI: 10.3233/JAD-180421
 
-330
-
-
+end

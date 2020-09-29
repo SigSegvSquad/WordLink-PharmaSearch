@@ -22,7 +22,7 @@ class Corpus:
 
     # use try-catch for this one, random.choices fucks up sometimes
     def generate_queries(self, key='all', num_docs=10, num_queries=1, method='random_phrases'):
-        return [i.generate_queries(num_queries, method, key) for i in choices(self.doc_list, k=num_docs)]
+        return {i.title:(i.generate_queries(num_queries, method, key)) for i in choices(self.doc_list, k=num_docs)}
 
 
 class Document:

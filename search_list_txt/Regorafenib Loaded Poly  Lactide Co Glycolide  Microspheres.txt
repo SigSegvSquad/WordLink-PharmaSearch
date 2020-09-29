@@ -1,103 +1,22 @@
 
-
-Original Research Paper
-
-Regorafenib-loaded poly (lactide-co-glycolide) microspheres
-designed to improve transarterial chemoembolization
-therapy for hepatocellular carcinoma
-Xiang Li a,b, Guangwei He c, Feng Su c, Zhaoxing Chu c, Leiming Xu b, Yazhong Zhang b,
-Jianping Zhou a,∗, Yang Ding a,∗
-a State
-
-Key Laboratory of Natural Medicines, Department of Pharmaceutics, China Pharmaceutical University, Nanjing 210009, China
-Province Institute for Food and Drug Control, Hefei 230051, China
-c Hefei Industrial Pharmaceutical Institute Co Ltd, Hefei 230051, China
-b Anhui
-
 abstract
-
-Article history:
 
 Transarterial chemoembolization (TACE) has been widely introduced to treat hepatocellular
 
-Received 25 September 2019
-
 carcinoma (HCC) especially for unresectable patients for decades. However, TACE evokes
-
-Revised 28 December 2019
 
 an angiogenic response due to the secretion of vascular endothelial growth factor (VEGF),
 
-Accepted 18 January 2020
 
 resulting in the formation of new blood vessels and eventually tumor recurrence. Thus, we
-
-Available online xxx
 
 aimed to develop regorafenib (REGO)-loaded poly (lactide-co-glycolide) (PLGA) microspheres
 that enabled localized and sustained drug delivery to limit proangiogenic responses
 
-Keywords:
-
-following TACE in HCC treatment. REGO-loaded PLGA microspheres were prepared using
-
-
-the emulsion-solvent evaporation/extraction method, in which DMF was selected as an
-
-Microspheres
-
-organic phase co-solvent. Accordingly, we optimized the proportion of DMF, which the
-
-Transarterial chemoembolization
-
-optimal ratio to DCM was 1:9 (v/v). After preparation, the microspheres provided high drug
-
-Hepatocellular carcinoma
-
-loading capacity of 28.6%, high loading efficiency of 91.5%, and the average particle size of
-149 μm for TACE. IR spectra and XRD were applied to confirming sufficient REGO entrapment.
-The in vitro release profiles demonstrated sustained drug release of microspheres for more
-than 30 d To confirm the role of REGO-loaded microspheres in TACE, the cell cytotoxic
-activity on HepG2 cells and anti-angiogenic effects in HUVECs Tube-formation assay were
-studied in combination with miriplatin. Moreover, the microspheres indicated the potential
-of antagonizing miriplatin resistance of HepG2 cells in vitro. Pharmacokinetics preliminary
-studies exhibited that REGO could be sustainably released from microspheres for more than
-30 d after TACE in vivo. In vivo anti-tumor efficacy was further determined in HepG2 xenograft
-tumor mouse model, demonstrating that REGO microspheres could improve the antitumor
-efficacy of miriplatin remarkably compared with miriplatin monotherapy. In conclusion,
-
-∗
-Corresponding authors at: State Key Laboratory of Natural Medicines, Department of Pharmaceutics, China Pharmaceutical University,
-Nanjing 210009, China. Tel +86 25 83271102.
-E-mail addresses: zhoujianp60@163.com (J.P. Zhou), dydszyzf@163.com (Y. Ding).
-Peer review under responsibility of Shenyang Pharmaceutical University.
-
-1818-0876/© 2020 Published by Elsevier B.V. on behalf of Shenyang Pharmaceutical University. This is an open access article under the
-CC BY-NC-ND license
-
-Please cite this article as: Xiang Li, Guangwei He and Feng Su et al., Regorafenib-loaded poly (lactide-co-glycolide) microspheres
-designed to improve transarterial chemoembolization therapy for hepatocellular carcinoma, Asian Journal of Pharmaceutical
-Sciences
-
-
-2
-
-ARTICLE IN PRESS
-
-[m7;May 23, 2020;2:35]
-
-Asian Journal of Pharmaceutical Sciences xxx (xxxx) xxx
-
-the obtained REGO microspheres demonstrated promising therapeutic effects against HCC
-when combined with TACE.
-© 2020 Published by Elsevier B.V. on behalf of Shenyang Pharmaceutical University.
-This is an open access article under the CC BY-NC-ND license.
-(http://creativecommons.org/licenses/by-nc-nd/4.0/)
-
-1.
+Keywords
+Microspheres Transarterial chemoembolization
 
 Introduction
-
 Transarterial chemoembolization (TACE) are broadly used
 against hepatocellular carcinoma (HCC) especially for
 inoperable patients for decades [1,2]. Conventional TACE
@@ -111,6 +30,8 @@ occluding the selected vessels and controlling drug release.
 The embolic microspheres are usually classified into the
 non-biodegradable and biodegradable, which could both be
 applied for TACE [3,4].
+
+Main
 The strategy of TACE can deliver high doses of
 chemotherapeutic drugs to tumors and also induce local
 ischemia and hypoxia via arterial embolization, which
@@ -150,7 +71,7 @@ REGO for a second-line therapy in previously sorafenib
 treated HCC patients [17]. Some commercial products
 of non-biodegradable microspheres have come into the
 R
-market already such as DC Beads
+market already such as DC Beads
 and HepasphereTM for
 TACE. Drugs especially the positively charged were usually
 shielded by ion exchange approach, and the drug elution
@@ -160,7 +81,7 @@ microspheres, the biodegradable might expand the types of
 drug loading with adjustable drug release kinetics [19,20].
 REGO is a hydrophobic drug that cannot be shielded into
 R
-aforementioned microspheres (DC Bead
+aforementioned microspheres (DC Bead
 , HepasphereTM ).
 In order to formulate REGO for TACE, we developed
 new biodegradable drug loading microspheres. These
@@ -195,38 +116,19 @@ healthy adult New Zealand white male rabbits. The in vivo
 antitumor effects have also been investigated in HepG2 tumor
 models.
 
-2.
-
-Materials and methods
-
-2.1.
-
-Materials
-
 PLGA (Mw: 34 000 Da; lactic acid/glycolic acid ratio 50:50)
 was purchased from Evonik Industries (Essen, Germany).
 
 Please cite this article as: Xiang Li, Guangwei He and Feng Su et al., Regorafenib-loaded poly (lactide-co-glycolide) microspheres
 designed to improve transarterial chemoembolization therapy for hepatocellular carcinoma, Asian Journal of Pharmaceutical
-Sciences, https://doi.org/10.1016/j.ajps.2020.01.001
-
-ARTICLE IN PRESS
-
-JID: AJPS
-
-[m7;May 23, 2020;2:35]
-
-3
-
-Asian Journal of Pharmaceutical Sciences xxx (xxxx) xxx
-
+Sciences,
 Polyvinyl alcohol (PVA, Mw: 30 000∼70 000 Da) was from
 Guoren Yikang technology company (Beijing, China).
 Regorafenib and miriplatin for injection were kindly gifted
 from Hefei Industrial Pharmaceutical Institute Co. Ltd.
 (HeFei, China). MTT kit was bought from Sigma-Aldrich
 R
-Co. (St Louis, USA). Matrigel
+Co. (St Louis, USA). Matrigel
 Matrix was from Corning
 Discovery Labware Inc. (Bedford, USA). RPMI 1640 medium,
 fetal bovine serum (FBS), penicillin streptomycin solution
@@ -1578,4 +1480,4 @@ Please cite this article as: Xiang Li, Guangwei He and Feng Su et al., Regorafen
 designed to improve transarterial chemoembolization therapy for hepatocellular carcinoma, Asian Journal of Pharmaceutical
 Sciences, https://doi.org/10.1016/j.ajps.2020.01.001
 
-
+end
