@@ -1,6 +1,28 @@
 import os
 import json
-from random import randint
+from glob import glob
+from random import randint, choices
+
+
+class Corpus:
+    def __init__(self, dir_path):
+        self.dir_path = dir_path
+        self.txt_list = [f for f in glob(dir_path + "*.txt")]
+        self.tit_list = [fil.title for fil in self.txt_list]
+        self.doc_list = [Document(f) for f in self.txt_list]
+
+    def split_sections(self, key='all'):
+        return [file.document[key] for file in self.doc_list]
+
+    def split_sentences(self, key='all'):
+        return [file.split_sentences(key) for file in self.doc_list]
+
+    def split_words(self, key='all'):
+        return [file.split_words(key) for file in self.doc_list]
+
+    # use try-catch for this one, random.choices fucks up sometimes
+    def generate_queries(self, key='all', num_docs=10, num_queries=1, method='random_phrases'):
+        return [i.generate_queries(num_queries, method, key) for i in choices(self.doc_list, k=num_docs)]
 
 
 class Document:
@@ -48,7 +70,7 @@ class Document:
                 # same heading as before
                 else:
                     line = line.replace('\n', ' ')
-                    contents += ''.join(e for e in line if (e.isalnum() or e == ' ' or e =='.'))
+                    contents += ''.join(e for e in line if (e.isalnum() or e == ' ' or e == '.'))
 
     def read_json(self, filepath):
         self.document = json.load(filepath)
@@ -66,44 +88,44 @@ class Document:
         if key == 'all':
             for key, item in self.document.items():
                 words += item.split()
-        
+
         elif key in self.document.keys():
             words = self.document[key].split()
 
         else:
             print('wrong key, retard')
-            
+
         return words
-        
-    def split_sentences(self, key = 'all'):
+
+    def split_sentences(self, key='all'):
         sentences = []
         if key == 'all':
             for key, item in self.document.items():
                 sentences += item.split('.')
-        
+
         elif key in self.document.keys():
             sentences = self.document[key].split('.')
-        
+
         else:
             print('wrong key, retard')
-            
+
         return sentences
 
-    def generate_queries(self, number = 1, method = 'random_phrases'):
+    def generate_queries(self, number=1, method='random_phrases', key='all'):
         queries = []
 
-        #generate queries using the random module
+        # generate queries using the random module
         if method == 'random_phrases':
             for i in range(number):
-                word_list = self.get_word_list()
+                word_list = self.split_words(key)
                 word_no = randint(1, 10)
                 start_pos = randint(1, len(word_list) - word_no)
                 queries.append(' '.join(word_list[start_pos: start_pos + word_no]))
-                
+
         elif method == 'summarisation':
             pass
-        
+
         else:
             print('no such method, dumbass')
-            
+
         return queries
