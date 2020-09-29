@@ -1,0 +1,1103 @@
+asian journal of pharmaceutical sciences 11 (2016) 337–348
+
+H O S T E D BY
+
+Available online at www.sciencedirect.com
+
+ScienceDirect
+j o u r n a l h o m e p a g e : w w w. e l s e v i e r. c o m / l o c a t e / a j p s
+
+Review
+
+PEGylation in anti-cancer therapy: An overview
+Prajna Mishra a, Bismita Nayak b, R.K. Dey a,*
+a
+b
+
+Centre for Applied Chemistry, Central University of Jharkhand, Ranchi 835 205, Jharkhand, India
+Department of Life Science, National Institute of Technology, Rourkela 769 008, Odisha, India
+
+A R T I C L E
+
+I N F O
+
+A B S T R A C T
+
+Article history:
+
+Advanced drug delivery systems using poly(ethylene glycol) (PEG) is an important devel-
+
+Received 1 July 2015
+
+opment in anti-cancer therapy. PEGylation has the ability to enhance the retention time of
+
+Received in revised form 20 August
+
+the therapeutics like proteins, enzymes small molecular drugs, liposomes and nanoparticles
+
+2015
+
+by protecting them against various degrading mechanisms active inside a tissue or cell, which
+
+Accepted 26 August 2015
+
+consequently improves their therapeutic potential. PEGylation effectively alters the phar-
+
+Available online 14 September 2015
+
+macokinetics (PK) of a variety of drugs and dramatically improves the pharmaceutical values;
+recent development of which includes fabrication of stimuli-sensitive polymers/smart poly-
+
+Keywords:
+
+mers and polymeric micelles to cope of with the pathophysiological environment of targeted
+
+PEG
+
+site with less toxic effects and more effectiveness. This overview discusses PEGylation in-
+
+PEGylation
+
+volving proteins, enzymes, low molecular weight drugs, liposomes and nanoparticles that
+
+Targeted drug delivery
+
+has been developed, clinically tried for anti-cancer therapy during the last decade.
+
+Polymers
+
+© 2016 The Authors. Production and hosting by Elsevier B.V. on behalf of Shenyang Pharmaceutical University. This is an open access article under the CC BY-NC-ND license
+(http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+1.
+
+Introduction
+
+Cancer is one of the leading causes of death worldwide. Metastases are the primary cause of death from cancer. Cancer
+cells proliferate at much faster rate than the normal cells. The
+available traditional cancer chemotherapy is not essentially selective as it depends on the kinetics of the cell growth. Targeted
+cancer therapies are expected to be more effective and beneficiary in comparison to available conventional treatment
+procedures.
+The last few decades of research in the particular area are
+focused on exploring the treatment of cancer at its molecular level. This will be helpful in developing better therapeutics.
+Polymer therapeutics is establishing as an innovative and
+
+reliable method for its ability to conjugate with protein,
+enzymes, nanoparticles, liposomes and low molecular weight
+drugs. In this regard, polyethylene glycol (PEG), a watersoluble and biocompatible polymer, is the most commonly used
+non-ionic polymer in the field of polymer-based drug delivery [1]. Passive targeting with PEGs in combination with active
+targeting (entry into the tumor cell via ligand receptor, antigen
+antibody interaction) delivery systems has been effectively employed to achieve better therapeutic index of anti-cancer drugs.
+Further, with the introduction of stimuli-responsive chemical moiety in PEGylated prodrugs, the sensitiveness of the drug
+molecule toward the pathophysiological environment of tumor
+cells in vivo evolved as a new era of site-specific targeted drug
+delivery system. Hence this overview deals with the development and recent advancement in various aspects of PEGylation
+
+* Corresponding author. Centre for Applied Chemistry, Central University of Jharkhand, Ranchi 835 205, Jharkhand, India. Tel.: +91 8987727378;
+fax: +91-671-2306624.
+E-mail address: rkdey@rediffmail.com; ratan.dey@cuj.ac.in (R.K. Dey).
+Peer review under responsibility of Shenyang Pharmaceutical University.
+http://dx.doi.org/10.1016/j.ajps.2015.08.011
+1818-0876/© 2016 The Authors. Production and hosting by Elsevier B.V. on behalf of Shenyang Pharmaceutical University. This is an
+open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+338
+
+asian journal of pharmaceutical sciences 11 (2016) 337–348
+
+in cancer treatment and its future prospective in a comprehensive way.
+
+2.
+
+PEGylation and its significance
+
+The technique of covalently attaching polyethylene glycol (PEG)
+to a given molecule is known as “PEGylation” and is now a wellestablished method in the field of targeted drug delivery
+systems. The general structure of monomethoxy PEG (mPEG)
+can be represented as CH3O–(CH2-CH2O)n–CH2-CH2–OH. At the
+beginning of PEG chemistry, in the late1970s, Professor Frank
+Davis and his colleagues had shown that the immunological
+properties as well as the stability of bovine serum albumin and
+bovine liver catalase can be successfully altered by covalently linking them to methoxy PEG (mPEG) [2,3] using cyanuric
+chloride as an activating agent. The process of PEGylation can
+be extended to liposomes, peptides, carbohydrates, enzymes,
+antibody fragments, nucleotides, small organic molecules and
+even to different nanoparticle formulations [4–8]. mPEG is the
+most useful unit for polypeptide modification [9]. Now several
+derivatives of PEG molecules are available that vary in molecular weight and structure, such as linear, branched, PEG
+dendrimers and more recently multi-arm PEGS [9]. The first step
+of PEGylation is to activate PEG by conjugating a functional derivative of PEG at one or both the terminals of PEG chain.
+PEGylation conjugation techniques can be classified into two
+categories: i) first-generation random PEGylation, and ii) secondgeneration site-specific PEGylation. Thanks to the second
+generation PEGylation processes that resulted in well-defined
+conjugated products with improved product profiles over those
+obtained through non-specific random conjugations.
+
+PEG
+
+SPACER/LINKER
+
+Drug
+
+Irreversibly conjugating PEGs had some adverse effects on
+the specific biological activity of many therapeutics. Thus, to
+minimize the loss of activity, a reversible (or releasable prodrug)
+PEGylation concept has been formulated. Reversible PEGylation
+concept deals with attachment of drugs to PEG derivatives
+through cleavable linkages (Fig. 1). The release of drug occurs
+by therapeutic agents through enzymatic, hydrolytic cleavage or reduction in vivo at a predetermined kinetic rate over
+a time period [10].
+The objective of most PEG conjugation techniques aims at
+increasing the circulation half-life without affecting activity.
+It is to be noted that the distinct advancement in the PEG conjugation processes and diversity in the nature of the PEGs used
+for the conjugation has attributed to the increased demand for
+PEGylated pharmaceutical products.
+PEGylation enhances the therapeutic efficacy of the drugs
+by bringing in several advantageous modifications over the nonPEGylated products. The systematic classification is illustrated
+in Fig. 2. Increase in the serum half-life of the conjugate is the
+major way of enhancing therapeutic potential of the PEGylated
+conjugate. PEGylation prolongs the circulation time of conjugated therapeutics by increasing its hydrophilicity and reducing
+the rate of glomerular filtration [11,12]. Few factors such as protection from reticuloendothelial cells, proteolytic enzymes and
+decreased formation of neutralizing antibodies against the
+protein by masking antigenic sites by formation of a protective hydrophilic shield are the key components of PEG molecule
+that attributes to the improved pharmacokinetic profile (PK)
+of the conjugates [13–16]. It has also been reported that
+PEGylation increases the absorption half-life of subcutaneously administered agents and is associated with a decreased
+volume of distribution [11]. PEG is a non-biodegradable polymer
+
+PEG
+
+Linker
+
+Drug
+
+(PEG-Prodrug)
+Fig. 1 – PEG-prodrug.
+
+Fig. 2 – Significance of PEGylated therapeutics.
+
+asian journal of pharmaceutical sciences 11 (2016) 337–348
+
+that puts limits on its use. It has been shown that PEGs (up
+to molecular weight 20 kDa) is primarily excreted through the
+renal system, whereas higher molecular weight PEG chains get
+eliminated by fecal excretion [17]. PEGylation proved to be the
+most promising approach for increasing the serum half-life of
+the conjugated therapeutics, which is related to enhancement of efficacy of the conjugate. However, PEGylation imposes
+certain disadvantages on liposomes, especially for the delivery of genes and nucleic acids in anti-cancer therapy as its
+surface hydrophilic shield reduces the cellular uptake and improves the stability of the lipid envelope, and the process results
+in poor endosomal escape via membrane fusion and degradation of cargos in lysosomes [18,19]. Hence the use of PEG in
+gene and nucleic acid delivery to cancer cell is referred to as
+“PEG dilemma” [20]. The issue can be efficiently addressed by
+designing pH-sensitive and tumor-specific targeted PEGylated
+therapeutics [21–23].
+
+2.1.
+drugs
+
+Role of PEGylation in passive and active targeting of
+
+Passive targeting drug delivery technique, as illustrated in Fig. 3,
+mostly depends upon the concentration gradient between the
+intracellular and extracellular space, created due to high concentration of the drug in the tumor area [24]. PEG conjugates
+takes the advantage of enhanced permeation and retention
+(EPR) effect executed by the tumors and gets accumulated in
+the pathophysiological environment of tumor vessels through
+leaky vasculature and poor lymphatic drainage. However, this
+effect cannot be studied with low molecular weight drugs that
+freely extravagate causing systemic toxicity, and this is a sizedependent effect. PEGylation increases the solubility, size,
+molecular mass and serum stability of the drugs. For all these
+
+339
+
+reasons, PEGylation is considered to be one of the best methods
+for passive targeting of anticancer therapeutics.
+The concept of active targeting of drugs is based on the idea
+of conjugating drug molecules to targeting entities (antibodies, ligands, etc.) for specific interaction with the structures
+present on the cell surface for targeted delivery of the anticancer agent [25,26]. The fate of the pro-drug is dictated by
+the targeting molecule and the linker molecule present on the
+pro-drug. The targeting moiety essentially decides the type of
+cancer cell for the act of therapeutics. Further, depending on
+the linker molecule, the drug gets entry into the tumor cell by
+either of the two ways: (i) receptor-mediated internalization
+of the whole pro-drug by endocytosis and subsequent degradation by endosomal/lysosomal pathway (Fig. 4), or (ii) receptorindependent internalization of the drug into targeted cells after
+extracellular cleavage of the pro-drug (Fig. 5) [27]. PEGylated
+pro-drugs can be efficiently conjugated to targeting moieties
+by different conjugation chemistry in order to achieve the goal
+of active targeting. The targeted delivery of the PEGylated drugs
+at the desired site causes high bioavailability and low systemic toxicity.
+
+3.
+
+PEGylated proteins in anti-cancer therapy
+
+PEGylation of proteins is a well-established method in the pharmaceutical field, but the significance of PEGylated peptides and
+proteins for anti-cancer therapy has only been realized in the
+last several years as more and more PEG conjugates make it
+to late-phase clinical trials. Enzymes, monoclonal antibodies
+and cytokines are the three major class of proteins used in anticancer therapy or as adjuvant therapy (Table 1).
+
+Fig. 3 – A schematic illustration of passive targeting with acid-sensitive PEG-prodrugs that cleave in the extracellular space.
+
+340
+
+asian journal of pharmaceutical sciences 11 (2016) 337–348
+
+Fig. 4 – A schematic illustration of receptor mediated internalization and endosomal/lysosomal degradation of the pro-drug
+during active targeting.
+
+Fig. 5 – A schematic illustration of Active Targeting with acid sensitive PEG- prodrugs which cleaves in the extracellular
+space.
+
+3.1.
+
+PEGylated monoclonal antibody fragment
+
+In the field of anti-cancer therapy, monoclonal antibodies represent the major class of protein therapeutics. Antibodies act
+by binding to the specific antigens/cell surface receptors. This
+task is taken care by the fragment antigen-binding (Fab’) region
+on an antibody. Depending upon the receptor and the binding
+site on the receptor against which the antibody is designed,
+it can either activate cellular signaling pathways leading to
+apoptosis, cell growth arrest, or block the pathways leading to
+cell growth that eventually causes tumor cell death (apoptosis). This event is illustrated pictorially in Fig. 6. The major
+
+drawback associated with Fab’s antibody fragment is its short
+serum half-life as it lacks the Fc region of the antibody that
+limits its potential as a therapeutic agent. Hence, suitable
+PEGylation methods and PEGs are used to ensure minimal loss
+of the antibody-antigen/cell surface receptor interaction keeping
+in view the enhancement of serum half-life. It has been reported that the hinge region cysteine residues on immunoglobulin G (IgG antibody isotype) Fab’ antibody fragments can
+tolerate attachment of one or two PEG moieties (up to a total
+of 40 kDa molecular weight) with little effect on antigen binding
+affinity. This process also enables significant increase in the
+half-life of the circulating plasma antibodies by reducing the
+
+asian journal of pharmaceutical sciences 11 (2016) 337–348
+
+341
+
+Table 1 – PEG protein/enzyme conjugates in clinical development as anticancer therapy.
+Trade name
+
+Conjugate
+
+Protein/Enzyme
+
+Sylatron™
+
+PEG-interferon α-2b
+
+PEG-interferon α-2b
+
+Pegasys®
+Neulasta®
+
+PEG-interferon α-2a
+PEG-filgrastim
+
+Oncaspar®
+
+PEG-asparaginase
+
+Interferon α-2a
+G-CSF(granulocyte-colony
+stimulating factor)
+Asparaginase
+
+FDA approved date/clinical trial status and use
+March 9, 2011, approved as adjuvant therapy for resected stage III
+melanoma
+Phase I for melanoma and phase II as for chronic myelogenous leukemia
+2002, to treat neutropenia during chemotherapy
+February 1994, acute lymphoblastic leukemia, and in July 24, 2006 first-line
+treatment for acute lymphoblastic leukemia
+
+Fig. 6 – (a) IgG full length antibody and (b) PEGylated IgG Fab’ antibody fragment–cell surface receptor interaction and its
+outcome.
+
+glomerular filtration and lower immunogenicity than the parent
+IgG [28].
+The example of use of PEG-antibody fragment angiogenesis inhibitor (CDP791) is illustrated as follows: CDP791
+PEGylated diFab antibody fragment antagonizes the effect of
+vascular endothelial growth factor receptor-2 (VEGFR-2), which
+is a prominent angiogenesis stimulatory molecule responsible for tumor progression. The short plasma half-life of the
+unmodified CDP791 antibody fragment, which lacks Fc region,
+has a low molecular weight and responsible for low therapeutic index. PEGylation of the cysteine amino acid present at the
+C-terminus of the native antibody could be able to resolve this
+issue by reducing its kidney clearance. This is demonstrated
+by the clinical studies for patients with colorectal, ovarian, renal
+cancer or other tumors [29].
+
+3.2.
+
+PEGylated cytokines
+
+Cytokines represent another class of protein therapeutics employed mainly as adjuvant therapy in classical anti-cancer
+
+chemotherapy protocols either to control or bring improvements in patient conditions. These small secreted proteins
+belong to the immunotherapy category and mobilizes the body’s
+immune system to fight cancer. The process is illustrated pictorially in Fig. 7.
+
+3.2.1.
+
+PEG-interferon-alpha conjugates
+
+This process is illustrated as PEG-interferon-α2b (PEG-INTRON®/
+Sylatron™) and PEG-interferon-α2a (Pegasys®), which are
+discussed as follows:
+
+3.2.1.1. PEG-interferon-α2b (PEG-INTRON®/Sylatron™). The
+PEGylated version of interferon-α2b was synthesized by conjugating interferon-α2b, with a single chain 12 kDa PEG-SC via
+a urethane bond [30]. It displayed a half-life of 27–37 h with
+10-fold lower clearance and minor change in the volume of distribution in comparison to native form [31]. Based upon the
+outcome of clinical studies in the year 2011, the PEGylated drug
+peginterferon alfa-2b (PEG-IFN) got FDA approval for adjuvant treatment of melanoma patients with microscopic or gross
+
+342
+
+asian journal of pharmaceutical sciences 11 (2016) 337–348
+
+Fig. 7 – Representing PEGylated cytokines in anticancer therapy.
+
+nodal involvement following definitive surgical resection including complete lymphadenectomy [32]. Sylatron™ is another
+brand name for peginterferon alfa-2b exclusively approved by
+FDA for adjuvant therapy in cancer treatment.
+
+3.2.1.2. PEG-interferon-α2a (Pegasys®). Another PEGylated interferon, Pegasys®, is prepared by mono-PEGylation of
+interferon-α-2a with an N-hydroxysuccinimide (NHS) activated 40 kDa branched PEG molecule [33]. PEGylation prolonged
+the serum half-life from 3.8 to 65 h, slowing down the clearance by more than 100-fold. This has also reduced the volume
+of distribution to fivefold with respect to the native interferonα2b [31]. PEGASYS® was efficient in improving the patient
+compliance by enabling once-weekly dosing while maintaining acceptable safety, tolerability, and activity profiles in clinical
+studies [34]. Currently, PEGASYS® is under evaluation as adjuvant therapy for patients with intermediate and high-risk
+melanomas [35].
+3.2.2. PEG-granulocyte colony stimulating factor
+(PEG-filgrastim)
+PEG-filgrastim was synthesized by conjugating a linear 20 kDa
+mPEG-aldehyde derivative to an N-terminal methionine residue
+of filgrastim through reductive alkylation under mild acidic conditions [36,37]. It is to be noted that a single dose of PEGfilgrastim per chemotherapy cycle could be able to reduce the
+risk of febrile neutropenia significantly with respect to the native
+protein (11% vs. 19%) [38–40]. Currently, PEGylated-G-CSF
+(Pegfilgastrim, Neulasta®) is used as an adjuvant therapy for
+patients with non-myeloid malignancies receiving myelosuppressive chemotherapy (bone marrow suppression as a side
+effect of chemotherapy) associated with a 20% risk of febrile
+neutropenia [41,42].
+
+3.3.
+
+PEGylated enzymes in anti-cancer therapy
+
+Therapeutic enzymes represent a growing class of biopharmaceuticals, and PEGylation has played a major role in
+
+improving several of these products [43]. Many depleting
+enzymes are active against tumors. Enzymes’ intrinsic property of degrading amino acids is essential for cancer cells
+existence. The fate of the tumor cell is dictated by the different cellular pathways regulated by the substrate (amino acid)
+to be degraded, and the process of degradation is illustrated
+in Fig. 8. The normal cells are not affected because the normal
+cells can synthesize the amino acids for their growth. This situation is particularly the most advantageous aspect of using
+depleting enzymes in cancer therapy (Table 1). Therefore, during
+PEGylation procedure, a combination of these enzymes, low
+molecular weight (5–10 kDa) PEGs and random amine conjugation strategies are employed.
+
+3.3.1.
+
+PEG-arginine depleting enzymes
+
+Arginine is a nonessential amino acid in humans. It has been
+reported that arginine deficiency inhibits tumor growth, angiogenesis and nitric oxide synthesis [44]. Two types of arginine
+degrading enzymes, i.e. i) arginine deiminase (ADI) and ii) arginase (ARG), which can be utilized as antitumor agents, are
+discussed below:
+
+3.3.1.1. PEG-arginine deiminase. The PEGylation of arginine
+deiminase proved to be a better therapeutic approach for
+anticancer treatment. Among the several PEGylated ADI formulations the ADI-PEG20000, formulated by conjugating
+10–12 chains of 20 kDa PEG with ADI by using the succinimidyl
+succinate linker, is proved to be the acceptable one from
+in vivo study results [45]. Clinical studies have shown better efficacy of ADI PEG 200,000 in terms of antitumor activity and
+tolerability [46,47]. Currently, ADI PEG 200,000 versus placebo
+is under phase III clinical trial for advanced hepatocellular carcinoma. Further, Phase II for acute myeloid
+leukemia/non-Hodgkin’s lymphoma and Phase I (for metastatic melanoma in combination with cis-platin; for solid
+tumors in combination with docetaxel) are under trial
+[48].
+
+asian journal of pharmaceutical sciences 11 (2016) 337–348
+
+343
+
+Fig. 8 – Representing PEGylated depleting enzymes in anticancer therapy.
+
+3.3.1.2. PEG-arginase. The depleting enzyme arginase is an endogenous protein expressed in humans. The conjugate, PEGrhArg, has 10 to 12 polymer chains of PEG 5000 per protein
+molecule that is covalently attached via a succinamide propionic acid (SPA) linker. This conjugate remains in fully active
+condition [49]. The PEGylated form executes sufficient catalytic activity at physiological pH with a prolonged plasma halflife of 3 days in comparison to the native form, which has a
+half-life of several minutes only. Currently, this conjugate is
+under phase I/II clinical trials.
+3.3.2. PEG-asparagine depleting enzyme
+(PEG-L-asparaginase)
+Depletion of asparagine eventually results in leukemic cell
+death. Leukemic cells lack the enzyme asparagine synthetase, an enzyme required for asparagine synthesis, and depend
+on the exogenous supply of asparagine for their growth and
+survival. Therefore, asparaginase, the depleting enzyme for asparagine, plays a critical role as a therapeutic enzyme in treating
+acute lymphoblastic leukemia (ALL). Oncaspar is a modified
+form of the enzyme L-asparaginase approved by FDA in 1994.
+Oncaspar consists of tetrameric enzyme L-asparaginase derived
+from E. coli, and it is covalently conjugated with approximately 69–82 molecules of monomethoxy polyethylene glycol
+(mpeg), each having molecular weight of 5 kDa [50]. Oncaspar
+
+proved to be a better treatment option for patients who were
+allergic to the native form of the drug. The U.S. Food and Drug
+Administration granted approval to pegaspargase (Oncaspar,
+Enzon Pharmaceuticals, Inc) in July 2006 for the first-line treatment of patients with acute lymphoblastic leukemia (ALL) as
+a component of a multi-agent chemotherapy regimen [51].
+
+4.
+PEGYLATED low molecular weight
+anticancer drugs
+Various PEGylated low molecular weight anti-cancer drugs are
+currently under development. For example, topoisomerase I inhibitor camptothecin-based drugs (irinotecan, topotecan, SN38,
+exetecan, etc.) is reported to be useful in the treatment of many
+solid tumors. However, the hydrophobicity of such material
+limits their therapeutic efficacy. Few of the examples, listed in
+Table 2, are discussed below:
+
+4.1.
+
+PEG-SN38 (EZN-2208)
+
+EZN-2208, the product Enzon Pharmaceuticals, Inc, is a
+PEGylated SN38 (10-hydroxy-7-ethyl-camptothecin (a derivative of camptothecin)). SN38 is the active moiety of CPT-11
+
+Table 2 – PEGylated low molecular weight drugs/liposomal derivatives/thermo-sensitive conjugates and nanoparticles in
+clinical development as anticancer therapy.
+Trade name
+
+Conjugate
+
+EZN-2208
+
+PEG-SN38
+
+NKTR-102
+Irinotecan
+
+PEG-irinotecan
+
+Doxil (Caelyx)
+ThermoDox
+
+PEG-liposomal doxorubicin
+PEG-thermosensitive
+liposomal doxorubicin
+Pegylated cyclodextrin
+nanoparticle
+
+CALLA 01
+
+Parent drug
+SN38 (camptothecin
+derivative)
+Irinotecan
+
+FDA approved date/clinical trial status
+Phase II, various cancer
+
+Doxorubicin
+Doxorubicin
+
+Phase III, metastatic or locally recurrent breast cancer and Phase II,
+solid tumor malignancies, including ovarian, colorectal, glioma,
+small cell and non-small cell lung cancers
+November 1995 for ovarian/breast cancer and Kaposi’s sarcoma
+Phase III, hepatocellular carcinoma
+
+SiRNA
+
+In clinical phase I for solid tumors
+
+344
+
+asian journal of pharmaceutical sciences 11 (2016) 337–348
+
+(Camptosar®, irinotecan) and reported to be a potent
+topoisomerase I inhibitor. In this PEGylated product, the 20OH group of SN38 was selectively coupled with a 4 arm PEG
+of 40 kDa through a glycine spacer to preserve the E ring of
+SN38 in the active lactone form while leaving the drug 10-OH
+free [52]. PEGylation was able to enhance the solubility of SN38
+by about 1000-fold. In fact, EZN-2208 showed a 207-fold higher
+exposure to SN38 compared to irinotecan in treated mice [53].
+The conjugate showed promising antitumor activity both in vitro
+and in vivo. However, following phase II trial, Enzon Pharmaceuticals, Inc. announced the discontinuance of its EZN-2208
+clinical program [54].
+
+4.2.
+
+PEG-irinotecan (NKTR-102, Etirinotecan pegol)
+
+NKTR-102 was developed by Nektar Therapeutics as a PEGylated
+formulation for the treatment of colorectal cancer and other
+solid tumors using the architecture of new multi-arm PEGs. It
+is the first long-acting topoisomerase I inhibitor. It is synthesized by covalently conjugating irinotecan to a four-arm PEG
+[55]. SN38 (10-hydroxy-7-ethyl-camptothecin, a derivative of
+camptothecin) is the active metabolite of NKTR-102. It is reported in both Phase I and II studies for NKTR-102 that
+sustained exposure of the active drug was associated with
+promising anti-tumor activity [56–58]. Currently NKTR-102 is
+in Phase III clinical trial for patients with metastatic or locally
+recurrent breast cancer and Phase II clinical trial for patients
+with solid tumor malignancies that include ovarian, colorectal,
+small cell and non-small cell lung cancers [59].
+
+5.
+PEGylated nanoparticles in anti-cancer
+therapy
+Nanoparticles (NPs) are synthetic materials with dimensions
+from 1 to 1000 nano-meters. NPs have large payloads, stability and the capacity for multiple, simultaneous applications
+due to their unique size and high surface area:volume ratio
+[60]. Despite these advantages, the major drawbacks associated with NP drug delivery system for clinical studies are
+associated with short circulating half-life due to uptake by the
+reticuloendothelial system (RES) for larger NPs, whereas smaller
+NPs are subjects to tissue extravazations and renal clearance
+[61]. Liposomes, solid lipids nanoparticles, dendrimers, polymers, silicon or carbon materials, and gold and magnetic
+nanoparticles are examples of nano-carriers that have been
+studied as drug delivery systems in cancer therapy. Therefore, surface modification of the nanoparticles with PEGs of
+various chain length, shape, density, molecular weight and incorporation of different targeting moieties (ligands, antibodies,
+etc.) is emerging as a more promising and technologically advanced drug delivery system in anti-cancer therapy [62–64].
+There are currently more than 35 US FDA-approved PEGylated
+NPs, with a larger number in preclinical studies for both imaging
+and therapy [8]. Among several PEGylated nanoparticle formulations for anticancer therapy, liposomes have been most
+extensively studied.
+
+5.1.
+
+PEGylated liposomes in anticancer therapy
+
+Liposomes are spherical, self-closed structures formed by one
+or more concentric lipid bilayers with an encapsulated aqueous
+phase in the center and between the bilayers composed of
+natural or synthetic lipids [65]. The development of longcirculating liposomes with inclusion of the synthetic polymer
+poly-(ethylene glycol) (PEG) in liposome composition could be
+able to solve the issue of low serum half-life associated with
+liposomes. PEG can be incorporated on the liposomal surface
+in a number of ways. However, anchoring the polymer in
+the liposomal membrane via a cross-linked lipid, PEGdistearoylphosphatidylethanolamine [DSPE], is reported to be
+the most widely accepted method [66,67]. Preclinical studies
+with PEGylated liposomes reported that the cytotoxic agents
+entrapped in PEGylated liposomes tend to accumulate in tumors
+[68]. However, recent preclinical studies of anti-cancer drug enclosed in PEGylated liposomes in rodents and dogs have shown
+the rapid blood clearance of the pegylated drug carrier system
+due to the increased anti-PEG-IgM production [69,70]. An
+example of PEGylated liposomal formulations, PEGylated liposomal doxorubicin (PLD), and most extensively studied, is
+discussed below:
+
+5.1.1.
+
+Doxil (PEGylated liposomal doxorubicin)
+
+DOXIL is the trade name for PEGylated liposomal doxorubicin formulated to achieve better drug efficacy for cancer
+chemotherapy. This product contains doxorubicin (Adriamycin)
+enclosed in an 80–90 nm size uni-lamellar liposome coated with
+PEG. The modification increases the circulatory half-life of the
+drug leading to its enhanced bioavailability at the tumor site
+[71,72]. PEGylated liposomal doxorubicin has fewer side effects
+on healthy cells than regular doxorubicin [73,74]. PLD has improved pharmacokinetic features, such as long circulation time
+of about 60–90 h for doses in the range of 35–70 mg/m2 in patients with solid tumors. After PLD administration, nearly 100%
+of the drug in the plasma remains in the encapsulated form.
+Moreover, in comparison to free doxorubicin PLD, plasma clearance is dramatically slower and its volume of distribution
+remains very small, which is roughly equivalent to the intravascular volume [75–77]. After obtaining approval from FDA,
+PEGylated liposomal doxorubicin (PLD) (DOXIL/Caelyx) is currently used to treat Kaposi’s sarcoma and recurrent ovarian
+cancer (Table 2).
+
+6.
+PEGylated smart polymers in anticancer
+therapy
+Smart polymers are defined as polymers that undergo reversible large, physical or chemical changes in response to small
+external changes in the environmental conditions, such as temperature, pH, light, magnetic or electric field, ionic factors,
+biological molecules, etc. Smart polymers show promising applications in the biomedical field as delivery systems of
+therapeutic agents [78]. Among various smart polymers currently in use in biomedical field of research, the temperature
+sensitive systems are the most studied systems. The greater
+therapeutic index of the targeted drug delivery systems can
+
+asian journal of pharmaceutical sciences 11 (2016) 337–348
+
+be achieved by adjusting the transition temperature (Tt) of thermally responsive polymers, i.e., between body temperature
+(37 °C) and the temperature approved for mild clinical hyperthermia (42 °C) [79]. Within the temperature ranges, these
+polymers facilitate tissue accumulation by localizing the aggregation of systemically delivered carriers to the heated tumor
+volume [80,81]. For example, ThermoDox, a temperaturesensitive doxorubicin-loaded PEGylated liposome (DPPC),
+releases encapsulated doxorubicin at elevated tissue temperature. DPPC has a transition temperature of 41.5 °C, which makes
+it suitable for temperature-sensitive technology [82]. The temperature can be achieved by radiofrequency ablation technique.
+For ThermoDox, the concentration of the drug is up to 25 times
+more in the treatment area than IV doxorubicin, and several
+fold the concentration of other liposomally encapsulated doxorubicins [82,83]. Currently, it is under phase III clinical trial for
+hepatocellular carcinoma (Table 2).
+
+7.
+PEGylated polymeric micelles in anticancer therapy
+Polymeric micelles are colloidal dispersions prepared by blockcopolymers, consisting of hydrophilic and hydrophobic
+monomer units. Self-assembling amphiphilic polymeric micelles represents an efficient drug delivery system for poorly
+soluble or insoluble drugs [84]. Different varieties of amphiphilic polymeric micelles (i.e. diblock AB type, triblock ABA type
+or graft copolymers) can be designed by arranging the monomeric units in different ways and orders [85,86]. The
+hydrophobic block constitute the core and the hydrophilic block
+makes the corona of the micelles. The water-soluble PEG blocks
+with a molecular weight from 1 to 15 kDa are considered as
+the most suitable hydrophilic corona-forming blocks [87]. Various
+preclinical and clinical studies have shown the potential use
+of PEGylated polymeric micelles with different hydrophobic
+blocks such as PLGA poly(D,L-lactide-co-glycolide) [88–90], poly
+aspartate [91], γ-benzyl-L-glutamate [92], polyglutamate (Pglu)
+[93], and poly(D,L-lactic acid) [94] in anti-cancer therapy. It is
+to be noted that five different PEGylated polymeric micellar formulations, as enlisted in Table 3, are currently under clinical
+trials for possible anticancer treatment [95,96].
+
+8.
+PEGylated nanoparticles for SiRNA delivery
+in anticancer therapy
+RNA interference is a natural phenomenon employed to selectively turn off the genes expressed in some diseases.
+
+345
+
+Molecular therapy using small interfering RNA (siRNA) has
+shown great therapeutic potential for tumors and other diseases caused by abnormal gene over-expression or mutation.
+It is a highly specific process for gene silencing. However, naked
+molecules of siRNA are vulnerable to premature renal clearance and nuclease degradation. The negative charge and
+hydrophilicity of siRNA also limit its permeability through cellular and endolysosomal membranes. Therefore, in order to
+overcome these issues, siRNA requires a carrier system for effective delivery [97]. Modification of drug delivery systems with
+PEGs of suitable chain length, molecular weight and percent
+composition was proven to be efficient in overcoming intracellular and systemic siRNA delivery barriers [98]. CALLA 01,
+a nanoparticle formulation (Calando Pharmaceuticals) formulated by using cyclodextrin nanoparticles conjugated to
+transferrin and coated with PEG, is the first one to enter under
+phase I clinical trials for solid tumors [44,99], in addition to few
+more which are currently under development (Table 2).
+
+9.
+
+Conclusions
+
+PEGylation offers a great advantage for bioactive molecules in
+pharmaceutical and biological applications by way of reducing protein immunogenicity and increased serum half-life of
+the drugs. This overview highlighted on the use of PEGylated
+proteins, low molecular weight drugs and PEG micelles.
+PEGylation improves the therapeutic efficacy of a drug by
+passive targeting in a novel way. The process can also be combined effectively with active targeting and stimuli-responsive
+targeted therapies for the development of new methodologies for the treatment of cancer. It is important to note that
+the efficacy of PEGylated drugs depends on overall exposure
+and its relationship to the pharmacodynamics of the drug. Molecular weight of PEG chain and its structural modifications
+carries strategic importance for conjugation with drug molecule for effective PEGylation process. The research in this
+direction shall be helpful in effective cancer treatment process
+in near future.
+
+Acknowledgements
+The authors wish to acknowledge Dr. Rajakishore Mishra from
+Central University Jharkhand, India, and Dr. Basabi Rana from
+Loyola University Chicago, USA, for their valuable suggestions.
+The grant in aid from DST, New Delhi (Project No. SR/S1/PC-24/
+2009) is duly acknowledged. University fellowship to Prajna
+Mishra for pursuing her research work is acknowledged.
+
+Table 3 – PEGylated polymeric micelles in clinical development as anticancer therapy.
+Trade name for polymeric micelle
+NK105
+NK012
+NC-6300
+NC-6004
+Genexol-PM
+
+Block copolymer
+PEG-P(aspartate) Paclitaxel
+PEG-PGlu(SN-38)
+PEG-P(aspartate) Epirubicin
+PEG-PGlu(cisplatin)
+PEG-P(D,L-lactide) Paclitaxel
+
+Parent drug
+Paclitaxel
+SN-38
+Epirubicin
+Cisplatin
+Paclitaxel
+
+Clinical trial status
+Phase II, advanced stomach cancer
+Phase II, breast cancer
+Phase I, breast cancer, stomach cancer, lymphoma
+Phase I/II, solid tumors
+Phase IV, breast cancer
+Phase II, pancreatic cancer
+
+346
+
+asian journal of pharmaceutical sciences 11 (2016) 337–348
+
+REFERENCES
+
+[1] Knop K, Hoogenboom R, Fischer D, et al. Poly(ethylene
+glycol) in drug delivery: pros and cons as well as potential
+alternatives. Angew Chem Int Ed Engl 2010;49:6288–6308.
+[2] Abuchowski A, Van Es T, Palczuk NC, et al. Alteration of
+immunological properties of bovine serum albumin by
+covalent attachment of polyethylene glycol. J Biol Chem
+1977;252:3578–3581.
+[3] Abuchowski A, McCoy JR, Palczuk NC, et al. Effect of covalent
+attachment of polyethylene glycol on immunogenicity and
+circulating life of bovine liver catalase. J Biol Chem
+1977;252:3582–3586.
+[4] Immordino ML, Dosio F, Cattel L. Stealth liposomes: review
+of the basic science, rationale, and clinical applications,
+existing and potential. Int J Nanomedicine 2006;1:297–315.
+[5] Matsushima A, Kodera Y, Hiroto M, et al. Bioconjugates of
+proteins and polyethylene glycol: potent tools in
+biotechnological processes. J Mol Catal B Enzym 1996;2:1–17.
+[6] Eugenia Giorgi M, Agusti R, de Lederkremer Beilstein RM.
+Carbohydrate PEGylation, an approach to improve
+pharmacological potency. J Org Chem 2014;10:1433–1444.
+[7] Riley T, Riggs-Sauthier J. The benefits and challenges of
+PEGylating small molecules. Pharm Technol 2008;32:88–94.
+[8] Jokerst JV, Lobovkina T, Zare RN, et al. Nanoparticle
+PEGylation for imaging and therapy. Nanomedicine
+2011;6:715–728.
+[9] Roberts MJ, Bentley MD, Harris JM. Chemistry for peptide
+and protein PEGylation. Adv Drug Deliv Rev 2002;54:459–
+476.
+[10] Veronese FM, Pasut G. PEGylation: posttranslational
+bioengineering of protein bio therapeutics. Drug Discov
+Today Technol 2008;5:57–64.
+[11] Caliceti P, Veronese FM. Pharmacokinetic and biodistribution properties of poly(ethylene glycol)- protein
+conjugates. Adv Drug Deliv Rev 2003;55:1261–1277.
+[12] Bhat R, Timasheff SN. Steric exclusion is the principal
+source of the preferential hydration of proteins in the
+presence of polyethylene glycols. Protein Sci 1992;1:1133–
+1143.
+[13] Bailon P, Berthold W. Polyethylene glycol-conjugated
+pharmaceutical proteins. Pharm Sci Technol Today
+1998;1:352–356.
+[14] Monfardini C, Schiavon O, Caliceti P, et al. A branched
+monomethoxypoly (ethylene glycol) for protein
+modification. Bioconjug Chem 1995;6:62–69.
+[15] Delgado C, Francis GE, Fisher D. The uses and properties of
+PEG linked proteins. Crit Rev Ther Drug Carrier Syst
+1992;9:249–304.
+[16] Nucci ML, Shorr R, Abuchowski A. The therapeutic value of
+poly(ethylene glycol)-modified proteins. Adv Drug Deliv Rev
+1991;6:133–151.
+[17] Yamaoka T, Tabata Y, Ikada Y. Distribution and tissue
+uptake of poly(ethylene glycol) with different molecular
+weights after intravenous administration to mice. J Pharm
+Sci 1994;83:601–606.
+[18] Mishra S, Webster P, Davis ME. PEGylation significantly
+affects cellular uptake and intracellular trafficking of nonviral gene delivery particles. Eur J Cell Biol 2004;83:97–111.
+[19] Remaut K, Lucas B, Braeckmans K, et al. PEGylation of
+liposomes favours the endosomal degradation of the
+delivered phosphodiester oligonucleotides. J Control Release
+2007;117:256–266.
+[20] Hatakeyama H, Akita H, Harashima H. The
+polyethyleneglycol dilemma: advantage and disadvantage of
+PEGylation of liposomes for systemic genes and nucleic
+acids delivery to tumors. Biol Pharm Bull 2013;36:892–899.
+
+[21] Sato Y, Hatakeyama H, Sakurai Y, et al. A pH-sensitive
+cationic lipid facilitates the delivery of liposomal siRNA and
+gene silencing activity in vitro and in vivo. J Control Release
+2012;163:267–276.
+[22] Hatakeyama H, Akita H, Harashima H. A multifunctional
+envelope type nano device (MEND) for gene delivery to
+tumours based on the EPR effect: a strategy for overcoming
+the PEG dilemma. Adv Drug Deliv Rev 2011;63:152–160.
+[23] Hatakeyama H, Akita H, Kogure K, et al. Development of a
+novel systemic gene delivery system for cancer therapy with
+a tumor-specific cleavable PEG-lipid. Gene Ther 2007;14:68–
+77.
+[24] Seymour LW, Miyamoto Y, Maeda H, et al. Influence of
+molecular weight on passive tumour accumulation of a
+soluble macromolecular drug carrier. Eur J Cancer
+1995;31A:766–770.
+[25] Schrama D, Reisfeld RA, Becker JC. Antibody targeted drugs
+as cancer therapeutics. Nat Rev Drug Discov 2006;5:147–159.
+[26] Allen TM. Ligand-targeted therapeutics in anticancer
+therapy. Nat Rev Cancer 2002;2:750–763.
+[27] Banerjee SS, Aher N, Patil R, et al. Poly(ethyleneglycol)prodrug conjugates: concept, design, and applications. J
+Drug Deliv 2012;2012:Article ID 103973.
+[28] Chapman AP. PEGylated antibodies and anti-body fragments
+for improved therapy: a review. Adv Drug Deliv Rev
+2002;54:531–545.
+[29] Ton NC, Parker GJ, Jackson A, et al. Phase I evaluation of
+CDP791, a PEGylated di-Fab’ conjugate that binds vascular
+endothelial growth factor receptor 2. Clin Cancer Res
+2007;13:7113–7118.
+[30] Wang YS, Youngster S, Grace M, et al. Structural and
+biological characterization of pegylated recombinant
+interferon alpha-2b and its therapeutic implications. Adv
+Drug Deliv Rev 2002;54:547–570.
+[31] Zeuzem S, Welsch C, Herrmann E. Pharmacokinetics of peg
+interferons. Semin Liver Dis 2003;23:23–28.
+[32] Herndon TM, Demko SG, Jiang X, et al. Peginterferon-alfa-2b
+for the adjuvant treatment of patients with melanoma.
+Oncologist 2012;17:1323–1328.
+[33] Reddy KR, Modi MW, Pedder S. Use of peginterferon α2a
+(40KD) (Pegasys®) for the treatment of hepatitis C. Adv Drug
+Deliv Rev 2002;54:571–586.
+[34] Lipton JH, Khoroshko N, Golenkov A, et al. Pegasys CML
+Study Group. Phase II, randomized, multicenter, comparative
+study of peginterferon-alpha-2a (40kD) (Pegasys) versus
+interferon alpha-2a (Roferon-A) in patients with treatmentnaïve, chronic-phase chronic myelogenous leukemia. Leuk
+Lymphoma 2007;48:497–505.
+[35] Loquai C, Nashan D, Hensen P, et al. Safety of pegylated
+interferon-alpha-2a in adjuvant therapy of intermediate and
+high-risk melanomas. Eur J Dermatol 2008;18:29–35.
+[36] Veronese FM, Mero A. The impact of PEGylation on biological
+therapies. Biodrugs 2008;22:315–329.
+[37] Kinstler O, Molineux G, Treuheit M, et al. Mono-N-terminal
+poly(ethylene glycol)-protein conjugates. Adv Drug Deliv Rev
+2002;54:477–485.
+[38] Green MD, Koelbl H, Baselga J, et al. A randomized doubleblind multi center phase III study of fixed-dose singleadministration pegfilgrastim versus daily filgrastim in
+patients receiving myelosuppressive chemotherapy. Ann
+Oncol 2003;14:29–35.
+[39] Holmes FA, Jones SE, O’Shaughnessy J, et al. Comparable
+efficacy and safety profiles of once-per-cycle pegfilgrastim
+and daily injection filgrastim in chemo- therapy-induced
+neutropenia: a multi center dose-finding study in women
+with breast cancer. Ann Oncol 2002;13:903–909.
+[40] Grigg A, Solal-Celigny P, Hoskin P, et al. Open-label,
+randomized study of pegfilgrastim vs. daily filgrastim as an
+
+asian journal of pharmaceutical sciences 11 (2016) 337–348
+
+[41]
+
+[42]
+
+[43]
+[44]
+
+[45]
+
+[46]
+
+[47]
+
+[48]
+[49]
+
+[50]
+
+[51]
+
+[52]
+
+[53]
+
+[54]
+[55]
+
+[56]
+
+[57]
+
+adjunct to chemotherapy in elderly patients with nonHodgkin’s lymphoma. Leuk Lymphoma 2003;44:1503–
+1508.
+Vogel CL, Wojtukiewicz MZ, Carroll RR, et al. First and
+subsequent cycle use of pegfilgrastim prevents febrile
+neutropenia in patients with breast cancer: a multi center,
+double-blind, placebo-controlled phase III study. J Clin Oncol
+2005;23:1178–1184.
+Smith TJ, Khatcheressian J, Lyman GH, et al. Update of
+recommendations for the use of white blood cell growth
+factors: an evidence-based clinical practice guideline. J Clin
+Oncol 2006;24:3187–3205.
+Vellard M. The enzyme as drug: application of enzymes as
+pharmaceuticals. Curr Opin Biotechnol 2003;14:444–450.
+Cheng PN, Leung YC, Lo WH, et al. Remission of
+hepatocellular carcinoma with arginine depletion induced
+by systemic release of endogenous hepatic arginase due to
+trans hepatic arterial embolisation, augmented by high-dose
+insulin: arginase as a potential drug candidate for
+hepatocellular carcinoma. Cancer Lett 2005;224:67–80.
+Holtsberg FW, Ensor CM, Steiner MR, et al. Poly(ethylene
+glycol) (PEG) conjugated arginine deiminase: effects of PEG
+formulations on its pharmacological properties. J Control
+Release 2002;80:259–271.
+Glazer ES, Piccirillo M, Albino V, et al. Phase II study of
+pegylated arginine deiminase for non resectable and
+metastatic hepatocellular carcinoma. J Clin Oncol
+2010;28:2220–2226.
+Ascierto PA, Scala S, Castello G, et al. Pegylated arginine
+deiminase treatment of patients with metastatic melanoma:
+results from phase I and II studies. J Clin Oncol
+2005;23:7660–7668.
+<https://clinicaltrials.gov>.
+Cheng PN, Lam T, Lam W, et al. Pegylated recombinant
+human arginase (rhArg-peg5,000mw) inhibits the in vitro and
+in vivo proliferation of human hepatocellular carcinoma
+through arginine depletion. Cancer Res 2007;67:309–
+317.
+Pillai G. Nanomedicines for cancer therapy: an update of
+FDA approved and those under various stages of
+development. SOJ Pharm Pharm Sci 2014;1(2):1–13.
+Dinndorf PA, Gootenberg J, Cohen MH, et al. FDA drug
+approval summary: pegaspargase (Oncaspar®) for the firstline treatment of children with acute lymphoblastic
+leukemia (ALL). Oncologist 2007;12:991–998.
+Zhao H, Rubio B, Sapra P, et al. Novel prodrugs of SN38 using
+multi arm poly(ethylene glycol) linkers. Bioconjug Chem
+2008;19:849–859.
+Sapra P, Zhao H, Mehlig M, et al. Novel delivery of SN38
+markedly inhibits tumor growth in xenografts, including a
+Camptothecin-11–refractory model. Clin Cancer Res
+2008;14:1888–1896.
+<http://enzon.com/posts/view/42>.
+Hoch U, Staschen CM, Johnson RK, et al. Nonclinical
+pharmacokinetics and activity of etirinotecan pegol (NKTR102), a long-acting topoisomerase 1 inhibitor, in multiple
+cancer models. Cancer Chemother Pharmacol 2014;74:1125–
+1137.
+Jameson GS, Hamm JT, Weiss GJ, et al. A multicenter, phase
+I, dose-escalation study to assess the safety, tolerability, and
+pharmacokinetics of etirinotecan pegol in patients with
+refractory solid tumors. Clin Cancer Res 2013;19:268–
+278.
+Vergote IB, Garcia A, Micha J, et al. Randomized multicenter
+phase II trial comparing two schedules of etirinotecan pegol
+(NKTR-102) in women with recurrent platinum-resistant/
+refractory epithelial ovarian cancer. J Clin Oncol
+2013;31:4060–4066.
+
+347
+
+[58] Awada A, Garcia AA, Chan S, et al. Two schedules of
+etirinotecan pegol (NKTR-102) in patients with previously
+treated metastatic breast cancer: a randomised phase 2
+study. Lancet Oncol 2013;14:1216–1225.
+[59] <http://www.nektar.com>.
+[60] Jain PK, Huang X, El-Sayed IH, et al. Noble metals on the
+nano-scale: optical and photo thermal properties and some
+applications in imaging, sensing, biology, and medicine. Acc
+Chem Res 2008;41:1578–1586.
+[61] Cole AJ, Yang VC, David AE. Cancer theranostics: the rise of
+targeted magnetic nanoparticles. Trends Biotechnol
+2011;29:323–332.
+[62] Cruza LJ, Tackena PJ, Fokkinkb R, et al. The influence of PEG
+chain length and targeting moiety on antibody-mediated
+delivery of nanoparticle vaccines to human dendritic cells.
+Biomaterials 2011;32:6791–6803.
+[63] Bao W, Liu R, Wang Y, et al. Plga-Pll-Peg-Tf-based targeted
+nanoparticles drug delivery system enhance antitumor
+efficacy via intrinsic apoptosis pathway. Int J Nanomedicine
+2015;10:557–566.
+[64] Zhang F, Zhang S, Pollack SF, et al. Improving paclitaxel
+delivery: in vitro and in vivo characterization of PEGylated
+polyphosphoester-based nanocarriers. J Am Chem Soc
+2015;137:2056–2066.
+[65] Pisal DS, Kosloski MP, Balu-Iyer SV. Delivery of therapeutic
+proteins. J Pharm Sci 2010;99:2557–2575.
+[66] Allen TM, Hansen C, Martin F, et al. Liposomes containing
+synthetic lipid derivatives of poly(ethylene glycol) show
+prolonged circulation half-lives in vivo. Biochim Biophys
+Acta 1991;1066:29–36.
+[67] Allen C, Dos SN, Gallagher R, et al. Controlling the physical
+behavior and biological performance of liposome
+formulations through use of surface grafted poly(ethylene
+glycol). Biosci Rep 2002;22:225–250.
+[68] Newman MS, Colbern GT, Working PK, et al. Comparative
+pharmacokinetics, tissue distribution, and therapeutic
+effectiveness of cisplatin encapsulated in long-circulating
+pegylated liposomes (SPI- 077) in tumor-bearing mice.
+Cancer Chemother Pharmacol 1999;43:1–7.
+[69] Yang Q, Ma Y, Zhao Y, et al. Accelerated drug release and
+clearance of PEGylated epirubicin liposomes following
+repeated injections: a new challenge for sequential low-dose
+chemotherapy. Int J Nanomedicine 2013;8:1257–1268.
+[70] Suzuki T, Ichihara M, Hyodo K, et al. Accelerated blood
+clearance of PEGylated liposomes containing doxorubicin
+upon repeated administration to dogs. Int J Pharm
+2012;436:636–643.
+[71] Krown SE, Northfelt DW, Osoba D, et al. Use of liposomal
+anthracyclines in Kaposi’s sarcoma. Semin Oncol
+2004;31:36–52.
+[72] Lao J, Madani J, Puértolas T, et al. Liposomal doxorubicin in
+the treatment of breast cancer patients: a review. J Drug
+Deliv 2013;2013:Article ID 456409.
+[73] Rahman AM, Yusuf SW, Ewer MS. Anthracycline-induced
+cardiotoxicity and the cardiac sparing effect of liposomal
+formulation. Int J Nanomedicine 2007;2:567–583.
+[74] O’Brian ME, Wigler N, Inbar M, et al. Reduced cardiotoxicity
+and comparable efficacy in a phase III trial of pegylated
+liposomal doxorubicin HCL (CAELYX/DOXIL) versus
+conventional doxorubicin for first-line treatment of
+metastatic breast cancer. Ann Oncol 2004;15:440–449.
+[75] Gabizon A. Applications of liposomal drug delivery systems
+to cancer therapy. In: Nanotechnology for cancer therapy.
+New York: CRC Press; 2006. p. 595–611.
+[76] Gabizon A, Catane R, Uziely B, et al. Prolonged circulation
+time and enhanced accumulation in malignant exudates of
+doxorubicin encapsulated in polyethyleneglycol coated
+liposomes. Cancer Res 1994;54:987–992.
+
+348
+
+asian journal of pharmaceutical sciences 11 (2016) 337–348
+
+[77] Amantea MA, Forrest A, Northfelt DW, et al. Population
+pharmacokinetics and pharmacodynamics of pegylatedliposomal doxorubicin in patients with AIDS-related
+Kaposi’s sarcoma. Clin Pharmacol Ther 1997;61:301–311.
+[78] Aguilar MR, Elvira C, Gallardo A, et al. Smart polymers and
+their applications as biomaterials. Top Tissue Eng 2007;3:1–
+27.
+[79] Jones E, Thrall D, Dewhirst MW, et al. Prospective thermal
+dosimetry: the key to hyperthermia’s future. Int J
+Hyperthermia 2006;22:247–253.
+[80] Meyer DE, Kong GA, Dewhirst MW, et al. Targeting a
+genetically engineered elastin-like polypeptide to solid
+tumors by local hyperthermia. Cancer Res 2001;61:1548–
+1554.
+[81] Zhang J, Chen H, Xu L, et al. The targeted behavior of
+thermally responsive nano hydrogel evaluated by NIR
+system in mouse model. J Control Release 2008;131:34–
+40.
+[82] Slingerland M, Guchelaar HJ, Gelderblom H. Liposomal drug
+formulations in cancer therapy: 15 years along the road.
+Drug Discov Today 2012;17:160–166.
+[83] Yarmolenko PS, Zhao Y, Landon C, et al. Comparative effects
+of thermo sensitive doxorubicin-containing liposomes and
+hyperthermia in human and murine tumors. Int J
+Hyperthermia 2010;26:485–498.
+[84] Torchilin VP. Micellar nanocarriers: pharmaceutical
+perspectives. Pharm Res 2007;24:1–16.
+[85] Jones M, Leroux J. Polymeric micelles – a new generation of
+colloidal drug carriers. Eur J Pharm Biopharm 1999;48:101–
+111.
+[86] Torchilin VP. Structure and design of polymeric surfactantbased drug delivery systems. J Control Release 2001;73:137–
+172.
+[87] Kwon GS. Polymeric micelles for delivery of poorly watersoluble compounds. Crit Rev Ther Drug Carrier Syst
+2003;20:357–403.
+
+[88] Yoo HS, Park TG. Folate receptor targeted biodegradable
+polymeric doxorubicin micelles. J Control Release
+2004;96:273–283.
+[89] Cheng J, Teply BA, Sherifi I, et al. Formulation of
+functionalized PLGA–PEG nanoparticles for in-vivo targeted
+drug delivery. Biomaterials 2007;28:869–876.
+[90] Esmaeili F, Ghahremani MH, Ostad SN, et al. Folate-receptortargeted delivery of docetaxel nanoparticles prepared by
+PLGA-PEG- folate conjugate. J Drug Target 2008;16:415–423.
+[91] Matsumura Y. Poly(amino acid) micelle nano-carriers in
+preclinical and clinical studies. Adv Drug Deliv Rev
+2008;60:899–914.
+[92] Plummer R, Wilson RH, Calvert H, et al. A phase I clinical
+study of cisplatin-incorporated polymeric micelles (NC-6004)
+in patients with solid tumours. Br J Cancer 2011;104:593–598.
+[93] Matsumura Y, Kataoka K. Preclinical and clinical studies of
+anticancer agent-incorporating polymer micelles. Cancer Sci
+2009;100:572–579.
+[94] Kim TY, Kim DW, Chung JY, et al. Phase I and
+pharmacokinetic study of Genexol-PM, a cremophor-free,
+polymeric micelle-formulated paclitaxel, in patients with
+advanced malignancies. Clin Cancer Res 2004;10:3708–3716.
+[95] Oerlemans C, Bult W, Bos M, et al. Polymeric micelles in
+anticancer therapy: targeting, imaging and triggered release.
+Pharm Res 2010;27:2569–2589.
+[96] Matsumura Y. The drug discovery by nano medicine and its
+clinical experience. Jpn J Clin Oncol 2014;44:515–525.
+[97] Kanasty RL, Whitehead KA, Vegas AJ, et al. Action and
+reaction: the biological response to siRNA and its delivery
+vehicles. Mol Ther 2012;20:513–524.
+[98] Miteva M, Kirkbride KC, Kilchrist KV, et al. Tuning PEGylation
+of mixed micelles to overcome intracellular and systemic
+siRNA delivery barriers. Biomaterials 2015;38:97–107.
+[99] Lee JM, Yoon TJ, Cho YS. Recent developments in
+nanoparticle-based siRNA delivery for cancer therapy.
+Biomed Res Int 2013;2013:Article ID 782041.
+
+

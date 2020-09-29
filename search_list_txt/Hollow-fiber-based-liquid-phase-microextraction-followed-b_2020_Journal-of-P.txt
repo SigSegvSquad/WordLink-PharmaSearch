@@ -1,0 +1,2552 @@
+Journal of Pharmaceutical Analysis 10 (2020) 109e122
+
+Contents lists available at ScienceDirect
+
+Journal of Pharmaceutical Analysis
+journal homepage: www.elsevier.com/locate/jpa
+
+Review paper
+
+Hollow ﬁber-based liquid phase microextraction followed by
+analytical instrumental techniques for quantitative analysis of heavy
+metal ions and pharmaceuticals
+Wajid Ali Khan a, Muhammad Balal Arain a, b, **, Yadollah Yamini c, Nasrullah Shah a,
+Tasneem Gul Kazi d, Stig Pedersen-Bjergaard e, *, Mohammad Tajik c
+a
+
+Department of Chemistry, Abdul Wali Khan University Mardan, 23200, KPK, Pakistan
+Department of Chemistry, University of Karachi, 75270, Karachi, Pakistan
+Department of Chemistry, Tarbiat Modares University, P. O. Box 14115-175, Tehran, Iran
+d
+National Center of Excellence in Analytical Chemistry, University of Sindh, Jamshoro, 76080, Sindh, Pakistan
+e
+School of Pharmacy, University of Oslo, Oslo, Norway
+b
+c
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 6 September 2019
+Received in revised form
+9 December 2019
+Accepted 11 December 2019
+Available online 12 December 2019
+
+Hollow-ﬁber liquid-phase microextraction (HF-LPME) and electromembrane extraction (EME) are
+miniaturized extraction techniques, and have been coupled with various analytical instruments for trace
+analysis of heavy metals, drugs and other organic compounds, in recent years. HF-LPME and EME provide
+high selectivity, efﬁcient sample cleanup and enrichment, and reduce the consumption of organic solvents to a few micro-liters per sample. HF-LPME and EME are compatible with different analytical instruments for chromatography, electrophoresis, atomic spectroscopy, mass spectrometry, and
+electrochemical detection. HF-LPME and EME have gained signiﬁcant popularity during the recent years.
+This review focuses on hollow ﬁber based techniques (especially HF-LPME and EME) of heavy metals and
+pharmaceuticals (published 2017 to May 2019), and their combinations with atomic spectroscopy, UVVIS spectrophotometry, high performance liquid chromatography, gas chromatography, capillary electrophoresis, and voltammetry.
+© 2019 Xi'an Jiaotong University. Production and hosting by Elsevier B.V. This is an open access article
+under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+Keywords:
+Hollow ﬁber liquid phase microextraction
+Electromembrane extraction
+Heavy metals
+Pharmaceuticals
+Instrumental techniques
+
+1. Introduction
+Most analytical methods include sample preparation prior to the
+instrumental analysis. The purpose of the sample preparation is to
+make the sample compatible with the analytical instrument, to
+remove interfering matrix components and to enrich the target
+analytes to a detectable level [1]. Different sample preparation
+techniques are available, but liquid-liquid extraction (LLE) and
+solid-phase extraction (SPE) have been the most popular ones [2].
+For several decades, different microextraction variants of LLE and
+SPE have been developed. This was originally motivated by
+reduction or elimination of organic solvents [3] and was initiated by
+
+Peer review under responsibility of Xi'an Jiaotong University.
+* Corresponding author.
+** Corresponding author at: Department of Chemistry, Abdul Wali Khan University Mardan, 23200, KPK, Pakistan.
+E-mail addresses: bilal_ku2004@yahoo.com (M.B. Arain), stig.pedersenbjergaard@farmasi.uio.no (S. Pedersen-Bjergaard).
+
+the invention of solid-phase microextraction (SPME) by Pawliszyn
+et al. [4] and liquid-phase microextraction (LPME) by Jeannot and
+Cantwell [5]. Since the introduction of these innovative sample
+preparation methods, a variety of SPME and LPME methods have
+been reported in the literature. Head-space solid phase microextraction (HS-SPME), in-tube solid phase microextraction (ITSPME), thin-ﬁlm solid phase microextraction (TF-SPME), headspace liquid phase microextraction (HS-LPME), liquid-liquid
+microextraction based on solidiﬁcation of ﬂoating organic droplet
+(LLME-SFO), and dispersive liquid-liquid microextraction (DLLME)
+are examples in this direction [6e11]. While SPME has become
+commercially available, LPME is still performed with laboratory
+built devices. In spite of this, LPME is still a very active area of
+research for reasons including 1) simplicity, 2) costs, 3) green
+chemistry, 4) selectivity, and 5) method sensitivity. Fig. 1 illustrates
+different conﬁgurations and approaches to LPME. LPME was originally performed as single drop microextraction (SDME) [12]. SDME
+is still under development, but in this approach the stability of the
+droplet of organic solvent may be an issue.
+
+https://doi.org/10.1016/j.jpha.2019.12.003
+2095-1779/© 2019 Xi'an Jiaotong University. Production and hosting by Elsevier B.V. This is an open access article under the CC BY-NC-ND license (http://creativecommons.
+org/licenses/by-nc-nd/4.0/).
+
+110
+
+W.A. Khan et al. / Journal of Pharmaceutical Analysis 10 (2020) 109e122
+
+Fig. 1. Classiﬁcation of liquid phase microextraction techniques.
+
+Considering these limitations, hollow ﬁber protected liquid
+phase microextraction (HF-LPME) was introduced in 1999 [13]. In
+the ﬁrst paper, HF-LPME was utilized for preconcentration and
+extraction of pharmaceuticals prior to electrophoretic identiﬁcation and determination. An aqueous extraction solvent was injected
+into the lumen of a porous polypropylene hollow ﬁber membrane,
+while the porous wall was impregnated by an organic supported
+liquid membrane (SLM). As the extraction solvent (acceptor phase)
+was not in direct contact with the sample solution, the extraction
+system was stable, and highly efﬁcient sample cleanup was achieved with this innovative strategy. HF-LPME can be utilized for
+quantitative analysis from very complex environmental and biological samples [14].
+A typical HF-LPME setup consists of a porous hollow ﬁber
+membrane made of polypropylene, polytetraﬂuoroethylene, and
+polyvinylidene ﬂuoride, which is impregnated with an organic
+solvent. The solvent is immobilized in the pores in the wall of the
+hollow ﬁber membrane and serves as supported liquid membrane
+(SLM) [15]. The acceptor phase can be either an aqueous solution or
+an organic solvent. Due to this ﬂexibility, HF-LPME is compatible
+with most analytical instruments for chromatography, electrophoresis, molecular and atomic spectrometry, and electrochemistry. The current review discusses recent applications of HF-based
+microextraction for pharmaceutical and heavy metal applications,
+and on their compatibility with different instrumental methods.
+2. Principles and possible modes of the HF-LPME
+In HF-based LPME methods, the extraction phase is placed in the
+lumen of a porous hollow ﬁber. In such a way, the acceptor phase is
+protected by the SLM. To perform HF-LPME, a polypropylene hollow ﬁber membrane may ﬁrst be sonicated in acetone to remove
+polymer impurities [16]. Then the hollow ﬁber membrane is soaked
+in an impregnating solvent to ﬁll the pores of the HF membrane by
+capillary forces, and excess solvent may be removed by washing
+with distilled water [17]. After this step, the lumen of the hollow
+ﬁber is ﬁlled with the acceptor phase. As is thoroughly discussed
+below, the acceptor phase can be the same organic solvent as the
+SLM (the two-phase mode) or can be an aqueous solution (the
+three-phase mode). Finally, the hollow ﬁber is immersed in the
+sample solution and the analytes are extracted from the sample,
+
+through the SLM and into the acceptor phase [18]. Four different
+arrangements for HF-LPME have been reported, i.e., rod like, ushaped, hollow-ﬁber solvent bar, and knotted hollow-ﬁber.
+Considering the physicochemical characteristics of the desired
+analytes and levels of complexity of the sample, HF-LPME can be
+performed in a two- or three-phase mode.
+2.1. Two-phase HF-LPME
+In two-phase HF-LPME, the pores in the wall of the hollow ﬁber
+and the lumen are ﬁlled with an organic solvent, which is immiscible with the aqueous sample solution. Solvents like 1-octanol and
+dihexyl ether are commonly used [19]. Two-phase HF-LPME is
+applied for extraction and preconcentration of analytes with low
+polarity such as polycyclic aromatic hydrocarbons (PAHs). Since the
+analytes are extracted into an organic solvent, two-phase LPME is
+compatible with gas chromatography. Fig. 2 illustrates the principle
+of two-phase HF-LPME. According to this the SLM and the organic
+acceptor phase are the same in two-phase HF-LPME.
+2.2. Three-phase HF-LPME
+In three-phase LPME, the pores in the wall of the hollow ﬁber
+are ﬁlled with an organic solvent immiscible with water, while the
+lumen is ﬁlled with aqueous solution (acceptor solution). 1-Octanol
+and Dihexylether are common solvents [20]. The mechanism of
+extraction is based on pH adjustment of the sample solution and
+the aqueous acceptor phase. For instance, extraction of acidic
+compounds is achieved by acidiﬁcation of the sample to suppress
+ionization of the target analytes. This results in successful transfer
+of analytes towards the acceptor phase through the organic SLM.
+pH of the aqueous acceptor solution should be adjusted to a pH
+value 2e3 units above pKa of the analyte.
+Carrier mediated three-phase HF-LPME was introduced where a
+hydrophobic carrier was dissolved in the organic SLM before the
+impregnation of the HF pores [21]. The applied carrier is an organic
+compound capable of ion-pairing with analytes of interest. Hence,
+at the contact region between the sample solution and the SLM, the
+desired ion-pair complexes are formed, leading to successful
+extraction of target analytes. At the contact region between the
+SLM and the aqueous acceptor phase, the analyte is exchanged with
+
+W.A. Khan et al. / Journal of Pharmaceutical Analysis 10 (2020) 109e122
+
+111
+
+Fig. 2. A schematic mechanism of the two-phase HF-LPME.
+
+a suitable inorganic counter ion dissolved in the acceptor solution,
+and is released into the acceptor solution.
+As mentioned, three-phase HF-LPME can be applied for ionizable compounds (acids and bases). Two-phase HF-LPME offers high
+PFs and extraction efﬁciencies for non-polar analytes. However,
+because the SLM and the acceptor phase are the same organic
+solvent, there is no phase boundary. Therefore, cleanup is limited.
+Interestingly, Ghambarian et al. introduced a variant where ndodecane was used as the organic SLM, while organic solvents like
+methanol, ethanol, or acetonitrile, which are all immiscible with ndodecane, were used as acceptor phase [22]. This strategy provided
+improved sample clean-up, while extraction efﬁciency was not
+sacriﬁced. Fig. 3 illustrates the principles of three-phase HF-LPME.
+HF-LPME can be carried out through static, dynamic, and even
+fully automated strategies. One of the most interesting approaches
+for dynamic HF-LPME was introduced by Esraﬁli et al. called TTextraction [23]. Between two T connectors, a stainless-steel tube
+was mounted, housing the hollow ﬁber membrane. The sample
+solution was pumped into the TT-extractor through the two T
+
+connectors, while the acceptor phase was injected into the hollow
+ﬁber membrane via a syringe pump. This conﬁguration was capable
+of carrying out two-phase HF-LPME. Fig. 4 illustrates this innovative approach with all the details. In another strategy offered by the
+same research group, a fully automated HF-LPME with capability
+for two- and three-phase HF-LPME procedures was developed. In
+this setup, a syringe pump was used for washing, ﬁlling, and
+ejection of different solvents. Four containers were used for
+washing solvent, SLM, extraction solvent, and elution solvent. The
+extraction system was successfully connected with liquid chromatography. Fig. 5 shows the graphical design of this HF-LPME
+instrument [24].
+2.3. Electromembrane extraction
+In HF-LPME, mass transfer is by passive diffusion and this results
+in relatively slow extraction kinetics. Alternatively, ionizable compounds can be extracted efﬁciently and with outstanding sample
+cleanup by electromembrane extraction (EME) [25]. The principle
+
+Fig. 3. Schematic mechanisms of two possible modes of three-phase HF-LPME.
+
+112
+
+W.A. Khan et al. / Journal of Pharmaceutical Analysis 10 (2020) 109e122
+
+Fig. 4. Schematic conﬁguration of the dynamic HF-LPME. Reprinted with permission from Ref. [23].
+
+Fig. 5. (A) Illustrative conﬁguration and (B) schematic structure of the automated HF-LPME offered by Esraﬁli et al. Reprinted with permissions from Ref. [24].
+
+of EME is similar to that of HF-LPME. However, in EME the analytes
+are extracted selectively in their charged form under the inﬂuence
+of an electrical ﬁeld. Thus mass transfer is by electrokinetic
+migration across the SLM, and 2-nitrophenyl octyl ether (NPOE) is
+often used as SLM. The setup for EME is very similar to three-phase
+HF-LPME, but in EME two electrodes (usually platinum wires) are
+utilized. One electrode is placed in the acceptor phase into the
+hollow ﬁber lumen, while the second electrode is inserted into the
+sample solution. Fig. 6 shows the principle of EME.
+For extraction of basic analytes, the cathode (-) is placed inside
+the acceptor phase, while for acidic analytes the direction of the
+electrical ﬁeld is reversed [18]. After extraction, the acceptor phase
+is collected with a micro-syringe and injected into an analytical
+instrument for quantitative analysis. Due to the electrical ﬁeld
+across the SLM, bubble formation, Joule heating, and even punctuation of SLM may occur in EME systems operated under nonoptimal conditions. These phenomena occur in longer extraction
+times as a result of excessive migration of ions across SLM. Also,
+when the electrical ﬁeld is applied, electrical double layers and
+
+local pH gradients are formed in the interfaces between the SLM
+and the aqueous solutions on both side. These may impact the mass
+transfer. To reduce the impact of these phenomena, application of
+constant direct electrical current and application of pulsed voltage
+have been reported [26]. Although the utilization of a stabilized and
+constant direct current improved the efﬁciency and stability of
+EME, this approach is still not common in EME publications. Pulsed
+electromembrane extraction (PEME) was introduced as a strategy
+to enhance the efﬁciency of EME using a simple and inexpensive
+extraction setup [27]. Pulsed voltage was found to improve
+extraction efﬁciency and system stability.
+3. Operational parameters of HF-LPME and EME
+The type of hollow-ﬁber membrane, type of extraction solvent,
+pH of donor and acceptor phases, extraction time, stirring rate, salt
+addition, and temperature are important parameters in HF-LPME
+and EME. Applied voltage and electrode material, thickness, and
+distance are additional parameters affecting EME performance.
+
+W.A. Khan et al. / Journal of Pharmaceutical Analysis 10 (2020) 109e122
+
+113
+
+Fig. 6. A schematic mechanism for electromembrane extraction.
+
+3.1. Hollow-ﬁber membrane
+The porous wall of the hollow-ﬁber serves as support for the
+SLM. The SLM solvent should be of low polarity and immiscible
+with water. For immobilization of such low-polarity solvents, the
+hollow-ﬁber should be of hydrophobic material [28]. In most cases,
+polypropylene hollow-ﬁber membranes have been used. Such
+hollow-ﬁbers are commercially available at a low price. Therefore,
+each hollow-ﬁber membrane is used only for a single extraction
+and is then discarded. Alternatively, polyvinylidene diﬂuoride
+hollow-ﬁber membranes can be used [14].
+3.2. Supported liquid membrane (SLM)
+The solvent selected for the SLM plays a major role for the stability and the efﬁciency of the extraction system both in HF-LPME
+and EME. First, the solvent should be non-volatile in order to
+avoid evaporation, and solvents with boiling point exceeding
+200  C are recommended. Second, the solvent should be immiscible
+with water in order to avoid leakage to the sample. Usually solvents
+with water solubility less than 0.5 mg/mL are recommended. Third,
+the solvent should facilitate efﬁcient mass transfer of target analyte
+[14]. In HF-LPME, high efﬁciency can often be obtained with a variety of organic solvents. Common organic solvents for HF-LPME
+include n-dihexyl ether, 1-octanol, dodecyl acetate, and toluene.
+Ionic liquids have also been used as SLM solvent in HF-LPME [28]. In
+EME, the type of solvent used for the SLM is much more critical
+[29]. This is due to the fact that analyte molecules are charged when
+entering the organic SLM, and partition is voltage dependent.
+Common organic solvents used in EME are 2enitrophenyloctyl
+ether (NPOE) and 1-octanol.
+3.3. Sample and acceptor pH
+Sample and acceptor pH plays a major role both in HF-LPME and
+EME. In HF-LPME, the analyte is extracted in neutral form into the
+SLM, while it is ionized in contact with the acceptor. Therefore, for
+extraction of basic analytes, the sample should be alkaline, while
+the acceptor should be acidic or neutral (depending on analyte pKavalue). For HF-LPME of acidic analytes, the pH gradient is reversed
+using acidic conditions in the sample and alkaline or neutral conditions in the acceptor [30,31]. In EME, the analytes are ionized in
+
+the entire extraction system. Thus, for basic analytes, both the
+sample and the acceptor are neutral or acidic. For acidic analytes,
+EME is conducted with neutral or alkaline conditions in sample and
+acceptor [32]. Due to local pH effects [33] at the SLM boundary
+layers, pH in the acceptor solution is critical in EME, and for basic
+analytes pH should be no less than three units above pKa. In
+addition, pH may change in the sample and acceptor during EME
+due to electrolysis [34], and therefore buffers are recommended in
+both sample and acceptor.
+3.4. Extraction time
+Both HF-LPME and EME are equilibrium techniques. This implies
+that extraction recovery increases rapidly versus time during initial
+extraction, and after a certain period of time, the systems enter
+equilibrium. Thus, from a theoretical point of view, recovery is
+constant from this point forward and extraction is terminated.
+Equilibrium time is typically in the range 30e60 min for HF-LPME
+depending on the chemical properties of the analytes and the geometry of the system [35]. For EME, equilibrium time is shorter, due
+to the electro-kinetic mass transfer, and ranges typically from 5 to
+15 min. In EME, recoveries may drop during prolonged extraction
+due to pH changes in sample and acceptor, and due to instability of
+the SLM [36].
+3.5. Stirring/agitation
+HF-LPME and EME are performed under stirring or agitation
+conditions. By such, convection is induced in the sample and analyte mass transfer to the SLM is facilitated. In addition, stirring or
+agitation reduces the boundary layer thickness at the sample/SLM
+interface, and this is very important for efﬁcient mass transfer [31].
+The optimal stirring or agitation rate is geometry dependent, and is
+normally optimized during method development. Typically, stirring or agitation in the range 500e1000 rpm is used. At higher
+rates, air bubbles are often formed, and this can reduce extraction
+performance [37].
+3.6. Salt addition
+Addition of salt to the sample affects the efﬁciency of HF-LPME
+and EME. In HF-LPME, the addition of salt to the sample solution
+
+114
+
+W.A. Khan et al. / Journal of Pharmaceutical Analysis 10 (2020) 109e122
+
+often increases the extraction efﬁciency [38,39]. The increase in
+extraction efﬁciency is due to increased ionic strength in the
+sample, which increases analyte partition into the organic SLM.
+However, negative effects of salt in the samples are also reported
+[40,41]. This may be due to changes in the Nernst diffusion ﬁlm
+controlling the diffusion rate of analytes into the acceptor phase
+[42,43]. Typical salt additions are 5%e30% (w/v) [44]. In EME,
+addition of salt to the sample is normally not performed. For efﬁcient EME, a low ion balance may be favorable under certain conditions [45e47]. The ion balance is deﬁned as the ratio between the
+total amount of ions in the sample and the total amount of ions in
+the acceptor phase.
+3.7. Temperature
+HF-LPME and EME are normally performed at room temperature. Both extraction modes are affected by temperature. Partition
+coefﬁcients decrease with the increase in temperature, while
+diffusion across the SLM increases. Temperatures up to 40 C have
+been used, but above this temperature SLMs tend to be less stable
+[37,48].
+3.8. Electrodes (EME)
+Platinum is normally used as inert electrode material in EME.
+The electrode thickness plays a key role in EME. The internal
+diameter of the electrodes should be substantially less than the
+inner diameter of the hollow ﬁber in order not to displace acceptor
+phase. The distance between the electrodes is another important
+parameter [49].
+3.9. Applied voltage (EME)
+Generally, the extraction efﬁciency in EME increases with the
+increasing voltage up to a certain level. Above this, there is no
+further gain in extraction efﬁciency, and mass transfer is no longer
+limited by the voltage. Voltages applied in EME normally range
+from 5 to 300 V. Voltages exceeding 300 V are not recommended,
+due to instability of the extraction system and generation of gas
+bubbles (electrolysis) [37].
+
+microﬂuidic paper-based analytical device (mPAD) for extraction
+of Cr (VI). The membrane was impregnated in a mixture of Aliquat
+336 and 1-octanol for 1 min. The acceptor phase was collected for
+colorimetric analysis after EME, and DPC reagent was added. For
+quantitative analysis a scanner was used and colored images were
+analyzed with RGB. The results were compared with ICP-AES and
+found in good agreement [57].
+4.1.2. UVevisible spectrophotometry
+UVevisible spectrophotometry has been commonly selected as
+instrumental technique for quantitative analysis of heavy metals,
+highly conjugated organic compounds, and biological macromolecules due to easy availability, simplicity, versatility, speed, accuracy,
+precision, and cost-effectiveness. However, in complex samples the
+analytes cannot be measured directly with a UVevisible spectrophotometer due to low concentration. Therefore a sample preparation step is necessary to improve selectivity and sensitivity.
+Atikarnsakul et al. presented an EME procedure for preconcentration and extraction of Cr(VI). Polypropylene hollow ﬁber membrane
+was impregnated with NPOE and used for EME. For quantitative
+analysis, a speciﬁc volume of acceptor phase was mixed with a
+speciﬁc concentration of DPC and acidiﬁed with dilute H2SO4. The
+resultant red-violet solution was analyzed with a ﬁber optic
+ultravioletevisible spectrophotometer with a Z-ﬂow cell at 544 nm
+[61].
+Onac et al. introduced a new approach to preconcentration and
+extraction of Cr(VI). A polymer inclusion membrane was synthesized and used as SLM for EME. The polymer inclusion membrane
+impregnated with NPOE contained calix [4]arene. The EME process
+was performed under constant current instead of constant voltage
+to control the extraction of charged species. The use of constant
+current in EME provided high reproducibility and mechanical stability. The formation of metal-calix [4]arene ion pair at the
+membrane-aqueous phase interface enhanced the transport of
+metal-complex ion through the membrane. Bath-water of chrome
+plating industry was used as real sample for analysis to check the
+selectivity of calix [4]arene towards Cr(VI) [62]. Table 1 summarizes
+examples on research combining hollow ﬁber based extraction
+techniques with UVeVis spectrophotometry [61e65].
+4.2. Pharmaceuticals
+
+4. Instrumental techniques coupled with HF-LPME and EME
+4.1. Heavy metals determination
+
+ͦ
+
+4.1.1. Atomic spectrometry
+Combinations of hollow ﬁber based techniques and atomic
+spectroscopic techniques have mainly been used for detection of
+heavy metals in environmental, clinical, and biological samples,
+petroleum products, pharmaceuticals, and in food [50]. The hollow
+ﬁber based techniques coupled with atomic spectrometric techniques for preconcentration and determination of different heavy
+metals are summarized in Table 1 [51e60]. HF-LPME has been
+coupled to ﬂame atomic absorption spectroscopy (FAAS) and
+graphite furnace atomic absorption spectrometry (GFAAS) for
+metal analysis [51e55]. In one example, Tahmasebi et al. introduced a new approach to the extraction of Cr (VI) based on EME
+coupled with electrothermal atomic absorption spectrometry
+(ETAAS). Before using the hollow ﬁber membrane as SLM, polyaniline nanoparticles were coated on the surface to increase the
+selectivity for the extraction of Cr(VI). The polyaniline reinforced
+hollow ﬁber selectively extracted Cr (VI) from real samples via
+anion exchange. The surface area of the nanostructure coated polyaniline increased the preconcentration of the target analyte [56].
+In another example Alahmad et al. introduced an HF-LPME
+
+4.2.1. High performance liquid chromatography (HPLC)
+Three-phase HF-LPME and EME are ideal for acidic and basic
+drugs. In three-phase HF-LPME, the acceptor phase is an aqueous
+solution, and this can be injected directly into HPLC systems
+without previous evaporation and reconstitution [30]. For extraction of basic analytes in HF-LPME, pH of donor phase must be kept
+alkaline to suppress the ionization and solubility of the analyte,
+whereas pH for acceptor phase should be acidic. In case of acidic
+analytes, the pH gradient across the SLM is reversed [30,31]. For
+extraction of basic analytes in EME, pH of donor and acceptor
+phases are kept acidic to ionize the analytes. The anode is placed in
+the donor phase, while the cathode is placed in the acceptor phase
+to facilitate the migration of analyte. In case of acidic analytes, the
+donor and acceptor phases are made alkaline and the direction of
+the electrical ﬁeld is reversed [30,32]. Three-phase systems provide
+better degree of clean-up than two phase systems due to the fact
+that most water soluble components do not pass through the SLM.
+Khan et al. presented a new strategy for selective and simultaneous extraction of three drugs with different hydrophobicity
+property. The EME process was carried out in a microﬂuidic chip
+device. The microﬂuidic device consisted of three PMMA plates
+having M shaped microchannels. The middle PMMA plate provided
+a ﬂow path for sample solution and was in contact with two
+
+Table 1
+Atomic spectrophotometric and UVeVis spectrophotometric techniques coupled with hollow ﬁber based extraction techniques for heavy metals determination.
+LODa
+
+EF/PFb LRc
+
+0.2 mg/L
+0.08 ng/mL
+
+790
+280
+
+3 ng/mL
+
+Kronenether þ oleic acid
+
+Rice, milk, water
+Environmental water
+samples
+Environmental water
+samples
+Blood, urine samples
+
+DEHP
+
+DEHP þ 1-octanol
+
+Tap water
+
+0.001
+e0.002 ng/
+mL
+0.5 mg/L
+
+EME
+
+PANI
+
+PANI þ 1-octanol
+
+Cr(VI)
+
+HFLPME
+
+Pb
+Cr (VI)
+
+mEME
+
+Hg
+
+HFLPME
+
+Methyltrialkylammonium
+chloride
+CTAB
+Tetra alkyl ammonium
+chloride
+DDTC
+
+Methyltrialkylammonium
+chloride þ 1-octanol
+CTAB þ 1-octanol
+Tetra alkyl ammonium
+chlorideþ 1-octanol
+DDTC þ toluene
+
+Spring, sea and
+distilled water
+Drinking, mineral and
+tap water
+Blood samples
+Wastewater samples
+
+Cr (VI)
+
+EME
+
+1,5-diphenylcarbazide
+
+NPOE
+
+Cr (VI)
+
+EME
+
+Calix[4]arene
+
+NPOE þ calix[4]arene
+
+Hg
+
+EME
+
+DEHP
+
+1-octanol
+
+River, tap water and
+ﬁsh sample
+
+0.7e12 mg/kg 130
+e176
+
+Au
+
+EME
+
+PAN
+
+1-octanol
+
+4.5 mg/L
+
+200
+
+EME
+
+DEHP
+
+DEHP þ 1-octanol
+
+Tap, river and ground
+water
+Plasma, water
+
+2.3e950 mg/L for
+water and
+40e9500 mg/kg for
+ﬁsh sample
+20e2000 mg/L
+
+1.47 mg/L
+
+151
+
+4.9e800 mg/L
+
+Metal/
+Analyte
+
+Preconcentratio/
+Separation method
+
+Complexing agent/Carrier SLM composition
+
+Atomic spectroscopic
+techniques
+
+Pb
+As
+
+HFSLPME
+HFLPME
+
+TiO2
+APDC
+
+TiO2 þ Caprylic acid
+Triton X-100
+
+Cr (VI)
+
+IEME
+
+d
+
+1-octanol
+
+Pb
+
+HFLPME
+
+Kronenether
+
+Hg
+
+EME
+
+Cr(VI)
+
+UVevisible
+spectrometry
+
+Bi
+
+þ3
+
+CM-HFLPME
+
+Instrumental
+technique mode
+
+Ref.
+
+0.6e3000 mg/mL
+0.4e12 ng/mL
+
+FAAS
+FAAS
+
+[51]
+[52]
+
+23
+
+10e600 ng/mL
+
+FAAS
+
+[53]
+
+18.7
+e21.3
+
+1e50 ng/mL
+
+GFAAS
+
+[54]
+
+0.5e10 mg/L
+
+GFAAS
+
+[55]
+
+0.02 ng/mL
+
+102
+e108
+106
+
+0.02e2.0 ng/mL
+
+ETAAS
+
+[56]
+
+3 mg/L
+
+d
+
+10e90 mg/L
+
+RGB/ ICP-AES
+
+[57]
+
+0.1 ng/mL
+0.06 ng/mL
+
+33
+9.1
+
+1e200 ng/mL
+0.5e14 ng/mL
+
+ETAAS
+ETAAS
+
+[58]
+[59]
+
+103
+
+0.5e7.5
+
+ETAAS
+
+[60]
+
+80
+
+10e80 mg/L
+
+[61]
+
+d
+
+d
+
+UVevis
+spectrometry
+UVevis
+spectrometry
+UVevis
+spectrometry
+
+UVevis
+spectrometry
+UVevis
+spectrometry
+
+[64]
+
+Water and freshwater 0.143
+ﬁsh
+Environmental water 2.3e7 mg/L
+samples
+Industrial water
+d
+
+[62]
+[63]
+
+W.A. Khan et al. / Journal of Pharmaceutical Analysis 10 (2020) 109e122
+
+Real applications
+
+Instrumental
+techniques
+
+[65]
+
+EME: Electro-membrane extraction, HFLPME: Hollow ﬁber liquid phase microextraction, IEME: In-tube electro-membrane extraction, CM-HFLPME: carrier-mediated hollow ﬁber liquid phase microextraction, DEHP: bis(2ethylhexyl) phosphate, CTAB: N,N,N-cetyltrimethyl ammonium bromide, APDC: Ammonium pyrroldinedithiocarbamate, PANI: Polyanniline, DDTC: Diethyldithiocarbamate, PAN: 1-(2-pyridylazo)-2-naphthol), NPOE: 2nitrophenyl octyl ether, FAAS: Flame atomic absorption spectroscopy, GFAAS: Graphite furnace atomic absorption spectrometry, ETV-ICP-OES: Electrothermal vaporization inductive couple plasma optical emission spectroscopy, RGB/ ICP-AES: Red Green Blue Analysis/ inductive couple plasma atomic emission spectroscopy.
+a
+Limit of detection.
+b
+Enrichment factor/Pre-concentration factor.
+c
+Linear range.
+
+115
+
+116
+
+Table 2
+High performance liquid chromatography (HPLC) technique coupled with hollow ﬁber based extraction techniques for pharmaceutical drugs.
+Preconcentration/
+Separation
+method
+
+Membrane /
+SLM composition
+
+Real
+applications
+
+LODa
+
+EF/PFb
+
+LRc
+
+Instrumental tec.
+
+Ref.
+
+Atenolol, betaxolol, propranolol
+Amoxicillin, nicotinic acid,
+hippuric acid, salicylic acid,
+anthranilic acid, ketoprofen,
+naproxen, ibuprofen
+Epinephrine, norepinephrine
+dopamine
+Tetracycline, chlortetracycline,
+doxycycline, oxytetracycline
+2-methyl hippuric acid, 3methyl hippuric acid, 4methyl hippuric acid
+Hippuric acid, mandelic acid
+54 care
+products þ pharmaceutical
+drugs
+Pramipexole
+Haloperidol, loperamide,
+methadone, nortriptyline,
+pethidine
+Codeine, naloxone, naltrexone
+Rivastigmine, verapamil,
+amlodipine, morphine
+Nicotinic acid, amoxicillin,
+hippuric acid, salicylic acid
+
+Microﬂuidic EME
+EME
+
+NPOE þ DEHP þ TEHP
+Chitosan membrane ¼ 60%
+chitosan þ 40%
+Aliquat®336 / 1-octanol
+
+Urine, plasma
+Urine
+
+4e10 mg/L
+d
+
+d
+d
+
+10e850 mg/L
+d
+
+HPLC-UV
+HPLC-DAD
+
+[66]
+[67]
+
+Complexation
+mediate-EME, EME
+HF-DLLME
+
+TFPBA þ DEHPi
+
+Urine
+
+1.8e5 mg/L
+
+2.2e6
+
+d
+
+HPLC-UV-MS
+
+[68]
+
+Aliquat-336 þ 1-octanol
+
+Milk
+
+0.95e3.6 mg/L
+
+d
+
+d
+
+HPLC-UV
+
+[69]
+
+HFLPME
+
+1-octanol
+
+Urine
+
+2e3 mg/L
+
+210e312
+
+10e50,000 mg/L
+
+HPLC-UV
+
+[70]
+
+HF-LPME
+HFLSPME
+
+1-octanol þ TBP
+1-octanol þ toluene
+
+Urine
+Fish, water
+
+0.007e0.009 mg/mL
+0.31e1.61 mg/kg
+
+172e195
+0.11e12.83
+
+0.02e20 mg/L
+d
+
+HPLC-UV
+HPLC-MS
+
+[71]
+[72]
+
+EME
+EME
+
+RGO þ NPOE
+NPOE, TBP
+
+Water and urine samples
+d
+
+0.04 and 0.14 ng/mL
+d
+
+301 and 265
+d
+
+0.13e1000 ng/mL
+d
+
+HPLC-UV
+HPLC-UV
+
+[73]
+[74]
+
+PEME
+EME
+
+DEHP þ NPOE
+Agarose gel as SLM
+
+Plasma, urine
+Wastewater
+
+2e10 mg/L
+1.5e1.8 ng/mL
+
+d
+d
+
+10.e500 mg/L
+5e1000 ng/mL
+
+HPLC-UV
+HPLC-UV
+
+[75]
+[76]
+
+EME
+
+Urine samples
+
+112e402.3 mg/L
+
+d
+
+173.3e4000 mg/L
+
+HPLC-DAD
+
+[77]
+
+Ephedrine, clonidine
+Imipramine, amitriptyline,
+chlorpromazine
+
+On chip-EME
+mEME
+
+Urine, plasma
+River and tap water
+
+<11 mg/L
+0.1e0.4 mg/L
+
+12e19
+110e150
+
+10e500 mg/L
+1.0e1000 mg/L
+
+HPLC-UV
+HPLC-UV
+
+[78]
+[79]
+
+Ibuprofen, sodium diclofenac
+Ketoprofen, diclofenac,
+ibuprofen, mefenamic acid
+Verapamil, Haloperidol,
+rivastigmine, clomipramine
+Various drugs and other
+contaminants
+Ketoprofen, ibuprofen,
+naproxen, diclofenac
+Propranolol, carvedilol,
+verapamil, amlodipine
+Salicylic acid, ketoprofen,
+naproxen, ibuprofen,
+anthranilic acid, nicotinic
+acid, amoxicillin, hippuric
+acid
+Pseudoephedrine, lidocaine,
+propranolol
+Zolpidem
+Indoprofen, ketoprofen,
+naproxen, ibuprofen
+Valproic acid
+
+EME
+EME
+
+Acrylic nanoﬁbers
+membrane
+/Aliquat®336 þ 1-octanol
+DEHP þ NPOE
+Agarose ﬁlm as membrane /
+1-hexyl-3methylimidazolium
+hexaﬂuorophosphate
+C60 fullerene þ 1-octanol
+Agarose ﬁlm / 1-octanol
+
+Urine
+River and tap water
+
+9e10 ng/mL
+0.14e0.42
+
+166e188
+62e86
+
+15e500 ng/mL
+0.5e500
+
+HPLC-UV
+HPLC-UV
+
+[80]
+[81]
+
+CF-EME
+
+2-ethylhexanol
+
+Wastewater and urine samples
+
+2.4 ng/mL
+
+>44
+
+8.0e500 ng/mL
+
+HPLC-UV
+
+[82]
+
+HFLPME
+
+1-octanol
+
+Water samples
+
+1.09e98.15 ng/L
+
+6e4177
+
+d
+
+UPLC-MS
+
+[83]
+
+HFLPME
+
+DHE
+
+Urine
+
+1.6e4.3 mg/L
+
+43.2e96.8
+
+5e500 mg/L
+
+HPLC-DAD
+
+[84]
+
+HFLPME
+
+Choline chloride þ 1phenylethanol
+PIM ¼ 29% CTA þ 71%
+Aliquat®336 / 1-octanol
+
+Urine, plasma, pharmaceutical
+wastewater
+Urine samples
+
+0.3e0.8 ng/mL
+
+110e135
+
+0.8e500 ng/mL
+
+HPLC-UV
+
+[85]
+
+18e100 mg/L
+
+d
+
+61e500 mg/L
+
+HPLC-DAD
+
+[86]
+
+Breast milk, wastewater
+
+0.3e6.0 ng/mL
+
+23.1e29.5
+
+1e200 ng/mL
+
+HPLC-UV
+
+[87]
+
+EME
+EME
+
+Polyacrylamide gel as
+membrane
+2-ethylhexanol
+1-octanol
+
+Plasma, urine
+Urine
+
+3 ng/mL
+0.20e0.27 mg/mL
+
+75
+d
+
+10e1000 ng/mL
+0.68e8.4 mg/mL
+
+HPLC-UV
+HPLC-UV
+
+[88]
+[89]
+
+EME
+EME
+
+1-octanol
+2-ethylhexanol
+
+Plasma
+Wastewater, plasma, urine
+
+0.5 mg/mL
+3.3e5 mg/L
+
+>125
+98.89e130.3
+
+0.5e10 mg/mL
+10e2000 mg/L
+
+HPLC-UV
+HPLC-UV
+
+[90]
+[91]
+
+EME
+
+EME
+
+W.A. Khan et al. / Journal of Pharmaceutical Analysis 10 (2020) 109e122
+
+Analyte
+
+Amlodipine, verapamil,
+clomipramine
+Metaraminol, benzamidine,
+sotalol, ephedrine,
+trimethoprim, pethidine
+hydrochloride, quetiapine,
+haloperidol, nortriptyline
+hydrochloride, methadone
+hydrochloride, loperamide
+hydrochloride
+Five ﬂuoroquinolones and four
+parabens
+
+Salicylic acid, naproxen,
+ketoprofen, diclofenac,
+ibuprofen
+Naproxen, verapamil
+Verapamil, riluzole
+Barbital, phenobarbital,
+pentobarbital
+Ciproﬂoxacin
+Nalmefene, diclofenac
+Ezetimibe, simvastatin
+Fosdanoﬂoxacin, norﬂoxacin,
+enroﬂoxacin, ciproﬂoxacin
+Raloxifene, ethinylestradiol
+
+Phthalate- and nitrilebased organic solvents
+
+Plasma
+
+d
+
+d
+
+d
+
+HPLC-UV
+
+[92]
+
+mEME / LPME
+
+1-octanol
+
+Urine
+
+16e75 mg/L
+
+d
+
+HPLC-UV
+
+[93]
+
+HFLPME
+HFLPME
+
+1-octanol
+n-dodecane þ TOPO
+
+Urine and plasma
+Urine
+
+2.8 ng/mL
+0.3e0.6 mg/L
+
+170
+152e411
+
+0.25-10 and
+0.06e5 mg/mL
+respectively
+50e2000 ng/mL
+0.9e200 mg/L
+
+HPLC-UV
+HPLC-UV
+
+[94]
+[95]
+
+HFLPME
+
+1-octanol
+
+Plasma
+
+0.2 mg/mL
+
+1.5e13
+
+0.2e2.0 mg/mL
+
+HPLC-DAD
+
+[96]
+
+HFSLPME
+HFPLME
+HFM-MI-MSPE
+EME
+
+1-octanol
+1-octanol
+d
+1-octanol þ 2-ethyl
+hexanol þ DEHP
+1-octanol
+
+Urine
+Environmental water
+Orange or lemon peel samples
+Rabbit plasma
+
+0.02 mg/L
+3.1e11.2 ng/L
+0.004 mg/kg
+0.15 ng/mL
+
+d
+14e60
+d
+d
+
+0.01e10 mg/L
+0.05e5 mg/L
+0.02e2 mg/L
+0.5e1000 ng/mL
+
+HPLC-DAD
+UHPLC-FLD
+HPLC-DAD
+HPLC-PAD
+
+[97]
+[98]
+[99]
+[100]
+
+Urine
+
+0.1e1.5 ng/mL
+
+85e133
+
+0.5e750 ng/mL
+
+HPLC-DAD/FLD
+
+[101]
+
+1-octanol, 2-ethylhexanol
+Mixture of 2-ethyl hexanol
+and 1-otanol
+2-nonanone
+
+Lemon juice, soft drinks
+Urine, wastewater
+
+d
+1.5e2.5 ng/mL
+
+d
+123.6e146.6
+
+d
+1.5e500 ng/mL
+
+HPLC-UV
+HPLC-UV
+
+[102]
+[103]
+
+Blood, urine, liver
+
+0.6e10 ng/g
+
+d
+
+5e2500 ng/g
+
+HPLC-MS
+
+[104]
+
+Blood
+Urine
+
+1 mg/L
+3e4 mg/L
+
+88
+17e19
+
+2e500 mg/L
+9.0e500 mg/L
+
+HPLC-UV
+HPLC-UV
+
+[105]
+[106]
+
+CAeHFeSLPME
+MIP-HFME
+
+1-octanol
+NPOE þ DEHP and 1octanol
+Cetyl alcohol þ 1-octanol
+Toluene
+
+Plasma, urine
+Environmental water, urine
+
+0.363e0.49 mg/L
+0.1e10 mg/L
+
+d
+d
+
+0.3363e25 mg/L
+d
+
+HPLC-DAD
+HPLC-MS
+
+[107]
+[108]
+
+HFLPME
+
+1-octanol þ CTAB
+
+Pharmaceutical waste water
+
+5e10 mg/L
+
+53e86
+
+20e5000 mg/L
+
+HPLC-UV
+
+[109]
+
+EME
+
+EME
+EME
+FMLPME
+On chip PEME
+On chip-EME
+
+HFDLLME: Hollow ﬁber dispersive liquid-liquid microextraction, HFLSPME: Hollow ﬁber liquid solid phase microextraction, PEME: Pulsed electromembrane extraction, CF-EME: Continuous-ﬂow electromembrane extraction,
+LPME: Liquid phase microextraction, HFM-MI-MSPE: Hollow ﬁber membrane-molecular imprinted-micro solid phase microextraction, FMLPE: Flat membrane based liquid phase microextraction, CAeHFeSLPME: Cetyl-alcoholreinforced hollow ﬁber solid/ liquid phase microextraction, MIP-HFME: Molecular imprinted polymer hollow ﬁber microextraction, DEHPi: Bis(2-ethylhexyl) phosphite, TFPBA: 4-(triﬂuoromethyl)phenylboronic acid, RGO:
+Reduced graphene oxide, TBP: Tributyl phosphate, DHE: Dihexyl ether, PIM: Polymer inclusion membrane, TOPO: Trioctylphosphine oxide HPLC-UV: High performance liquid chromatography with UV detector, HPLC-MS: High
+performance liquid chromatography with mass spectrometry, HPLC-DAD-FLD: High performance liquid chromatography with diode array detector and ﬂuorescence detector, HPLC-UV-MS: High performance liquid chromatography with UV detector and mass spectrometry, UHPLC-MS: Ultra high performance liquid chromatography with mass spectrometry, HPLC-DAD: High performance liquid chromatography with diode array detector,
+Fluorometer/RGB/ HPLC-UV: Fluorometer/ Red Green Blue analysis/ High performance liquid chromatography with UV detector.
+a
+Limit of detection.
+b
+Enrichment factor/Pre-concentration factor.
+c
+Linear range.
+
+W.A. Khan et al. / Journal of Pharmaceutical Analysis 10 (2020) 109e122
+
+Diclofenac
+Exemestane, letrozole,
+paclitaxel
+Omeprazole, pantoprazole,
+lansoprazole
+Phenazopyridine
+Different sulfonamides
+Thiabendazole
+Leuprolide, triptorelin
+
+EME
+
+117
+
+118
+
+Table 3
+Gas chromatography, Capillary electrophoresis and Voltammetric techniques coupled with Hollow ﬁber based extraction techniques for determination of pharmaceutical drugs.
+Drug
+
+Preconcentration/
+Separation method
+
+SLM þ/Carrier/FLM/Membrane
+
+Real applications
+
+LODa
+
+EF/PF/EFb
+
+LRc
+
+Instrumental
+technique mode
+
+Ref.
+
+Gas
+chromatography
+
+Cyproheptadine, ketotifen
+
+EM-SPME
+
+NPOE
+
+Water, urine, plasma
+
+01e1.1 ng/mL
+
+d
+
+GC-FID
+
+[110]
+
+Trimipramine, clomipramine
+Clomipramine, imipramine
+Nort [112]riptyline, papaverine,
+haloperidol
+Nortriptyline, haloperidol,
+loperamide, ketoprofen,
+naproxen
+Imatinibmesylate
+
+G-EME/DLLME
+EME-EALLME
+mEME
+
+Agarose gel
+2-ethylhexanol
+ENB
+
+Urine
+Urine, wastewater
+Urine, plasma
+
+1.0e3.0 ng/L
+0.15 ng/mL
+0.15 mg/L
+
+260e370
+770.3
+d
+
+0.3e200 and
+0.5e750 ng/mL
+3.5e1000 ng/mL
+0.5e750 ng/mL
+1e20 mg/L
+
+GC-FID
+GC-FID
+CE-UV
+
+[111]
+[112]
+[113]
+
+EME
+
+ENB
+
+Urine
+
+0.075e1.5 mg/mL
+
+d
+
+1e40 mg/mL
+
+CE-DAD
+
+[114]
+
+EME
+
+Plasma
+
+6.24 ng/mL
+
+78
+
+25e1500 ng/mL
+
+CE-UV
+
+[115]
+
+Nortriptyline, papaverine
+Amitriptyline, haloperidol,
+bupivacaine, propranolol
+Methadone, methamphetamine,
+tramadol
+Tramadol, pseudoephedrine
+Capecitabine, 5-Fluorouracil
+Tranylcypromine
+Ibuprofen, naproxen, ketoprofen,
+diclofenac
+Nortriptyline, papaverine,
+haloperidol
+and loperamide
+Ibuprofen, diclofenac, naproxen,
+ketoprofen, salicylic acid
+Amlodipine
+
+mEME
+Pa-EME
+
+NPOE þ MWCNT/ZnO coated by
+1-octyl-3-methylimidazolium
+bromide
+ionic liquid
+4-nitrocumene
+NPOE
+
+Urine
+Plasma
+
+0.15 mg/mL
+d
+
+d
+d
+
+0.5e10 mg/mL
+d
+
+CE-UV
+CE-UV
+
+[116]
+[117]
+
+EME
+
+NPOE þ MIL-110(Cr)
+
+Urine, plasma
+
+0.30e0.91 mg/L
+
+132e190
+
+1e1000 mg/L
+
+CE-UV
+
+[118]
+
+EME
+HF-SLPME
+S/EME
+mEME
+
+NPOE þ span 80
+1-octanol
+NPOE
+1-octanol
+
+2.10e4.50 mg/L
+6.4e9.3 ng/mL
+3.03e6.06 ng/mL
+4e20 ng/mL
+
+160e188
+d
+166e203
+18e29.1
+
+5e2000 mg/L
+25e1000 ng/mL
+10e1000 ng/mL
+50e2500 ng/mL
+
+CE-UV
+CE-UV
+CE-UV
+CE-UV
+
+[119]
+[120]
+[121]
+[122]
+
+SLM extraction
+
+ENB
+
+Urine
+Plasma
+Urine, water
+Urine, serum,
+wastewater
+Urine, plasma
+
+0.02e0.15 mg/mL
+
+d
+
+0.5e30 mg/mL
+
+CE-UV
+
+[123]
+
+On chip-EME
+
+Undecanol þ NPOE
+
+Urine
+
+0.07e5 mg/mL
+
+d
+
+d
+
+CE/HPLC-DA
+
+[124]
+
+EME
+
+NPOE
+
+Whole blood
+
+0.05 ng/mL
+
+61
+
+FFSSWV
+
+[125]
+
+Diclofenec
+Imatinib
+Estradiol valerate
+
+EME
+HFSPME
+EME
+
+1-octanol
+d
+1-octanol
+
+Whole blood
+Serum, urine
+Whole blood
+
+1 ng/mL
+7.39 103 mmol/L
+0.01 ng/mL
+
+d
+d
+2
+
+SFFTCCV
+DPV
+FFTSWV
+
+[126]
+[127]
+[128]
+
+Propylthiouracil
+Imipramine
+
+EME
+EME
+
+Nitrobenzene þ CuNPs
+NPOE
+
+Urine
+Urine, whole blood
+
+0.02 mg/mL
+0.001e0.01 ng/mL
+
+200
+35e54
+
+DPV
+FFTSWV
+
+[129]
+[130]
+
+Vanillylmandelic acid
+
+HFLPME
+
+Butyl benzoate
+
+Urine
+
+0.5 mmol/L
+
+d
+
+0.1e10 and
+10e1000 ng/mL
+5e1000 ng/mL
+0.010e200 mmol/L
+0.1e1300 and
+1300e10,000 ng/mL
+0.5e5 mg/mL
+0.02e1000 and
+0.2e1000 ng/mL
+0.5e100 mmol/L
+
+DPV
+
+[131]
+
+Capillary
+electrophoresis
+
+Voltammetry
+
+EME-EALLME: Electromembrane extraction and electro-assisted liquid-liquid microextraction, EM-SPME: Electromembrane surrounded solid phase microextraction, G-EME/DLLME: Gel-electromembrane exraction / dispersive
+liquid-liquid microextraction, Pa-EME: Parallel electromembrane extraction, ENB: 1-ethyl-2-nitrobenzene, MWCNTs: Multi-walled carbon nanotubes, MIL-110(Cr): Chromium terephthalate metal-organic framework, Span-80:
+Mono-(9Z)-9-octadecenoate, CuNPs: Copper nanoparticles, GC-FID: Gas chromatography with ﬂame ionization detector,CE-UV: Capillary electrophoresis with UV detector, CE-DAD: Capillary electrophoresis with diode array
+detector, FFSSWV: Fast Fourier transform stripping square wave voltammetry, SFFTCCV: Stripping fast Fourier transform continuous cyclic voltammetry, DPV: Differential pulse voltammetry, FFTSWV: Fast Fourier transform
+square wave voltammetry.
+a
+Limit of detection.
+b
+Enrichment factor.
+c
+Linear range.
+
+W.A. Khan et al. / Journal of Pharmaceutical Analysis 10 (2020) 109e122
+
+Instrumental technique
+
+W.A. Khan et al. / Journal of Pharmaceutical Analysis 10 (2020) 109e122
+
+different SLMs and acceptor phases. A stainless steel electrode was
+embedded in the middle plate, dedicated for the ﬂow of sample
+solution. Stainless steel electrodes were also embedded in the two
+PMMA plates dedicated for the two acceptor phases. Based on
+different SLMs, drugs of different hydrophobicity were extracted
+into two acceptor phases and analyzed with HPLC-UV [66].
+n-Hidalgo et al. introduced a new
+In another example, Roma
+biopolymeric membrane for EME of NSAIDs and acidic compounds.
+The chitosan biopolymeric membrane was synthesized by mixing
+chitosan 60% (w/w) and Aliquat®336 40% (w/w). The synthesized
+membrane was characterized with scanning electron microscopy
+(SEM). The prepared membrane was impregnated with a suitable
+organic solvent and used as SLM in a home-made device. After EME,
+the acceptor phase was analyzed with HPLC-DAD for quantitative
+analysis [67]. Table 2 summarizes examples on research combining
+hollow ﬁber based extraction techniques with HPLC [66e109].
+4.2.2. Gas chromatography (GC)
+GC has been coupled with two-phase HF-LPME and EME for
+analysis of neutral, low and medium polar analytes. In two phase
+systems the acceptor solution is the same organic solvent as used
+for impregnation of membrane. Due to the fact that the acceptor
+phase is organic, it can be injected directly in GC [109]. An EMESPME technique were introduced by Shamsayei et al. [110] for the
+extraction and determination of cyproheptadine and ketotifen. In
+this work, the surface of a stainless steel wire was electrochemically
+deposited with polypyrrole and manganese dioxide using cyclic
+voltammetry. A segment of polypropylene membrane was
+impregnated with a suitable organic solvent and ﬁlled with water
+as an acceptor phase. The prepared SPME ﬁber (electrochemically
+prepared stainless steel wire) was introduced into the membrane
+and used as a cathode. The cathode comprising the SLM and the
+acceptor solution was directed into donor solution. A platinum
+anode was directed into the sample solution. After EME, the SPME
+ﬁber was analyzed with GC [110].
+Similarly Tabani et al. presented a new approach to preconcentration and determination of basic drugs. An agarose gel
+EME method was combined with dispersive liquideliquid microextraction (DLLME) technique. For extraction of target analytes, an
+agarose-based gel membrane was synthesized and used for EME.
+After EME, acceptor phase was collected and mixed with 1 mM
+NaOH solution. DLLME was carried out from this solution and the
+ﬁnal organic extract was analyzed with GC [111]. Table 3 summarizes information on research combining HF-LPME and EME with
+GC [110e131].
+4.2.3. Capillary electrophoresis (CE)
+CE is another analytical instrument which has frequently been
+coupled with three-phase HF-LPME and EME [30]. To avoid band
+broadening (de-stacking), the ionic strength of the acceptor phase
+should not exceed the ionic strength of the CE separation buffer
+k et al. presented a new semi-automated-mEME tech[132]. Dvora
+nique for extraction of drugs coupled with CE. A three phase
+disposable microextraction unit was constructed, in which a free
+liquid membrane was sandwiched between acceptor and donor
+phases. All liquid samples (acceptor phase, FLM, and donor phase)
+were handled with a programmable syringe pump. After EME, the
+acceptor phase was collected by switching the syringe pump to
+infusion mode. The collected acceptor phase was quantitatively
+analyzed with CE [113].
+ et al. investigated the effect of membrane thickness on
+Rysava
+the extraction efﬁciency in EME [123]. Three polypropylene
+membranes with different thickness were used as SLMs for EME
+preconcentration of basic drugs. In this experiment, it was
+concluded that the transfer of analytes across the membrane is
+
+119
+
+inversely proportional to the membrane thickness. Recent studies
+of EME and HF-LPME coupled with CE are mentioned in Table 3
+[113e124].
+4.2.4. Voltammetry
+One of the most important and widely used electroanalytical
+techniques is voltammetry [133], and for quantiﬁcation of heavy
+metals anodic stripping voltammetry (ASV) has been combined
+with HF-LPME. The major advantage of ASV over other voltammetric techniques is the step of pre-concentration onto the electrode surface [134]. Anodic stripping voltammetry has low
+detection limits, high sensitivity and selectivity as compared to
+other electrochemical techniques. Detection limits with anodic
+stripping voltammetry of heavy metals are in the ppm range [135].
+To the best of our knowledge (2017 to May-2019), there is only one
+research article on voltammetric instrumental technique for
+quantiﬁcation of heavy metals using HF-LPME or EME preconcentration. For pharmaceuticals, several new approaches based on
+hollow ﬁber based techniques have been reported. In one example,
+Hrdli
+cka et al. presented an HF-LPME method for extraction and
+determination of vanillylmandelic acid combined with DPV. In this
+study, a 20 mm polypropylene hollow ﬁber membrane was soaked
+in an organic solvent to impregnate the pores. The excess organic
+solvent was removed by air with a syringe. The lumen of the ﬁber
+was ﬁlled with acceptor phase and sealed in both ends. The prepared membrane was fully immersed in sample solution and stirred with a magnetic bar. After EME, the acceptor phase was
+collected and transferred to the surface of working electrode for
+DPV analysis [131].
+Tahmasebi et al. reported a novel approach in EME for preconcentration and determination of propylthiouracil coupled with
+DPV. CuNPs were synthesized for selective extraction of propylthiouracil, and coated on hollow ﬁber membrane. The coated CuNPs
+increased mass transfer and selectivity of propylthiouracil due to
+the high selectivity of CuNPs toward thiol group/sulfhydryl compounds. The high afﬁnity/selectivity of propylthiouracil towards
+CuNPs was explained by the hard and soft acid-base theory. It was
+concluded that nitrobenzene was the best choice for propylthiouracil extraction because alcoholic solvents such as 1-octanol and
+2-ethylhexanol dissolved CuNPs. It was pointed out that this
+approach was not applicable for acidic compounds [129]. Research
+combining HF-LPME and EME with voltammetry is summarized in
+Table 3 [125e131].
+5. Conclusions and looking into the future
+Since 1999, a larger number of reports have been published on
+the development of HF-LPME. These efforts have documented HFLPME as a green sample preparation technique requiring only a
+few microliters of organic solvent per sample. HF-LPME enables
+high enrichment and excellent sample clean-up from biological and
+environmental samples. In the three-phase mode, HF-LPME provides aqueous extracts which are directly injectable in HPLC. Due to
+the protection of the acceptor phase by the SLM, HF-LPME is
+amenable to highly complex samples such as plasma, whole blood,
+urine, saliva, breast milk, tap water, surface water, pond water,
+seawater, and soil slurries. HF-LPME shows great potential for
+routine applications, but to enter this area commercial products
+and automation are required. Also, generic methods have to be
+developed to simplify method development.
+EME has been developed in parallel to HF-LPME, but EME is less
+mature. Although, EME provides the same advantages as HF-LPME,
+the electrical ﬁeld open for additional perspectives. Thus, the
+extraction is controlled by an external electrical ﬁeld, and selectivity may be tuned by the direction and magnitude of the electrical
+
+120
+
+W.A. Khan et al. / Journal of Pharmaceutical Analysis 10 (2020) 109e122
+
+ﬁeld, by the chemical composition of the SLM, and by pH in sample
+and acceptor phase.
+Both HF-LPME and EME are highly efﬁcient for extraction of
+heavy metals and pharmaceuticals. The techniques are compatible
+with a broad spectrum of chromatographic, spectroscopic, and
+electroanalytical techniques. Future work should focus on automation and commercialization. In addition, the future may see
+research on the use of green solvents, and SLMs modiﬁed with
+metal nanoparticles (MNPs) and carbon nanotubes (CNTs), which
+may increase the extraction efﬁciency of targeted analytes.
+Conﬂicts of interest
+The authors declare that there are no conﬂicts of interest.
+Acknowledgments
+This work was supported by the Higher education commission
+of Pakistan (NRPU No.20e3925/R&D/NRPU/HEC/2014), PAK-US
+science and technology cooperation (Pak-US No6-4/PAK-US/HEC/
+2015/04) and Pakistan science foundation joint research projects
+with MSRT, Iran (No. PSF-MSRT/Env/KP-AWKUM).
+References
+[1] L. Ramos, Critical overview of selected contemporary sample preparation
+techniques, J. Chromatogr. A 1221 (2012) 84e98.
+[2] M.-C. Hennion, Solid-phase extraction: method development, sorbents, and
+coupling with liquid chromatography, J. Chromatogr. A 856 (1999) 3e54.
+[3] Y. Saito, M. Imaizumi, K. Ban, et al., Development of miniaturized sample
+preparation with ﬁbrous extraction media, J. Chromatogr. A 1025 (2004)
+27e32.
+[4] C.L. Arthur, J. Pawliszyn, Solid phase microextraction with thermal desorption using fused silica optical ﬁbers, Anal. Chem. 62 (1990) 2145e2148.
+[5] M.A. Jeannot, F.F. Cantwell, Solvent microextraction into a single drop, Anal.
+Chem. 68 (1996) 2236e2240.
+[6] Z. Zhang, J. Pawliszyn, Headspace solid-phase microextraction, Anal. Chem.
+65 (1993) 1843e1852.
+[7] R. Eisert, J. Pawliszyn, Automated in-tube solid-phase microextraction
+coupled to high-performance liquid chromatography, Anal. Chem. 69 (1997)
+3140e3147.
+[8] I. Bruheim, X. Liu, J. Pawliszyn, Thin-ﬁlm microextraction, Anal. Chem. 75
+(2003) 1002e1010.
+[9] G. Shen, H.K. Lee, Headspace liquid-phase microextraction of chlorobenzenes
+in soil with gas chromatography-electron capture detection, Anal. Chem. 75
+(2003) 98e103.
+[10] H. Xu, Z. Ding, L. Lv, et al., A novel dispersive liquideliquid microextraction
+based on solidiﬁcation of ﬂoating organic droplet method for determination
+of polycyclic aromatic hydrocarbons in aqueous samples, Anal. Chim. Acta
+636 (2009) 28e33.
+[11] M. Rezaee, Y. Assadi, M.-R. Milani Hosseini, et al., Determination of organic
+compounds in water using dispersive liquideliquid microextraction,
+J. Chromatogr. A 1116 (2006) 1e9.
+[12] L.E. Vera-Avila, T. Rojo-Portillo, R. Covarrubias-Herrera, et al., Capabilities
+and limitations of dispersive liquideliquid microextraction with solidiﬁcation of ﬂoating organic drop for the extraction of organic pollutants from
+water samples, Anal. Chim. Acta 805 (2013) 60e69.
+[13] S. Pedersen-Bjergaard, K.E. Rasmussen, Liquid liquid liquid microextraction for sample preparation of biological ﬂuids prior to capillary
+electrophoresis, Anal. Chem. 71 (1999) 2650e2656.
+[14] A.M.A. Alsharif, G.-H. Tan, Y.-M. Choo, et al., Efﬁciency of hollow ﬁber liquidphase microextraction chromatography methods in the separation of organic
+compounds: a review, J. Chromatogr. Sci. 55 (2017) 378e391.
+[15] M. Ghambarian, Y. Yamini, A. Esraﬁli, Developments in hollow ﬁber based
+liquid-phase microextraction: principles and applications, Microchimi Acta
+177 (2012) 271e294.
+[16] H. Chen, J. Han, Y. Wang, et al., Hollow ﬁber liquid-phase microextraction of
+cadmium (II) using an ionic liquid as the extractant, Microchim Acta 181
+(2014) 1455e1461.
+[17] J. Abulhassani, J.L. Manzoori, M. Amjadi, Hollow ﬁber based-liquid phase
+microextraction using ionic liquid solvent for preconcentration of lead and
+nickel from environmental and biological samples prior to determination by
+electrothermal atomic absorption spectrometry, J. Hazard Mater. 176 (2010)
+481e486.
+[18] A. Gjelstad, S. Pedersen-Bjergaard, K.F. Seip, Electromembrane extraction as a
+rapid and selective miniaturized sample preparation technique for biological
+ﬂuids, Bioanalysis 7 (2015) 2203e2209.
+
+[19] A. Esraﬁli, M. Baharfar, M. Tajik, et al., Two-phase hollow ﬁber liquid-phase
+microextraction, TrAC Trends Anal. Chem. (Reference Ed.) 108 (2018)
+314e322.
+[20] K. Folde Bårdstu, T.S. Ho, K.E. Rasmussen, et al., Supported liquid membranes
+in hollow ﬁber liquid-phase microextraction (LPME)ePractical considerations in the three-phase mode, J. Sep. Sci. 30 (2007) 1364e1370.
+[21] S. Shariati, Y. Yamini, A. Esraﬁli, Carrier mediated hollow ﬁber liquid phase
+microextraction combined with HPLCeUV for preconcentration and determination of some tetracycline antibiotics, J. Chromatogr. B 877 (2009)
+393e400.
+[22] M. Ghambarian, Y. Yamini, A. Esraﬁli, Three-phase hollow ﬁber microextraction based on two immiscible organic solvents for determination of
+tricyclic antidepressant drugs: comparison with conventional three-phase
+hollow ﬁber microextraction, J. Chromatogr. A 1222 (2012) 5e12.
+[23] A. Esraﬁli, Y. Yamini, M. Ghambarian, et al., A novel approach to automation
+of dynamic hollow ﬁber liquid-phase microextraction, J. Sep. Sci. 34 (2011)
+957e964.
+[24] A. Esraﬁli, Y. Yamini, M. Ghambarian, et al., Automated preconcentration and
+analysis of organic compounds by on-line hollow ﬁber liquid-phase
+microextractionehigh performance liquid chromatography, J. Chromatogr.
+A 1262 (2012) 27e33.
+[25] S. Pedersen-Bjergaard, K.E. Rasmussen, Electrokinetic migration across artiﬁcial liquid membranes: new concept for rapid sample preparation of biological ﬂuids, J. Chromatogr. A 1109 (2006) 183e190.
+
+, P. Kub
+ , P. Bo
+[26] A. Slampov
+a
+an
+cek, Electromembrane extraction using stabilized constant d.c. electric currentda simple tool for improvement of
+extraction performance, J. Chromatogr. A 1234 (2012) 32e37.
+[27] M. Rezazadeh, Y. Yamini, S. Seidi, et al., Pulsed electromembrane extraction:
+a new concept of electrically enhanced extraction, J. Chromatogr., A 1262
+(2012) 214e218.
+[28] V. Shariﬁ, A. Abbasi, A. Nosrati, Application of hollow ﬁber liquid phase
+microextraction and dispersive liquideliquid microextraction techniques in
+analytical toxicology, J. Food Drug Anal. 24 (2016) 264e276.
+[29] V. Krishna Marothu, M. Gorrepati, R. Vusa, Electromembrane extractionda
+novel extraction technique for pharmaceutical, chemical, clinical and environmental analysis, J. Chromatogr. Sci. 51 (2013) 619e631.
+[30] J. Płotka-Wasylka, K. Owczarek, J. Namiesnik, Modern solutions in the ﬁeld of
+microextraction using liquid as a medium of extraction, TrAC Trends Anal.
+Chem. (Reference Ed.) 85 (2016) 46e64.
+[31] K.E. Rasmussen, S. Pedersen-Bjergaard, Developments in hollow ﬁbre-based,
+liquid-phase microextraction, TrAC Trends Anal. Chem. (Reference Ed.) 23
+(2004) 1e10.
+[32] M. Rezazadeh, Y. Yamini, S. Seidi, Electromembrane extraction of trace
+amounts of naltrexone and nalmefene from untreated biological ﬂuids,
+J. Chromatogr. B 879 (2011) 1143e1148.
+[33] L. Vårdal, E.L. Øiestad, A. Gjelstad, et al., Electromembrane extraction of
+substances with weakly basic properties: a fundamental study with benzodiazepines, Bioanalysis 10 (2018) 769e781.
+[34] C. Huang, Z. Chen, A. Gjelstad, et al., Electromembrane extraction, TrAC
+Trends Anal. Chem. (Reference Ed.) 95 (2017) 47e56.
+[35] E. Psillakis, N. Kalogerakis, Developments in liquid-phase microextraction,
+TrAC Trends Anal. Chem. (Reference Ed.) 22 (2003) 565e574.
+[36] C. Huang, K.F. Seip, A. Gjelstad, et al., Electromembrane extraction for
+pharmaceutical and biomedical analysiseQuo vadis, J. Pharm. Biomed. Anal.
+113 (2015) 97e107.
+[37] V. Krishna Marothu, M. Gorrepati, R. Vusa, Electromembrane extractionda
+novel extraction technique for pharmaceutical, chemical, clinical and environmental analysis, J. Chromatogr. Sci. 51 (2013) 619e631.
+[38] M. Ghambarian, Y. Yamini, A. Esraﬁli, Three-phase hollow ﬁber liquid-phase
+microextraction based on two immiscible organic solvents for determination
+of tramadol in urine and plasma samples, J. Pharm. Biomed. Anal. 56 (2011)
+1041e1045.
+
+ pez, R. Fern
+[39] M.R. Pay
+an, M.A.B.
+Lo
+andez-Torres, et al., Hollow ﬁber-based
+liquid phase microextraction (HF-LPME) as a new approach for the HPLC
+determination of ﬂuoroquinolones in biological and environmental matrices,
+J. Pharm. Biomed. Anal. 55 (2011) 332e341.
+[40] M.R. Hadjmohammadi, M. Soltani, Use of hollow ﬁber liquid phase microextraction and HPLC for extraction and determination of apigenin in human
+urine after consumption of Satureja sahendica Bornm, J. Chromatogr. B 900
+(2012) 85e88.
+[41] K.M. Al Azzam, A. Makahleah, B. Saad, et al., Hollow ﬁber liquid-phase
+microextraction for the determination of trace amounts of rosiglitazone
+(anti-diabetic drug) in biological ﬂuids using capillary electrophoresis and
+high performance liquid chromatographic methods, J. Chromatogr. A 1217
+(2010) 3654e3659.
+[42] V. Shariﬁ, A. Abbasi, A. Nosrati, Application of hollow ﬁber liquid phase
+microextraction and dispersive liquideliquid microextraction techniques in
+analytical toxicology, J. Food Drug Anal. 24 (2016) 264e276.
+[43] J. Xiong, B. Hu, Comparison of hollow ﬁber liquid phase microextraction and
+dispersive liquideliquid microextraction for the determination of organosulfur pesticides in environmental and beverage samples by gas chromatography with ﬂame photometric detection, J. Chromatogr. A 1193 (2008)
+7e18.
+[44] A. Saleh, Y. Yamini, M. Faraji, et al., Hollow ﬁber liquid phase microextraction
+followed by high performance liquid chromatography for determination of
+
+W.A. Khan et al. / Journal of Pharmaceutical Analysis 10 (2020) 109e122
+
+[45]
+
+[46]
+
+[47]
+
+[48]
+
+[49]
+
+[50]
+[51]
+
+[52]
+
+[53]
+
+[54]
+
+[55]
+
+[56]
+
+[57]
+
+[58]
+
+[59]
+
+[60]
+
+[61]
+
+[62]
+
+[63]
+
+[64]
+
+[65]
+
+[66]
+
+[67]
+
+[68]
+
+ultra-trace levels of Se (IV) after derivatization in urine, plasma and natural
+water samples, J. Chromatogr. B 877 (2009) 1758e1764.
+S. Seidi, Y. Yamini, A. Heydari, et al., Determination of thebaine in water
+samples, biological ﬂuids, poppy capsule, and narcotic drugs, using electromembrane extraction followed by high-performance liquid chromatography
+analysis, Anal. Chim. Acta 701 (2011) 181e188.
+T.M. Middelthon-Bruer, A. Gjelstad, K.E. Rasmussen, et al., Parameters
+affecting electro membrane extraction of basic drugs, J. Sep. Sci. 31 (2008)
+753e759.
+M. Balchen, T.G. Halvorsen, L. Reubsaet, et al., Rapid isolation of angiotensin
+peptides from plasma by electromembrane extraction, J. Chromatogr. A 1216
+(2009) 6900e6905.
+
+ , A. Slampov
+
+P. Kub
+an
+a, P. Bo
+cek, Electric ﬁeld-enhanced transport across
+phase boundaries and membranes and its potential use in sample pretreatment for bioanalysis, Electrophoresis 31 (2010) 768e785.
+Y. Yamini, S. Seidi, M. Rezazadeh, Electrical ﬁeld-induced extraction and
+separation techniques: promising trends in analytical chemistryea review,
+Anal. Chim. Acta 814 (2014) 1e22.
+J. Sneddon, Determination of heavy metals in food by atomic spectroscopy,
+Anal Endocr Disrup Comp Food (2011) 289.
+S. Bahar, Z. Es’ haghi, A. Nezhadali, et al., An innovative method for analysis
+of Pb (II) in rice, milk and water samples based on TiO2 reinforced caprylic
+acid hollow ﬁber solid/liquid phase microextraction, Food Chem. 221 (2017)
+1904e1910.
+C. Zeng, Y. Yan, J. Tang, et al., Speciation of Arsenic (III) and Arsenic (V) based
+on Triton X-100 hollow ﬁber liquid phase microextraction coupled with
+ﬂame atomic absorption spectrometry, Spectrosc. Lett. 50 (2017) 220e226.
+L. Boutorabi, M. Rajabi, M. Bazregar, et al., Selective determination of chromium (VI) ions using in-tube electro-membrane extraction followed by
+ﬂame atomic absorption spectrometry, Microchem. J. 132 (2017) 378e384.
+S. Salari, A. Bahrami, F. Ghamari, et al., Multivariate optimization of the
+hollow ﬁber-based liquid phase microextraction of lead in human blood and
+urine samples using graphite furnace atomic absorption spectrometry,
+Chem. Pap. 72 (2018) 1945e1952.
+M.A. Kamyabi, A. Aghaei, A simple and selective approach for determination
+of trace Hg (II) using electromembrane extraction followed by graphite
+furnace atomic absorption spectrometry, Spectrochem Acta B 128 (2017)
+17e21.
+Z. Tahmasebi, S.S.H. Davarani, H. Ebrahimzadeh, et al., Ultra-trace determination of Cr (VI) ions in real water samples after electromembrane extraction
+through novel nanostructured polyaniline reinforced hollow ﬁbers followed
+by electrothermal atomic absorption spectrometry, Microchem. J. 143 (2018)
+212e219.
+W. Alahmad, N. Tungkijanansin, T. Kaneta, et al., A colorimetric paper-based
+analytical device coupled with hollow ﬁber membrane liquid phase microextraction (HF-LPME) for highly sensitive detection of hexavalent chromium
+in water samples, Talanta 190 (2018) 78e84.
+L. Alavi, S. Seidi, A. Jabbari, et al., Deep eutectic liquid organic salt as a new
+solvent for carrier-mediated hollow ﬁber liquid phase microextraction of
+lead from whole blood followed by electrothermal atomic absorption spectrometry, New J. Chem. 41 (2017) 7038e7044.
+S. Nojavan, T. Rahmani, S. Mansouri, Selective determination of chromium
+(VI) in industrial wastewater samples by micro-electromembrane extraction
+combined with electrothermal atomic absorption spectrometry, water, air,
+Soil Pollut 229 (2018) 89.
+A. Thongsaw, R. Sananmuang, Y. Udnan, et al., Speciation of mercury in water
+and freshwater ﬁsh samples using two-step hollow ﬁber liquid phase
+microextraction with electrothermal atomic absorption spectrometry,
+Spectrochem Acta B 152 (2019) 102e108.
+U. Atikarnsakul, P. Varanusupakul, W. Alahmad, Isolation of chromium (VI)
+from aqueous solution by electromembrane extraction, Anal. Lett. 51 (2018)
+983e997.
+C. Onac, A. Kaya, I. Sener, et al., An electromembrane extraction with polymeric membrane under constant current for the recovery of Cr (VI) from
+industrial water, J. Electrochem. Soc. 165 (2018) E76eE80.
+A. Fashi, M.R. Yaftian, A. Zamani, Electromembrane extractionpreconcentration followed by microvolume UVeVis spectrophotometric
+determination of mercury in water and ﬁsh samples, Food Chem. 221 (2017)
+714e720.
+M. Khajeh, M. Dahmardeh, M. Bohlooli, et al., Determination of gold in water
+samples using electromembrane extraction, J. Dispersion Sci. Technol. 39
+(2018) 311e315.
+A. Fashi, M.R. Yaftian, A. Zamani, Electromembrane-microextraction of bismuth in pharmaceutical and human plasma samples: optimization using
+response surface methodology, Microchem. J. 130 (2017) 71e78.
+W.A. Khan, Y. Yamini, M. Baharfar, et al., A new microﬂuidic-chip device for
+selective and simultaneous extraction of drugs with various properties, New
+J. Chem. 43 (2019) 9689e9695.
+n-Hidalgo, G. Lo
+ pez-Pe
+rez, M.J. Martín-Valero, et al., Chitosan tailorC. Roma
+made membranes as biopolymeric support for electromembrane extraction,
+Talanta 199 (2019) 290e295.
+ndez, L. Vårdal, L. Vidal, et al., Complexation-mediated electroE. Ferna
+membrane extraction of highly polar basic drugsda fundamental study with
+catecholamines in urine as model system, Anal. Bioanal. Chem. 409 (2017)
+4215e4223.
+
+121
+
+[69] H. Xu, H.-Y. Mi, M.-M. Guan, et al., Residue analysis of tetracyclines in milk by
+HPLC coupled with hollow ﬁber membranes-based dynamic liquid-liquid
+micro-extraction, Food Chem. 232 (2017) 198e202.
+[70] F. Ghamari, A. Bahrami, Y. Yamini, et al., Hollow-ﬁber liquid-phase microextraction based on carrier-mediated transport for determination of urinary
+methyl hippuric acids, Toxicol. Environ. Chem. 99 (2017) 760e771.
+[71] A. Bahrami, F. Ghamari, Y. Yamini, et al., Hollow ﬁber supported liquid
+membrane extraction combined with HPLC-UV for simultaneous preconcentration and determination of urinary hippuric acid and mandelic acid,
+Membranes 7 (2017) 8.
+[72] Y. Zhang, W. Guo, Z. Yue, et al., Rapid determination of 54 pharmaceutical
+and personal care products in ﬁsh samples using microwave-assisted
+extractiondhollow
+ﬁberdliquid/solid
+phase
+microextraction,
+J. Chromatogr. B 1051 (2017) 41e53.
+[73] A. Fashi, F. Khanban, M.R. Yaftian, et al., The cooperative effect of reduced
+graphene oxide and Triton X-114 on the electromembrane microextraction
+efﬁciency of Pramipexole as a model analyte in urine samples, Talanta 162
+(2017) 210e217.
+[74] M.S. Restan, H. Jensen, X. Shen, et al., Comprehensive study of buffer systems
+and local pH effects in electromembrane extraction, Anal. Chim. Acta 984
+(2017) 116e123.
+[75] M. Karami, Y. Yamini, Y.A. Asl, et al., On-chip pulsed electromembrane
+extraction as a new concept for analysis of biological ﬂuids in a small device,
+J. Chromatogr. A 1527 (2017) 1e9.
+[76] H. Tabani, S. Asadi, S. Nojavan, et al., Introduction of agarose gel as a green
+membrane in electromembrane extraction: an efﬁcient procedure for the
+extraction of basic drugs with a wide range of polarities, J. Chromatogr. A
+1497 (2017) 47e55.
+[77] C. Rom
+an-Hidalgo, M.J. Martín-Valero, R. Fern
+andez-Torres, et al., New
+nanostructured support for carrier-mediated electromembrane extraction of
+high polar compounds, Talanta 162 (2017) 32e37.
+[78] M. Baharfar, Y. Yamini, S. Seidi, et al., Quantitative analysis of clonidine and
+ephedrine by a microﬂuidic system: on-chip electromembrane extraction
+followed by high performance liquid chromatography, J. Chromatogr. B 1068
+(2017) 313e321.
+[79] N.S.M. Hanapi, M.M. Sanagi, A.K. Ismail, et al., Ionic liquid-impregnated
+agarose ﬁlm two-phase micro-electrodriven membrane extraction (IL-AFm-EME) for the analysis of antidepressants in water samples, J. Chromatogr. B
+1046 (2017) 73e80.
+[80] A. Atarodi, M. Chamsaz, A.Z. Moghaddam, et al., Introduction of fullerene as a
+new carrier in electromembrane extraction for the determination of
+ibuprofen and sodium diclofenac as model acidic drugs in real urine samples,
+Chromatographia 80 (2017) 881e890.
+[81] N.S. Mohamad Hanapi, M.M. Sanagi, A.K. Ismail, et al., Rapid determination of
+non-steroidal anti-inﬂammatory drugs in aquatic matrices by two-phase
+micro-electrodriven membrane extraction combined with liquid chromatography, J. Chromatogr. Sci. 56 (2017) 166e176.
+[82] S. Nojavan, M. Sirani, S. Asadi, Investigation of the continuous ﬂow of the
+sample solution on the performance of electromembrane extraction: comparison with conventional procedure, J. Sep. Sci. 40 (2017) 3889e3897.
+~ iz-Valencia, J.M. Jurado, et al., Hollow ﬁber liquid
+[83] V. Salvatierra-stamp, R. Mun
+phase microextraction combined with liquid chromatography-tandem mass
+spectrometry for the analysis of emerging contaminants in water samples,
+Microchem. J. 140 (2018) 87e95.
+[84] C. Worawit, D.J. Cocovi-Solberg, P. Varanusupakul, et al., In-line carbon
+nanoﬁber reinforced hollow ﬁber-mediated liquid phase microextraction
+using a 3D printed extraction platform as a front end to liquid chromatography for automatic sample preparation and analysis: a proof of concept
+study, Talanta 185 (2018) 611e619.
+[85] M. Rajabi, N. Ghassab, M. Hemmati, et al., Highly effective and safe intermediate based on deep eutectic medium for carrier less-three phase hollow
+ﬁber microextraction of antiarrhythmic agents in complex matrices,
+J. Chromatogr. B 1104 (2019) 196e204.
+[86] R.-H. Cristina, M.-V.M. Jesús, F.-T. Rut, et al., Use of polymer inclusion
+membranes (PIMs) as support for electromembrane extraction of nonsteroidal anti-inﬂammatory drugs and highly polar acidic drugs, Talanta
+179 (2018) 601e607.
+[87] S. Asadi, H. Tabani, S. Nojavan, Application of polyacrylamide gel as a new
+membrane in electromembrane extraction for the quantiﬁcation of basic
+drugs in breast milk and wastewater samples, J. Pharm. Biomed. Anal. 151
+(2018) 178e185.
+[88] S. Yaripour, A. Mohammadi, I. Esfanjani, et al., Quantitation of zolpidem in
+biological ﬂuids by electro-driven microextraction combined with HPLC-UV
+analysis, EXCLI journal 17 (2018) 349.
+[89] J.M. Kim, S.W. Myung, Determination of non-steroidal anti-inﬂammatory
+drugs in urine by HPLCeUV/vis analysis coupled with electromembrane
+extraction, Bull. Korean Chem. Soc. 39 (2018) 335e340.
+[90] S. Yaripour, M. Zaheri, A. Mohammadi, An electromembrane extractioneHPLC-UV analysis for the determination of valproic acid in human
+plasma, J. Chin. Chem. Soc. 65 (2018) 989e994.
+[91] H.R. Moazami, S.S.H. Davarani, M. Abrari, et al., Electromembrane extraction
+using a round-headed platinum wire as the inner electrode: a simple and
+practical way to enhance the performance of extraction, Chromatographia 81
+(2018) 1023e1033.
+[92] C. Huang, X. Shen, A. Gjelstad, et al., Investigation of alternative supported
+
+122
+
+[93]
+
+[94]
+
+[95]
+
+[96]
+
+[97]
+
+[98]
+
+[99]
+
+[100]
+
+[101]
+
+[102]
+
+[103]
+
+[104]
+
+[105]
+
+[106]
+
+[107]
+
+[108]
+
+[109]
+
+[110]
+
+[111]
+
+[112]
+
+[113]
+
+W.A. Khan et al. / Journal of Pharmaceutical Analysis 10 (2020) 109e122
+liquid membranes in electromembrane extraction of basic drugs from human plasma, J. Membr. Sci. 548 (2018) 176e183.
+M.a. Ramos Payan, E. Santigosa, R. Fernandez Torres, et al., A new microchip
+design. A versatile combination of electromembrane extraction and liquidphase microextraction in a single chip device, Anal. Chem. 90 (2018)
+10417e10424.
+M.R. Saadat, M. Qomi, S. Emadzadeh, et al., Microextraction and determination of diclofenac in biological samples using hollow ﬁber liquid phase
+microextraction technique coupled with HPLC-UV, J Appli Chemi Resear 12
+(2018) 16e25.
+A. Nazaripour, Y. Yamini, H. Bagheri, Extraction and determination of trace
+amounts of three anticancer pharmaceuticals in urine by three-phase hollow
+ﬁber liquid-phase microextraction based on two immiscible organic solvents
+followed by high-performance liquid chromatography, J. Sep. Sci. 41 (2018)
+3113e3120.
+R.P. Horta, B. do Amaral, P.G. Peralta-Zamora, et al., Evaluation of a hollowﬁber liquid-phase microextraction technique for the simultaneous determination of PPI drugs in human plasma by LC-DAD, J. Chromatogr. Sci. 56
+(2018) 564e573.
+N.N. Al-Hashimi, A.I. Awwad, A.N. Al-Hashimi, et al., Functionalized Multi
+walled carbon nanotubes-reinforced hollow ﬁber solid/liquid phase microextraction and HPLC-DAD for determination of phenazopyridine in urine,
+Curr. Pharmaceut. Anal. 15 (2019) 447e455.
+L. Yang, Y. Shi, J. Li, et al., In situ derivatization and hollow-ﬁber liquid-phase
+microextraction to determine sulfonamides in water using UHPLC with
+ﬂuorescence detection, J. Sep. Sci. 41 (2018) 1651e1662.
+
+M. Díaz-Alvarez,
+A. Martín-Esteban, Hollow ﬁber membrane-protected
+molecularly imprinted microspheres for micro solid-phase extraction and
+́
+́
+clean-up of thiabendazole
+in citrus samples,
+J. Chromatogr. A 1531 (2018)
+39e45.
+S.S. Hosseiny Davarani, A. Pourahadi, P. Ghasemzadeh, Quantiﬁcation of
+controlled release leuprolide and triptorelin in rabbit plasma using electromembrane extraction coupled with HPLCeUV, Electrophoresis 40 (2019)
+1074e1081.
+n, M. Callejon-Mochon, et al., Effect of
+N. Aranda-Merino, M. Ramos-Paya
+counter-ions on electromembrane extraction of non-steroidal antiinﬂammatory drugs, J. Electroanal. Chem. 840 (2019) 255e262.
+S.S. Nasrollahi, S.S.H. Davarani, H.R. Moazami, Impedometric investigation of
+salt effects on electromembrane extraction: practical hints for pH adjustment, Electrochim. Acta 296 (2019) 355e363.
+A. Rahimi, S. Nojavan, Electromembrane extraction of verapamil and riluzole
+from urine and wastewater samples using a mixture of organic solvents as a
+supported liquid membrane: study on electric current variations, J. Sep. Sci.
+42 (2019) 566e573.
+R. Zhu, Y. Dong, X. Cai, et al., Determination of barbiturates in biological
+specimens by Flat membrane-based liquid-phase microextraction and liquid
+chromatography-mass spectrometry, Molecules 24 (2019) 1494.
+S. Seidi, M.H. Ranjbar, M. Baharfar, et al., A promising design of microﬂuidic
+electromembrane extraction coupled with sensitive colorimetric detection
+for colorless compounds based on quantum dots ﬂuorescence, Talanta 194
+(2019) 298e307.
+F. Zarghampour, Y. Yamini, M. Baharfar, et al., Simultaneous extraction of
+acidic and basic drugs via on-chip electromembrane extraction using a
+single-compartment microﬂuidic device, Analyst 144 (2019) 1159e1166.
+N.N. AL-Hashimi, R.O. Shahin, A.N. AL-Hashimi, et al., Cetyl-alcohol-reinforced hollow ﬁber solid/liquid-phase microextraction and HPLCeDAD
+analysis of ezetimibe and simvastatin in human plasma and urine, Biomed.
+Chromatogr. 33 (2019), e4410.
+F. Barahona, B. Albero, J.L. Tadeo, et al., Molecularly imprinted polymerhollow ﬁber microextraction of hydrophilic ﬂuoroquinolone antibiotics in
+environmental waters and urine samples, J. Chromatogr. A 1587 (2019)
+42e49.
+S. Seidi, L. Alavi, A. Jabbari, et al., Three-phase carrier-mediated hollow ﬁber
+microextraction based on deep eutectic solvent followed by HPLCeUV for
+determination of raloxifene and ethinylestradiol in pharmaceutical wastewater treatment plants, J. Iran. Chem. Soc. 16 (2019) 1007e1018.
+M. Shamsayei, Y. Yamini, H. Asiabi, et al., Electromembrane surrounded
+solid-phase microextraction using a stainless-steel wire coated with a
+nanocomposite composed of polypyrrole and manganese dioxide, Microchim Acta 184 (2017) 2697e2705.
+H. Tabani, A. Shokri, S. Tizro, et al., Evaluation of dispersive liquideliquid
+microextraction
+by
+coupling
+with
+green-based
+agarose
+gelelectromembrane extraction: an efﬁcient method to the tandem extraction
+of basic drugs from biological ﬂuids, Talanta 199 (2019) 329e335.
+S. Nojavan, H. Shaghaghi, T. Rahmani, et al., Combination of electromembrane extraction and electro-assisted liquid-liquid microextraction: a
+tandem sample preparation method, J. Chromatogr. A 1563 (2018) 20e27.
+k, K.F. Seip, S. Pedersen-Bjergaard, et al., Semi-automated set-up for
+M. Dvora
+exhaustive micro-electromembrane extractions of basic drugs from
+
+biological ﬂuids, Anal. Chim. Acta 1005 (2018) 34e42.
+n
+ , In-line coupling of supported liquid membrane
+[114] P. Pant
+u
+ckov
+a, P. Kuba
+extraction to capillary electrophoresis for simultaneous analysis of basic and
+acidic drugs in urine, J. Chromatogr. A 1519 (2017) 137e144.
+[115] M. Forough, K. Farhadi, A. Eyshi, et al., Rapid ionic liquid-supported nanohybrid composite reinforced hollow-ﬁber electromembrane extraction followed by ﬁeld-ampliﬁed sample injection-capillary electrophoresis: an
+effective approach for extraction and quantiﬁcation of Imatinib mesylate in
+human plasma, J. Chromatogr. A 1516 (2017) 21e34.
+[116] A. Slampova, P. Kuban, Direct analysis of free aqueous and organic operational solutions as a tool for understanding fundamental principles of electromembrane extraction, Anal. Chem. 89 (2017) 12960e12967.
+[117] N. Drouin, J.-F.o. Mandscheff, S. Rudaz, et al., Development of a new
+extraction device based on parallel-electromembrane extraction, Anal.
+Chem. 89 (2017) 6346e6350.
+[118] A.R. Fakhari, S. Asadi, H.M. Kosalar, et al., Metaleorganic framework
+enhanced electromembrane extractionea conceptual study using basic
+drugs as model substances, Ana Methods 9 (2017) 5646e5652.
+[119] Z. Aladaghlo, A.R. Fakhari, K.S. Hasheminasab, Carrier assisted electromembrane extraction based on nonionic lipophilic surfactants for the
+determination of basic drugs in urine samples, Ana Methods 9 (2017)
+5659e5667.
+[120] M. Forough, K. Farhadi, R. Molaei, et al., Capillary electrophoresis with online
+stacking in combination with AgNPs@ MCM-41 reinforced hollow ﬁber
+solid-liquid phase microextraction for quantitative analysis of Capecitabine
+and its main metabolite 5-Fluorouracil in plasma samples isolated from
+cancer patients, J. Chromatogr. B 1040 (2017) 22e37.
+[121] A.R. Fakhari, H. Mohammadi Kosalar, S. Asadi, et al., Surfactant-assisted
+electromembrane extraction combined with cyclodextrin-modiﬁed capillary
+electrophoresis for the separation and quantiﬁcation of Tranylcypromine
+enantiomers in biological samples, J. Sep. Sci. 41 (2018) 475e482.
+
+, P. Kuba
+n
+ , Two-phase micro-electromembrane extraction across
+[122] A. Slampov
+a
+free liquid membrane for determination of acidic drugs in complex samples,
+Anal. Chim. Acta 1048 (2019) 58e65.
+k, P. Kub
+ , The effect of membrane thickness on sup[123] L. Rysav
+a, M. Dvora
+an
+̌
+́ membrane
+́̌
+ported liquid
+extractions in-line coupled to capillary electrophoresis for analyses of complex samples, J. Chromatogr. A 1596 (2019)
+226e232.
+[124] C. Roman-Hidalgo, E. Santigosa-Murillo, M. Ramos-Pay
+an, et al., On-chip
+electromembrane extraction of acidic drugs, Electrophoresis (2019).
+[125] Z. Moﬁdi, P. Norouzi, S. Seidi, et al., Efﬁcient design for in situ determination
+of amlodipine in whole blood samples using fast Fourier transform stripping
+square wave voltammetry after preconcentration by electromembrane
+extraction, New J. Chem. 41 (2017) 13567e13575.
+[126] Z. Moﬁdi, P. Norouzi, S. Seidi, et al., Determination of diclofenac using
+electromembrane extraction coupled with stripping FFT continuous cyclic
+voltammetry, Anal. Chim. Acta 972 (2017) 38e45.
+[127] B. Hatamluyi, Z. Es’ haghi, A layer-by-layer sensing architecture based on
+dendrimer and ionic liquid supported reduced graphene oxide for simultaneous hollow-ﬁber solid phase microextraction and electrochemical determination of anti-cancer drug imatinib in biological samples, J. Electroanal.
+Chem. 801 (2017) 439e449.
+[128] Z. Moﬁdi, P. Norouzi, B. Larijani, et al., Simultaneous determination and
+extraction of ultra-trace amounts of estradiol valerate from whole blood
+using FFT square wave voltammetry and low-voltage electrically enhanced
+microextraction techniques, J. Electroanal. Chem. 813 (2018) 83e91.
+[129] Z. Tahmasebi, S.S.H. Davarani, A.A. Asgharinezhad, Highly efﬁcient electrochemical determination of propylthiouracil in urine samples after selective
+electromembrane extraction by copper nanoparticles-decorated hollow ﬁbers, Biosens. Bioelectron. 114 (2018) 66e71.
+[130] Z. Moﬁdi, C. Esmaeili, P. Norouzi, et al., Ultra-trace determination of imipramine using a Sr (VO3) 2 doped phytic acid carbon paste electrode after
+preconcentration by electromembrane extraction coupled with FFT square
+wave voltammetry, J. Electrochem. Soc. 165 (2018) H205eH212.
+[131] V. Hrdli
+cka, T. Navr
+atil, J. Barek, Application of hollow ﬁbre based microextraction for voltammetric determination of vanillylmandelic acid in human urine, J. Electroanal. Chem. 835 (2019) 130e136.
+[132] A. Oedit, R. Ramautar, T. Hankemeier, et al., Electroextraction and electromembrane extraction: advances in hyphenation to analytical techniques,
+Electrophoresis 37 (2016) 1170e1186.
+[133] A. Odobasic, Determination and Speciation of Trace Heavy Metals in Natural
+Water by DPASV, ISBN2012.
+[134] Z. Es’haghi, A. Nezhadali, H.A. Hosseini, et al., Pre-concentration and determination of zinc in water samples by ligand assisted pseudo stirbar hollow
+ﬁber solid/liquid phase microextraction, Arab J Chem 10 (2017)
+S3840eS3847.
+n-Jaimez, M. Joya, J. Barba-Ortega, Anodic stripping voltammetryeASV
+[135] J. Baro
+for determination of heavy metals, J. Phys. Conf. Ser. (2013), 012023. IOP
+Publishing.
+
+

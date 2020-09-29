@@ -1,0 +1,852 @@
+
+Biochemistry & Pharmacology: Open Access
+
+ISSN: 2167-0501
+
+Review Article
+
+Open Access
+
+A Comprehensive Review Article on Isoprostanes as Biological Markers
+
+
+Abstract
+
+Various obsessive procedures include free radical intervened oxidative anxiety. The elaboration of solid and nonintrusive strategies for the assessment of oxidative worry in human body is a standout amongst the most critical strides
+towards perceiving the assortment of oxidative disorders apparently created by Reactive Oxygen Species (ROS). Lipid
+peroxidation is a standout amongst the most well-known components related with oxidative anxiety, and the estimation
+of lipid peroxidation items has been utilized to assess oxidative worry in vivo conditions. The estimation of conjugated
+dienes and lipid hydro peroxide, while the evaluation of optional final results incorporates thiobarbituric acid reactive
+substances, vaporous alkanes and prostaglandin F2-like items, named F2-isoprostanes (F2-iPs). As of late, F2-iPs
+have been viewed as the most significant, precise and solid marker of oxidative worry in vivo and their evaluation is
+suggested for surveying oxidant wounds in people. The motivation behind this paper is to give some data on organic
+chemistry of isoprostanes and their use as a marker of oxidative anxiety.
+
+Keywords
+Lipid peroxidation; Prostaglandin F2; Conjugated
+products; Arachidonic acid metabolites
+
+Introduction
+Isoprostanes are formed from unsaturated hydrocarbons and
+are catalyzed by free radicals. Isoprostanes show the formation of
+different stereo-isomers. They normally show characteristics such
+as biotic change, mainly on the lungs and kidneys, and useful for
+normal functions of body. They are very important as makers for
+oxidative stress. Few decades ago in 1967, Isoprostanes were prepared
+in the laboratory but it came out clearly understandable that they
+were set up in suitable in vivo and had significant biotech effects.
+The first isoprostane discovered in 1990 were F2-isoprostanes. Other
+types of isoprostanes include D2-isoprostanes, E2-isoprostanes, A2isoprostanes, J2-isoprostanes [1].
+
+Main
+
+undifferentiated from prostaglandins PGF2 to recognize upgraded rates
+of lipid peroxidation. In mid-1970, production of Prostaglandins (PG)
+like mixes amid auto-oxidation of polyunsaturated and unsaturated
+fats was found, however isoprostanes were not found in people. Until
+1990, F2-isoprostanes were thought as constituents of 64 mixes of
+different isomeric structures. Additional type of isoprostanes delivered
+in vivo by order of obligated prostaglandins PGH2-like isoprostane or
+intermediates [5]. Incorporate E2-isoprostane and D2-isoprostanes,
+cyclopentenone-A2 and J2-isoprostanes, and the exceedingly
+responsive non-cyclic ketoaldehydes (isoketals). Biological impacts
+of Isoprostanes (IsoPs) are settled by correspondence with receptor.
+The cyclopentenone - Isoprostane (IsoPs) for instance Prostaglandin
+(PGA2) and Prostaglandin (PGJ2) like mixes. The Isoprostanes (IsoPs)
+way instantly adduct to lysine stays on proteins and initiate crosslinkages. It`s still dubious about the receptors required in Isoprostanes
+(IsoPs) activities. The vasoconstricting activity is interceded through
+Thromboxane (Tx) receptor contender [6].
+
+There are some dissimilarity between Prostaglandins (PG) and
+isoprostanes. Prostaglandins are made from arachidonic acid, while
+isoprostanes are formed on lipid membranes from polyunsaturated
+fatty acids and then they are set free by phospholipases. Isoprostanes
+are also formed from docosahexaenoic and eicosapentaenoic acids.
+Prostaglandins (PG) are a trans isomer while isoprostane is mainly
+cis. Isoprostanes are similar to the common prostanoids in distinct
+manners and the most accessible form is similar to Postaglandin F2.
+Prostaglandin (PGD2) and Prostaglandin (PGE2) are also found in
+similar way but particularly they are different in their stereochemistry
+[2]. To differentiate between isoprostanes and prostaglandins, we
+use different abbreviations like PG for prostaglandin and IsoPs for
+isoprostanes. The different positions of hydroxyl group in the ring help
+to identify different Isoprostanes structures [3].
+
+The recuperation of Isoprostanes (IsoPs) has vital importance for
+medication. It has now been shaped that estimation of F2-isoprostanes
+is the most dependable way to deal with survey oxidative anxiety status
+in vivo, giving a critical instrument to look in to the part of biochemical
+worry in the form of infection in human beings. In addition, measures
+of the isoprostane way have been found to apply solid organic activities.
+IsoPs like 8-iso-PGF2 and 8-iso-PGE2 have solid natural impacts in
+different frame works and they additionally fill in as arbiters of oxidant
+worry through their vasoconstrictive and energizing properties. 8-isoPGF2 have been notable to have vasoconstrictive impacts in different
+organs including aorta, cerebrum cerebral arterioles, kidney, the lung,
+aspiratory supply route, retinal vessels and endothelium [7].
+
+Biochemistry and Metabolism of Isoprostanes
+
+*Corresponding author: Jadoon S, Institute of Molecular Biology and
+Biotechnology, University of Lahore, Lahore, Pakistan, Tel: +96 4751 0307184;
+E-mail: saima.jadoon95@gmail.com
+
+Isoprostanes (IsoPs) are generated in situ in their esterified
+frame in tissues and by converted first to their free corrosive shape
+and are conveyed in both the esterifies and free corrosive frame
+in tissues [4]. Isoprostanes (IsoPs) are groups of Prostaglandins
+(PG) like compounds. They are produced by free radical catalyzed
+peroxidation of arachidonic acid and independent of cyclooxygenase.
+Isoprostanes (IsoPs) are created in situ in the phospholipid space of cell
+layers. The estimation of F2-isoprostanes; containing the F-sort ring
+
+
+Received: December 28, 2017; Accepted: April 24, 2018; Published April 30, 2018
+Citation: Jadoon S, Malik A (2018) A Comprehensive Review Article on Isoprostanes
+as Biological Markers. Biochem Pharmacol (Los Angel) 7: 246. doi: 10.4172/21670501.1000246
+Copyright: © 2018 Jadoon S, et al. This is an open-access article distributed under
+the terms of the Creative Commons Attribution License, which permits unrestricted
+use, distribution, and reproduction in any medium, provided the original author and
+source are credited.
+
+
+Isoprostanes actuate irritation and atherogenesis through enactment
+of MAP (Mitogen Activated Protein) kinases. Isoprostanes have vital
+in vitro exercises that could be dependent to the pathophysiology of
+atherosclerosis. It bolsters platelet enactment and actuates mutagenesis in
+vascular smooth muscle cells affect proliferative reactions in fibroblasts,
+changes endothelial cell science as exhibit by proliferative impacts and
+expanded endothelin-1 expression in ox-like aortic endothelial cells. It
+has been sought that Isoprostanes (IsoPs) are oxidative anxiety creators
+as well as naturally dynamic. When they are discharged from cell layers
+by phosholipases flow in the plasma in free structures and, in this
+manner, can initiate film receptors. 15-F2t-IsoP is a fractional against
+at the TP (Thromboxane Prostanoid) receptor on platelets and, hence,
+it may control the proaggregatory impact of TP receptor incitement [8].
+This has inspected resulting impact of 8-iso-PGF2 (alpha), 8-iso-PGF2
+(beta) and 8-iso-PGF3 (alpha) on human respiratory system. Both
+8-iso-PGF2 (alpha) and 8-iso-PGF2 (beta) shaped focus subordinate
+with drawls of smooth muscle from human extensive and little aviation
+route. This research has impact of isoprostanes on human birth cord
+supply route (HUA) in vitro. Birth code is connection between baby
+and mother placenta. Quantitative constrictions were shaped by 8-isoPGE2, 8-iso-PGE1, 8-iso-PGF (alpha), 8-iso-PGF2 (alpha), 8-iso-PGF2
+(beta). The consideration by the shrinking movement of 8-iso-PGF2
+(alpha) and 8-iso-PGE2 was calculated in the confined rodent on the
+upper part of stomach, detached rodent aorta and the segregated guinea
+pig middle part of small intestine differentiate with the Thromboxin
+(TX) A2-mimetic U46619 and the customary prostaglandin PGE2. In
+the confined rodent aorta 8-iso-PGE2, 8-iso-PGF2 (alpha) prompted
+vasoconstrictions in a fixation subordinate way [9]. By correlation of the
+pEC50 values the accompanying rank request of impact was settled: U
+46619 > 8-iso-PGE2 > 8-iso-PGF2 (alpha) > PGE2 in the disconnected
+rodent gastric fundus, the rank request of impact settled by correlation
+of the pEC50 was: PGE2 > 8-iso-PGE2 > U 46619 > 8-iso-PGF2 (alpha).
+In the concealed guinea-pig ileum, U 46619 and 8-iso-PGF2 (alpha)
+had no impact, while PGE2, 8-iso-PGE2 created focus subordinate
+withdrawal [10].
+
+Synthesis in Animal Tissues
+Union of isoprostanes in individual tissues in vivo is realized by
+a progression of free radical-catalyzed responses, a large portion of
+which don't include compounds and any unsaturated fats. Keeping in
+mind the end goal to begin isoprostane arrangement, prerequisite for
+responsive oxygen species, for example, peroxyl radicals, singlet oxygen
+etc under vigorous conditions in vivo in creatures and plants. The shaped
+expanding sums under states of oxidative anxiety. The radical created
+during this process is non- enzymatic, all methylene assemblage between
+two cis two fold bonds can conceivably include [11]. The pentadienyl
+radical an enantiomer mixture peroxy radical that tends to reorganize
+a shape equal sums alpha-alpha and beta-beta-bicyclic endoperoxy
+radicals who are arranged solely cis regarding the cyclopentane ring.
+Later, the bicyclic endoperoxy radical responds with a further oxygen
+particle to deliver racemic hydroperoxyl bicyclic endoperoxy radicals.
+The item is an isoprostane IsoPG that is comparable of PGG2, which can
+be reduced to the firm F2-IsoP [12]. Comparative responses happen to
+shape isoprostanes with the hydroxyl assemble in positions 5, 8 or 12.
+Isoprostanes of the IsoPF arrangement are framed in restricted sums
+just in vitro, however are significant metabolites in vivo, through the
+decline in IsoPGs by means of characteristic endogenous reductions
+for instance; glutathione, hematin, lipoic corrosive, unsaturated fat
+or glutathione peroxidase. Thromboxane-like mixes are created in
+vivo at the point when the biosynthesis of isoprostanes proceeds by
+means of this endoperoxide course, every one of the 64 conceivable
+Biochem Pharmacol, an open access journal
+ISSN:2167-0501
+
+stereoisomers can be shaped. As the G and H – ring endoperoxide
+structures are profoundly capable mixes with a half-existence of just a
+couple of minutes, they can isomerize quickly to form different items,
+including analogs of PGE2 and PGD2 [13]. They created intensely with
+F2-isoprostanes. For instance; Glutathione (GSH) or α-tocopherol,
+are utilized arrangement of E2/D2-IsoPs is favored. The isoprostanes
+contains cyclopentenone rings, which is carbonyl gathering on the
+prostane ring and intimize to PGA2 and PGJ2. They are profoundly
+responsive electrophiles and act as nucleophile with addition of thiols,
+for example, found on cysteine stays in proteins and glutathione
+conjugates. As the isoprostanes in individual tissues are delivered from
+arachidonic corrosive transcendently in position 2 of phospholipids in
+layers, they should be discharged by the activity of phospholipase A2
+and related proteins before they can apply their principle physiological
+impacts. In the free corrosive shape, they can flow in the plasma and
+speak with film receptors [14]. Anyhow, it is conceivable that likewise
+have some natural capacities while still identified with phospholipids.
+Isoprostanes have all the earmarks of being disbanded by simple
+enzymatic component. Circling F2-isoprostanes are depleted in the
+kidney and develop in the urine for example; 2, 3 – dinor – 15 – F2and 2, 3 – dinor – 5, 6 – dihydro – 15 – F2 – isoprostanes, which are
+additionally discharged in the pee [15].
+In spite of the fact that the amalgamation of prostanoids by COX
+first requires that arachidonic corrosive release from the plasma layer
+by phospholipases. It is not acceptable for the creation of isoprostanes
+by free radicals and presently justifiable cause motivation to trust
+that the last can follow up on free unsaturated fats and on those still
+esterified to film phospholipids. Isoprostanes have been recognized
+inside phospholipids extricated from surgical examples of lung,
+atherosclerotic vasculature, lymphatics, mind, and preeclampsia
+deciduas in the maternal part of placenta [16]. In plasma of smokers
+the degree of esterified isoprostanes increase benchmark for a
+considerable length of time after suspension of smoking, despite the
+fact that different markers of smoking, for example, urinary nicotine
+and cotinine get to be distinctly imperceptible. In carbon tetrachloride
+incited hepatotoxicity, isoprostanes start to aggregate very quickly in
+phospholipids separated from the liver (and to some degree in the lungs
+and kidney) and presently in the course; the last achieve a crest at 4 h
+(77-overlap) and remain extraordinarily raised above standard at 24
+(21-crease) and 48 (10-overlay) h, showing delayed oxidative anxiety as
+well as progressing entrance of esterified isoprostanes. The nearness of
+the isoprostanes inside the layer depends upon film smoothness [17].
+Isoprostanes give off an impression of being immediately
+metabolized and distributed. It was demonstrated in the rabbit, that
+a dose of 8-iso-PGF2α was quickly diffused, with a half-existence of
+consumption of approximately one min, and after that was highly
+intoxicated, with a half-existence of approximately 4 min. By using
+HPLC, the further study shows that 8-iso-PGF2α was debased to
+a few β-oxidized metabolites, coming full circle in arrangement
+of α-tetranor-15-keto-13, 14-dihydro-8-iso-PGF2α. It is speculate
+that digestion system of this Isoprostane be like a flowing pathway
+like that found out for prostaglandins. Including the formation of
+15-hydroxyprostaglandin dehydrogenase by oxidation of C-15,
+decrease of the C-13, 14 twofold bond by 15hydroxy prostaglandin
+took after by β-oxidation to α-tetranor-15-keto-13, 14-dihydro-8-isoPGF2α. The parent 8-iso-PGF2α and product of metabolism begun
+to a mass in the urine inside 20 min; 80% of the first radioactive dot
+was present in the urine by 4 h [18]. This investigation using a solitary
+human come forward and a rhesus monkey; The 75% of the infused
+radioactivity was excreted in to the urine during the following 4.5
+
+Volume 7 • Issue 2 • 1000246
+
+Citation: Jadoon S, Malik A (2018) A Comprehensive Review Article on Isoprostanes as Biological Markers. Biochem Pharmacol (Los Angel) 7: 246.
+doi: 10.4172/2167-0501.1000246
+
+Page 3 of 8
+h and mix parent urine, with the essential product of metabolism
+being 2,3-dinor-5,6-dihydro-PGF2α. It is demonstrated that the
+metabolites likewise incorporate 2, 3-dinor-PGF2α in people and 2, 3,
+4, 5-tetranor-5, 6-dihydro-PGF2α in rats. The synthetically responsive
+isoeicosanoids, for example, the A2-and isolevuglandins covalently
+adduct to proteins and are along these lines shielded from fast freedom
+by means of the kidney [19].
+
+Isoprostanes as Markers of Oxidative Stress
+Oxidative anxiety indicates elevation of Responsive Oxygen Species
+(ROS) and cell reinforcement guard. Responsive oxygen species are
+created endogenously but they are produced by exogenous components,
+for example, radiation, tobacco smoke and medications. It is realized
+that oxidative anxiety is related with numerous intense and endless
+sicknesses, for example, tumor and cardiovascular, neurodegenerative
+and lung illnesses. These days, a few in vitro oxidative anxiety markers
+are accessible; however they need affectability as well as specificity, or
+require intrusive strategies [20]. The quantity present in composers
+has endeavored to decide their amount in natural specimens in clinical
+disorders, most likely connected with oxidative anxiety, has kept on
+expanding. Till now, it is notable that IsoP levels are expanded in
+natural examples on account of various cardiovascular, aspiratory and
+neurological maladies The utilization of isoprostanes as markers of
+oxidative anxiety has few points of interest over other oxidative anxiety
+markers, i.e., isoprostanes are particular results of peroxidation, they are
+available in noticeable sums in tissues and organic liquids, and they are
+unchanged by lipid substance in an eating regimen. Since accumulation
+of pee is non-intrusive and on the grounds that isoprostanes are
+exceptionally steady in pee [21]. There is an interesting speculation that
+amid advancement in primitive cells, isoprostane development came
+about because of the expanding vigorous conditions and these particles
+were chosen as a method for flagging more particular uneven characters
+in the redox condition of the cells. The Isoprostane arrangement
+has been held as a move down framework where enzymatic passage
+develops to generate eicosanoids as flagging particles. Isoprostanes are
+accepted to be beneficial markers of oxidative worry for animals and
+human being tissues, which are characterized as "an unsettling influence
+in the prooxidant–antioxidant for adjustment. There is an unnecessary
+generation of lipid peroxidation items, which might be included in the
+advancement or worsening of malignant tumor, cardiovascular and
+neurological sicknesses. They can be examined in every single organic
+liquid and tissues. In patients the level of oxidative worry is measure by
+isoprostanes and their metabolites in urine is a solid non-obtrusive way
+to deal. In its measuring method there is no need of storage at −70 º C,
+or to be worried about further art factual development of isoprostanes
+on capacity [22].
+The level of isoprostanes impact on sickness states and resulting
+helpful intercession can be resolved. The level of Isoprostane is measured
+in conditions that are related with intemperate era of free radicals
+like incorporating harming with paraquat and carbon tetrachloride,
+smoking, liquor addiction and cirrhosis of the liver. Numerous human
+infection states, including cerebrum degeneration, kidney illnesses,
+ischemia-reperfusion harm, atherosclerosis and diabetes are involved
+in the pathophysiology [23]. There is a great clinical proof that the
+centralization of F2-IsoPs in urine is a free and aggregate indicator
+of coronary disease, showing classification of this metabolite in
+atherosclerotic plaques, where like the thromboxane it might enact
+the TP (Thromboxane) receptor. In type 2, diabetes is a solid pointer
+of oxidative worry. Lipid peroxidation is also indicator of numerous
+illness states related to mind, In the Isoprostane pathway the IsoPA2
+Biochem Pharmacol, an open access journal
+ISSN:2167-0501
+
+and IsoPJ2 are typically thought to be the favored results and they
+affect neuronal apoptosis and compound neurodegeneration brought
+about by different put-down at fixations as low as 0.1µM. The useful
+gathering of the cyclopentenone isoprostanes can respond with the
+cysteine deposit of glutathione. The cysteine in cell proteins shows the
+harmful effect [24]. Isoprostanes and isofurans and neuroprostanes can
+be determined from arachidonate. It is obtained from docosahexaenoic
+corrosive. It has appeared in increment in fixation in unhealthy
+districts of brains from patients who have suffered in Alzheimer's
+disease and Parkinson's infections. In the early phases of Alzheimer's
+and Huntington's illnesses there is an additional level of cerebrospinal
+liquid. The investigation is of symptomatic esteem and support for
+evaluation of case treatments. As the level F2 isoprostanes expanded
+under states of oxidative stress, they might be a specific marker of white
+matter damage in vivo. The lifted focuses in mind tissues influenced by
+injury are recognized by D2 and E2-isoprostanes [25].
+It has turned out to be clear that in plasma and tissues the
+isoprostane levels elevated in plasma and tissues of fetal and early
+neonatal life in contrast with grown-ups and that they may have
+vital parts being developed and move to interval of life. The accepted
+imperative wellspring of isoprostanes is placenta. The viability of
+cancer prevention agents in vivo and to set up the estimation of cell
+reinforcement organization in clinical cases can be evaluated by
+urinary Isoprostane. The vitamin E and more prominent α-tocopherol
+is needed for cancer effectual hindrance agent in displaying the
+measurements of 0.04mg/day and F2-IsoP levels has been utilized to
+concentrate the vitamin E specially in the form of α-tocopherol. In
+people with shockingly levels of vitamin C supplements decreases the
+level of isoprostane [26]. Furthermore, their esterified frame films,
+isoprostanes are enduring markers of oxidative harm and they empower
+the site to be distinguished by endogenous lipid peroxidation. To be
+sure, it is conceivable that in this shape they have consequences for the
+ease of films and might be in charge of some layer brokenness. For some
+reasons, isoprostanes are extremely appropriate as markers of oxidative
+anxiety. Initially, there quantity can be measured to picomolar levels
+with logical strategies, for example, HPLC, gas chromatography-mass
+spectrometry, or radioimmunoassay. The previous two systems are
+remarkably ready to segregate between the diverse sorts of isoprostanes
+[27]. The less demanding instrument to perform experiments which
+is generally financially accessible is Radioimmunoassay. In the case
+of diverse sorts of isoprostanes are these are not capable to recognize
+the prostanoids and the isoprostanes. It is conceivable to utilize
+isoprostanes to evaluate oxidative anxiety or harm in particular target
+organs of intrigue (e.g., by means of biopsy); for instance, in carbon
+tetrachloride-initiated hepatoxicity, isoprostanes were notably lifted in
+the liver, lung, and kidney however not in the mind or heart [28].
+They supported segregated specimens of body liquids; their nearness
+was initially identified in crisp and put away examples of plasma and
+urine. The especially energizing late advancement has exhibit and
+recognized the lung diseases, extremely not allowed to spread in
+the body course to their estimation. Their deliberate qualities don't
+display diurnal varieties however do differ especially in clinical and
+test situation portrayed by oxidative anxiety. The respiratory diseases
+are related with isoprostanes. 8-iso-PGF2α is created in considerable
+sums in something else "ordinary" people presented to tobacco
+smoke, allergen, ozone), or hyperoxia and amid oxygenated ischemia
+particularly goes up in patients with a broad variety of lung diseases.
+Like asthma, ceaseless obstructive pneumonic illness, interstitial
+lung ailment, cystic fibrosis, intense lung harm including intense
+respiratory misery disorder, and extreme respiratory disappointment
+
+
+in babies [29]. Also, various cardiovascular conditions highlight
+stamped heights in isoprostane levels, including renal syndrome,
+pain in chest and damaging tissues; dangerous pain in heart area,
+disappointment coronary illness atherosclerosis and preeclampsia. The
+level of isoprostane increases in aspiratory high blood pressure and
+amid introduction to operators is related with high blood pressure, for
+example, suppressor measurements of angiotensin II fiery. The 8-isoPGF2α observed to be a helpful marker of oxidative stress and lipid
+peroxides in illness conditions, various Alzheimer's infection, Sclerosis
+diabetes mellitus systemic, auto immune diseases, and cirrhosis,
+alcoholic liver disease and in test settings running from people in space
+flight to sled mutts amid continuance practice preparing [30].
+
+F2T-ISOPM, F2-ISOPS, Obesity and Breast Cancer Risk
+No review has tentatively explored the etiologic part of F2IsoP and its metabolite in the improvement of bosom or different
+diseases. Drs. Milne and Marrow’s worked to utilize breast cancer
+as a malady display. The relationship of urinary F2-IsoP and 15-F2tIsopM, by using the instrument like Gas Chromatography -Negative
+Ion Chemical Ionization Mass Spectroscopy (GC-NICI-MS) test,
+with bosom growth hazard in a settled case-control contemplate. In
+the course of recent years, various reviews have reliably watched that
+overweight or corpulent ladies had a fundamentally lifted level of
+F2-IsoPs, demonstrating ladies with an abnormal state of Body Mass
+Index (BMI) have an exorbitant creation of ROS which cause oxidative
+anxiety. In this way, among overweight/large ladies, elevated amounts
+of 15-F2t-IsopM and additionally F2-IsoPs might be identified with
+an expanded danger of breast cancer. Alternately, among ladies with
+typical Body Mass Index (BMI), minimum level of ROS is important
+to activate p53 enactment, specifically intervene cell death and incite
+agedness. Also, F2-IsoPs found to build the glucose-initiated blend of
+TGF-β1, a basic tumor silencer at introductory level [31]. It is, along
+these lines, not amazing that few defensive elements for bosom growth
+hazard, for example, physical action, equality (typical pregnancy)
+and preeclampsia were connected to essentially hoisted levels of
+lipid peroxidation. In view of these discoveries, it is conceivable that
+the part of ROS among ladies with a typical BMI (Body Mass Index)
+might be unique in relation to overweight/large ladies. We, in this way,
+conjectured the relationship between levels of F2-IsoPs and 15-F2tIsopM and bosom malignancy may shift by BMI status and further
+assessed this speculation in the SWHS. Urinary levels of 15-F2t-IsopM
+and F2-IsoPs did not fundamentally vary by bosom tumor status.
+Levels of F2-IsoPs and 15-F2t-IsopM were identified with a decreased
+danger of bosom malignancy among ladies with a BMI less than 25.
+The ladies having BMI less than 23, high level of F2-IsoPs. It is related
+with a diminished danger of bosom tumor in a dosage reaction way
+(p for pattern, 0.006) with an overall risk stroke of 0.46 (95%CI: 0.26–
+0.80) [32]. Among ladies with a low BMI, the diminishment in hazard
+showed up in both pre-and post-menopausal ladies. Conversely,
+15-F2t-IsopM and F2-IsoPs were related with an expanded danger of
+bosom tumor among ladies with a BMI≥25. The affiliations got to be
+distinctly more grounded with expanding levels of BMI. 15-F2t-IsopM
+was connected to a 2-to 4-overlay lifted hazard among ladies with a
+BMI more than 27.5; the ORs raised to 10.20 (95% CI: 2.35–44.29) for
+the center tertile and 10.27 (2.41–43.80) for the most elevated tertile
+versus the most reduced tertile (p for pattern, 0.003) (p for cooperation
+with BMI (BMI<29 versus BMI≥29), 0.0004) among ladies with a
+BMI≥29. The comparing ORs (95% CIs) additionally lifted to 13.62
+(1.38–134.08) and 23.47 (2.46–223.69) (p for communication, 0.001)
+among those with a BMI of at least 30. Fundamentally the same as
+
+results were acquired in the affectability investigation barring bosom
+tumor quiet analyzed inside 3 years from pee accumulation. The ROS
+is responsible for bosom malignancy is distinctive by BMI position and
+15-F2t-IsopM is a more delicate and particular biomarker of oxidative
+worries than F2-IsoPs among overweight/corpulent subjects [33].
+
+SOPS as Biomarkers of Lipid Peroxidation in Neurodegenerative Disorder
+Oxidative anxiety is generated by an irregularity of free radicals
+generation and cell reinforcement protections for the oxidation and
+prompts to lipid peroxidation, layer protein and DNA harm and is
+thought to be essential to cause diseases of an assortment of neurological
+issue, particularly neurodegenerative sicknesses and tumor maturing.
+The most vital wellspring of ROS intervened, specifically harms
+neuronal layers and yields various auxiliary items in charge of broad
+cell harm. A particular repair procedure of lipid peroxidation does
+not survive as it achieve for proteins and DNA. The level of lipid
+peroxidation could have physiological criticalness for cell flagging and
+film renovating [34]. The mind is the most helpless to oxidative harm
+in light of various elements like high oxygen utilization, the low levels
+of cancer prevention agent chemicals, the lifted levels of iron and the
+capacity to oxidize distinctive substrates. Regardless of the way that
+free radicals can assault numerous different basic natural atoms, for
+example, DNA and cell proteins. Peroxidation of film lipids influences
+neuronal homeostasis bringing about increased layer firmness, lessened
+action of film bound compounds (e.g., Na pump), devastation of film
+receptors, and changing porous [35].
+The way of ROS is unsteady and exceedingly receptive. There are
+many challenges in direct measurement of RO level. It is difficult to
+explain the significance of oxidative harm in neurological infections.
+Due to this reason the measurement of F2-IsoPs by mass spectrometry
+instrument is commonly used. It measures the best quality level list
+of lipid peroxidation in vivo. IsoPs found moderately in body liquids
+since they are regularly found in pee, blood, and cerebrospinal fluid
+are additionally present in the breathed out. The development of IsoPs
+in vivo can be dependably checked in each organic liquid without
+using any instrument. The estimations of particular signs of lipid
+peroxidation, which have a tendency to be delicate particularly [36].
+The estimation of F2-IsoPs in vivo go up and show up as the most solid
+ways to deal with survey oxidative anxiety status, giving an essential
+apparatus to investigate the part of oxidative worry in the infective
+human. In the oxidative tissue harm the level of F2-IsoP is altogether
+expanding. The fast improvement of explanatory strategies for IsoPs
+estimation cleared up the part of the free radicals in human physiology
+and disorder in philology system cause different diseases. Estimation of
+F4-NPs, steady result of ROS harm and Docoshexaenoic Acid (DHA),
+additionally gives significant information in investigating the part of
+oxidative worry in neurodegenerative maladies. The results of the IsoP
+passage have solid natural activities and take physiological arbiters of
+the illness [37]. Research on cerebrum determined IsoPs has given
+persuading proof on the helpfulness of these markers in comprehension
+part of oxidative harm in mind infections. IsoPs are dynamic results of
+ROS which moderates the oxidation of (Arachidonic Acid) AA which
+contained in phospholipids of cell layers. The lipoproteins have a
+potential pertinence to harm the sheath of myelin and neurons maladies
+in human. The ROS harm the pathogenesis of neurodegenerative tissue.
+The raised development of F2-IsoPs can be seen in mind tissues and
+body liquids in various neurodegenerative ailments. The estimation of
+free F2-IsoPs in plasma or urine can be used to evaluate the endogenic
+development of IsoPs however not to uncover the organ in which
+
+
+Citation: Jadoon S, Malik A (2018) A Comprehensive Review Article on Isoprostanes as Biological Markers. Biochem Pharmacol (Los Angel) 7: 246.
+doi: 10.4172/2167-0501.1000246
+
+Page 5 of 8
+they are framed. Deciding the levels of IsoPs in the interesting liquid
+compartment Cerebro Spinal Fluid (CSF), gives an awesome chance
+to uncover the event of oxidative anxiety and lipid peroxidation in the
+mind [38].
+
+Multiple Sclerosis
+Multiple Sclerosis (MS) is heterogeneous illness with a few
+pathophysiological segments like aggravation, demyelination, redox,
+axonal harm, and repair forms. MS is a main source of neurological
+inabilities in youthful grown-ups and influences up to 2.4 of
+population in USA and Canada and up to 1.9 in some European
+nations. MS also affects on genes focusing on few bases. There are
+different clinical courses on this issue. The great degree of backsliding
+transmitting course Relapsing Remitting Multiple Sclerosis (RRMS)
+in which backslide happens every now and then followed up by
+entire or fractional recuperation. This phase of illness is described
+with multifocal aggravation, oedema, and cytokines activities. About
+portion of Relapsing Remitting Multiple Sclerosis (RRMS) patients
+following 120–240 months of illness enduring collect irreparable
+nervous system disorder. This kind of MS is auxiliary dynamic is kind
+of Secondary Progressive Multiple Sclerosis (SPMS) that is controlled
+by nervous system degeneration procedures and movement of scientific
+side effects. The 20% of MS patients have dynamic side effects from
+the beginning of onset essential dynamic Primary Progressive Multiple
+Sclerosis (PPMS) sort [39]. The movement of RRMS to dynamic
+stage is dependable on injury in brain. Right now characterizations
+of indicators of MS are associated with the physiological abnormality
+forms. It is divided into seven classes:
+
+indicator is displayed a single of numerous continuous infective
+procedures. It was found that the pee IsoPs level was more than 6-over
+lay hoisted in patients with SPMS than in charge. To examine the
+conceivable relationship between's F2-IsoPs and the illness incendiary
+action. The Cerebro Spinal Fluid (CSF) levels of 15-IsoPs in patients
+with RRMS were not corresponded with the scientific indications of the
+ailment. The perceptions recommend large amounts of F2-IsoPs may
+speak to a file of degenerative marvels, which continue likewise in the
+absence of a progressing provocative action. It is also indicated the level
+of CSF is dependable indicator of oxidative worry. The level 15- IsoP,
+is 3 times higher in patients with MS as compare to reference subjects
+with other disorder of nervous system. In steroid treated patient the
+level of 15-IsoP level is low. The level of disability is related with the
+level of 15- IsoP. In the spinal line of mice amid early dynamic phases of
+test immune system Encephalomyelitis (EAE) the hoisted levels of F2IsoPs and F4-NPs were watched. In white matter and myelin-framing
+oligo dendrocytes. The moderately low level of the Docosahexaenoic
+Acid (DHA) levels also influenced the MS. As lipid peroxidation
+biomarker of F2-IsoPs may be desirable over F4-Neuroprostanes (F4NPs) in the demyelinating ailment [41]. There is the connection found
+between's levels of F2-IsoPs in CSF of MS patients. The CSF groupings
+of F2-IsoPs are higher in MS patients. Where the F2-IsoPs levels in
+patients experiencing MS were moderate between kin, and in addition
+control [42].
+
+Alzheimer’s Disease
+
+7. Remyelination and repair Neural Cell Grip Particle (NCAM),
+CNTF (Ciliaryneurotrophic Consider), and CPK-BB (Creatine
+Phosphatase BB) [40].
+
+Alzheimer’s Disease (AD) is one of the serious sources of mental
+illness. It is identified by the accumulation of the amyloid β (Aβ)
+peptide and microtubule-associated protein particle in the brain. The
+serious part in the AD pathological process activates an abnormal
+tau phosphorylation. The Aβ interaction with transition elements in
+the form of ions, which play role in lipid peroxidation and cellular
+oxidative stress. The Amyloid β-peptide (Aβ) grows cellular oxyradicals
+deposition in neurons and glial cells of brain to harm the brain. In
+this disease many of metabolic oxidative stress may lead to many
+of the metabolic and loss the structure and function of brain. In tau
+phosphorylation, the intervention of oxidant toxicity by Aβ has been
+also involved. Furthermore in the oxidative pressures has been observed
+in AD and the mitochondrial loss the efficiency of electron transport
+activity. There is variety of markers of oxidative stress which shows
+relationship with Aβ accumulation and neurofibrillary degeneration in
+AD patients [43]. During the oxidative stress protein degrees of various
+antioxidant enzymes were changed in AD brain regions. The F2-IsoPs
+and F4-NPs levels also increased in the postmortem ventricular fluid
+of AD patients. The level of CSF F2-IsoPs could not be making use
+as an early marker of mental illness. There is no correlation between
+the level of CSF F2-IsoPs and duration of disease. It is proved that in
+AD patients brain the presence of esterified F4-NPs abnormally high
+levels in occipital and temporal lobes of brain. In AD patients the
+vitro oxidation of DHA (Docosahexaenoic Acid) produces 3.4-times
+higher levels of F4-NPs as compared with F2-IsoPs where the CSF levels
+of these two classes of compounds showed a very close correlation
+[44]. According to Yao and Praticò researcher, the concentration of
+15-IsoPs and IPF2alpha-VI level increase in the frontal and temporal
+lobes of AD brains as compared to the same regions of control brains.
+The levels 6-keto PGF1alpha, an index of prostaglandin production,
+and ventricular CSF 15-IsoP levels did not differ in AD and control
+subjects [45].
+
+In MS IsoPs is the hopeful indicator of lipid peroxidation. In
+ailments of a mind boggling process of pathologic in an individual
+
+The level of F2-IsoPs is higher in plasma and urinary levels were
+higher in AD as compare to control. The increase level of IsoP in
+
+1. The variation of the safe framework (interleukins IL-1, IL-2,
+IL-4, IL-6, IL-10, IL-12, IL-23, interferon, tumor rot consider
+Tumor Necrosis Factor (TNF), changing development
+calculate Transforming Growth Factor Beta (TGFβ), Cytokines
+Chemokine Receptor Factor 3/Chemokine Ligand 10 (CXCR3/
+CXCL10)—marker enacted Thymus cells; Endothelialselectin, Leukocyte-selectin, ICAM-1(Intracellular Adhesion
+Molecule-I), VCAM-1(Vascular Cell Adhesion Molecule),
+Cluster Cluster Differentiation (CD31), surface articulation
+of Lymphocyte Associated Antigen-l (LFA-1) and Very Late
+Antigen-4 (VLA-4) (grip atoms), cluster of differentiation-40/
+Cluster of Differentiation-40/Cluster of Differentiation 40
+Ligand (CD40/CD40L), CD80, CD86, and warm stun proteins)
+2. Axonal/neuronal harm (Tau protein, 24S-hydroxycholesterol,
+N-acetylaspartic corrosive).
+3. Blood-cerebrum
+obstruction
+disturbance
+(Network
+Metalloproteinases (MMPs), Platelet Initiating Component
+(PAF), and thrombomodulin).
+4. Demyelination (MBP and MBP-like material, proteolytic
+catalysts).
+5. Oxidative anxiety and excitotoxicity (nitric oxide subordinates,
+F2-IsoPs, and uric corrosive).
+6. Gliosis (Glial Fibrillary Corrosive Protein (GFAP), S-100
+protein).
+
+
+Citation: Jadoon S, Malik A (2018) A Comprehensive Review Article on Isoprostanes as Biological Markers. Biochem Pharmacol (Los Angel) 7: 246.
+doi: 10.4172/2167-0501.1000246
+
+Page 6 of 8
+plasma and urine in AD patients increase oxidative stress. The level of
+F2-IsoPs levels in females control group were higher than in males and
+it is related to greater degree in oxidative stress incorporated with the
+drop of estrogens in the postmenopausal period [41].
+
+Huntington’s Disease
+The genetic disease due to anomalous elaboration of an unstable
+bases cytosine-adenine-guanine repeat region at the 5′-end of a gene
+on chromosome 4. This genetic abnormality results defect on genes
+causing the death of specific populations of striatal neurons. The
+mitochondrial losing the activity of electron transport as result the
+overproduction of ROS leading to nitrosative stress in HD patients.
+Such stress contributes to disorder the nervous system and damage
+DNA, proteins, and lipids [38]. The mitochondrial respiration is
+inhibited by highly reactive product of nitric oxide and superoxide free
+radicals -peroxynitrite. This also reduce antioxidant defense system of
+cells due to this reason the immune reactivity of 3-NT is increased in
+postmortem HD patients of brain tissue. In striatum and cerebral cortex
+the levels of protein carbonyls increase. The level of 4-hydroxynonenal
+and malondialdehyde, lipid peroxidation products, are increased eight
+times in HD human plasma and also in postmortem brain tissue. The
+levels of F2-IsoP in HD patients are higher and cause oxidative stress
+than control group. In HD plasma patients the glutathione levels are
+significantly reduced. [24].
+
+Creutzfeldt-Jakob Disease
+Creutzfeldt-Jakob Disease (CJD) is a standout in human and
+Transmissible Spongiform Encephalopathies (TSEs) or prion maladies,
+a miscellaneous gathering of tempting, scattered and hereditary issue
+portrayed mental illness. The sign of nervous system disease trademark
+neuropathological sign of the illness is the granulose proof of the
+neurotic type of a cell protein (like in AD-Aβ or HD-Huntington). The
+gathering of the neurotic prior protein is considered a focal occasion
+and activate a few pathogenic components, in the end coming full circle
+in the common degenerative diseases of brain [28].
+
+around 2.5-crease higher than in patients with anti-inflammatory issue.
+It is found that there is no relationship between 15-IsoPs and PGE2.
+In patients neither the level of 15-IsoP levels nor polymorphism at
+codon 129 of the prion protein quality, showing that lipid peroxidation
+and prostaglandin blend are insignificant wonders of this illness. In
+controls Prostaglandin E2 (PGE2) fixations are 6.5-overlay higher and
+contrarily related with patient life. The level of 15- IsoP is not related
+with the illness of patient. It has been suggested that t oxidative worry t
+pathogenesis of this specific infection is more serious [15, 25].
+It is demonstrated in different reviews that the elevation of PGE2 in
+brain memory part is related with COX-2, which is lifted with movement
+of disease and is restricted to glial cells. In sporadic CJD patients the
+shorter survival was related with more elevated amounts of PGE2. In
+CSF patients PGE2 might be a case of serious disease as opposed to
+movement, in light of the fact that PGE2 levels are not depend on CSF
+investigating throughout illness. PGE2 can be related with neuronal
+demise, in light of the fact that in malignant cells, infected protein
+peptides addition of PGE2 highness and Cyclo Oxygenase-l (COX-1)
+prohibitory ensures opposition of infected protein poisonous. Anyhow
+PGE2 adds to neuron cells demise in CJD, is a result of neuronal cell
+death. It is only a record of the illness condition stays to be set up
+(Figure 1 and 2) [41].
+
+Conclusion
+Isoprotane is the product of lipid peroxidation in cell membrane.
+It is reliable biomarker of oxidative stress. Isoprostane disrupt the
+
+The biological elements of cell like prion protein is obscure; in any
+case, because of its cooper restricting capacity it may assume an essential
+part in the oxidative homeostasis of the mind and could go about as
+a cancer prevention agent. These cancer prevention agent properties
+might be identified with its Superoxide Dismutase-(SOD-) like action.
+This has been demonstrated that elevated amounts of prion protein in
+cell. This makes the cell impervious for oxidative anxiety. The degree of
+a few oxidative anxiety markers and gatherings of protein carbonyl are
+results of lipid peroxidation. They were expanded in cerebrum tissues
+of prion protein. It had been found the scarpie contaminated mind
+of mice, increase levels of nitrotyrosine and heme oxygenase-1. More
+prion proteins decreased SOD-like action in the creature in which the
+recommended that level of lipid peroxidation items is expanded in
+brains of scrapie contaminated mice [31].
+In different cases the increased degrees of F2-IsoP in Cerebrospinal
+Fluid (CSF) of Creutzfeldt-Jakob patients have been seen. The variation
+as compare to control has been observed to be unchanged in CSF from
+patients experiencing Creutzfeldt-Jakob Disease (CJD) is result of
+lipid peroxidation. The non-demanded controls were more helpless to
+oxidation in CSF lipids from patients experiencing CJD. It is observed
+that cancer prevention agents and the measure of PUFAs levels decrease
+of in the CJD patients where oxidative anxiety is raise. The pathogenesis
+of this disease is related to oxidative system. It has been observed that in
+patients with sporadic and hereditary CJD, CSF levels of 15- IsoP were
+
+
+Figure 1: Isoprostane is group of postaglandin like compound. These are
+products of free radicals with arachidonic acid including arachidonic esters in
+phosopholipids. The product form on cell membrane is called lipid peroxidation.
+It’s reliable biomarker to express the oxidative stress. Isoprostanes disrupts the
+biological cell membrane. Isoprostane product is rapidly cleaved, metabolized
+and excrete from cell. Normal function of Isoprostane is not only to acts as
+vasoconstrictor but it also indicate to promote mutagenesis. The cell adhesion
+moncytes promote the induction of endothelial cell necrosis.
+
+20. Zhang R, Zhang Q, Niu J, Lu K, Xie B, et al. (2014) Screening of microRNAs
+associated with Alzheimer’s disease using oxidative stress cell model and
+different strains of senescence accelerated mice. J Neurol Sci 338: 57-64.
+21. Jacob KD, Noren Hooten N, Trzeciak AR, Evans MK (2013) Markers of oxidant
+stress that are clinically relevant in aging and age-related disease. Mech
+Ageing 134: 139-157.
+Figure 2: Different ring structures of Isoprostanes.
+
+biological cell membrane. Isoprostane promotes the mutagenesis
+typically IsoAP2 and IsoPJ2 favored the isoprostanes pathways. The
+postaglandin like Iso (F2-IPS) F2 isoprostanes is the most solid and
+precise biomarker of oxidative stress
+
+References
+
+1. Enciu AM, Gherghiceanu M, Popescu BO (2013) Triggers and effectors of
+oxidative stress at blood-brain barrier level: Relevance for brain ageing and
+neurodegeneration. Oxid Med Cell Longev 2013: 297512
+
+22. Farooqui AA, Horrocks LA, Farooqui T (2007) Interactions between neural
+membrane glycerophospholipid and sphingolipid mediators: A recipe for neural
+cell survival or suicide. J Neurosci Res 85: 1834-1850.
+23. Gonsette RE (2008) Neurodegeneration in multiple sclerosis: The role of
+oxidative stress and excitotoxicity. J Neurol Sci 274: 48-53.
+24. Halliwell B, Lee CY (2010) Using isoprostanes as biomarkers of oxidative
+stress: Some rarely considered issues. Antioxid Redox Signal 13: 145-156.
+25. Barrera G (2012) Oxidative stress and lipid peroxidation products in cancer
+progression and therapy. ISRN Oncol: 137289.
+26. Dotan Y, Lichtenberg D, Pinchuk I (2004) Lipid peroxidation cannot be used as
+a universal criterion of oxidative stress. Progress in Lipid Research 43: 200-227.
+
+2. Niki E (2008) Lipid peroxidation products as oxidative stress biomarkers.
+BioFactors 34:171-180.
+
+27. Milne GL, Yin H, Hardy KD, Davies SS, Roberts LJ (2011) Isoprostane
+generation and function. Chem Rev 111: 5973-5996.
+
+3. Santos R, Almodovar CR, Bulteau AL, Gomes CM (2013) Neurodegeneration,
+neurogenesis, and oxidative stress. Oxid Med Cell Longev 2013: 730581.
+
+28. Roberts LJ II, Morrow JD (2002) Products of the isoprostane pathway: Unique
+bioactive compounds and markers of lipid peroxidation. Cellular and Molecular
+Life Sciences 59: 808-820.
+
+4. Cappellano G, Carecchio M, Fleetwood T, Magistrelli L, Cantello R, et al.
+(2013) Immunity and inflammation in neurodegenerative diseases. Am J
+Neurodegener Dis 2: 89-107.
+5. Almer G, Teismann P, Stevic Z, Halaschek-Wiener J, Deecke L, et al. (2002)
+Increased levels of the pro-inflammatory prostaglandin PGE2 in CSF from ALS
+patients. Neurology 58: 1277-1279.
+6. Farooqui T, Farooqui AA (2011) Lipid-mediated oxidative stress and
+inflammation in the pathogenesis of Parkinson’s disease. Parkinson’s Disease
+2011: 247467.
+7. Guest J, Grant R, Mori TA, Croft KD (2014) Changes in oxidative damage,
+inflammation and [NAD(H)] with age in cerebrospinal fluid. PLoS One 9: e85335.
+8. Roberts II LJ, Milne GL (2009) Isoprostanes. Journal of Lipid Research 50:
+219-223.
+9.
+
+Mattsson N, Haghighi S, Andersen O, Yao Y, Rosengren L, et al. (2007)
+Elevated cerebrospinal fluid F2-isoprostane levels indicating oxidative stress
+in healthy siblings of multiple sclerosis patients. Neurosci Lett 414: 233-236.
+
+10. Minghetti L, Greco A, Cardone F, Puopolo M, Ladogana A, et al. (2000)
+Increased brain synthesis of prostaglandin E2 and F2-isoprostane in human
+and experimental transmissible spongiform encephalopathies. J Neuropathol
+Exp Neurol 59: 866-871.
+11. Montine TJ, Quinn JF, Milatovic D, Silbert LC, Dang T, et al. (2002) Peripheral
+F2-isoprostanes and F4-neuroprostanes are not increased in Alzheimer’s
+disease. Ann Neurol 52: 175-179.
+
+29. Hardy KD, Cox BE, Milne GL, Yin H, Roberts LJ II (2011) Nonenzymatic free
+radical-catalyzed generation of 15-deoxy-Δ12,14 J2-like compounds (deoxyJ2-isoprostanes) in vivo. J Lipid Res 52: 113-124.
+30. Murphy RC, Fahy E (2010) Isoprostane nomenclature: More suggestions,
+Prostaglandins Leukotrienes and Essential Fatty Acids 82: 69-70.
+31. Harris SG, Padilla J, Koumas L, Ray D, Phipps RP (2002) Prostaglandins as
+modulators of immunity. Trends Immunol 23: 144-150.
+32. Reich EE, Markesbery WR, Roberts LJ II, Swift LL, Morrow JD, et al. (2001)
+Brain regional quantification of F-ring and D-/E-ring isoprostanes and
+neuroprostanes in Alzheimer’s disease. Am J Pathology 158: 293-297.
+33. Streck EL, Czapski GA, Gonc C, da Silva A (2013) Neurodegeneration,
+mitochondrial dysfunction, and oxidative stress. Oxid Med Cell Longev 2013:
+826046.
+34. Chen Y, Morrow JD, Roberts LJ II (1999) Formation of reactive cyclopentenone
+compounds in vivo as products of the isoprostane pathway. J Biol Chem 274:
+10863-10868.
+35. Chen Y, Zackert WE, Roberts LJ II, Morrow JD (1999) Evidence for the
+formation of a novel cyclopentenone isoprostane, 15-A(2t)-isoprostane (8-isoprostaglandin A2) in vivo. Biochimica et Biophysica Acta: Molecular and Cell
+Biology of Lipids 1436: 550-556.
+36. O’Brien RD (2009) Fats and oils analysis, in Fats and Oils: Formulating and
+Processing for Applications. CRC Press, Boca Raton, Fla, USA. pp: 197-260.
+
+12. Yao Y, Zhukareva V, Sung S, Clark CM, Rokach J, et al. (2003) Enhanced
+brain levels of 8,12-iso-iPF2𝛼-VI differentiate AD from frontotemporal dementia.
+Neurol 61: 475-478.
+
+37. de Felice C, Signorini C, Durand T, Oger C, Guy A, et al. (2011) F2-dihomoisoprostanes as potential early biomarkers of lipid oxidative damage in Rett
+syndrome. J Lipid Res 52: 2297.
+
+13. Praticò D, MY Lee V, Trojanowski JQ, Rokach J, Fitzgerald GA (1998)
+Increased F2-isoprostanes in Alzheimer’s disease: Evidence for enhanced lipid
+peroxidation in vivo. FASEB J 12: 1777-1783.
+
+38. Barden AE, Corcoran TB, Mas E (2012) Is there a role for isofurans and
+neuroprostanes in pre-eclampsia and normal pregnancy? Antioxid Redox
+Signal 16: 165-169.
+
+14. Browne SE, Beal MF (2006) Oxidative damage in Huntington’s disease
+pathogenesis. Antioxid Redox Signal 8: 2061-2073.
+
+39. Brooks JD, Milne GL, Yin H, Sanchez SC, Porter NA, et al. (2008) Formation of
+highly reactive cyclopentenone isoprostane compounds (A 3/J3-isoprostanes)
+in vivo from eicosapentaenoic acid. J Biol Chem 283: 12043-12055.
+
+15. Kralovicova S, Fontaine SN, Alderton A, Brown D (2009) The effects of prion
+protein expression on metal metabolism. Mol Cellular Neurosci 41: 135-147.
+16. Wong BS, Pan T, Liu T, Sy MS (2000) Prion disease: A loss of antioxidant
+function? Biochem Biophys Res Commun 275: 249-252.
+
+40. Comporti M, Signorini C, Arezzini B, Vecchio D, Monaco B, et al. (2008) F2isoprostanes are not just markers of oxidative stress. Free Radic Biol Med 44:
+247-256.
+
+17. Minghetti L, Cardone F, Greco A, Pocchiari M (2002) Increased CSF levels
+of prostaglandin E2 in variant Creutzfeldt-Jakob disease. Neurol 58: 127-129.
+
+41. Zaja-Milatovic S, Gupta RC, Aschner M, Milatovic D (2009) Protection of DFPinduced oxidative damage and neurodegeneration by antioxidants and NMDA
+receptor antagonist. Toxicol App Pharmacol 240: 124-131.
+
+18. Arlt S, Kontush A, Zerr I, Buhmann C, Jacobi C, et al. (2002) Increased
+lipid peroxidation in cerebrospinal fluid and plasma from patients with
+creutzfeldtjakob disease. Neurobiol Dis 10: 150-156.
+
+42. Milatovic D, Montine TJ, Aschner M (2011) Measurement of isoprostanes as
+markers of oxidative stress. Methods Mol Biol 758: 195-204.
+
+19. Mitsumoto H, Santella RM, Liu X, Bogdanov M, Zipprich J, et al. (2008) Oxidative
+stress biomarkers in sporadic ALS. Amyotroph Lateral Scler 9: 177-183.
+
+End

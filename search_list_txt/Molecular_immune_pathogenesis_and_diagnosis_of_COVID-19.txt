@@ -1,0 +1,669 @@
+
+
+Abstract
+
+Coronavirus disease 2019 (COVID-19) is a kind of viral pneumonia which is caused by severe acute
+respiratory syndrome coronavirus 2 (SARS-CoV-2). The emergence of SARS-CoV-2 has been marked as
+the third introduction of a highly pathogenic coronavirus into the human population after the severe
+acute respiratory syndrome coronavirus (SARS-CoV) and the Middle East respiratory syndrome coronavirus (MERS-CoV) in the twenty-ﬁrst century. In this minireview, we provide a brief introduction of the
+general features of SARS-CoV-2 and discuss current knowledge of molecular immune pathogenesis,
+diagnosis and treatment of COVID-19 on the base of the present understanding of SARS-CoV and MERSCoV infections, which may be helpful in offering novel insights and potential therapeutic targets for
+combating the SARS-CoV-2 infection.
+
+Keywords
+Coronavirus
+SARS-CoV-2
+SARS-CoV
+MERS-CoV
+Pathogenesis
+
+Introduction
+Novel coronavirus-induced pneumonia, which was named as
+coronavirus disease 2019 (COVID-19) by the WHO on the February
+11, 2020, has rapidly increased in epidemic scale [1]. On the same
+day, the international virus classiﬁcation commission announced
+that the novel coronavirus was named as severe acute respiratory
+syndrome coronavirus 2 (SARS-CoV-2). COVID-19 is not the ﬁrst
+severe respiratory disease outbreak caused by the coronavirus. Just
+in the past two decades, coronaviruses have caused three epidemic
+diseases, namely, COVID-19, severe acute respiratory syndrome
+(SARS) and Middle East respiratory syndrome (MERS) [2]. At present, the cases of COVID-19 have been found in many countries
+around the world [3]. According to the latest data, up to the March
+1, 2020, the number of conﬁrmed cases in China reached 79,968, of
+which 2,873 were dead, and 41,681 were cured. In addition to
+China, the number of conﬁrmed cases in other countries also
+reached 7,041, of which 105 were dead, and 459 were cured. On the
+31st of January 2020, the World Health Organization (WHO)
+
+Main
+
+announced that COVID-19 was listed as the Public Health Emergency of International Concern (PHEIC), meaning that it may pose
+risks to multiple countries and requires a coordinated international
+response. The review tries to explain the molecular immune
+pathogenesis and diagnosis of COVID-19 and provide a reference
+for the prevention and drug development of SARS-CoV-2 infection,
+based on the recent research progress of SARS-CoV-2 and the
+knowledge from researches on SARS-CoV and MERS-CoV.
+2. Virology of SARS-CoV-2
+Coronaviruses are enveloped viruses with a positive sense
+single-stranded RNA genome (26e32 kb) [4]. Four coronavirus
+genera (a, b, g, d) have been identiﬁed so far, with human coronaviruses (HCoVs) detected in the a coronavirus (HCoV-229E and
+NL63) and b coronavirus (MERS-CoV, SARS-CoV, HCoV-OC43 and
+HCoV-HKU1) genera [5]. In late December 2019, patients presenting with cough, fever, and dyspnea with acute respiratory distress
+syndrome (ARDS) due to an unidentiﬁed microbial infection were
+reported in Wuhan, China. Virus genome sequencing of ﬁve patients with pneumonia hospitalized from December 18 to
+December 29, 2019, revealed the presence of a previously unknown
+b-CoV strain in all of them [6]. This isolated novel b-CoV shows 88%
+identity to the sequence of two bat-derived severe acute respiratory syndromes (SARS)-like coronaviruses, bat-SL-CoVZC45 and
+bat-SL-CoVZXC21, and about 50% identity to the sequence of MERS-
+
+https://doi.org/10.1016/j.jpha.2020.03.001
+2095-1779/© 2020 Xi'an Jiaotong University. Production and hosting by Elsevier B.V. This is an open access article under the CC BY-NC-ND license (http://creativecommons.
+org/licenses/by-nc-nd/4.0/).
+
+X. Li et al. / Journal of Pharmaceutical Analysis 10 (2020) 102e108
+
+CoV [6]. The novel b-CoV was then named “SARS-CoV-2” by the
+International Virus Classiﬁcation Commission. The phylogenetic
+tree of SARS-like coronaviruses complete genome sequences is
+
+103
+
+clearly depicted in Fig. 1A.
+The genome of SARS-CoV-2 is similar to that of typical CoVs and
+contains at least ten open reading frames (ORFs). The ﬁrst ORFs
+
+Fig. 1. The phylogenetic tree of SARS-like coronaviruses complete genome sequences and genome of SARS-CoV, MERS-CoV and SARSCoV- 2.
+(A) This phylogeny shows evolution of SARS-like b-coronaviruses including samples from human (n ¼ 20), bat (n ¼ 22), civet (n ¼ 3) and pangolin (n ¼ 6). The phylogenetic tree of
+complete genome sequences of coronaviruses was obtained and analyzed with Nextstrain (https://github.com/blab/sars-like-cov). (B) Coronaviruses form enveloped and spherical
+particles of 100e160 nm in diameter. They contain a positivesense single stranded RNA (ssRNA) genome of 26e32 kb in size. In SARS-CoV, MERS-CoV and SARS-CoV-2, the 50 terminal two-thirds of the genome ORF1a/b encodes polyproteins, which form the viral replicase transcriptase complex. The other ORFs on the one-third of the genome encode four
+main structural proteins: spike (S), envelope (E), nucleocapsid (N) and membrane (M) proteins, as well as several accessory proteins.
+
+104
+
+X. Li et al. / Journal of Pharmaceutical Analysis 10 (2020) 102e108
+
+(ORF1a/b), about two-thirds of viral RNA, are translated into two
+large polyproteins. In SARS-CoV and MERS-CoV, two polyproteins,
+pp1a and pp1ab, are processed into 16 non-structural proteins
+(nsp1-nsp16), which form the viral replicase transcriptase complex
+[7]. Those nsps rearrange membranes originating from the rough
+endoplasmic reticulum (RER) into double-membrane vesicles
+where viral replication and transcription occur [8,9]. The other
+ORFs of SARS-CoV-2 on the one-third of the genome encode four
+main structural proteins: spike (S), envelope (E), nucleocapsid (N)
+and membrane (M) proteins, as well as several accessory proteins
+with unknown functions which do not participate in viral replication (Fig. 1B).
+Several groups of scientists in China have all discovered that
+SARS-CoV-2, just like SARS-CoV, requires the angiotensinconverting enzyme 2 (ACE2) [1] as a receptor to enter cells [10].
+The binding of the virus with host cell receptors is a signiﬁcant
+determinant for the pathogenesis of infection. SARS-CoV most
+likely originated in bats [11]and adapted to non-bat ACE2 variants
+as it crossed species to infect humans [12]. Dipeptidyl peptidase 4
+(DPP4, also known as CD26) was identiﬁed as a functional receptor
+for MERS-CoV, because the receptor-binding S1 domain of the
+MERS-CoV spike protein was copuriﬁed with DPP4 speciﬁcally from
+lysates of susceptible Huh-7 cells [13]. MERS-CoV can bind DPP4
+from multiple species, which promotes the transmission to humans
+and other species, and infection of cells from a large number of
+species [14]. A better understanding of the relative effects of receptor binding and protease action will help predict whether speciﬁc zoonotic coronaviruses infect humans and the possibility of
+adaptation.
+
+vesicles containing the virus particles then fuse with the plasma
+membrane to release the virus [2].
+3.2. Antigen presentation in coronavirus infection
+While the virus enters the cells, its antigen will be presented to
+the antigen presentation cells(APC), which is a central part of the
+body’s anti-viral immunity. Antigenic peptides are presented by
+major histocompatibility complex (MHC; or human leukocyte antigen (HLA) in humans) and then recognized by virus-speciﬁc
+cytotoxic T lymphocytes (CTLs). Hence, the understanding of antigen presentation of SARS-CoV-2 will help our comprehension of
+COVID-19 pathogenesis. Unfortunately, there is still lack of any
+report about it, and we can only get some information from previous researches on SARS-CoV and MERS-CoV. The antigen presentation of SARS-CoV mainly depends on MHC I molecules [24],
+but MHC II also contributes to its presentation. Previous research
+shows numerous HLA polymorphisms correlate to the susceptibility of SARS-CoV, such as HLA-B*4601, HLA-B*0703, HLA-DR
+B1*1202 [25] and HLA-Cw*0801 [26], whereas the HLA-DR0301,
+HLA-Cw1502 and HLA-A*0201 alleles are related to the protection from SARS infection [27]. In MERS-CoV infection, MHC II
+molecules, such as HLA-DRB1*11:01 and HLA-DQB1*02:0, are
+associated with the susceptibility to MERS-CoV infection [28]. Besides, gene polymorphisms of MBL (mannose-binding lectin)
+associated with antigen presentation are related to the risk of SARSCoV infection [29]. These researches will provide valuable clues for
+the prevention, treatment, and mechanism of COVID-19.
+3.3. Humoral and cellular immunity
+
+3. Pathogenesis of COVID-19
+Patients with COVID-19 show clinical manifestations including
+fever, nonproductive cough, dyspnea, myalgia, fatigue, normal or
+decreased leukocyte counts, and radiographic evidence of pneumonia [15], which are similar to the symptoms of SARS-CoV and
+MERS-CoV infections [16]. Hence, although the pathogenesis of
+COVID-19 is poorly understood, the similar mechanisms of SARSCoV and MERS-CoV still can give us a lot of information on the
+pathogenesis of SARS-CoV-2 infection to facilitate our recognition
+of COVID-19.
+3.1. Coronavirus entry and replication
+Coronavirus S protein has been reported as a signiﬁcant determinant of virus entry into host cells [2]. The envelope spike
+glycoprotein binds to its cellular receptor, ACE2 for SARS-CoV [10]
+and SARS-CoV-2 [17], CD209L(a C-type lectin, also called L-SIGN)
+for SARS-CoV [18], DPP4 for MERS-CoV [13]. The entry of SARS-CoV
+into cells was initially identiﬁed to be accomplished by direct
+membrane fusion between the virus and plasma membrane [19].
+Belouzard et al. [20] found that a critical proteolytic cleavage event
+occurred at SARS-CoV S protein at position (S20 ) mediated the
+membrane fusion and viral infectivity. MERS-CoV also has evolved
+an abnormal two-step furin activation for membrane fusion [21].
+Besides membrane fusion, the clathrin-dependent and -independent endocytosis mediated SARS-CoV entry too [22,23]. After the
+virus enters the cells, the viral RNA genome is released into the
+cytoplasm and is translated into two polyproteins and structural
+proteins, after which the viral genome begins to replicate [5]. The
+newly formed envelope glycoproteins are inserted into the membrane of the endoplasmic reticulum or Golgi, and the nucleocapsid
+is formed by the combination of genomic RNA and nucleocapsid
+protein. Then, viral particles germinate into the endoplasmic
+reticulum-Golgi intermediate compartment (ERGIC). At last, the
+
+Antigen presentation subsequently stimulates the body’s humoral and cellular immunity, which are mediated by virus-speciﬁc
+B and T cells. Similar to common acute viral infections, the antibody
+proﬁle against SARS-CoV virus has a typical pattern of IgM and IgG
+production. The SARS-speciﬁc IgM antibodies disappear at the end
+of week 12, while the IgG antibody can last for a long time, which
+indicates IgG antibody may mainly play a protective role [30], and
+the SARS-speciﬁc IgG antibodies primarily are S-speciﬁc and Nspeciﬁc antibodies [2]. Comparing to humoral responses, there are
+more researches on the cellular immunity of coronavirus. The latest
+report shows the number of CD4þ and CD8þ T cells in the peripheral blood of SARS-CoV-2-infected patients signiﬁcantly is reduced,
+whereas its status is excessive activation, as evidenced by high
+proportions of HLA-DR (CD4 3.47%) and CD38 (CD8 39.4%) doublepositive fractions [31]. Similarly, the acute phase response in patients with SARS-CoV is associated with severe decrease of CD4þ T
+and CD8þ T cells. Even if there is no antigen, CD4þ and CD8þ
+memory T cells can persist for four years in a part of SARS-CoV
+recovered individuals and can perform T cell proliferation, DTH
+response and production of IFN-g [32]. Six years after SARS-CoV
+infection, speciﬁc T-cell memory responses to the SARS-CoV S
+peptide library could still be identiﬁed in 14 of 23 recovered SARS
+patients [33]. The speciﬁc CD8þ T cells also show a similar effect on
+MERS-CoV clearance in mice [34]. These ﬁndings may provide
+valuable information for the rational design of vaccines against
+SARS-CoV-2.
+3.4. Cytokine storm in COVID-19
+The report in Lancet shows ARDS is the main death cause of
+COVID-19. Of the 41 SARS-CoV-2-infected patients admitted in the
+early stages of the outbreak, six died from ARDS [15]. ARDS is the
+common immunopathological event for SARS-CoV-2, SARS-CoV
+and MERS-CoV infections [31]. One of the main mechanisms for
+
+X. Li et al. / Journal of Pharmaceutical Analysis 10 (2020) 102e108
+
+ARDS is the cytokine storm, the deadly uncontrolled systemic inﬂammatory response resulting from the release of large amounts of
+pro-inﬂammatory cytokines (IFN-a, IFN-g, IL-1b, IL-6, IL-12, IL-18,
+IL-33, TNF-a, TGFb, etc.) and chemokines (CCL2, CCL3, CCL5,
+CXCL8, CXCL9, CXCL10, etc.) by immune effector cells in SARS-CoV
+infection [15,35e37]. Similar to those with SARS-CoV, individuals
+with severe MERS-CoV infection show elevated levels of IL-6, IFN-a,
+and CCL5, CXCL8, CXCL-10 in serum compared to those with the
+mild-moderate disease [38]. The cytokine storm will trigger a violent attack by the immune system to the body, cause ARDS and
+multiple organ failure, and ﬁnally lead to death in severe cases of
+SARS-CoV-2 infection, just like what occurs in SARS-CoV and MERSCoV infection [31].
+3.5. Coronavirus immune evasion
+To better survive in host cells, SARS-CoV and MERS-CoV use
+multiple strategies to avoid immune responses. The evolutionarily
+conserved microbial structures called pathogen-associated molecular patterns (PAMPs) can be recognized by pattern recognition
+receptors (PRRs). However, SARS-CoV and MERS-CoV can induce
+the production of double-membrane vesicles that lack PRRs and
+then replicate in these vesicles, thereby avoiding the host detection
+of their dsRNA [39]. IFN-I(IFN-a and IFN-b) has a protective effect
+on SARS-CoV and MERS-CoV infection, but the IFN-I pathway is
+inhibited in infected mice [40,41]. Accessory protein 4a of MERSCoV may block the induction of IFN at the level of MDA5 activation through direct interaction with double-stranded RNA [42].
+Besides, ORF4a, ORF4b, ORF5, and membrane proteins of MERSCoV inhibit nuclear transport of IFN regulatory factor 3 (IRF3) and
+activation of IFN b promoter [43]. The antigen presentation can also
+be affected by the coronavirus. For example, gene expression
+related to antigen presentation is down-regulated after MERS-CoV
+infection [44]. Therefore, destroying the immune evasion of SARSCoV-2 is imperative in its treatment and speciﬁc drug development.
+4. Diagnosis of COVID-19
+Clinical diagnosis of COVID-19 is mainly based on epidemiological history, clinical manifestations and some auxiliary examinations, such as nucleic acid detection, CT scan, immune
+identiﬁcation technology (Point-of-care Testing (POCT) of IgM/IgG,
+enzyme-linked immunosorbent assay (ELISA)) and blood culture.
+However, the clinical symptoms and signs of patients infected with
+SARS-CoV-2 are highly atypical, including respiratory symptoms,
+cough, fever, dyspnea, and viral pneumonia. Therefore, auxiliary
+examinations are necessary for the diagnosis of COVID-19, just as
+the epidemiological history.
+4.1. Nucleic acid detection technology
+The two commonly used nucleic acid detection technologies for
+SARS-CoV-2 are real-time quantitative polymerase chain reaction
+(RT-qPCR) and high-throughput sequencing. The authoritative
+identiﬁcation method for SARS-CoV-2 is virus blood culture and
+high-throughput sequencing of the whole genome [1]. However,
+the application of high-throughput sequencing technology in
+clinical diagnosis is limited because of its equipment dependency
+and high cost. So RT-qPCR is the most common, effective and
+straightforward method for detecting pathogenic viruses in respiratory secretions and blood [45].
+After the outbreak of SARS-CoV-2 in China, many companies
+soon launched RT-qPCR test kits for clinical diagnosis. The Chinese
+Center for Disease Control and Prevention (China CDC) recommends the use of speciﬁc primers and probes in the ORF1ab and N
+
+105
+
+gene regions for SARS-CoV-2 detection by RT-qPCR. The patient is
+deﬁned as having a laboratory-conﬁrmed infection when both
+targets
+are
+positive
+(http://ivdc.chinacdc.cn/kyjz/202001/
+t20200121_211337.html). Chu et al. [46] described two 1-step RTqPCR assays (TaqMan-based ﬂuorescence signal) to detect two
+different regions (ORF1b and N) of the viral genome separately. The
+negative control samples were all conﬁrmed as negative ones,
+while samples from two SARS-CoV-2 infected patients were
+conﬁrmed as positive ones in respiratory specimens by this
+method. Another study showed that the positive rate of SARS-CoV2 was 91.7% (11/12) in the patients’ self-collected saliva by using RTqPCR (non-probes SYBR based ﬂuorescence signal), which suggests
+that saliva is a promising non-invasive specimen for the diagnosis,
+monitoring, and infection control of patients with SARS-CoV-2
+infection [47]. RT-qPCR detection also showed high sensitivity
+and speciﬁcity for SARS-CoV and MERS-CoV infection [48]. However, ﬁve patients with negative results of RT-qPCR for SARS-CoV-2
+may present with positive chest CT ﬁndings, and repeated swab
+tests (RT-qPCR) eventually conﬁrmed that all patients were infected by SARS-CoV-2 [49]. The detection of SARS-CoV using RT-qPCR
+can only achieve a sensitivity of 50%e79%, depending on the protocol used the sample type and number of clinical specimens
+collected [50]. Thus, it is essential to improve the detection rate of
+RT-qPCR for SARS-CoV-2 infection. Besides, RT-qPCR has some
+other shortcomings, including certain biological safety hazards
+brought by the retention and operation of patient samples,
+cumbersome nucleic acid detection operations, and long waiting
+time for results.
+4.2. CT scans and other diagnostic methods
+For the diagnosis of COVID-19, although RT-qPCR is speciﬁc, its
+false-negative rate cannot be ignored because of the severe consequences of missed diagnosis. So many clinicians proposed CT
+scans should be one necessary auxiliary diagnostic method because
+it is more sensitive. For individuals with a high clinical suspicion of
+SARS-CoV-2 infection with negative RT-qPCR screening, a combination of repeated RT-qPCR tests and chest CT scan may be helpful.
+Especially the high-resolution CT (HRCT) for the chest is essential
+for early diagnosis and evaluation of disease severity of patients
+with SARS-CoV-2 [51]. Several studies have analyzed chest CT images of patients infected with SARS-CoV-2 [52,53]. The typical CT
+images show bilateral pulmonary parenchymal ground-glass and
+consolidative pulmonary opacities, sometimes with a rounded
+morphology and a peripheral lung distribution. Lung involvement
+with a peripheral predominance was also seen in patients with
+SARS-CoV and MERS-CoV infections, and the chest CT showed that
+disease progressed with ground-glass opacities and consolidation,
+which is similar to that of SARS-CoV-2 infection [54,55]. According
+to those ﬁndings, CT scans have a great clinical diagnostic value for
+COVID-19, especially in the high prevalence area of SARS-CoV-2
+infection. However, CT scans also have some shortcomings, such
+as indistinguishability from other viral pneumonia and the hysteresis of abnormal CT imaging.
+Given the shortcomings of the currently used nucleic acid
+detection and CT scans for the diagnosis of COVID-19, clinical laboratories should apply some immunological detection kits that
+target viral antigens or antibodies as soon as possible. Currently,
+POCT of IgM/IgG and ELISA kits for SARS-CoV-2 have been developed and pre-tested by some companies and have shown higher
+detection rates than nucleic acid detection, but there is still no
+product or published article. The sensitivity of SARS-CoV N-based
+IgG ELISA (94.7%) is signiﬁcantly higher than that of SARS-CoV Sbased IgG ELISA (58.9%) [48], but the sensitivity of SARS-CoV-2 IgG/
+IgM remains to be studied. Hence, developing other sensitive and
+
+106
+
+X. Li et al. / Journal of Pharmaceutical Analysis 10 (2020) 102e108
+
+speciﬁc auxiliary methods is necessary and urgent for the diagnosis
+of COVID-19.
+5. Current treatment strategies for COVID-19
+Just like SARS-CoV and MERS-CoV [2,56], there is currently no
+clinically proven speciﬁc antiviral agent available for SARS-CoV-2
+infection. The supportive treatment, including oxygen therapy,
+conservation ﬂuid management, and the use of broad-spectrum
+antibiotics to cover secondary bacterial infection, remains to be
+the most important management strategy [15]. According to the
+research on molecular mechanisms of coronavirus infection [57]
+and the genomic organization of SARS-CoV-2 [6], there are several
+potential therapeutic targets to repurpose the existing antiviral
+agents or develop effective interventions against this novel
+coronavirus.
+5.1. Virally targeted inhibitors
+Remdesivir, an adenosine analogue that can target the RNAdependent RNA polymerase and block viral RNA synthesis, has
+been a promising antiviral drug against a wide array of RNA viruses
+(including SARS/MERS-CoV) infections in cultured cells [58], mice
+[59] and nonhuman primate models [60,61]. The Washington
+Department of Health administrated remdesivir intravenously ﬁrst
+and found that remdesivir might have potential protection from
+SARS-CoV-2 infection [62]. Then remdesivir and chloroquine have
+been demonstrated to inhibit SARS-CoV-2 effectively in vitro [63].
+Hence, other nucleoside analogues, such as favipiravir, ribavirin and
+galidesivir [56,64], may be potentially clinically applicable against
+SARS-CoV-2. Chymotrypsin-like (3C-like protease, 3CLpro) and
+papain-like protease (PLP) are non-structural proteins, which have
+an essential function for coronaviral replication and can inhibit the
+host innate immune responses [65]. So 3CLpro inhibitors, such as
+cinanserin [66] and ﬂavonoids [67], and PLP inhibitors, such as
+diarylheptanoids [68], are other attractive choices to ﬁght against
+SARS-CoV-2. ACE2 mediates SARS-CoV-2 entry into the cell as a
+functional receptor of coronaviruses. So blocking the binding of S
+protein with ACE2 is also a meaningful strategy against SARS-CoV-2
+infection [10].
+
+SARS-CoV-2.
+Currently, there may be many promising targets for SARS-CoV-2,
+but more laboratory and clinical evidence still should be explored.
+The WHO is working with Chinese scientists to launch more than
+80 clinical trials on potential treatments for SARS-CoV-2. Traditional Chinese medicine seems to have some effects in the supportive treatments. Some new pharmaceutical drugs, including HIV
+drugs and stem cells, were testiﬁed in those clinical trials.
+6. Conclusion
+In conclusion, the occurrence and development of SARS-CoV-2
+depend on the interaction between the virus and the individual’s
+immune system. Viral factors include virus type, mutation, viral
+load, viral titer, and viability of the virus in vitro. The individual’s
+immune system factors include genetics (such as HLA genes), age,
+gender, nutritional status, neuroendocrine-immune regulation, and
+physical status. These factors all contribute to whether an individual is infected with the virus, the duration and severity of the
+disease, and the reinfection. In the early stages of the epidemic,
+accurate diagnosis helps control the spread of the disease. It is
+imperative to develop new, safe, accurate, fast and simple new
+technologies for detecting SARS-CoV-2. Of course, physicians will
+intentionally intervene in the two factors to make them develop
+into a direction beneﬁcial to human health, which can help patients
+recover as soon as possible. However, it must not be considered that
+medical intervention can achieve a 100% curative effect.
+Conﬂicts of interest
+The authors declare that there are no conﬂicts of interest.
+Acknowledgments
+This work was supported by the National Natural Science
+Foundation of China (project No.81970029) and Fundamental
+Research Funds for the Central Universities of China (The Emergency Projects on COVID-19. project No.xzy032020042). We
+sincerely thank the individuals who contributed to this work
+including Xudong Yang, Wenhua Zhu, Jing Xu, Fumeng Huang,
+Muhammad Saadiq Khan, Jiajun Ren, and Xipeng Wang.
+
+5.2. Antibody and plasma therapy
+Appendix A. Supplementary data
+It has also been reported that there are many convalescent patients donating plasma against SARS-CoV-2, just as SARS-CoV [69]
+and MERS-CoV [70] trials. It has preliminary acquired favorable
+results in acute, severe SARS-CoV-2 patients. Moreover, the generation of recombinant human monoclonal antibody (mAb) is a
+fairly straightforward path to neutralize SARS-CoV. CR3022, a SARS
+coronavirus-speciﬁc human monoclonal antibody, can bind
+potently with the receptor-binding domain(RBD) of SARS-CoV-2
+and has the potential to be developed as candidate therapeutics
+of SARS-CoV-2 infections [71]. Other monoclonal antibodies
+neutralizing SARS-CoV, such as m396, CR3014, could be an alternative for the treatment of SARS-CoV-2 [72].
+5.3. Vaccines
+Effective SARS-CoV-2 vaccines are essential for reducing disease
+severity, viral shedding and transmission, thus helping to control
+the coronavirus outbreaks. There are several vaccination strategies
+against SARS-CoV, MERS-CoV tested in animals, including a liveattenuated virus, viral vectors, inactivated virus, subunit vaccines,
+recombinant DNA, and proteins vaccines [73]. These studies are in
+progress, but it requires months to years to develop the vaccines for
+
+References
+
+https://doi.org/10.1016/j.jpha.2020.03.001.
+References
+[1] P. Zhou, X.L. Yang, X.G. Wang, et al., A pneumonia outbreak associated with a
+new coronavirus of probable bat origin, Nature (2020), https://doi.org/
+10.1038/s41586-020-2012-7.
+[2] E. de Wit, N. van Doremalen, D. Falzarano, et al., SARS and MERS: recent insights into emerging coronaviruses, Nat. Rev. Microbiol. 14 (2016) 523e534,
+https://doi.org/10.1038/nrmicro.2016.81.
+[3] J.T. Wu, K. Leung, G.M. Leung, Nowcasting and forecasting the potential domestic and international spread of the 2019-nCoV outbreak originating in
+Wuhan, China: a modelling study, Lancet (2020), https://doi.org/10.1016/
+S0140-6736(20)30260-9.
+[4] S. Su, G. Wong, W. Shi, et al., Epidemiology, Genetic recombination, and
+pathogenesis of coronaviruses, Trends Microbiol. 24 (2016) 490e502, https://
+doi.org/10.1016/j.tim.2016.03.003.
+[5] S. Perlman, J. Netland Coronaviruses post-SARS: update on replication and
+pathogenesis, Nat. Rev. Microbiol. 7 (2009) 439e450, https://doi.org/10.1038/
+nrmicro2147.
+[6] R. Lu, X. Zhao, J. Li, et al., Genomic characterisation and epidemiology of 2019
+novel coronavirus: implications for virus origins and receptor binding, Lancet
+(2020), https://doi.org/10.1016/S0140-6736(20)30251-8.
+[7] A.R. Fehr, S. Perlman, Coronaviruses: an overview of their replication and
+pathogenesis, Methods Mol. Biol. 1282 (2015) 1e23, https://doi.org/10.1007/
+
+X. Li et al. / Journal of Pharmaceutical Analysis 10 (2020) 102e108
+978-1-4939-2438-7_1.
+[8] P.S. Masters, The molecular biology of coronaviruses, Adv. Virus Res. 66 (2006)
+193e292, https://doi.org/10.1016/S0065-3527(06)66005-3.
+[9] K. Knoops, M. Kikkert, S.H. Worm, et al., SARS-coronavirus replication is
+supported by a reticulovesicular network of modiﬁed endoplasmic reticulum,
+PLoS Biol. 6 (2008), https://doi.org/10.1371/journal.pbio.0060226 e226.
+[10] W. Li, M.J. Moore, N. Vasilieva, et al., Angiotensin-converting enzyme 2 is a
+functional receptor for the SARS coronavirus, Nature 426 (2003) 450e454,
+https://doi.org/10.1038/nature02145.
+[11] X.Y. Ge, J.L. Li, X.L. Yang, et al., Isolation and characterization of a bat SARS-like
+coronavirus that uses the ACE2 receptor, Nature 503 (2013) 535e538, https://
+doi.org/10.1038/nature12711.
+[12] Chinese SARS Molecular Epidemiology Consortium, Chinese Molecular evolution of the SARS coronavirus during the course of the SARS epidemic in
+China,
+Science
+303
+(2004)
+1666e1669,
+https://doi.org/10.1126/
+science.1092002.
+[13] V.S. Raj, H. Mou, S.L. Smits, et al., Dipeptidyl peptidase 4 is a functional receptor for the emerging human coronavirus-EMC, Nature 495 (2013)
+251e254, https://doi.org/10.1038/nature12005.
+[14] A. Barlan, J. Zhao, M.K. Sarkar, et al., Receptor variation and susceptibility to
+Middle East respiratory syndrome coronavirus infection, J. Virol. 88 (2014)
+4953e4961, https://doi.org/10.1128/JVI.00161-14.
+[15] C. Huang, Y. Wang, X. Li, et al., Clinical features of patients infected with 2019
+novel coronavirus in Wuhan, China, Lancet (2020), https://doi.org/10.1016/
+S0140-6736(20)30183-5.
+[16] J.S. Peiris, Y. Guan, K.Y. Yuen, Severe acute respiratory syndrome, Nat. Med. 10
+(2004) S88eS97, https://doi.org/10.1038/nm1143.
+[17] F. Wu, S. Zhao, B. Yu, et al., A new coronavirus associated with human respiratory disease in China, Nature (2020), https://doi.org/10.1038/s41586-0202008-3.
+[18] S.A. Jeffers, S.M. Tusell, L. Gillim-Ross, et al., CD209L (L-SIGN) is a receptor for
+severe acute respiratory syndrome coronavirus, Proc. Natl. Acad. Sci. U.S.A.
+101 (2004) 15748e15753, https://doi.org/10.1073/pnas.0403812101.
+[19] G. Simmons, J.D. Reeves, A.J. Rennekamp, et al., Characterization of severe
+acute respiratory syndrome-associated coronavirus (SARS-CoV) spike
+glycoprotein-mediated viral entry, Proc. Natl. Acad. Sci. U.S.A. 101 (2004)
+4240e4245, https://doi.org/10.1073/pnas.0306446101.
+[20] S. Belouzard, V.C. Chu, G.R. Whittaker, Activation of the SARS coronavirus
+spike protein via sequential proteolytic cleavage at two distinct sites, Proc.
+Natl. Acad. Sci. U.S.A. 106 (2009) 5871e5876, https://doi.org/10.1073/
+pnas.0809524106.
+[21] J.K. Millet, G.R. Whittaker, Host cell entry of Middle East respiratory syndrome
+coronavirus after two-step, furin-mediated activation of the spike protein,
+Proc. Natl. Acad. Sci. U.S.A. 111 (2014) 15214e15219, https://doi.org/10.1073/
+pnas.1407087111.
+[22] H. Wang, P. Yang, K. Liu, et al., SARS coronavirus entry into host cells through
+a novel clathrin- and caveolae-independent endocytic pathway, Cell Res. 18
+(2008) 290e301, https://doi.org/10.1038/cr.2008.15.
+[23] K. Kuba, Y. Imai, T. Ohto-Nakanishi, et al., Trilogy of ACE2: a peptidase in the
+renin-angiotensin system, a SARS receptor, and a partner for amino acid
+transporters, Pharmacol. Ther. 128 (2010) 119e128, https://doi.org/10.1016/
+j.pharmthera.2010.06.003.
+[24] J. Liu, P. Wu, F. Gao, et al., Novel immunodominant peptide presentation
+strategy: a featured HLA-A*2402-restricted cytotoxic T-lymphocyte epitope
+stabilized by intrachain hydrogen bonds from severe acute respiratory syndrome coronavirus nucleocapsid protein, J. Virol. 84 (2010) 11849e11857,
+https://doi.org/10.1128/JVI.01464-10.
+[25] N. Keicho, S. Itoyama, K. Kashiwase, et al., Association of human leukocyte
+antigen class II alleles with severe acute respiratory syndrome in the Vietnamese population, Hum. Immunol. 70 (2009) 527e531, https://doi.org/
+10.1016/j.humimm.2009.05.006.
+[26] Y.M. Chen, S.Y. Liang, Y.P. Shih, et al., Epidemiological and genetic correlates of
+severe acute respiratory syndrome coronavirus infection in the hospital with
+the highest nosocomial infection rate in Taiwan in 2003, J. Clin. Microbiol. 44
+(2006) 359e365, https://doi.org/10.1128/JCM.44.2.359-365.2006.
+[27] S.F. Wang, K.H. Chen, M. Chen, et al., Human-leukocyte antigen class I Cw
+1502 and class II DR 0301 genotypes are associated with resistance to severe
+acute respiratory syndrome (SARS) infection, Viral Immunol. 24 (2011)
+421e426, https://doi.org/10.1089/vim.2011.0024.
+[28] A.H. Hajeer, H. Balkhy, S. Johani, et al., Association of human leukocyte antigen
+class II alleles with severe Middle East respiratory syndrome-coronavirus
+infection, Ann. Thorac. Med. 11 (2016) 211e213, https://doi.org/10.4103/
+1817-1737.185756.
+[29] X. Tu, W.P. Chong, Y. Zhai, et al., Functional polymorphisms of the CCL2 and
+MBL genes cumulatively increase susceptibility to severe acute respiratory
+syndrome coronavirus infection, J. Infect. 71 (2015) 101e109, https://doi.org/
+10.1016/j.jinf.2015.03.006.
+[30] G. Li, X. Chen, A. Xu, Proﬁle of speciﬁc antibodies to the SARS-associated
+coronavirus, N. Engl. J. Med. 349 (2003) 508e509, https://doi.org/10.1056/
+NEJM200307313490520.
+[31] Z. Xu, L. Shi, Y. Wang, et al., Pathological ﬁndings of COVID-19 associated with
+acute respiratory distress syndrome, Lancet Resp. Med. (2020), https://
+doi.org/10.1016/S2213-2600(20)30076-X.
+[32] Y.Y. Fan, Z.T. Huang, L. Li, et al., Characterization of SARS-CoV-speciﬁc memory
+T cells from recovered individuals 4 years after infection, Arch. Virol. 154
+
+107
+
+(2009) 1093e1099, https://doi.org/10.1007/s00705-009-0409-6.
+[33] F. Tang, Y. Quan, Z.T. Xin, et al., Lack of peripheral memory B cell responses in
+recovered patients with severe acute respiratory syndrome: a six-year followup study, J. Immunol. 186 (2011) 7264e7268, https://doi.org/10.4049/
+jimmunol.0903490.
+[34] J. Zhao, K. Li, C. Wohlford-Lenane, et al., Rapid generation of a mouse model
+for Middle East respiratory syndrome, Proc. Natl. Acad. Sci. U.S.A. 111 (2014)
+4970e4975, https://doi.org/10.1073/pnas.1323279111.
+[35] A.E. Williams, R.C. Chambers, The mercurial nature of neutrophils: still an
+enigma in ARDS? Am. J. Physiol. Lung Cell Mol. Physiol. 306 (2014)
+L217eL230, https://doi.org/10.1152/ajplung.00311.2013.
+[36] R. Channappanavar, S. Perlman, Pathogenic human coronavirus infections:
+causes and consequences of cytokine storm and immunopathology, Semin.
+Immunopathol. 39 (2017) 529e539, https://doi.org/10.1007/s00281-0170629-x.
+[37] M.J. Cameron, J.F. Bermejo-Martin, A. Danesh, et al., Human immunopathogenesis of severe acute respiratory syndrome (SARS), Virus Res. 133 (2008)
+13e19, https://doi.org/10.1016/j.virusres.2007.02.014.
+[38] C.K. Min, S. Cheon, N.Y. Ha, et al., Comparative and kinetic analysis of viral
+shedding and immunological responses in MERS patients representing a
+broad spectrum of disease severity, Sci. Rep. 6 (2016) 25359, https://doi.org/
+10.1038/srep25359.
+[39] E.J. Snijder, Y. van der Meer, J. Zevenhoven-Dobbe, et al., Ultrastructure and
+origin of membrane vesicles associated with the severe acute respiratory
+syndrome coronavirus replication complex, J. Virol. 80 (2006) 5927e5940,
+https://doi.org/10.1128/JVI.02501-05.
+[40] R. Channappanavar, A.R. Fehr, R. Vijay, et al., Dysregulated type I interferon
+and inﬂammatory monocyte-macrophage responses cause lethal pneumonia
+in SARS-CoV-infected mice, Cell Host Microbe 19 (2016) 181e193, https://
+doi.org/10.1016/j.chom.2016.01.007.
+[41] R. Channappanavar, A.R. Fehr, J. Zheng, et al., IFN-I response timing relative to
+virus replication determines MERS coronavirus infection outcomes, J. Clin.
+Invest. 130 (2019) 3625e3639, https://doi.org/10.1172/JCI126363.
+[42] D. Niemeyer, T. Zillinger, D. Muth, et al., Middle East respiratory syndrome
+coronavirus accessory protein 4a is a type I interferon antagonist, J. Virol. 87
+(2013) 12489e12495, https://doi.org/10.1128/JVI.01845-13.
+[43] Y. Yang, L. Zhang, H. Geng, et al., The structural and accessory proteins M, ORF
+4a, ORF 4b, and ORF 5 of Middle East respiratory syndrome coronavirus
+(MERS-CoV) are potent interferon antagonists, Protein Cell 4 (2013) 951e961,
+https://doi.org/10.1007/s13238-013-3096-8.
+[44] V.D. Menachery, A. Schafer, K.E. Burnum-Johnson, et al., MERS-CoV and H5N1
+inﬂuenza virus antagonize antigen presentation by altering the epigenetic
+landscape, Proc. Natl. Acad. Sci. U.S.A. 115 (2018) E1012eE1021, https://
+doi.org/10.1073/pnas.1706928115.
+[45] V.M. Corman, O. Landt, M. Kaiser, et al., Detection of 2019 novel coronavirus
+(2019-nCoV) by real-time RT-PCR, Euro Surveill. 25 (2020), https://doi.org/
+10.2807/1560-7917.ES.2020.25.3.2000045.
+[46] D.K.W. Chu, Y. Pan, S.M.S. Cheng, et al., Molecular diagnosis of a novel coronavirus (2019-nCoV) causing an outbreak of pneumonia, Clin. Chem. (2020),
+https://doi.org/10.1093/clinchem/hvaa029.
+[47] K.K. To, O.T. Tsang, C. Chik-Yan Yip, et al., Consistent detection of 2019 novel
+coronavirus in saliva, Clin. Infect. Dis. (2020), https://doi.org/10.1093/cid/
+ciaa149.
+[48] P.C. Woo, S.K. Lau, B.H. Wong, et al., Differential sensitivities of severe acute
+respiratory syndrome (SARS) coronavirus spike polypeptide enzyme-linked
+immunosorbent assay (ELISA) and SARS coronavirus nucleocapsid protein
+ELISA for serodiagnosis of SARS coronavirus pneumonia, J. Clin. Microbiol. 43
+(2005) 3054e3058, https://doi.org/10.1128/JCM.43.7.3054-3058.2005.
+[49] X. Xie, Z. Zhong, W. Zhao, et al., Chest CT for typical 2019-nCoV pneumonia:
+relationship to negative RT-PCR testing, Radiology (2020), 200343, https://
+doi.org/10.1148/radiol.2020200343.
+[50] W.C. Yam, K.H. Chan, L.L. Poon, et al., Evaluation of reverse transcription-PCR
+assays for rapid diagnosis of severe acute respiratory syndrome associated
+with a novel coronavirus, J. Clin. Microbiol. 41 (2003) 4521e4524, https://
+doi.org/10.1128/jcm.41.10.4521-4524.2003.
+[51] Y. Pan, H. Guan, S. Zhou, et al., Initial CT ﬁndings and temporal changes in
+patients with the novel coronavirus pneumonia (2019-nCoV): a study of 63
+patients in Wuhan, China, Eur. Radiol. (2020), https://doi.org/10.1007/s00330020-06731-x.
+[52] H. Shi, X. Han, C. Zheng, Evolution of CT manifestations in a patient recovered
+from 2019 novel coronavirus (2019-nCoV) pneumonia in Wuhan, China,
+Radiology (2020), 200269, https://doi.org/10.1148/radiol.2020200269.
+[53] M. Chung, A. Bernheim, X. Mei, et al., CT imaging features of 2019 novel
+coronavirus (2019-nCoV), Radiology (2020), 200230, https://doi.org/10.1148/
+radiol.2020200230.
+[54] G.C. Ooi, P.L. Khong, N.L. Muller, et al., Severe acute respiratory syndrome:
+temporal lung changes at thin-section CT in 30 patients, Radiology 230 (2004)
+836e844, https://doi.org/10.1148/radiol.2303030853.
+[55] A.M. Ajlan, R.A. Ahyad, L.G. Jamjoom, et al., Middle East respiratory syndrome
+coronavirus (MERS-CoV) infection: chest CT ﬁndings, AJR Am. J. Roentgenol.
+203 (2014) 782e787, https://doi.org/10.2214/AJR.14.13021.
+[56] A. Zumla, J.F. Chan, E.I. Azhar, et al., Coronaviruses - drug discovery and
+therapeutic options, Nat. Rev. Drug Discov. 15 (2016) 327e347, https://
+doi.org/10.1038/nrd.2015.37.
+[57] D.A. Groneberg, R. Hilgenfeld, P. Zabel, Molecular mechanisms of severe acute
+
+108
+
+[58]
+
+[59]
+
+[60]
+
+[61]
+
+[62]
+
+[63]
+
+[64]
+
+[65]
+
+[66]
+
+X. Li et al. / Journal of Pharmaceutical Analysis 10 (2020) 102e108
+respiratory syndrome (SARS), Respir. Res. 6 (2005) 8, https://doi.org/10.1186/
+1465-9921-6-8.
+M.K. Lo, R. Jordan, A. Arvey, et al., GS-5734 and its parent nucleoside analog
+inhibit Filo-, Pneumo-, and Paramyxoviruses, Sci. Rep. 7 (2017) 43395, https://
+doi.org/10.1038/srep43395.
+T.P. Sheahan, A.C. Sims, S.R. Leist, et al., Comparative therapeutic efﬁcacy of
+remdesivir and combination lopinavir, ritonavir, and interferon beta against
+MERS-CoV, Nat. Commun. 11 (2020) 222, https://doi.org/10.1038/s41467019-13940-6.
+E. de Wit, F. Feldmann, J. Cronin, et al., Prophylactic and therapeutic remdesivir (GS-5734) treatment in the rhesus macaque model of MERS-CoV infection, Proc. Natl. Acad. Sci. U.S.A. (2020), https://doi.org/10.1073/
+pnas.1922083117.
+M.K. Lo, F. Feldmann, J.M. Gary, et al., Remdesivir (GS-5734) protects African
+green monkeys from Nipah virus challenge, Sci. Transl. Med. 11 (2019),
+https://doi.org/10.1126/scitranslmed.aau9242.
+M.L. Holshue, C. DeBolt, S. Lindquist, et al., First case of 2019 novel coronavirus
+in the United States, N. Engl. J. Med. (2020), https://doi.org/10.1056/
+NEJMoa2001191.
+M. Wang, R. Cao, L. Zhang, et al., Remdesivir and chloroquine effectively
+inhibit the recently emerged novel coronavirus (2019-nCoV) in vitro, Cell Res.
+(2020), https://doi.org/10.1038/s41422-020-0282-0.
+E. De Clercq, New nucleoside analogues for the treatment of hemorrhagic
+fever virus infections, Chem. Asian J. 14 (2019) 3962e3968, https://doi.org/
+10.1002/asia.201900841.
+Y. Chen, Q. Liu, D. Guo, Emerging coronaviruses: genome structure, replication, and pathogenesis, J. Med. Virol. 92 (2020) 418e423, https://doi.org/
+10.1002/jmv.25681.
+L. Chen, C. Gui, X. Luo, et al., Cinanserin is an inhibitor of the 3C-like
+
+[67]
+
+[68]
+
+[69]
+
+[70]
+
+[71]
+
+[72]
+[73]
+
+proteinase of severe acute respiratory syndrome coronavirus and strongly
+reduces virus replication in vitro, J. Virol. 79 (2005) 7095e7103, https://
+doi.org/10.1128/JVI.79.11.7095-7103.2005.
+S. Jo, S. Kim, D.H. Shin, et al., Inhibition of SARS-CoV 3CL protease by ﬂavonoids, J. Enzym. Inhib. Med. Chem. 35 (2020) 145e151, https://doi.org/
+10.1080/14756366.2019.1690480.
+J.Y. Park, H.J. Jeong, J.H. Kim, et al., Diarylheptanoids from Alnus japonica
+inhibit papain-like protease of severe acute respiratory syndrome coronavirus, Biol. Pharm. Bull. 35 (2012) 2036e2042, https://doi.org/10.1248/bpb.b1200623.
+J. Mair-Jenkins, M. Saavedra-Campos, J.K. Baillie, et al., The effectiveness of
+convalescent plasma and hyperimmune immunoglobulin for the treatment of
+severe acute respiratory infections of viral etiology: a systematic review and
+exploratory meta-analysis, J. Infect. Dis. 211 (2015) 80e90, https://doi.org/
+10.1093/infdis/jiu396.
+K.L. Koenig, Identify-Isolate-Inform: a modiﬁed tool for initial detection and
+management of Middle East Respiratory Syndrome patients in the emergency
+department, West. J. Emerg. Med. 16 (2015) 619e624, https://doi.org/
+10.5811/westjem.2015.7.27915.
+X. Tian, C. Li, A. Huang, et al., Potent binding of 2019 novel coronavirus spike
+protein by a SARS coronavirus-speciﬁc human monoclonal antibody, Emerg.
+Microb.
+Infect.
+9
+(2020)
+382e385,
+https://doi.org/10.1080/
+22221751.2020.1729069.
+L. Zhang, Y. Liu, Potential interventions for novel coronavirus in China: a
+systematic review, J. Med. Virol. (2020), https://doi.org/10.1002/jmv.25707.
+R.L. Graham, E.F. Donaldson, R.S. Baric, A decade after SARS: strategies for
+controlling emerging coronaviruses, Nat. Rev. Microbiol. 11 (2013) 836e848,
+https://doi.org/10.1038/nrmicro3143.
+
+end
