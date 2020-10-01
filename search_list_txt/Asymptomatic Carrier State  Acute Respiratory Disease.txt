@@ -1,12 +1,5 @@
 Journal of Microbiology, Immunology and Infection (2020) 53, 404e412
 
-Available online at www.sciencedirect.com
-
-ScienceDirect
-journal homepage: www.e-jmii.com
-
-Review Article
-
 Asymptomatic carrier state, acute
 respiratory disease, and pneumonia due to
 severe acute respiratory syndrome
@@ -14,73 +7,12 @@ coronavirus 2 (SARS-CoV-2): Facts and myths
 Chih-Cheng Lai a, Yen Hung Liu b, Cheng-Yi Wang b,
 Ya-Hui Wang c, Shun-Chung Hsueh d, Muh-Yen Yen e,f,
 Wen-Chien Ko g, Po-Ren Hsueh h,i,*
-a
-Department of Internal Medicine, Kaohsiung Veterans General Hospital, Tainan Branch, Tainan,
-Taiwan
-b
-Department of Internal Medicine, Cardinal Tien Hospital and School of Medicine, College of Medicine,
-Fu Jen Catholic University, New Taipei City, Taiwan
-c
-Medical Research Center, Cardinal Tien Hospital and School of Medicine, College of Medicine, Fu Jen
-Catholic University, New Taipei City, Taiwan
-d
-Department of Medicine, College of Medicine, Taipei Medical University, Taipei, Taiwan
-e
-Section of Infectious Diseases, Taipei City Hospital, Taipei, Taiwan
-f
-Department of Medicine, National Yang-Ming University School of Medicine, Taipei, Taiwan
-g
-Department of Medicine, College of Medicine, National Cheng Kung University, Tainan, Taiwan
-h
-Department of Laboratory Medicine, National Taiwan University Hospital, National Taiwan University
-College of Medicine, Taipei, Taiwan
-i
-Department of Internal Medicine, National Taiwan University Hospital, National Taiwan University
-College of Medicine, Taipei, Taiwan
 
-Received 25 February 2020; accepted 25 February 2020
+Keywords
+Coronavirus 2019-nCoV SARS-CoV-2 COVID-19 Asymptomatic carrier
 
-Available online 4 March 2020
-
-KEYWORDS
-Coronavirus;
-2019-nCoV;
-SARS-CoV-2;
-COVID-19;
-Asymptomatic
-carrier;
-
-Abstract Since the emergence of coronavirus disease 2019 (COVID-19) (formerly known as
-the 2019 novel coronavirus [2019-nCoV]) in Wuhan, China in December 2019, which is caused
-by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), more than 75,000 cases have
-been reported in 32 countries/regions, resulting in more than 2000 deaths worldwide. Despite
-the fact that most COVID-19 cases and mortalities were reported in China, the WHO has
-declared this outbreak as the sixth public health emergency of international concern. The
-COVID-19 can present as an asymptomatic carrier state, acute respiratory disease, and pneumonia. Adults represent the population with the highest infection rate; however, neonates,
-
-* Corresponding author. Departments of Laboratory Medicine and Internal Medicine, National Taiwan University Hospital, Number 7,
-Chung-Shan South Road, Taipei, 100, Taiwan.
-E-mail address: hsporen@ntu.edu.tw (P.-R. Hsueh).
-https://doi.org/10.1016/j.jmii.2020.02.012
-1684-1182/Copyright ª 2020, Taiwan Society of Microbiology. Published by Elsevier Taiwan LLC. This is an open access article under the CC
-BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
-
-Coronavirus 2 (SARS-CoV-2): facts and myths
-Acute respiratory
-disease;
-Wuhan pneumonia
-
-405
-
-children, and elderly patients can also be infected by SARS-CoV-2. In addition, nosocomial
-infection of hospitalized patients and healthcare workers, and viral transmission from asymptomatic carriers are possible. The most common finding on chest imaging among patients with
-pneumonia was ground-glass opacity with bilateral involvement. Severe cases are more likely
-to be older patients with underlying comorbidities compared to mild cases. Indeed, age and
-disease severity may be correlated with the outcomes of COVID-19. To date, effective treatment is lacking; however, clinical trials investigating the efficacy of several agents, including
-remdesivir and chloroquine, are underway in China. Currently, effective infection control
-intervention is the only way to prevent the spread of SARS-CoV-2.
-Copyright ª 2020, Taiwan Society of Microbiology. Published by Elsevier Taiwan LLC. This is an
-open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/bync-nd/4.0/).
+Abstract
+Since the emergence of coronavirus disease 2019 (COVID-19) (formerly known as the 2019 novel coronavirus [2019-nCoV]) in Wuhan, China in December 2019, which is caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), more than 75,000 cases have been reported in 32 countries/regions, resulting in more than 2000 deaths worldwide. Despite the fact that most COVID-19 cases and mortalities were reported in China, the WHO has declared this outbreak as the sixth public health emergency of international concern. The COVID-19 can present as an asymptomatic carrier state, acute respiratory disease, and pneumonia. Adults represent the population with the highest infection rate; however, neonates, children, and elderly patients can also be infected by SARS-CoV-2. In addition, nosocomial infection of hospitalized patients and healthcare workers, and viral transmission from asymptomatic carriers are possible. The most common finding on chest imaging among patients with pneumonia was ground-glass opacity with bilateral involvement. Severe cases are more likely to be older patients with underlying comorbidities compared to mild cases. Indeed, age and disease severity may be correlated with the outcomes of COVID-19. To date, effective treatment is lacking; however, clinical trials investigating the efficacy of several agents, including remdesivir and chloroquine, are underway in China. Currently, effective infection control intervention is the only way to prevent the spread of SARS-CoV-2.
 
 Introduction
 In December 2019, an outbreak of pneumonia due to unknown cause occurred in Wuhan, China and rapidly spread
@@ -108,6 +40,8 @@ treatment, remain uncertain. Therefore, herein, we performed a literature review
 characteristics and clinical manifestations of COVID-19,
 including asymptomatic carrier state, acute respiratory
 disease (ARD), and pneumonia.
+
+Main
 
 Severity of COVID-19
 COVID-19 was defined as the respiratory disease caused by
@@ -1019,7 +953,7 @@ use of effective anti-viral agents to reduce the viral load
 and decrease the risk of virus spread from asymptomatic
 carriers may help to control the spread of COVID-19.
 
-Conclusions
+Conclusion
 This review provides updated information about COVID-19.
 SARS-CoV-2 can affect patients of all ages. COVID-19 can
 present as asymptomatic carriage, ARD, and pneumonia.
@@ -1031,9 +965,6 @@ SARS-CoV-2 is lacking; however, two trials investigating the
 clinical efficacy of remdesivir are underway in China.
 Currently, effective infection control intervention is the
 only way to prevent the spread of SARS-CoV-2.
-
-Declaration of competing interest
-The author declares no conflict of interests.
 
 References
 1. WHO.
@@ -1249,4 +1180,4 @@ susceptible to COVID-19? J Microbiol Immunol Infect 2020 Feb
 patients. N Engl J Med 2020 Feb 19. https:
 //doi.org/10.1056/NEJMc2001737.
 
-
+End
