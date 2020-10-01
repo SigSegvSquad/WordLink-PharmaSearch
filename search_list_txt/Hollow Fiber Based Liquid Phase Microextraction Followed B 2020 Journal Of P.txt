@@ -24,9 +24,9 @@ School of Pharmacy, University of Oslo, Oslo, Norway
 b
 c
 
-a r t i c l e i n f o
+article info
 
-a b s t r a c t
+abstract
 
 Article history:
 Received 6 September 2019
@@ -2549,4 +2549,4 @@ S3840eS3847.
 for determination of heavy metals, J. Phys. Conf. Ser. (2013), 012023. IOP
 Publishing.
 
-
+end
