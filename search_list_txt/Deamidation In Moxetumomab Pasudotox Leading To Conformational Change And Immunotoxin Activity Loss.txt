@@ -15,7 +15,7 @@ Analytical Sciences, Biopharmaceutical Development, AstraZeneca, One MedImmune W
 
 a r t i c l e i n f o
 
-a b s t r a c t
+abstract
 
 Article history:
 Received 16 February 2020
@@ -592,5 +592,7 @@ indicates ADP ribosylation by ribosome mimicry. Nature. 2005;436(7053):979984.
 domain of Pseudomonas exotoxin A complexed with a nicotinamide adenine
 dinucleotide analog: implications for the activation process and for ADP
 ribosylation. Proc Natl Acad Sci U S A. 1996;93(14):6902-6906.
+
+end
 
 
