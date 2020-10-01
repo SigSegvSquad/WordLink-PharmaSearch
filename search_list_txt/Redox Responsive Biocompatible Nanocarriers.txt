@@ -18,11 +18,11 @@ Higher Health Vocational Technology School, Wuxi 214028, China
 c Wuxi Third Renmin Hospital, Wuxi 214041, China
 b Wuxi
 
-a r t i c l e
+article
 
-i n f o
+info
 
-a b s t r a c t
+abstract
 
 Article history:
 
