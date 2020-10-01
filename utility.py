@@ -1,6 +1,7 @@
 import os
 import json
 from glob import glob
+from operator import itemgetter
 from random import randint, choices
 
 
@@ -12,17 +13,17 @@ class Corpus:
         self.doc_list = [Document(f) for f in self.txt_list]
 
     def split_sections(self, key='all'):
-        return [file.document[key] for file in self.doc_list]
+        return {file.title: file.document[key] for file in self.doc_list}
 
     def split_sentences(self, key='all'):
-        return [file.split_sentences(key) for file in self.doc_list]
+        return {file.title: file.split_sentences(key) for file in self.doc_list}
 
     def split_words(self, key='all'):
-        return [file.split_words(key) for file in self.doc_list]
+        return {file.title: file.split_words(key) for file in self.doc_list}
 
     # use try-catch for this one, random.choices fucks up sometimes
     def generate_queries(self, key='all', num_docs=10, num_queries=1, method='random_phrases'):
-        return {i.title:(i.generate_queries(num_queries, method, key)) for i in choices(self.doc_list, k=num_docs)}
+        return {i.title: (i.generate_queries(num_queries, method, key)) for i in choices(self.doc_list, k=num_docs)}
 
 
 class Document:
@@ -119,7 +120,7 @@ class Document:
             for i in range(number):
                 try:
                     word_list = self.split_words(key)
-                    word_no = randint(1, 10)
+                    word_no = randint(3, 10)
                     start_pos = randint(1, len(word_list) - word_no)
                     queries.append(' '.join(word_list[start_pos: start_pos + word_no]))
                 except:
@@ -132,3 +133,44 @@ class Document:
             print('no such method, dumbass')
 
         return queries
+
+
+class SearchEngine:
+    """search_engine is an object with a method
+     search - that takes a query as input
+    and outputs a dictionary of possible titles listed
+    in order with probabilities"""
+
+    def __init__(self):
+        pass
+
+    def search(self, query):
+        return {}
+
+
+class Evaluator:
+    def __init__(self, corpus: Corpus, searchEngine: SearchEngine):
+        self.corpus = corpus
+        self.engine = searchEngine
+
+    def evaluate(self, key='all', num_queries=10, num_docs=10, method='top-N-results'):
+        results = 0
+        queries = self.corpus.generate_queries(key, num_docs, num_queries)
+        if method == 'top-N-results':
+            n = int(input("Input n: "))
+            i = 0
+            for document in queries.keys():
+                for query in queries[document]:
+                    i += 1
+                    title_dict = self.engine.search(query)
+                    consider = [i[0] for i in sorted(title_dict.items(), key=itemgetter(1), reverse=True)[0:n]]
+                    if document in consider:
+                        results += 1
+            return (results / (i))
+        elif method == 'softmax':
+            pass
+        elif method == 'entropy':
+            pass
+        else:
+            print('Enter Valid Method')
+            pass

@@ -1,15 +1,11 @@
-PHYTOCHEMICAL SCREENING AND EVALUATION OF ANALGESIC AND THROMBOLYTIC ACTIVITY OF THE CRUDE METHANOLIC EXTRACT OF CALAMUS ROTANG L. LEAVES (ARECACEAE)
+Abstract
+Medicinal plants abound with many phytochemicals that are effective in representing lots of pharmacological activities. The current study aimed at investigating the phytochemical and pharmaco-logical activity of crude methanol extract of Calamus rotang L. (CRME) leaves. The analgesic activity and thrombolytic activity were examined by the acetic acid-induced writhing method, while the clot lysis effect was evaluated by an in-vitro thrombolytic method. From this study, it is stated that the extract (400, 200 mg/kg) reduced abdominal writhing by 31.06% and 44.33% for 200 mg/kg and 400 mg/kg respectively while the standard showed 58.57% of inhibition and increased the pain reaction time in mice when compared to that of the negative control group in tail-immersion test. The extract presented 16.2 ± 1.75% of human blood clot lysis in the thrombolytic experiment. The presence of steroids, saponins, glycosides, cardenolides, flavonoids, carbohydrates, and reducing sugars might have an influence on the pharmacological activity of CRME.
 
-Syeda Rubaiya Afrin, Sarmistha Mitra, Bibi Humayra Khanam, Mohammad Rashedul Islam, Nawreen Monir Proma and Mohammed Kamrul Hossain *
-
-Department of Pharmacy, University of Chittagong, Chittagong - 4331, Bangladesh.
-
-ABSTRACT: Medicinal plants abound with many phytochemicals that are effective in representing lots of pharmacological activities. The current study aimed at investigating the phytochemical and pharmaco-logical activity of crude methanol extract of Calamus rotang L. (CRME) leaves. The analgesic activity and thrombolytic activity were examined by the acetic acid-induced writhing method, while the clot lysis effect was evaluated by an in-vitro thrombolytic method. From this study, it is stated that the extract (400, 200 mg/kg) reduced abdominal writhing by 31.06% and 44.33% for 200 mg/kg and 400 mg/kg respectively while the standard showed 58.57% of inhibition and increased the pain reaction time in mice when compared to that of the negative control group in tail-immersion test. The extract presented 16.2 ± 1.75% of human blood clot lysis in the thrombolytic experiment. The presence of steroids, saponins, glycosides, cardenolides, flavonoids, carbohydrates, and reducing sugars might have an influence on the pharmacological activity of CRME.
-
-Keywords:
+Keywords
 Calamus rotang L. leaves, phytochemical, anti-nociceptive, thrombolytic, Tail-immersion
 
-INTRODUCTION: Traditional medicines are very popular with a view to having an intense historical and cultural value in many developing countries 1. It has also gained popularity for its tremendous medicinal properties in the treatment and prevention of different types of diseases 2. A report published by WHO states that about 80% of the world’s population relies mainly on herbal medicine for their primary health care needs, and most of the traditional therapy uses the plant extracts and their active constituents due to their safety and effectiveness 3, 4.
+Introduction
+Traditional medicines are very popular with a view to having an intense historical and cultural value in many developing countries 1. It has also gained popularity for its tremendous medicinal properties in the treatment and prevention of different types of diseases 2. A report published by WHO states that about 80% of the world’s population relies mainly on herbal medicine for their primary health care needs, and most of the traditional therapy uses the plant extracts and their active constituents due to their safety and effectiveness 3, 4.
 
 The synthetic drugs that are used in the treatment of analgesia and thrombosis have different types of adverse effects, and some are costly 5. The plant-based drug discovery can avert this in an effective and safe manner. Calamus rotang L. (commonly known as bet) is a common growing shrub and medicinal plant in Bangladesh, belonging to the family Arecaceae 6. It is an evergreen climber and a native plant of south-west Asia 6.
 
@@ -19,7 +15,7 @@ The plant extracts also possess cooling, alexiteric, hypotensive, depurative, di
 
 Considering the traditional use of Calamus rotang, here we designed the study to assess the analgesic activity by an acetic acid-induced writhing method and tail-immersion method, thrombolytic activity by clot lysis method and evaluate the presence of phytochemical constituents.
 
-MATERIALS AND METHODS:
+Main
 
 Materials: Analytical and laboratory-grade (e.g., SIGMA, E. Merck or BDH) reagents like Mayer’s Reagent, Wagner’s reagent, Fehling’s solution, Copper sulfate, Sulfuric acid, Hydrochloric acid, Ferric chloride, Zinc dust, Chloroform, Pure naphthol, Lead acetate, Glacial acetic acid, etc. were used for phytochemical screening.
 
@@ -194,15 +190,15 @@ CRME was observed to manifest moderate central analgesic activity in comparison 
 
 In the current study of evaluation of the thrombolytic activity of CRME, with the comparison of the percentage of clot lysis of positive control (SK) to the negative control (DW), it was evident that the dissolution of the clot was negligible upon addition of DW. Significant (p<0.001) mild thrombolytic activity was exhibited by CRME (16.2 ± 1.75%) when compared to SK (63.3 ± 2.81%) and DW (4.08 ± 0.56%). Several types of researches have revealed that alkaloid 21, flavonoids 28 and cardiac glycoside 29 were effective against thrombosis and coronary artery diseases, the presence of which might have contributed to the slight thrombolytic activity of CRME.
 
-CONCLUSION: Natural product development for the treatment of different diseases is of utmost importance. CRME possessed moderate central and peripheral analgesic anxiolytic activity in a dose-dependent manner. It also exhibited mild thrombolytic and anthelmintic effects at higher concentrations. Further researches regarding the isolation of its active compounds must be considered to evaluate its activities in various medical treatments.
+Conclusion
+Natural product development for the treatment of different diseases is of utmost importance. CRME possessed moderate central and peripheral analgesic anxiolytic activity in a dose-dependent manner. It also exhibited mild thrombolytic and anthelmintic effects at higher concentrations. Further researches regarding the isolation of its active compounds must be considered to evaluate its activities in various medical treatments.
 
-ETHICS APPROVAL AND CONSENT TO PARTICIPATE: All authors hereby declare that “Principles of laboratory animal care” (NIH publication No. 85-23, revised 1985) were followed, as well as specific national laws where applicable. All experiments have been examined and approved by the ethical committee of the University of Chittagong, Bangladesh, under the approval no- cc98056.
-
-ACKNOWLEDGEMENT: The authors would like to thank Dr. Shaikh Bokhtear Uddin, Professor, Department of Botany, the University of Chittagong, for the identification of the plant. The authors would also like to thank all the teachers and staff of the Department of Pharmacy, the University of Chittagong, for their support.
+Acknowledgements
+The authors would like to thank Dr. Shaikh Bokhtear Uddin, Professor, Department of Botany, the University of Chittagong, for the identification of the plant. The authors would also like to thank all the teachers and staff of the Department of Pharmacy, the University of Chittagong, for their support.
 
 CONFLICTS OF INTEREST: The authors declare no conflict of interest.
 
-REFERENCES:
+REFERENCES
 
 Krishnaraju AV, Rao TV, Sundararaju D, Vanisree M, Tsay H-S and Subbaraju GV: Assessment of bioactivity of Indian medicinal plants using brine shrimp (Artemia salina) lethality assay. International Journal of Applied Sciences and Engineering 2005; 3(2): 125-34.
 Proma NM, Naima J, Islam MR, Papel JA, Rahman MM and Hossain MK: Phytochemical constituents and antidiabetic properties of Syzygium cumini seed. International Journal of Pharmaceutical Sciences and Research 2018; 9(5): 1806-14.
@@ -233,3 +229,5 @@ Montilla-García Á, Perazzoli G, Tejada MA, González-Cano R, Sánchez-Fernánd
 Maheshwari N, Kantipudi S, Maheshwari A, Arora K, Kwatra N and Sahni G: Amino-Terminal Fusion of Epidermal Growth Factor 4, 5, 6 Domains of Human Thrombomodulin on Streptokinase Confers Anti-Reocclusion Characteristics along with Plasmin-Mediated Clot Specificity. PLOS One 2016; 11(3): e0150315.
 Khatun A, Rahman M, Uddin KN, Ahsan K, Shimu SN, Kobra K, Shimu SA, Haque W, Rahman T, Jessy TH and Akhter F: Preliminary study on thrombolytic property of thirty six different extracts of eight Bangladeshi medicinal plants with folkloric relevance. Oriental Pharmacy and Experimental Medicine 2016; 16(4): 311-9.
 Mahmud S, Akhter S and Rahman M: Antithrombotic effects of five organic extracts of Bangladeshi plants in- vitro and mechanisms in in-silico Evidence-Based Complem and Altern Med 2015.
+
+End
