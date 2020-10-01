@@ -3,6 +3,8 @@ editorial
 Downloaded via pritesh pawar on September 2, 2020 at 04:05:02 (UTC).
 See https://pubs.acs.org/sharingguidelines for options on how to legitimately share published articles.
 
+Abstract 
+
 Molecular Pharmaceutics, a Vision for the Future
 The biomedical and pharmaceutical community is buzzing
 with excitement about the potential novel therapies resulting
@@ -85,8 +87,11 @@ Kyung-Dall Lee
 Associate Editor
 MP0400041
 
+references
+
 VOL. 1, NO. 3, 173 MOLECULAR PHARMACEUTICS
 
 173
 
+end
 
