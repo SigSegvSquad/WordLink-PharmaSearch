@@ -1,5 +1,3 @@
-[Downloaded free from http://www.rpsjournal.net on Thursday, September 3, 2020, IP: 117.212.240.236]
-
 Research in Pharmaceutical Sciences, August 2020; 15(4): 367-380
 Received: 29-10-2019
 Peer Reviewed: 17-02-2020
@@ -7,30 +5,8 @@ Revised: 28-04-2020
 Accepted: 20-08-2020
 Published: 28-08-2020
 
-School of Pharmacy & Pharmaceutical Sciences
-Isfahan University of Medical Sciences
-
-Original Article
-
-Anti-Toxoplasma gondii activity of 5-oxo-hexahydroquinoline
-derivatives: synthesis, in vitro and in vivo evaluations, and molecular
-docking analysis
-Mohammadsaeid Zahedi1, Qasem Asgari2, Fatemeh Badakhshan2, Amirhossein Sakhteman1,
-Sara Ranjbar3, and Mehdi Khoshneviszadeh1,4,*
-1
-
-Department of Medicinal Chemistry, School of Pharmacy, Shiraz University of Medical Sciences, Shiraz, I.R. Iran.
-Department of Parasitology and Mycology, School of Medicine, Shiraz University of Medical Sciences, Shiraz, I.R.
-Iran.
-3
-Pharmaceutical Sciences Research Center, Shiraz University of Medical Sciences, Shiraz, I.R. Iran.
-4
-Medicinal and Natural Products Chemistry Research Center, Shiraz University of Medical Sciences, Shiraz, I.R. Iran.
-2
-
 Abstract
-Background and purpose: The aim of this study was to evaluate the in vitro and in vivo anti-Toxoplasma
-gondii (T. gondii) effect of 5-oxo-hexahydroquinoline compounds. Moreover, molecular docking study of the
+Background and purpose: The aim of this study was to evaluate the in vitro and in vivo anti-Toxoplasma gondii (T. gondii) effect of 5-oxo-hexahydroquinoline compounds. Moreover, molecular docking study of the
 compounds into the active site of enoyl-acyl carrier protein reductase (ENR) as a necessary enzyme for the
 vitality of apicoplast was carried out.
 Experimental approach: A number of 5-oxo-hexahydoquinoline derivatives (Z1-Z4) were synthesized. The
@@ -52,30 +28,22 @@ agents as they demonstrated both in vitro and in vivo inhibitory effects on tach
 Further studies on altering the route of administration along with additional pharmacokinetics evaluations are
 needed to improve the anti-T. gondii impacts of 5-oxo-hexahydroquinoline compounds.
 
-Keywords: Flow cytometry; Molecular docking; 5-Oxo-hexahydroquinoline; Propidium iodide; Toxoplasma.
-INTRODUCTION
+Keywords
+Flow cytometry; Molecular docking; 5-Oxo-hexahydroquinoline; Propidium iodide; Toxoplasma
+
+Introduction
 Toxoplasma gondii (T. gondii) is an
 intracellular protozoan parasite which causes
 toxoplasmosis, a common zoonotic infection in
 humans and animals (1). The estimation
 indicates that disease prevalence rate in humans
 is one-third of the world population people who
-*Corresponding author: M. Khoshneviszadeh
-Tel: +98-7112332225, Fax: +98-7112424128
-Email: khoshnevizm@sums.ac.ir
+
 
 have been chronically infected. The parasite
 engenders severe medical complications
 in the fetus and also immunocompromised
 people (2, 3).
-Access this article online
-Website: http://rps.mui.ac.ir
-DOI: 10.4103/1735-5362.293515
-
-[Downloaded free from http://www.rpsjournal.net on Thursday, September 3, 2020, IP: 117.212.240.236]
-
-Zahedi et al. / RPS 2020; 15(4): 367-380
-
 Moreover, despite of the relatively low rate of
 toxoplasmosis outbreak in immunocompetent
 ones, some studies report severe toxoplasmosis
@@ -172,12 +140,6 @@ pyridin2-ylmethyl
 2-methyl
 -5-oxo-4-(3,4,5trimethoxyphenyl) -1,4,5,6,7,8-hexahydroquinoline-3carboxylate (Z4).
 
-368
-
-[Downloaded free from http://www.rpsjournal.net on Thursday, September 3, 2020, IP: 117.212.240.236]
-
-Anti-Toxoplasma gondii activity of 5-oxohexahydroquinolines
-
 Alternatively,
 5-oxo-hexahydroquinoline
 derivatives were obtained by the reaction
@@ -199,9 +161,7 @@ products were classified and confirmed by
 IR, 1H NMR, mass spectrometry (MS), and
 elemental analysis. Chemical structures and
 physical properties of the synthesized
-compounds are shown in Table 1.
-
-MATERIALS AND METHODS
+compounds are shown in Table 1
 Chemicals
 Analytical degree chemicals and solvents
 were used in this experiment. Pyridine-2-ylmethanol, pyridine-3-yl-methanol, pyridine-3ylpropanol,
@@ -250,108 +210,6 @@ derivatives (Z1-Z4)
 Oxobutanoates (2a, 2b, and 2c) were
 synthesized by reacting pyridin-3-ylmethanol
 (1a), pyridin-2-ylmethanol (1b) or pyridin-3ylpropanol (1c) with 2, 2, 6-trimethyl-4H-1, 3dioxin-4-one in high yields as shown in Fig. 2.
-
-Fig. 2. Synthetic approaches of compounds Z1-Z4.
-
-369
-
-[Downloaded free from http://www.rpsjournal.net on Thursday, September 3, 2020, IP: 117.212.240.236]
-
-Zahedi et al. / RPS 2020; 15(4): 367-380
-
-Table 1. Structures and drug likeness scores of synthesized compounds.
-
-Code
-
-R1
-
-Z1
-
-R2
-
-Yield (%)
-
-Log P
-
-HBA
-
-HBD
-
-TPSA
-
-nRB
-
-MW
-
-3-methylpyridine
-
-43
-
-2.048
-
-5
-
-1
-
-67.76
-
-6
-
-453
-
-Z2
-
-3-methylpyridine
-
-24
-
-1.214
-
-6
-
-2
-
-87.99
-
-5
-
-390
-
-Z3
-
-2-methylpyridine
-
-68
-
-2.173
-
-8
-
-1
-
-95.45
-
-8
-
-464
-
-Z4
-
-3-propylpyridine
-
-48
-
-2.051
-
-6
-
-1
-
-64.98
-
-6
-
-432
 
 LogP, Logarithm of partition coefficient between n-octanol and water; HBA, number of hydrogen bond acceptors;
 HBD, number of hydrogen bond donors; TPSA, topological polar surface area; nRB, number of rotatable bonds; MW,
@@ -404,10 +262,6 @@ the control and various concentrations (1-64
 μg/mL) of 5-oxo-hexahydroquinolines for 2 h
 370
 
-[Downloaded free from http://www.rpsjournal.net on Thursday, September 3, 2020, IP: 117.212.240.236]
-
-Anti-Toxoplasma gondii activity of 5-oxohexahydroquinolines
-
 selected for chemotherapy in mice. Toxicity
 assessment of compounds Z3 and Z4 was
 performed in the 6th group of mice; the
@@ -436,7 +290,7 @@ were clustered and ranked by the energy. The
 conformation with the best-scored pose and the
 lowest binding energy was selected. The
 docking results were depicted using
-ChemOffice® software.
+ChemOffice software.
 
 Molecular docking analysis
 The 3D structures of the synthesized
@@ -487,36 +341,10 @@ way ANOVA test as appropriate. Intergroup
 comparisons were undertaken using Tukey’s
 posthoc test, after log transformation for nonparametrically distributed variables. 𝑃 ≤ 0.05
 was contemplated statistically significant.
-RESULTS
-Synthesis
-of
-5-oxo-hexahydroquinoline
-derivatives
-The designed compounds were synthesized
-through conventional synthetic procedures and
-characterized by different methods.
-Pyridin-3-yl methyl 4-(4-bromophenyl)-2methyl-5-oxo-1,4,5,6,7,8-hexahydroquinoline3-carboxylate (Z1)
-Recrystallized
-from
-ethanol;
-pale
-1
-yellow crystals; M.P: 233 °C. H NMR
-(DMSO-d6, 300 MHz) δH (ppm): 1.72-1.91
-(m,
-2H,
-cyclohexenone),
-2.14-2.21
-(m, 2H, cyclohexenone), 2.30 (s, 3H,
-dihexadecylphosphate (DHP)-CH3), 2.44-2.50
-(m, 2H, cyclohexenone overlapped with
-DMSO), 4.87 (s, 1H, DHP-C4-H), 5.02 and 5.10
-(AB system, 2H, JAB = 12.6 Hz, COOCH2),
-7.05 (d, 2H, J = 8.4 Hz, phenyl-H-2, 6), 7.29371
 
-[Downloaded free from http://www.rpsjournal.net on Thursday, September 3, 2020, IP: 117.212.240.236]
+Conclusion
+Synthesis of 5-oxo-hexahydroquinoline derivatives The designed compounds were synthesized through conventional synthetic procedures and characterized by different methods. Pyridin-3-yl methyl 4-(4-bromophenyl)-2methyl-5-oxo-1,4,5,6,7,8-hexahydroquinoline3-carboxylate (Z1) Recrystallized from ethanol; pale 1 yellow crystals; M.P: 233 °C. H NMR (DMSO-d6, 300 MHz) δH (ppm): 1.72-1.91 (m, 2H, cyclohexenone), 2.14-2.21 (m, 2H, cyclohexenone), 2.30 (s, 3H, dihexadecylphosphate (DHP)-CH3), 2.44-2.50 (m, 2H, cyclohexenone overlapped with DMSO), 4.87 (s, 1H, DHP-C4-H), 5.02 and 5.10 (AB system, 2H, JAB = 12.6 Hz, COOCH2), 7.05 (d, 2H, J = 8.4 Hz, phenyl-H-2, 6), 7.29371
 
-Zahedi et al. / RPS 2020; 15(4): 367-380
 
 7.35 (m, 3H, pyridine-H-5 and phenyl-H-3, 5),
 7.53 (dt, 1H, J = 7.8, 1.8 Hz, pyridine-H-4),
@@ -606,14 +434,6 @@ cyclohexenone and COOCH2CH2CH2), 2.072.10 (m, 2H, cyclohexanone), 2.27 (s, 3H,
 DHP-CH3), 2.36-2.43 (m, 4H, cyclohexenone,
 372
 
-[Downloaded free from http://www.rpsjournal.net on Thursday, September 3, 2020, IP: 117.212.240.236]
-
-Anti-Toxoplasma gondii activity of 5-oxohexahydroquinolines
-
-373
-
-[Downloaded free from http://www.rpsjournal.net on Thursday, September 3, 2020, IP: 117.212.240.236]
-
 Zahedi et al. / RPS 2020; 15(4): 367-380
 
 Fig. 3. Flow cytometry analysis of Toxoplasma gondii tachyzoites exposed to different concentrations of Z1, Z2, Z3, Z4,
@@ -627,10 +447,6 @@ T. gondii exposed to DMSO, saponin as a
 positive control, and various doses of Z1-Z4 are
 shown in Table 2. The percentages of mortality
 374
-
-[Downloaded free from http://www.rpsjournal.net on Thursday, September 3, 2020, IP: 117.212.240.236]
-
-Anti-Toxoplasma gondii activity of 5-oxohexahydroquinolines
 
 64 μg/mL). Results revealed that after about
 10 days all the mice died and the mean
@@ -660,66 +476,10 @@ Table 2. The mortality (%) of Toxoplasma gondii tachyzoites after 1.5 h exposure
 was considered as the negative control.
 Concentrations
 (μg/mL)
-0
-1
-2
-4
-8
-16
-32
-64
-
 Compounds
-Z1
-0.41
-20.06
-21.48
-13.27
-26.46
-33.52
-38.86
-35.21
--
-
-Z2
-0.41
-20.30
-21.49
-14.22
-24.51
-26.92
-38.20
-42.43
--
-
-Z3
-0.41
-77.94
-73.03
-72.14
-63.70
-64.94
-74.56
-78.03
--
-
 Controls
-Z4
-0.41
-76.68
-75.59
-85.47
-85.77
-83.93
-90.28
-90.57
--
-
 DMSO
-16.32
-
 Saponin
-96.69
 
 Fig. 4. The mean of longevity (days) of mice groups inoculated by Toxoplasma gondii tachyzoites exposed to three
 different concentrations of compounds Z3 and Z4 (µg/mL). *P ≤ 0.05 indicates significant differences compared to the
@@ -737,9 +497,6 @@ synthesized 5-oxo-hexahydroquinolines into
 ENR enzyme active site. Docking results are
 375
 
-[Downloaded free from http://www.rpsjournal.net on Thursday, September 3, 2020, IP: 117.212.240.236]
-
-Zahedi et al. / RPS 2020; 15(4): 367-380
 
 Table 3. Docking results of 5-oxo-hexahydroquinoline derivatives into the Toxoplasma gondii Enoyl- acyl carrier
 protein Reductase enzyme binding site.
@@ -796,13 +553,7 @@ Tyr189
 Fig 5. Representation of the co-crystallized inhibitor (blue) docked into the binding site and superimposed on cocrystallized inhibitor (red) in the crystal structure of T. gondii Enoyl-ACP Reductase (PDB ID: 2O2S).
 
 Fig. 6. Docking model of compound Z4 in the Toxoplasma gondii enoyl-acyl carrier protein Reductase enzyme active
-site (PDB ID: 2O2S).
-
-376
-
-[Downloaded free from http://www.rpsjournal.net on Thursday, September 3, 2020, IP: 117.212.240.236]
-
-Anti-Toxoplasma gondii activity of 5-oxohexahydroquinolines
+site (PDB ID: 2O2S)
 
 Endochin-like quinolone structure was also
 previously surveyed for its potential use in
@@ -877,7 +628,7 @@ interaction could be seen between NH of the
 hexahydroquinolinone ring and Ala129. It
 seems that the residue Ala129 played a crucial
 role in making stable ligand-protein complexes.
-DISCUSSION
+Discussion
 5-Oxo-hexahydroquinoline
 compounds
 synthesis and evaluation were done to assess
@@ -888,8 +639,7 @@ compound Z3 (baering 2-pyridyl methyl
 carboxylate and 3,4,5-trimethoxyphenyl at
 C3 and C4) and Z4 (containing 23-pyridyl propyl
 carboxylate and 4-methoxyphenyl moiety at
-C3 and C4) are potential substances to exert antiT. gondii effects. Treating toxoplasmosis has
-some difficulties, such as adverse effects of
+C3 and C4) are potential substances to exert antiT. gondii effects. Treating toxoplasmosis has some difficulties, such as adverse effects of
 currently available drugs, which could be
 resolved by looking for novel compounds with
 new effective mechanisms. One other major
@@ -906,11 +656,6 @@ that 1-hydroxyquinolones inhibited the growth of
 T. gondii by means of pyrimidine starvation
 associated with the ATP depletion in
 dihydroorotate dehydrogenase pathway (29).
-377
-
-[Downloaded free from http://www.rpsjournal.net on Thursday, September 3, 2020, IP: 117.212.240.236]
-
-Zahedi et al. / RPS 2020; 15(4): 367-380
 
 4-Aminoquinoline and 8-aminoquinoline
 derivatives such as tafenoquine were safer than
@@ -1021,10 +766,48 @@ compounds may exert their anti-T. gondii activity
 through the inhibition of the ENR enzyme.
 378
 
-[Downloaded free from http://www.rpsjournal.net on Thursday, September 3, 2020, IP: 117.212.240.236]
 
-Anti-Toxoplasma gondii activity of 5-oxohexahydroquinolines
 
+CONCLUSION
+5-Oxo-hexahydroquinoline derivatives have
+been synthesized and evaluated for their anti-T.
+gondii activities. In conclusion, 5-oxohexahydroquinoline seems to be an attractive
+scaffold in this field and provides the context of
+further research for lead optimization and drug
+discovery. Compounds Z3 (baering 2-pyridyl
+methyl carboxylate and 3,4,5-trimethoxyphenyl
+at C3 and C4) and Z4 (containing 23-pyridyl
+propyl carboxylate and 4-methoxyphenyl moiety
+at C3 and C4) are good leads in order to develop
+better anti-T. gondii agents as they demonstrated
+both in vitro and in vivo inhibitory effects on
+tachyzoites viability and infection.
+
+ACKNOWLEDGMENTS
+This project was retrieved from Pharm. D.
+thesis of Mohammadsaeid Zahedi, which was
+financially supported (Grant No. 95-01-0513026) by the Vice-Chancellor of Research and
+Technology of Shiraz University of Medical
+
+REFERENCES
+1. Dunay IR, Gajurel K, Dhakal R, Liesenfeld O,
+Montoya JG. Treatment of toxoplasmosis: historical
+perspective, animal models, and current clinical practice.
+Clin Microbiol Rev. 2018;31(4):e00057-17,1-33.
+DOI: 10.1128/CMR.00057-17.
+2. Hoffmann S, Batz MB, Morris JG. Annual cost of
+illness and quality-adjusted life year losses in the United
+States due to 14 foodborne pathogens. J Food Prot.
+2012;75(7):1292-1302.
+DOI: 10.4315/0362-028X.JFP-11-417.
+3. Weiss LM, Dubey JP. Toxoplasmosis: A history of
+clinical observations. . Int J Parasitol. 2009;39(8):895-901.
+DOI: 10.1016/j.ijpara.2009.02.004.
+4. Carme B, Demar M, Ajzenberg D, Dardé ML. Severe
+acquired toxoplasmosis caused by wild cycle of
+Toxoplasma gondii, French Guiana. Emerg Infect Dis.
+2009;15(4):656-658.
+DOI: 10.3201/eid1504.081306.
 5. Khan A, Ajzenberg D, Mercier A, Demar M, Simon
 S, Darde ML, et al. Geographic separation of domestic
 and wild strains of Toxoplasma gondii in French Guiana
@@ -1093,59 +876,6 @@ analysis. MedChemComm. 2017;8:1919-33.
 DOI: 10.1039/C7MD00178A
 16. Kadri D, Crater AK, Lee H, Solomon VR,
 Ananvoranich S. The potential of quinoline derivatives
-
-CONCLUSION
-5-Oxo-hexahydroquinoline derivatives have
-been synthesized and evaluated for their anti-T.
-gondii activities. In conclusion, 5-oxohexahydroquinoline seems to be an attractive
-scaffold in this field and provides the context of
-further research for lead optimization and drug
-discovery. Compounds Z3 (baering 2-pyridyl
-methyl carboxylate and 3,4,5-trimethoxyphenyl
-at C3 and C4) and Z4 (containing 23-pyridyl
-propyl carboxylate and 4-methoxyphenyl moiety
-at C3 and C4) are good leads in order to develop
-better anti-T. gondii agents as they demonstrated
-both in vitro and in vivo inhibitory effects on
-tachyzoites viability and infection.
-
-ACKNOWLEDGMENTS
-This project was retrieved from Pharm. D.
-thesis of Mohammadsaeid Zahedi, which was
-financially supported (Grant No. 95-01-0513026) by the Vice-Chancellor of Research and
-Technology of Shiraz University of Medical
-Sciences, Shiraz, I.R. Iran.
-CONFLICTS OF INTEREST STATMENT
-All authors declare no conflict of interest in
-this study.
-AUTHORS’ CONTRIBUTION
-All authors contributed equally to this study.
-REFERENCES
-1. Dunay IR, Gajurel K, Dhakal R, Liesenfeld O,
-Montoya JG. Treatment of toxoplasmosis: historical
-perspective, animal models, and current clinical practice.
-Clin Microbiol Rev. 2018;31(4):e00057-17,1-33.
-DOI: 10.1128/CMR.00057-17.
-2. Hoffmann S, Batz MB, Morris JG. Annual cost of
-illness and quality-adjusted life year losses in the United
-States due to 14 foodborne pathogens. J Food Prot.
-2012;75(7):1292-1302.
-DOI: 10.4315/0362-028X.JFP-11-417.
-3. Weiss LM, Dubey JP. Toxoplasmosis: A history of
-clinical observations. . Int J Parasitol. 2009;39(8):895-901.
-DOI: 10.1016/j.ijpara.2009.02.004.
-4. Carme B, Demar M, Ajzenberg D, Dardé ML. Severe
-acquired toxoplasmosis caused by wild cycle of
-Toxoplasma gondii, French Guiana. Emerg Infect Dis.
-2009;15(4):656-658.
-DOI: 10.3201/eid1504.081306.
-
-379
-
-[Downloaded free from http://www.rpsjournal.net on Thursday, September 3, 2020, IP: 117.212.240.236]
-
-Zahedi et al. / RPS 2020; 15(4): 367-380
-
 free
 energy
 function.
@@ -1195,9 +925,6 @@ DOI: 10.1073/pnas.1109208108.
 lipids: implications for the development of fatty acid
 synthesis
 therapeutics.
-J
-J
-Biol
 Chem.
 2015;290(10):5940-5946.
 DOI: 10.1074/jbc.R114.636241.
@@ -1278,6 +1005,4 @@ DOI: 10.1002/jcc.21334.
 WE, Belew RK, et al. Automated docking using a
 Lamarckian genetic algorithm and an empirical binding
 
-380
-
-
+End

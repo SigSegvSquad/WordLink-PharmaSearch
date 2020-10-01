@@ -1,84 +1,18 @@
 Asian Journal of Pharmaceutical Sciences 15 (2020) 356–364
-
-Available online at www.sciencedirect.com
-
-journal homepage: www.elsevier.com/locate/AJPS
-
-Original Research Paper
-
 Assembling structurally customizable synthetic
 carriers of siRNA through thermodynamically
 self-regulated process
 Guang Bai, Tong Xue, Xiaotao Dong, Uday Kumar Chinta, Jia Feng, Tuo Jin∗, Fei Wu∗
 School of Pharmacy, Shanghai Jiao Tong University, Shanghai 200240, China
 
-a r t i c l e
+Abstract
 
-i n f o
+This study demonstrates that our previously reported polywraplex, a synthetic siRNA carrier consisting of a uni-molecular polyplex core of customizable size and a self-assembled tri-block copolymer envelop, may be constructed using dendrimers as the crosslinking junctions. Replacing the branched low molecular weight PEI with polyamidoamine (PAMAM) dendrimer in the zeta potential regulated polymerization resulted in the similar network structured cationic polymer with electron microscopically visible crosslinking
 
-a b s t r a c t
-
-Article history:
-
-This study demonstrates that our previously reported polywraplex, a synthetic siRNA carrier
-
-Received 31 October 2018
-
-consisting of a uni-molecular polyplex core of customizable size and a self-assembled tri-
-
-Revised 20 February 2019
-
-block copolymer envelop, may be constructed using dendrimers as the crosslinking
-
-Accepted 13 April 2019
-
-junctions. Replacing the branched low molecular weight PEI with polyamidoamine
-
-Available online 23 July 2019
-
-(PAMAM) dendrimer in the zeta potential regulated polymerization resulted in the similar
-network structured cationic polymer with electron microscopically visible crosslinking
-
-Keywords:
-
-junctions. This visibility may offer a convenient way to characterize the molecular structure
-
-Networked cationic polymer
-
-of the rationally designed networked siRNA-packing cationic polymer without altering its
-
-Thermodynamically self-regulated
-
-chemical properties and biologic functions. A series of physical-chemical characterizations
-
-processes
-
-and biological assays, comprising size, zeta potential, pre-phagocytic siRNA leaking and
-
-siRNA delivery
-
-degradation, and silencing of functional genes, confirmed that the advanced properties of
-
-Unimolecular polyplex
-
-polywraplexes remained with the dendrimer junctions. Although sixth generation PAMAM
-
-Zeta potential regulated
-
-dendrimer was used as the crosslinking junctions in the size-customizable polymerization
-
-polymerization
-
-for electron microscopic observation, lower generation dendrimer should also work in case
-more practical and structurally defined cationic polymer is needed.
-© 2019 Published by Elsevier B.V. on behalf of Shenyang Pharmaceutical University.
-This is an open access article under the CC BY-NC-ND license.
-(http://creativecommons.org/licenses/by-nc-nd/4.0/)
-
-1.
+Keywords
+Networked cationic polymer Thermodynamically self-regulated processes siRNA delivery Unimolecular polyplex Zeta potential regulated polymerization
 
 Introduction
-
 While the ability of nucleic acids to express, silence, edit and
 regulate genes enable them to be powerful therapeutic agents
 in potential, the lack of safe and efficient carrier systems to
@@ -94,16 +28,6 @@ polymer particles, were assembled rather randomly with
 arbitrary amounts of functional components immobilized
 [6–10]. Mesoporous silica nanoparticles with a variety of
 modified inner surface and dendritic cationic polymer
-
-Corresponding authors. School of Pharmacy, Shanghai Jiao Tong University, Shanghai 200240, China. Tel.: +86 21 34204695.
-E-mail addresses: tjin@sjtu.edu.cn (T. Jin), feiwu@sjtu.edu.cn (F. Wu).
-Peer review under responsibility of Shenyang Pharmaceutical University.
-
-https://doi.org/10.1016/j.ajps.2019.04.008
-1818-0876/© 2019 Published by Elsevier B.V. on behalf of Shenyang Pharmaceutical University. This is an open access article under the
-CC BY-NC-ND license. (http://creativecommons.org/licenses/by-nc-nd/4.0/)
-
-Asian Journal of Pharmaceutical Sciences 15 (2020) 356–364
 
 represent alternative synthetic carrier systems of semidefined structure [11–12]. Although the nano-architectures
 of DNA or RNA may be constructed precisely through the
@@ -366,10 +290,6 @@ was measured by calculating the density of blood capillaries.
 The capillaries of tumor slides of each group were stained
 with rabbit anti-CD 31 antibodies.
 
-Asian Journal of Pharmaceutical Sciences 15 (2020) 356–364
-
-359
-
 Fig. 1 – Schematic diagram of the process of uni-molecular polyplex formulation, and the subsequent utilization as a core to
 obtain assembled polywraplex encapsulated by triblock copolymers.
 
@@ -381,9 +301,7 @@ The data of each group collected were analyzed by two-way
 t-test, using OriginPro 2017 software. The value of ∗∗ P < 0.01,
 ∗∗∗ P < 0.001 was considered as statistically significance (Fig. 1).
 
-3.
-
-Results and discussion
+Results
 
 3.1.
 Synthesis of network cationic polymer through
@@ -411,9 +329,6 @@ be detected accurately using the molecular weight analysis
 method, size-exclusion chromatography. The H-NMR of the
 network cationic polymer (DMSO-d6, ppm): 8.45-8.38 (m,
 
-360
-
-Asian Journal of Pharmaceutical Sciences 15 (2020) 356–364
 
 Fig. 2 – The structure characterization of the networked cationic polymer, polyplex and polywraplex. (A) 1H-NMR of
 networked cationic polymer; (B) Image of agarose electrophoresis of polyplex in a series of the mass ratio of
@@ -500,10 +415,6 @@ The intracellular uptake efficiency of the polyplexes and
 polywraplexes in U87MG cells was measured using flow
 cytometry. As shown in Fig. 4B, the uptake efficiency of
 
-Asian Journal of Pharmaceutical Sciences 15 (2020) 356–364
-
-361
-
 Fig. 3 – (A) TEM image present the deep color parts were the networked structure of the cationic polymer, and light parts
 were many hollow among the polymer. The black spots in the TEM were (B) polyplex (wcationic polymer /wsiRNA = 7/1) and (C)
 polywraplex (wtriblock copolymer /wcationic polymer = 12/1) which were polyplex encapsulated by triblock copolymer.
@@ -558,10 +469,6 @@ cationic polymer was higher than PEI 25 K in U87MG cells
 in concentration from 20 to 300 μg/ml. The differentiation of
 cytotoxicity of two polymers may be due to the components
 of the cationic polymer which was linked with pH-sensitive
-
-362
-
-Asian Journal of Pharmaceutical Sciences 15 (2020) 356–364
 
 Fig. 5 – (A) viability of U87MG cells treated with the networked cationic polymer; (B) gene knockdown efficiency of polyplex
 in FBS free DMEM medium (contained siRNA was 1 μg/well); (C) gene knockdown efficiency of polywraplex in DMEM
@@ -640,10 +547,6 @@ in Fig. 7B. The results are more remarkable than the order of
 tumor weight experiment shown in Fig. 6C. Anti-VEGFA siRNA
 directly inhibits tumor angiogenesis, consequently, lead to
 
-Asian Journal of Pharmaceutical Sciences 15 (2020) 356–364
-
-363
-
 Fig. 6 – Results of Anti-tumor effect of U87MG tumor-bearing nude mice in vivo (Injection dosage of each mouse was
 0.5 mg/Kg/time). (A) Growth volume curves of xenograft tumor; (B) Body weight and survival curves of mice; (C) Relative
 tumor weight data and (D) photos of U87 MG tumors of each group: (a) saline, (b) naked siRNA, (c) polyplex, (d) polywraplex.
@@ -656,11 +559,6 @@ a decrease of tumor weight and volume, which induced the
 differentiation between capillary density and tumor weight
 experiment.
 
-4.
-
-Conflict of interest
-The authors report no conflicts of interest. The authors alone
-are responsible for the content and writing of this article.
 
 Conclusion
 
@@ -694,13 +592,6 @@ grant of the Natural Science Foundation of China (Grant nos.
 help from the faculties of the Analytical Center of Shanghai
 Jiao Tong University.
 
-Supplementary materials
-Supplementary material associated with this article can be
-found, in the online version, at doi:10.1016/j.ajps.2019.04.008.
-
-364
-
-Asian Journal of Pharmaceutical Sciences 15 (2020) 356–364
 
 references
 
@@ -768,4 +659,4 @@ Funct Mater 2015;25(27):4352–63.
 vascular permeability and the EPR effect in macromolecular
 therapeutics: a review. J Control Rel 2000;65(1–2):271–84.
 
-
+End
