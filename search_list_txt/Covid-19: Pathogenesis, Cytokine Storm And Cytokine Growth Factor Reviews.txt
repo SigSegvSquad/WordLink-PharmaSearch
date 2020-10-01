@@ -1,17 +1,8 @@
 Cytokine and Growth Factor Reviews 53 (2020) 66–70
-
 Contents lists available at ScienceDirect
-
 Cytokine and Growth Factor Reviews
 journal homepage: www.elsevier.com/locate/cytogfr
-
 COVID-19: Pathogenesis, cytokine storm and therapeutic potential of interferons
-
-T
-
-ARTICLE INFO
-
-ABSTRACT
 
 Keywords:
 Interferons
@@ -20,10 +11,13 @@ Coronavirus
 COVID-19
 SARS-CoV-2
 
+Abstract
 The outbreak of the novel SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) responsible for coronavirus disease 2019 (COVID-19) has developed into an unprecedented global pandemic. Clinical investigations in patients with COVID-19 has shown a strong upregulation of cytokine and interferon production in SARSCoV2- induced pneumonia, with an associated cytokine storm syndrome. Thus, the identification of existing
 approved therapies with proven safety profiles to treat hyperinflammation is a critical unmet need in order to
 reduce COVI-19 associated mortality. To date, no specific therapeutic drugs or vaccines are available to treat
 COVID-19 patients. This review evaluates several options that have been proposed to control SARS-CoV2 hyperinflammation and cytokine storm, eincluding antiviral drugs, vaccines, small-molecules, monoclonal antibodies, oligonucleotides, peptides, and interferons (IFNs).
+
+Main
 
 1. Covid-19 pathogenesis
 COVID-19, caused by the SARS-CoV2 virus, is a potentially fatal
@@ -55,13 +49,7 @@ MCP1, MIP1α, MIP1β, PDGFB, TNFα, and VEGFA [6]. The ensuing
 cytokine storm triggers a violent inflammatory immune response that
 contributes to ARDS, multiple organ failure, and finally death in severe
 cases of SARS-CoV-2 infection, similar to SARS-CoV and MERS-CoV
-infections [5]. Patients infected with COVID-19 showed higher leukocyte numbers, abnormal respiratory findings, and increased levels of
-https://doi.org/10.1016/j.cytogfr.2020.05.002
-Received 11 April 2020
-Available online 07 May 2020
-1359-6101/ © 2020 Elsevier Ltd. All rights reserved.
-
-plasma pro-inflammatory cytokines [4] (Fig. 2) [7]. The direct cause of
+infections [5]. Patients infected with COVID-19 showed higher leukocyte numbers, abnormal respiratory findings, and increased levels ofplasma pro-inflammatory cytokines [4] (Fig. 2) [7]. The direct cause of
 death from acute COVID-19 involves cytokine storm damage to lungs
 and multiple organs of the body: heart, kidney and liver, leading to
 multiple organexhaustion [8,9,11,12].
@@ -127,111 +115,6 @@ Targeted virions infection
 Target virion mechanism
 
 References
-
-Thalidomide and Glucocorticoids
-
-SARS-CoV-2
-
-[30]
-
-Remdesivir and IFNa2
-Chloroquine and Hydroxychloroquine
-
-SARS-CoV-2
-SARS-CoV-2
-
-Lopinavir and Ritonavir
-
-HIV, MERS-CoV and SARS-CoV2
-SARS-CoV-2
-MERS-CoV and SARS-CoV-2
-SARS-CoV-2, SARS-CoV and
-MERS-CoV
-SARS-CoV-2
-SARS-CoV-2
-SARS-CoV-2
-SARS-CoV-2
-SARS-CoV-2
-
-Regulate immunity, inhibit the inflammatory
-cytokine surg
-Improves pulmonary function and reduces lung viral loads
-attenuation of cytokine production and inhibition of autophagy - shown recently to be
-ineffective in clinical studies
-Protease inhibitor, inhibits 3CLpro
-Targetiviral protease
-Slightly reduced viral load and improved pulmonary function
-Inhibited virus entry to the target cells, suppressed viraemia by anti-SARS-CoV2
-antibody
-Viral load reduction through inhibition of replication
-Inhibitor of the host cell serine protease and angiotensin receptor blockers
-Viral load reduction through inhibition of replication
-Lowered the risk of acute respiratory distress syndrome (ARDS) and death
-Adjuvant therapy in Covid-19
-
-[32]
-[20]
-[13]
-
-Lopinavir, oseltamivir and ritonavir
-Lopinavir, ritonavir, and interferon beta
-Convalescent plasma
-Hydroxychloroquine and Azithromycin
-Camostat mesilate Hydroxychloroquine
-Darunavir and Umifenovir
-Ribavirin and Interferon-α
-Hydroxychloroquine and Nitazoxanide
-
-compound against Ebola virus, Remdesivir acts by inhibiting the viral
-RNA dependent RNA polymerase. However, it is difficult to imagine
-how the direct antiviral properties of Remdesivir could be potently
-active during the immunopathogenic ARDS phase of COVID-19 disease,
-suggesting that other off-target effects may be attributed to the drug.
-Further studies, particularly amongst patient populations at earlier
-stages of the disease, are warranted to resolve these issues.
-A number of drugs and combinational therapies have been identified using previously approved drugs that targett clathrin-mediated
-endocytosis, viral protease, regulate immunity, inhibit the inflammatory cytokine surge, improve pulmonary function and reduce
-lung viral loads (Table 1). At present, treatment of COVID-19 cytokine
-storm focuses primarily on support and symptomatic treatment of inflammation, cytokine storm and compromised respiratory function
-[28]. Recently, a number of specific anti-cytokine approaches have
-proven effective in the treatment of a variety of cytokine storm syndromes, and include drugs targeting interleukin-1 (IL-1), IL-6, IL-18,
-and interferon-gamma [29]. While randomized trials will be needed to
-confirm which, if any, of these therapeutics are effective in Covid-19infected patients with cytokine storm syndrome, IL-6 blockade using
-anti-IL6 antibody has recently been reported, with successful outcomes
-in some individuals [10]. While working to prevent future outbreaks of
-
-[13]
-[31]
-[13]
-
-[33]
-[34]
-[35]
-[36]
-[37]
-
-coronavirus infections with vaccine development and new or re-purposed anti-viral medicines, it remains of utmost importance to use the
-knowledge at our disposal to treat those patients most at risk of dying
-from Covid-19-induced cytokine storms.
-Declaration of Competing Interest
-There are no financial or other interests related to this review that
-represent a conflict of interest.
-Acknowledgements
-This work was supported by Zhejiang University special scientific
-research fund for COVID-19 prevention and control, National Natural
-Science Fund of China (81522049, 31870135, 31571735), Zhejiang
-Provincial Wanren Program for Leading Talents of Science and
-Technology Innovation (2018R52050), Zhejiang Provincial Program for
-the Cultivation of High-level Innovative Health talents (2018-62-3), the
-“Dawn” Program of Shanghai Education Commission (16SG38),
-Shanghai Science and Technology Committee Project (17JC1404300),
-Opening Project of Zhejiang Provincial Preponderant and Characteristic
-68
-
-Cytokine and Growth Factor Reviews 53 (2020) 66–70
-
-Subject of Key University (Traditional Chinese Pharmacology, Zhejiang
-Chinese Medical University (ZYAOXZD2019001)).
 
 coronavirus and influenza virus, Drug Discov. Today 24 (2019) 726–736.
 [26] A. Zumla, Chan, E.I. Azhar, D.S.C. Hui, K.Y. Yuen, Coronaviruses -drug discovery
@@ -449,9 +332,4 @@ leader (2018), Sichuan new youth (2019). Prof. Dr. Jia had
 more than 20 research publications including Cell, Nucleic Acids Research and Frontiers
 in Microbiology etc. The related results on the mechanism of bacterial resistance were
 
-⁎
-
-Corresponding authors.
-70
-
-
+End
