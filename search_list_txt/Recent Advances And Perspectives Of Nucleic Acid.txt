@@ -16,7 +16,7 @@ Sciences, Zhejiang University, Hangzhou, Zhejiang, 310058, China
 
 a r t i c l e i n f o
 
-a b s t r a c t
+abstract
 
 Article history:
 Received 23 February 2020
@@ -38,7 +38,7 @@ researchers and clinicians in developing better techniques for timely and effect
 © 2020 Xi'an Jiaotong University. Production and hosting by Elsevier B.V. This is an open access article
 under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
 
-Keywords:
+Keywords
 Coronavirus
 Nucleic acid detection
 PCR-Based methods
@@ -46,7 +46,7 @@ Isothermal nucleic acid ampliﬁcation-based
 methods
 Microarray-based methods
 
-1. Introduction
+Introduction
 The ﬁght against infectious diseases caused by viruses remains a
 challenging and endless task despite the tremendous efforts and
 signiﬁcant advances in public healthcare. Infectious diseases pose a
@@ -460,4 +460,4 @@ detection of RNA viruses using Cas13, Mol. Cell. 76 (2019) 826e837.
 nucleic acid detection platform with Cas13, Cas12a, and Csm6, Science 360
 (2018) 439e444.
 
-
+end
