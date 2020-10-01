@@ -117,10 +117,13 @@ class Document:
         # generate queries using the random module
         if method == 'random_phrases':
             for i in range(number):
-                word_list = self.split_words(key)
-                word_no = randint(1, 10)
-                start_pos = randint(1, len(word_list) - word_no)
-                queries.append(' '.join(word_list[start_pos: start_pos + word_no]))
+                try:
+                    word_list = self.split_words(key)
+                    word_no = randint(1, 10)
+                    start_pos = randint(1, len(word_list) - word_no)
+                    queries.append(' '.join(word_list[start_pos: start_pos + word_no]))
+                except:
+                    print('issue in document: ', self.title)
 
         elif method == 'summarisation':
             pass
