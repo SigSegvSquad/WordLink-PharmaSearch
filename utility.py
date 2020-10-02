@@ -1,6 +1,12 @@
+# file handling
 import os
 import json
 from glob import glob
+
+# NLP library
+import gensim
+
+# Miscellaneous
 from operator import itemgetter
 from random import randint, choices
 
@@ -120,26 +126,30 @@ class Document:
             for i in range(number):
                 try:
                     word_list = self.split_words(key)
-                    word_no = randint(3, 10)
+                    word_no = randint(5, 10)
                     start_pos = randint(1, len(word_list) - word_no)
                     queries.append(' '.join(word_list[start_pos: start_pos + word_no]))
                 except:
                     print('issue in document: ', self.title)
 
+        # generate queries by summarising the document extractively
         elif method == 'summarisation':
-            pass
+            try:
+                for ratio in range(2,5):
+                    print(ratio)
+                    queries.append(gensim.summarization.summarize(self.document[key], ratio=(ratio/10)))
+            except:
+                print('issue in document: ', self.title)
 
         else:
-            print('no such method, dumbass')
+            print('no such method')
 
         return queries
 
 
 class SearchEngine:
-    """search_engine is an object with a method
-     search - that takes a query as input
-    and outputs a dictionary of possible titles listed
-    in order with probabilities"""
+    """search_engine is an object with a method search - that takes a query as input
+    and outputs a dictionary of possible titles mapped with probabilities"""
 
     def __init__(self):
         pass
