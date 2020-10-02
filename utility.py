@@ -136,9 +136,15 @@ class Document:
         # generate queries by summarising the document extractively
         elif method == 'summarisation':
             try:
-                for ratio in range(2,5):
-                    print(ratio)
+                for ratio in range(1,5):
                     queries.append(gensim.summarization.summarize(self.document[key], ratio=(ratio/10)))
+            except:
+                print('issue in document: ', self.title)
+
+        # just search for the keywords
+        elif method == 'keywords':
+            try:
+                queries += self.document['keywords'].replace(',',' ').split()
             except:
                 print('issue in document: ', self.title)
 
