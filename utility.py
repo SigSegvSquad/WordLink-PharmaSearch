@@ -63,7 +63,8 @@ class Document:
     def read_txt(self, filepath):
         curr_heading = 'start'
         contents = ''
-        with open(filepath, 'r') as f:
+        print(filepath)
+        with open(filepath, 'r', encoding="utf-8") as f:
             for line in f.readlines():
                 line = line.lower()
                 line = line.replace('\n', '')
