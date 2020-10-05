@@ -27,7 +27,6 @@ Research articles from various journals like for example, International Journal 
 - Python
 - gensim
 - NLTK
-- PyTorch: Pytorch is a machine learning library we're using to gain better insights into the way the models will work. With a standard seq2seq keras model it's just a black box but Pytorch allows for higher customisation and is more suited for academic use like this project.
 - Gensim: Gensim is a library used to develop scalable word2vec or doc2vec models which we would need to create a shared vector space for the input strings as well as the documents fed to it. It also comes packaged with several standard word2vec models which we would need for general vocabulary in our search.
 
 
