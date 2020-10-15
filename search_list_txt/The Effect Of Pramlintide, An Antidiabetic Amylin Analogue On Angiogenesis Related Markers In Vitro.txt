@@ -224,29 +224,6 @@ supernatants of treated HUVECs by an ELISA
 kit according to the protocol provided by the
 manufacturer. The amount of VEGF released in
 
-Fig. 1. Effect of pramlintide on HUVECs viability evaluated by MTT method. Cells were treated without or with
-pramlintide (1-20 µg/mL) for 24 h. Data are shown as means ± SEM from triplicate experiments. HUVECs, human
-umbilical vein endothelial cells; MTT, 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide.
-
-325
-
-[Downloaded free from http://www.rpsjournal.net on Thursday, September 3, 2020, IP: 117.212.240.236]
-
-Safaeian et al. / RPS 2020; 15(4): 323-330
-
-Fig. 2. Effect of pramlintide on HUVECs migration assessed by Transwell® inserts. The 24 h-treated cells without or with
-pramlintide (1 and 10 µg/mL) or VEGF (10 ng/mL) were added to the upper chamber, incubated for 4 h and the number
-of cells in the lower chamber was counted. Data are shown as means ± SEM from triplicate experiments. *P < 0.05 and
-***
-P < 0.001 show significant differences in compared to the control group (untreated cells); #P < 0.05 and ##P < 0.01
-versus VEGF group. HUVECs, human umbilical vein endothelial cells; VEGF, vascular endothelial growth factor.
-
-Fig. 3. Representative fluorescence photomicrographs of HUVECs tube formation on GeltrexTM (×10). (A) Normal
-HUVECs were seeded on GeltrexTM and treated with (B) VEGF (2 ng/mL) or (C and D) pramlintide at 1 or 10 µg/mL,
-respectively, for 24 h. HUVECs, human umbilical vein endothelial cells.
-
-normal cells. Quantification of tube formation
-also exhibited angiogenic effects of VEGF (2
 ng/mL) and pramlintide (1 µg/mL) after 24 h
 treatment in HUVECs (Figs. 4A-C). The
 highest average tubules length, size, and the
@@ -264,12 +241,6 @@ represents the tubular structures in normal
 untreated HUVECs. Treatments with VEGF
 (Fig. 3B) and pramlintide at 1 µg/mL (Fig. 3C)
 promoted capillary tube formation compared to
-326
-
-[Downloaded free from http://www.rpsjournal.net on Thursday, September 3, 2020, IP: 117.212.240.236]
-
-Effect of pramlintide on angiogenesis
-
 tubules length, andsize and the mean number
 of junctions in comparison with normal
 untreated HUVECs (P < 0.001). Treatment
@@ -296,13 +267,7 @@ endothelial growth factor.
 Fig. 5. Effect of pramlintide on VEGF secretion in HUVECs determined by ELISA. Cells were treated without or with
 pramlintide (1 and 10 µg/mL) for 24 h and the supernatants were examined for VEGF. Data are shown as means ± SEM
 from triplicate experiments. HUVECs, human umbilical vein endothelial cells; VEGF, vascular endothelial growth factor;
-ELISA, enzyme-linked immunosorbent assay.
-
-327
-
-[Downloaded free from http://www.rpsjournal.net on Thursday, September 3, 2020, IP: 117.212.240.236]
-
-Safaeian et al. / RPS 2020; 15(4): 323-330
+ELISA, enzyme-linked immunosorbent assay
 
 (AMPK)-endothelial nitric oxide synthase
 (eNOS) and focal adhesion kinase pathways.
@@ -414,9 +379,6 @@ cells through activation of adenosine
 monophosphate-activated
 protein
 kinase
-328
-
-[Downloaded free from http://www.rpsjournal.net on Thursday, September 3, 2020, IP: 117.212.240.236]
 
 Effect of pramlintide on angiogenesis
 
@@ -534,11 +496,6 @@ are needed to determine the potential
 therapeutic value of pramlintide for improving
 neovascularization in vascular complications
 and healing of diabetic wounds.
-329
-
-[Downloaded free from http://www.rpsjournal.net on Thursday, September 3, 2020, IP: 117.212.240.236]
-
-Safaeian et al. / RPS 2020; 15(4): 323-330
 
 10. Ratner RE, Dickey R, Fineman M, Maggs DG, Shen
 L, Strobel SA, et al. Amylin replacement with
