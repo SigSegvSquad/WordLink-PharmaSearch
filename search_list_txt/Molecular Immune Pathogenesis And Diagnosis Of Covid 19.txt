@@ -620,9 +620,6 @@ department, West. J. Emerg. Med. 16 (2015) 619e624, https://doi.org/
 10.5811/westjem.2015.7.27915.
 X. Tian, C. Li, A. Huang, et al., Potent binding of 2019 novel coronavirus spike
 protein by a SARS coronavirus-speciﬁc human monoclonal antibody, Emerg.
-Microb.
-Infect.
-9
 (2020)
 382e385,
 https://doi.org/10.1080/
@@ -632,5 +629,4 @@ systematic review, J. Med. Virol. (2020), https://doi.org/10.1002/jmv.25707.
 R.L. Graham, E.F. Donaldson, R.S. Baric, A decade after SARS: strategies for
 controlling emerging coronaviruses, Nat. Rev. Microbiol. 11 (2013) 836e848,
 https://doi.org/10.1038/nrmicro3143.
-
 end
