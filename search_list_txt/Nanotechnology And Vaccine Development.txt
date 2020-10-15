@@ -1,6 +1,6 @@
-a s i a n j o u r n a l o f p h a r m a c e u t i c a l s c i e n c e s 9 ( 2 0 1 4 ) 2 2 7 e2 3 5
+asian journal of pharmaceutical sciences 9(2014)227e235
 
-H O S T E D BY
+HOSTED BY
 
 Available online at www.sciencedirect.com
 
@@ -107,8 +107,6 @@ CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/3.0/).
 
 228
 
-a s i a n j o u r n a l o f p h a r m a c e u t i c a l s c i e n c e s 9 ( 2 0 1 4 ) 2 2 7 e2 3 5
-
 The nanotechnologies developed for use in the field of
 vaccines encompass nanocarriers having a variety of compositions, sizes, and surface properties [6]. Numerous vaccine
 nanocarriers have been designed and investigated for their
@@ -201,184 +199,6 @@ not affect the physicochemical properties of neutral distearoylsn-glycero-3-phos
 after immunization [23]. Monophosphoryl lipid A (MPL), a
 poorly soluble TLR 4 agonist, was added to the bilayers of
 
-229
-
-a s i a n j o u r n a l o f p h a r m a c e u t i c a l s c i e n c e s 9 ( 2 0 1 4 ) 2 2 7 e2 3 5
-
-Table 1 e In vivo applications of nanocarriers for delivery of vaccines.
-Delivery system
-Liposome
-
-Emulsion
-
-Synthetic
-polymer-based
-system
-
-Natural
-biopolymer-based
-system
-Carbon-based system
-
-Composition
-
-Route
-
-References
-
-Ag85B-ESAT-6
-OVA
-Ag85B-ESAT-6
-Ag85B-ESAT-6
-Ag85B-ESAT-6
-OVA
-Trivalent influenza vaccine
-OVA
-His-tagged heat shock protein
-Polyhistidinylated OVA
-Diphtheria toxoid
-Hemagglutinin
-Recombinant meningococcal B protein
-Recombinant meningococcal B protein
-OVA
-OVA
-Falciparum subunit
-Plasmodium vivax subunit
-Recombinant hemaagglutinin
-OVA
-Hepatitis B surface antigen
-OVA
-Malaria antigen
-H1N1 hemagglutinin
-Yersinia pestis antigen
-Hepatitis B surface antigen
-HIV CN54gp140 antigen
-HIV gag DNA
-
-Intramuscular
-Intramuscular
-Intramuscular
-Subcutaneous
-Subcutaneous
-Intraperitoneal
-Subcutaneous
-Subcutaneous
-Intradermal
-Subcutaneous
-Subcutaneous
-Intramuscular
-Intramuscular
-Intramuscular
-Intranasal
-Intranasal
-Subcutaneous
-Subcutaneous
-Intramuscular
-Subcutaneous
-Pulmonary
-Subcutaneous
-Subcutaneous
-Intranasal
-Intranasal
-Subcutaneous
-Pulmonary
-Intranasal
-
-[18]
-[19]
-[20]
-[22]
-[23]
-[24]
-[25]
-[26]
-[27]
-[28]
-[29]
-[34]
-[36]
-[35]
-[39]
-[40]
-[41]
-[42]
-[44]
-[8]
-[45]
-[46]
-[47]
-[48]
-[49]
-[51]
-[52]
-[53]
-
-Intranasal
-Intraperitoneal
-Intranasal
-
-[54]
-[56]
-[57]
-
-SWCNT
-Carbon nanotube
-
-OVA
-HBsAg
-Clostridium botulinum type-A neurotoxin
-subunit antigen
-Tuberculin purified protein derivative
-Azoxystrobin
-
-[59]
-[60]
-
-Carbon magnetic nanoparticles
-Carbon nanoparticles
-
-Hen egg lysozyme
-Bovine serum albumin
-
-Subcutaneous
-Subcutaneous
-Intraperitoneal
-Intravenous
-Oral
-
-DDA, TDB
-DDA, TDB
-DDA, DODA, TDB
-Pegylated DDA, TDB
-DDA, DSPC, cholesterol, TDB
-MPL, DDA, TDB
-DDA, TDB
-DOPC, DOPG, MPB
-EPC, DOGS-NTA-Ni
-MDMPC, DMPG, cholesterol, MPL
-Lecithin, cholesterol
-MF59
-MF59
-MF59
-W805EC
-W805EC
-GLA
-GLA-SE
-GLA-SE
-PLGA
-PLGA, polylactic acid
-Lipid-coated PLGA
-Lipid-coated PLGA
-Chitosan-coated polycaprolactone
-Polyanhydrides
-Polylactic acid
-Deacylated cationic polyethyleneimine
-PEGylated poly [2-(N,N-dimethylamino)
-rthylmethacrylate]
-N-trimethyl chitosan
-Chitosan nanoparticles
-Cholesteryl-conjugated pullulan
-
 Antigen
 
 cationic liposomes composed of DDA and TBD to increase
@@ -399,9 +219,6 @@ composed of 1,2-dioleoyl-sn-glycero-3-phosphocholine (DOPC),
 (DOPG) and maleimide-headgroup lipid 1,2-dioleoyl-sn-glycero-3-phosphoethanolamine-N-[4-(p-maleimidophenyl) butyramide (MPB). Interbilayer crosslinking via divalent magnesium
 cation-based fusion permitted the stable entrapment of
 
-[61]
-[63]
-
 protein antigens within the core and lipophilic immunostimulatory molecules within the lipid membranes. OVA was used as
 a model antigen to demonstrate that the interbilayercrosslinked vesicles provided the sustained release of antigens
 and enhanced the antigen-specific CD8þ T cell immune
@@ -420,11 +237,7 @@ liposomes to promote bonding to polyhistidinylated OVA
 antigens [28]. The liposomes were composed of DOGS-NTANi,
 dimyristoylphosphatidylcholine
 (DMPC),
-dimyristoylphosphatidylglycerol (DMPG), cholesterol, and MPL.
-
-230
-
-a s i a n j o u r n a l o f p h a r m a c e u t i c a l s c i e n c e s 9 ( 2 0 1 4 ) 2 2 7 e2 3 5
+dimyristoylphosphatidylglycerol (DMPG), cholesterol, and MPL
 
 Although these metallochelating liposomes offer meaningful progress toward recombinant protein antigen loading
 without covalently modifying the antigens, the toxicity of
@@ -993,29 +806,6 @@ Colloids Surf B Biointerfaces 2011;82:118e125.
 [49] Ulery BD, Kumar D, Ramer-Tait AE, et al. Design of a
 protective single-dose intranasal nanoparticle-based vaccine
 
-a s i a n j o u r n a l o f p h a r m a c e u t i c a l s c i e n c e s 9 ( 2 0 1 4 ) 2 2 7 e2 3 5
-
-[50]
-
-[51]
-
-[52]
-
-[53]
-
-[54]
-
-[55]
-
-[56]
-
-[57]
-
-[58]
-[59]
-
-[60]
-
 platform for respiratory infectious diseases. PLoS One
 2011;6:e17642.
 Torres MP, Wilson-Welder JH, Lopac SK, et al. Polyanhydride
@@ -1107,4 +897,4 @@ plasmonic nanoparticles using microfluidics: from metal
 precursors to functionalized and sterilized nanoparticles.
 Lab Chip 2014;14:325e332.
 
-
+end
