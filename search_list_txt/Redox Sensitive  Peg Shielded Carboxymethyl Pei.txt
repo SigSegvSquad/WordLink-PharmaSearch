@@ -50,8 +50,7 @@ metastasis.
 It has been reported that upregulation of miR-21 in ovarian cancer is responsible for cis-Pt resistance in cancer cells
 by PDCD4 upregulation via JNK-1/c-Jun/miR-21 pathway [22].
 The most important challenge to achieve convenient therapeutic approaches for miR/anti-miR therapy is lack of suitable delivery system which can overcome the obstacles of
-systemic delivery such as phagocytic elimination, renal filtration, nucleases degradation, cellular uptake and endosomal release for possible translation to clinical practices
-[23,24].
+systemic delivery such as phagocytic elimination, renal filtration, nucleases degradation, cellular uptake and endosomal release for possible translation to clinical practice
 
 Main
 
@@ -133,20 +132,6 @@ nanogels (2.5 mg/ml). The product (PEG2k-CMPEI-ss) was then
 stirred overnight at room temperature and then dialysis in
 double distilled water for 3 d and stored in 4 °C before use.
 
-2.4.
-
-Characterization of the nanogels
-
-2.4.1.
-
-TNBS assay
-
-2.4.3.
-
-2.4.2.
-
-H NMR
-
 NMR spectra was recorded on Bruker-400 MHz using D2 O
 as solvent. Proton integration method was used to estimate
 average degree of PEGylation, disulfide crosslinking and carboxymethylation.
@@ -194,10 +179,6 @@ to 0.75 mM PEI. To 0.5 ml of each standard and sample solutions diluted in 0.1 M
 reagent was added. Following 45 min incubation at 25 °C, the
 absorbance was read at λ = 420 nm using UV–visible spectrophotometer (ELISA reader, Biotek, USA).
 
-1
-
-1H
-
 Ethidium bromide (EtBr) dye exclusion assay
 
 EtBr dye exclusion assay was performed to determine the optimum N/P ratio for loading and condensation of nucleic acid
@@ -213,15 +194,11 @@ FTIR spectroscopy
 Infrared spectra were recorded on FTIR spectrometer (Vertex,
 Bruker, Germany) to study spectral changes. Samples were
 prepared by geometric dilution of an identical amount of the
-
-2.5.3.
-
 Heparin sulfate competition assay
 
 To investigate stability of the Anti-miR-21 loaded nanoplexes
 against heparin sulfate (extracellular polyanion), agarose
 
-72
 
 Asian Journal of Pharmaceutical Sciences 15 (2020) 69–82
 
@@ -250,8 +227,6 @@ different times (0 min, 1, 3, 6 and 24 h). Aliquots at different
 incubation times were run in 2.5% agarose gel electrophoresis and their stability against DNaseI was compared to naked
 Anti-miR-21 [43].
 
-2.5.5.
-
 Determination of particle size and ζ potential
 
 Particle size was investigated by the dynamic light scattering
@@ -265,10 +240,6 @@ Anti-miR-21 were determined in 20 mM phosphate buffer
 (pH = 7) at the effective N/P molar ratio = 5. The viscosity and
 refractive index of water at 25 °C were used for data analysis.
 The intensity averaged diameters were reported for each sample. To calculate ζ potentials, the diluted samples underwent
-analysis by calibrated Zeta-check (Microtrac, Germany) for oscillating zeta streaming potential.
-
-2.6.
-
 Cell culture
 
 Cellular studies were carried out using A2780S and A2780R
@@ -277,8 +248,6 @@ supplemented with 10% fetal bovine serum (FBS; PAA, Australia) and 1% antibiotic
 in an incubator at 37 °C and 5% CO2 . In order to preserve the
 resistance phenotype, aliquots of 0.1 μM cis-Pt was added to
 A2780 drug resistance cell line after each passage.
-
-2.6.1.
 
 MTT cytotoxicity assay
 
@@ -297,8 +266,6 @@ MTT (0.5 mg/ml) in PBS and incubated for a further 3 h. Finally,
 the medium was aspirated and the remaining formazan crystals were solubilized in 100 μl/well DMSO. Light absorbance
 was measured at 570 nm and corrected for the background
 absorbance at 650 nm. Cell viability was calculated as percentage relative to untreated control cells [44].
-
-2.6.2.
 
 Trypan blue membrane leakage assay
 
@@ -330,8 +297,6 @@ stained with DAPI solution (10 μg/ml in PBS) for 5 min before
 visualized by the fluorescence microscope (Nikon Eclipse E400,
 Japan).
 
-2.6.4.
-
 miR-21 expression assay by stem-loop RT PCR
 
 After 24 h incubation of the seeded cells in 6-well plates,
@@ -342,9 +307,6 @@ cDNA synthesis was done using M-MuLV-Reverse Transcriptase and special stem-loop
 reaction (PCR) was done with the following pattern: 94 °C for
 2 min, followed by 40–60 cycles of 93 °C for 30 s, 58 °C for 1 min
 
-Asian Journal of Pharmaceutical Sciences 15 (2020) 69–82
-
-73
 
 and 72 °C for 30 s. The products were run on 2.5% agarose gel
 at 60 V for 30 min. Results were analyzed by ImageJ software.
@@ -355,11 +317,6 @@ cis-Pt resistance
 In order to evaluate the effect of treating cells with Anti-miR21 loaded nanoparticles on cis-Pt action, the sensitive and resistant cells were pre-treated with Anti-miR-21 nanoplexes
 for 48 h. Following the treatment, the media were aspirated
 and replaced by a medium containing 5 or 10 μM cis-Pt. After 24 h MTT assay was performed according to the aforementioned method.
-
-2.8.
-
-Live/Dead assay
-
 In order to discriminate live, apoptotic and necrotic cells under fluorescent microscope, Acridine Orange (AO)/ Ethidium
 Bromide (EtBr) double-staining assay was performed. 7 × 105
 cells/well of A2780S and A2780R cells were seeded in 24-well
@@ -368,20 +325,11 @@ the cells were trypsinized, stained with AO/EtBr dye mix in
 PBS (100 μg/ml) and observed under fluorescent microscope
 (Nikon Eclipse E400, Japan) [46].
 
-2.9.
-
-Statistics
 
 Statistical analysis was performed using Prism Software
 version 5.0 (GraphPad, USA). P values less than 0.05 were
 considered statistically significant. Data were expressed as
 mean ± standard deviation.
-
-3.
-
-Results and discussion
-
-3.1.
 
 Physicochemical characterization of the nanogels
 
@@ -535,75 +483,6 @@ uncrosslinked copolymer and the nanogels at N/P ratio of 5.
 Although the mechanism by which oligonulcoetide interacts
 with PEG2k-PEI may differ from the crosslinked structures, no
 
-76
-
-Asian Journal of Pharmaceutical Sciences 15 (2020) 69–82
-
-Table 1 – Z-average, polydispersity index (PDI) and ζ potential (mean ± SD) of the polycations alone and after loading with
-Anti-miR-21 at N/P = 5.
-Polycation
-
-Z-average (nm)
-Alone
-
-PEG2k-PEI
-PEG2k-PEI-ss
-PEG2k-CMPEI-ss
-∗
-
-∗
-
-ND
-366
-234
-
-+ Anti-miR-21
-270
-289
-234
-
-ζ potential (mV)
-
-PDI
-Alone
-∗
-
-ND
-0.31
-0.60
-
-+ Anti-miR-21
-
-Alone
-
-+ Anti-miR-21
-
-0.23
-0.35
-0.57
-
-+ 27.3 ± 0.83
-+ 18.3 ± 2.28
-+ 12.2 ± 0.99
-
-– 20.23 ± 0.61
-– 30.97 ± 1.95
-– 34.27 ± 2.05
-
-Not determined.
-
-Fig. 6 – MTT-based cytotoxicity of PEG2k-PEI, PEG2k-PEI-ss and PEG2k-CMPEI-ss nanogels alone in A2780S (A) and A2780R
-(B) cell lines at various concentrations. (C) and (D) the respective viability of A2780S and A2780R cells following treatment
-with the Anti-miR-21 nanoplexes prepared at various N/P mole ratios for 72 h. The symbols denote statistically significant
-differences from the least cytotoxic treatment: ∗ P < 0.05, ∗∗ P < 0.01 and ∗∗∗ P < 0.0001.
-
-significant effect was found on the size and ζ potential possibly due to presence of the stabilizing PEG shell.
-
-3.5.
-
-Cytotoxicity
-
-3.5.1.
 
 MTT assay
 
@@ -631,55 +510,6 @@ compatibility which may be due to reduced pKa of PEG2k-PEI
 and higher buffer capacity of PEG2k-CMPEI-ss in acidic pH as
 demonstrated in Fig. 1. The lower pKa leads to reduced protonation of the nanogels and the lower positive ζ potentials at
 physiologic pH (Table 1) that lessons the cell toxicity [51,66].
-
-Asian Journal of Pharmaceutical Sciences 15 (2020) 69–82
-
-Table 2 – Trypan blue assay of the cell membrane leakage
-induced by the polymers either alone or in combination
-with Anti-miR-21 (N/P = 5).
-Polycation
-
-PEG2k-PEI
-PEG2k-PEI-ss
-PEG2k-CMPEI-ss
-
-Condition
-
-alone
-+ Anti-miR-21
-alone
-+ Anti-miR-21
-alone
-+ Anti-miR-21
-
-Membrane leakage (%)
-A2780S
-
-A2780R
-
-21.9 ± 7.6∗
-26.9 ± 3.6∗
-14.3 ± 4.7
-36.8 ± 6.1∗
-12.2 ± 4.7
-50.0 ± 1.8∗∗∗
-
-19.7 ± 4.0
-25.5 ± 5.3∗
-17.6 ± 3.1
-43.9 ± 3.4∗∗
-13.1 ± 3.6
-54.2 ± 2.7∗∗∗
-
-Symbols denotes significant differences within each column:
-∗
-P < 0.05, ∗ ∗ P < 0.01, ∗ ∗ ∗ P < 0.001.
-
-Fig. 6C and D shows that Anti-miR-21 loaded nanogels applied significant effects on the cells viability in comparison
-to either naked Anti-miR-21 or the empty nanogels. Indeed,
-it was found that the nanoplexes did not show practically
-significant cytotoxicity at N/P = 1 and 2, however at N/P = 5,
-A2780R was more sensitive in response to the Anti-miR-21
 treatment than A2780S (P < 0.05). Treatment of A2780S cells
 with PEG2k-PEI, PEG2k-PEI-ss and PEG2k-CMPEI-ss nanogels
 loaded with Anti-miR-21 at N/P = 5 led to cell viability decrement (if compared to unloaded nanoparticles) by 4% (P < 0.05),
@@ -1092,19 +922,6 @@ Gao S, Tian H, Guo Y, Li Y, Guo Z, Zhu X, et al. miRNA
 oligonucleotide and sponge for miRNA-21 inhibition
 mediated by PEI-PLL in breast cancer therapy. Acta Biomater
 2015;25:184–93.
-Zhi F, Dong H, Jia X, Guo W, Lu H, Yang Y,
-et al. Functionalized graphene oxide mediated adriamycin
-
-[70]
-
-[71]
-[72]
-[73]
-
-[74]
-
-[75]
-
 delivery and miR-21 gene silencing to overcome tumor
 multidrug resistance in vitro. Plos One 2013;8:e60034.
 Foged C, Brodin B, Frokjaer S, Sundblad A. Particle size
