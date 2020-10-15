@@ -165,13 +165,7 @@ transmission electron microscope (TEM, FEI).
 
 Serum stability of polyplex and polywraplex
 
-The
-polyplex
-was
-formulated
-as
-presented
-in
+The polyplex was formulated as presented in
 Section 2.3 (wcationic polymer /wsiRNA = 7/1), and the polywraplex
 (wtriblock copolymer /wcationic polymer = 12/1),
 followed
@@ -414,17 +408,6 @@ cytometry
 The intracellular uptake efficiency of the polyplexes and
 polywraplexes in U87MG cells was measured using flow
 cytometry. As shown in Fig. 4B, the uptake efficiency of
-
-Fig. 3 – (A) TEM image present the deep color parts were the networked structure of the cationic polymer, and light parts
-were many hollow among the polymer. The black spots in the TEM were (B) polyplex (wcationic polymer /wsiRNA = 7/1) and (C)
-polywraplex (wtriblock copolymer /wcationic polymer = 12/1) which were polyplex encapsulated by triblock copolymer.
-
-Fig. 4 – (A) Serum stability assay in agarose gel shows polywraplex could protect the siRNA efficiently in 50% FBS during
-48 h compared to polyplex group. Cellular uptake efficiency of polyplex and polywraplex formulated with Cy3-siRNA as
-delivered into U87MG cells using Flow Cytometer: (B) Cellular uptake efficiency of polyplex in DMEM medium without FBS.
-Naked siRNA group was considered as the negative control group and PEI 25 K was as a positive group, respectively; (C)
-Cellular uptake efficiency of polywraplex in DMEM medium with 10% FBS. (D) Confocal images presented the intracellular
-distribution of polywraplex in 10% FBS medium.
 
 polyplexes in different mass ratios from 7/1 to 15/1 was
 almost the same with PEI 25 K group, which was the gold
