@@ -346,19 +346,7 @@ smallest, reflecting that SA particles with the biggest particle
 size in GUT have no better lubrication efficiency than those
 in the other two kinds of tablets. The frequency profiles (Fig.
 5B) of surface area indicate that rather than in GUT, the frequency distribution tendency of SA particles in GRT are more
-similar with in RLD. In short, from the 3D measurement using SR-μCT technology, uniformly spherical SA particles with
-
-66
-
-Asian Journal of Pharmaceutical Sciences 15 (2020) 60–68
-
-Fig. 4 – The 3D images of SA particles in different kinds of glipizide tablets. The left column shows location of the total SA
-particles in tablets and the right column shows a partial enlarged view of SA particles. (A, B), (C, D), (E, F) represent SA in
-RLD, GUT and GRT, respectively. Each particle is colored randomly by the software.
-
-Fig. 5 – Frequency distributing graphs of 3D morphological parameters of SA particles in RLD (blue), GUT (red) and GRT
-(green).
-
+similar with in RLD. In short, from the 3D measurement using SR-μCT technology, uniformly spherical SA particles wit
 a narrow size distribution can be observed in GRT, which is
 closer to the results in RLD. The elaborate quantitative results
 of SA particles in tablet, which cannot be obtained without the
