@@ -39,7 +39,6 @@ our pure scientific hands with application-oriented pharmaceutical drug product 
 is primarily due to the misconception about the science of
 pharmaceutics. Perhaps the “black box” of the drug product
 development process, which certainly includes pharmaceutics, has been viewed until relatively recently as being too
-
 much like engineering in nature and requiring little mechanism-based science.
 With the first two issues of Molecular Pharmaceutics, one
 cannot help but appreciate the salient: pharmaceutics or
@@ -76,5 +75,4 @@ needs of the molecular revolution in pharmaceutics. It is safe
 to say that we can be excited and optimistic about the future
 of molecular pharmaceutics.
 Kyung-Dall Lee
-
 end
