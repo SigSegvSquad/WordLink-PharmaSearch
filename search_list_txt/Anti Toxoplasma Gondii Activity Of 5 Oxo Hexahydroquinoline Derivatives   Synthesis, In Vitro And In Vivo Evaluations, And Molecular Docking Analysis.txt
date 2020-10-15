@@ -63,10 +63,7 @@ recumbent and slow-growing form of the
 parasite called the bradyzoite (9). Finally, the
 ingestion of raw meats or water involving
 oocysts causes infection in humans.
-The
-conventional
-treatment
-of
+The conventional treatment of
 toxoplasmosis in humans comprises of a
 combination of drugs of sulfadiazine (blocks
 dihydropteroate synthetase) and pyrimethamine
@@ -128,17 +125,6 @@ different pyridyl alkyl carboxylates at C3
 (Fig. 1) and evaluated them for their in vitro and
 in vivo inhibitory effects on the viability and
 infectivity of Toxoplasma tachyzoites.
-
-Fig. 1. Structural formula of 5-oxo-hexahydroquinoline
-compounds (pyridin-3-yl methyl 4-(4-bromophenyl)-2methyl- 5- oxo-1,4,5,6,7,8- hexahydroquinoline-3carboxylate
-(Z1),
-pyridin-3-yl
-methyl
-4-(3hydroxyhenyl) -2- methyl- 5- oxo -1,4,5,6,7,8hexahydroquinoline-3-carboxylate (Z2), 3-(pyridin-3yl)propyl
-4-(4-methoxyphenyl)-2-methyl-5-oxo1,4,5,6,7,8-hexahydroquinoline-3-carboxylate (Z3), and
-pyridin2-ylmethyl
-2-methyl
--5-oxo-4-(3,4,5trimethoxyphenyl) -1,4,5,6,7,8-hexahydroquinoline-3carboxylate (Z4).
 
 Alternatively,
 5-oxo-hexahydroquinoline
@@ -496,64 +482,6 @@ We investigated the binding affinities of the
 synthesized 5-oxo-hexahydroquinolines into
 ENR enzyme active site. Docking results are
 375
-
-
-Table 3. Docking results of 5-oxo-hexahydroquinoline derivatives into the Toxoplasma gondii Enoyl- acyl carrier
-protein Reductase enzyme binding site.
-Ligands
-Z1
-Z2
-
-ΔG (Kcal/mol)
--8.4
--7.8
-
-Z3
-
--8.5
-
-Z4
-
--9.2
-
-Triclosan
-
--9.1
-
-Interaction
-H-bonding
-H-bonding
-H-bonding
-H-bonding
-H-bonding
-H-bonding
-H-bonding
-H-bonding
-
-Atom of ligand
-Oxygen (carbonyl)
-Oxygen (carbonyl)
-NH
-Oxygen (methoxy)
-NH
-Nitrogen (pyridine ring)
-Oxygen (carbonyl)
-OH
-
-Amino acid
-Gly131
-Gly131
-Ala129
-Lys237
-Ala129
-Arg230
-Ala231
-Tyr189
-
-Fig 5. Representation of the co-crystallized inhibitor (blue) docked into the binding site and superimposed on cocrystallized inhibitor (red) in the crystal structure of T. gondii Enoyl-ACP Reductase (PDB ID: 2O2S).
-
-Fig. 6. Docking model of compound Z4 in the Toxoplasma gondii enoyl-acyl carrier protein Reductase enzyme active
-site (PDB ID: 2O2S)
 
 Endochin-like quinolone structure was also
 previously surveyed for its potential use in
