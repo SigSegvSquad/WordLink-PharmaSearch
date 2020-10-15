@@ -575,26 +575,6 @@ therapeutic options, Nat. Rev. Drug Discov. 15 (2016) 327e347, https://
 doi.org/10.1038/nrd.2015.37.
 [57] D.A. Groneberg, R. Hilgenfeld, P. Zabel, Molecular mechanisms of severe acute
 
-108
-
-[58]
-
-[59]
-
-[60]
-
-[61]
-
-[62]
-
-[63]
-
-[64]
-
-[65]
-
-[66]
-
 X. Li et al. / Journal of Pharmaceutical Analysis 10 (2020) 102e108
 respiratory syndrome (SARS), Respir. Res. 6 (2005) 8, https://doi.org/10.1186/
 1465-9921-6-8.
@@ -621,19 +601,6 @@ fever virus infections, Chem. Asian J. 14 (2019) 3962e3968, https://doi.org/
 Y. Chen, Q. Liu, D. Guo, Emerging coronaviruses: genome structure, replication, and pathogenesis, J. Med. Virol. 92 (2020) 418e423, https://doi.org/
 10.1002/jmv.25681.
 L. Chen, C. Gui, X. Luo, et al., Cinanserin is an inhibitor of the 3C-like
-
-[67]
-
-[68]
-
-[69]
-
-[70]
-
-[71]
-
-[72]
-[73]
 
 proteinase of severe acute respiratory syndrome coronavirus and strongly
 reduces virus replication in vitro, J. Virol. 79 (2005) 7095e7103, https://
