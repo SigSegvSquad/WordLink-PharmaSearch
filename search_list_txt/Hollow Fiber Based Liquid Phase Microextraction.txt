@@ -201,16 +201,7 @@ instrument [24].
 In HF-LPME, mass transfer is by passive diffusion and this results
 in relatively slow extraction kinetics. Alternatively, ionizable compounds can be extracted efﬁciently and with outstanding sample
 cleanup by electromembrane extraction (EME) [25]. The principle
-
-Fig. 3. Schematic mechanisms of two possible modes of three-phase HF-LPME.
-
-112
-
 W.A. Khan et al. / Journal of Pharmaceutical Analysis 10 (2020) 109e122
-
-Fig. 4. Schematic conﬁguration of the dynamic HF-LPME. Reprinted with permission from Ref. [23].
-
-Fig. 5. (A) Illustrative conﬁguration and (B) schematic structure of the automated HF-LPME offered by Esraﬁli et al. Reprinted with permissions from Ref. [24].
 
 of EME is similar to that of HF-LPME. However, in EME the analytes
 are extracted selectively in their charged form under the inﬂuence
@@ -391,12 +382,8 @@ selectivity of calix [4]arene towards Cr(VI) [62]. Table 1 summarizes
 examples on research combining hollow ﬁber based extraction
 techniques with UVeVis spectrophotometry [61e65].
 4.2. Pharmaceuticals
-
 4. Instrumental techniques coupled with HF-LPME and EME
 4.1. Heavy metals determination
-
-ͦ
-
 4.1.1. Atomic spectrometry
 Combinations of hollow ﬁber based techniques and atomic
 spectroscopic techniques have mainly been used for detection of
@@ -437,40 +424,6 @@ having M shaped microchannels. The middle PMMA plate provided
 a ﬂow path for sample solution and was in contact with two
 
 EME: Electro-membrane extraction, HFLPME: Hollow ﬁber liquid phase microextraction, IEME: In-tube electro-membrane extraction, CM-HFLPME: carrier-mediated hollow ﬁber liquid phase microextraction, DEHP: bis(2ethylhexyl) phosphate, CTAB: N,N,N-cetyltrimethyl ammonium bromide, APDC: Ammonium pyrroldinedithiocarbamate, PANI: Polyanniline, DDTC: Diethyldithiocarbamate, PAN: 1-(2-pyridylazo)-2-naphthol), NPOE: 2nitrophenyl octyl ether, FAAS: Flame atomic absorption spectroscopy, GFAAS: Graphite furnace atomic absorption spectrometry, ETV-ICP-OES: Electrothermal vaporization inductive couple plasma optical emission spectroscopy, RGB/ ICP-AES: Red Green Blue Analysis/ inductive couple plasma atomic emission spectroscopy.
-a
-Limit of detection.
-b
-Enrichment factor/Pre-concentration factor.
-c
-Linear range.
-Analyte
-
-Amlodipine, verapamil,
-clomipramine
-Metaraminol, benzamidine,
-sotalol, ephedrine,
-trimethoprim, pethidine
-hydrochloride, quetiapine,
-haloperidol, nortriptyline
-hydrochloride, methadone
-hydrochloride, loperamide
-hydrochloride
-Five ﬂuoroquinolones and four
-parabens
-
-Salicylic acid, naproxen,
-ketoprofen, diclofenac,
-ibuprofen
-Naproxen, verapamil
-Verapamil, riluzole
-Barbital, phenobarbital,
-pentobarbital
-Ciproﬂoxacin
-Nalmefene, diclofenac
-Ezetimibe, simvastatin
-Fosdanoﬂoxacin, norﬂoxacin,
-enroﬂoxacin, ciproﬂoxacin
-Raloxifene, ethinylestradiol
 
 Phthalate- and nitrilebased organic solvents
 
@@ -479,52 +432,12 @@ LPME: Liquid phase microextraction, HFM-MI-MSPE: Hollow ﬁber membrane-molecula
 Reduced graphene oxide, TBP: Tributyl phosphate, DHE: Dihexyl ether, PIM: Polymer inclusion membrane, TOPO: Trioctylphosphine oxide HPLC-UV: High performance liquid chromatography with UV detector, HPLC-MS: High
 performance liquid chromatography with mass spectrometry, HPLC-DAD-FLD: High performance liquid chromatography with diode array detector and ﬂuorescence detector, HPLC-UV-MS: High performance liquid chromatography with UV detector and mass spectrometry, UHPLC-MS: Ultra high performance liquid chromatography with mass spectrometry, HPLC-DAD: High performance liquid chromatography with diode array detector,
 Fluorometer/RGB/ HPLC-UV: Fluorometer/ Red Green Blue analysis/ High performance liquid chromatography with UV detector.
-a
-Limit of detection.
-b
-Enrichment factor/Pre-concentration factor.
-c
-Linear range.
-
-W.A. Khan et al. / Journal of Pharmaceutical Analysis 10 (2020) 109e122
-
-Diclofenac
-Exemestane, letrozole,
-paclitaxel
-Omeprazole, pantoprazole,
-lansoprazole
-Phenazopyridine
-Different sulfonamides
-Thiabendazole
-Leuprolide, triptorelin
-Nortriptyline, papaverine
-Amitriptyline, haloperidol,
-bupivacaine, propranolol
-Methadone, methamphetamine,
-tramadol
-Tramadol, pseudoephedrine
-Capecitabine, 5-Fluorouracil
-Tranylcypromine
-Ibuprofen, naproxen, ketoprofen,
-diclofenac
-Nortriptyline, papaverine,
-haloperidol
-and loperamide
-Ibuprofen, diclofenac, naproxen,
-ketoprofen, salicylic acid
-Amlodipine
 
 EME-EALLME: Electromembrane extraction and electro-assisted liquid-liquid microextraction, EM-SPME: Electromembrane surrounded solid phase microextraction, G-EME/DLLME: Gel-electromembrane exraction / dispersive
 liquid-liquid microextraction, Pa-EME: Parallel electromembrane extraction, ENB: 1-ethyl-2-nitrobenzene, MWCNTs: Multi-walled carbon nanotubes, MIL-110(Cr): Chromium terephthalate metal-organic framework, Span-80:
 Mono-(9Z)-9-octadecenoate, CuNPs: Copper nanoparticles, GC-FID: Gas chromatography with ﬂame ionization detector,CE-UV: Capillary electrophoresis with UV detector, CE-DAD: Capillary electrophoresis with diode array
 detector, FFSSWV: Fast Fourier transform stripping square wave voltammetry, SFFTCCV: Stripping fast Fourier transform continuous cyclic voltammetry, DPV: Differential pulse voltammetry, FFTSWV: Fast Fourier transform
 square wave voltammetry.
-a
-Limit of detection.
-b
-Enrichment factor.
-c
-Linear range.
 
 W.A. Khan et al. / Journal of Pharmaceutical Analysis 10 (2020) 109e122
 
