@@ -1,7 +1,3 @@
-a s i a n j o u r n a l o f p h a r m a c e u t i c a l s c i e n c e s 1 0 ( 2 0 1 5 ) 8 1 e9 8
-
-Available online at www.sciencedirect.com
-
 H O S T E D BY
 
 ScienceDirect
@@ -96,10 +92,6 @@ Peer review under responsibility of Shenyang Pharmaceutical University.
 http://dx.doi.org/10.1016/j.ajps.2014.09.004
 1818-0876/© 2015 Shenyang Pharmaceutical University. Production and hosting by Elsevier B.V. All rights reserved.
 
-82
-
-a s i a n j o u r n a l o f p h a r m a c e u t i c a l s c i e n c e s 1 0 ( 2 0 1 5 ) 8 1 e9 8
-
 phospholipids have a propensity to form liposomes, which
 can be employed as the drug carriers [1]. Phospholipids have
 good emulsifying property which can stabilize the emulsions
@@ -130,59 +122,16 @@ intravenous lipid emulsions, PC/bile salt mixed micelles,
 phospholipid micelles, drug-phospholipid complexes, cochleates as examples to introduce the main applications associated with phospholipids and further explain how to make a
 choice among the phospholipids in drug delivery.
 
-2.
-
 Phospholipids
 
 Phospholipids are lipids containing phosphorus, a polar
 potion and non-polar potion in their structures.
-
-2.1.
-
-2.1.2.
-
 Sphingomyelins
 
 In 1884, Thudicum first described sphingomyelins (SMs), but it
 was not until 1927 that Pick and Bielschowsky proved their
 structures to be N-acylsphingosine-1-phosphatidylcholine
 
-Table 1 e Commonly used phospholipids [11].
-Phospholipid
-
-Net
-charge
-in pH 7
-
-PC
-
-0
-
-PE
-
-0
-
-PS
-
-1
-
-PA
-
-1
-
-PI
-
-1
-
-PG
-
-1
-
-CL
-
-2
-
-The structures of phospholipids
 
 According to the alcohols contained in the phospholipids,
 they can be divided into glycerophospholipids and
@@ -216,12 +165,6 @@ phosphatidic
 acid
 (PA),
 phosphatidylinositol
-(PI),
-
-a s i a n j o u r n a l o f p h a r m a c e u t i c a l s c i e n c e s 1 0 ( 2 0 1 5 ) 8 1 e9 8
-
-83
-
 Fig. 1 e Schematic representation of the structures of phospholipids.
 
 (Fig. 1). In 1962, Shapiro and Flowers confirmed that all SMs of
@@ -388,21 +331,6 @@ Factors modulating lipid polymorphisms
 Non-bilayer lipids such as unsaturated PE can be stabilized in
 a bilayer structure by the presence of bilayer preferring lipids
 
-85
-
-a s i a n j o u r n a l o f p h a r m a c e u t i c a l s c i e n c e s 1 0 ( 2 0 1 5 ) 8 1 e9 8
-
-Table 2 e Physiological properties of the major phospholipids.
-Phospholipids
-PC
-PE
-PS
-
-PI
-CL
-
-SM
-
 Physiological properties
 a. An important substrate of synthesis of the neurotransmitter acetylcholine, and having the function of nourishing
 the brain and improving intelligence [27].
@@ -438,46 +366,6 @@ possible HII phase formation [35]. The lamellar to HII
 transition temperature (Tbh) decreases with the
 increasing chain length and the increasing unsaturation of acyl chain of PE. Many species of naturally
 occurring PE preferentially adopt a HII phase at
-
-Table 3 e Polymorphic phases and corresponding dynamic molecular shapes of component phospholipids.
-Phospholipid
-
-Phase
-
-Molecular shape
-
-Micellar
-
-Inverted cone
-
-Bilayer
-
-Cylinder
-
-Lysophospholipids
-
-PC
-SM
-PS
-PG
-PI
-PA
-CL
-
-PE (unsaturated)
-PA-Ca2þ
-PA (pH < 3)
-PS (pH < 3)
-CL-Ca2þ
-
-Hexagonal (HII)
-
-Cone
-
-86
-
-a s i a n j o u r n a l o f p h a r m a c e u t i c a l s c i e n c e s 1 0 ( 2 0 1 5 ) 8 1 e9 8
-
 physiological temperatures. In terms of Tbh for various
 synthetic and naturally derived PE, the readers can refer
 to Tilcock's review [36].
@@ -567,15 +455,6 @@ large single-bilayer vesicles [48] (Fig. 5).
 In the case of pure lipid systems, for PS, Ca2þ induces
 crystalline cochleate structure, whereas CL can adopt HII
 
-Fig. 2 e Schematic representation of the structure of DSPE-PEG.
-
-a s i a n j o u r n a l o f p h a r m a c e u t i c a l s c i e n c e s 1 0 ( 2 0 1 5 ) 8 1 e9 8
-
-87
-
-Fig. 3 e Cone shaped (HII phase) phospholipids and inverted cone shaped (micelle) lipids have complementarity effects in
-shape. When they are mixed, bilayer structure can be exhibited.
-
 phase in the presence of Ca2þ [50]. And for other acidic
 phospholipids such as PA, PG and PI, their structures on hydration may be sensitive to the fatty acid composition, for
 example, “cochleate” structure can be observed for saturated
@@ -620,19 +499,7 @@ increases the Tc. For example, the Tc of DSPC is 55  C, whereas
 DOPC is 20  C. 4) Purity. The low purity of phospholipids
 widen the range of Tc. Naturally occurring phospholipids are
 usually mixtures of components having different length hydrocarbon chains. Such mixtures would usually be expected
-to produce broad ill defined transitions, but the synthetic
-
-Fig. 4 e (A) Schematic representation of the structure of cochleate. (B) Lipid bilayer architecture in a cochleate formed by the
-negatively charged phospholipids and Ca2þ.
-
-88
-
-a s i a n j o u r n a l o f p h a r m a c e u t i c a l s c i e n c e s 1 0 ( 2 0 1 5 ) 8 1 e9 8
-
-Fig. 5 e Schematic representation of the structure of (A) small unilamellar vesicles, (B) cochleate and (C) large unilamellar
-vesicle. Small unilamellar vesicles prepared by negatively charged phospholipids can form cochleate cylinder in the
-presence of Ca2þ. When adding the EDTA which is chelating agents of metal ions, the cochleate can change into large
-unilamellar vesicle.
+to produce broad ill defined transitions, but the syntheti
 
 phospholipids usually have definite Tc. For example, the Tc of
 SPC is 20 to 30  C, whereas DLPC is 20  C [54]. Table 4
@@ -640,97 +507,11 @@ summarizes the Tc of commonly used phospholipids.
 When chosing the phospholipids as carrier materials,
 many factors must be taken into comprehensive consideration to select a kind of phospholipid with appropriate Tc.
 
-3.
-The applications of phospholipids in drug
-delivery systems
-3.1.
-
-Liposomes
-
-3.1.1.
-
 The development of liposomal drug delivery system
 
 Liposomes are vesicles prepared with phospholipids as the
 main substance, the structure of which is similar to cellular
 
-Table 4 e Phase transition temperature of commonly
-used phospholipids [54e57].
-Phospholipids
-Soybean phosphatidylcholine
-Hydrogenated soybean
-phosphatidylcholine
-Egg sphingomyelin
-Egg phosphatidylcholine
-Dimyristoyl phosphatidylcholine
-Dipalmitoyl phosphatidylcholine
-Dioleoyl phosphatidylcholine
-Distearoyl phosphatidylcholine
-Dimyristoyl phosphatidylglycerol
-Dipalmitoyl phosphatidylglycerol
-Dioleoyl phosphatidylglycerol
-Distearoyl phosphatidylglycerol
-Dimyristoyl
-phosphatidylethanolamine
-Dipalmitoyl
-phosphatidylethanolamine
-Dioleoyl
-phosphatidylethanolamine
-Dimyristoyl phosphatidylserine
-Dipalmitoyl phosphatidylserine
-Dioleoyl phosphatidylserine
-
-
-
-Abbreviation
-
-Tc ( C)
-
-SPC
-HSPC
-
-20 to 30
-52
-
-ESM
-EPC
-DMPC
-DPPC
-DOPC
-DSPC
-DMPG
-DPPG
-DOPG
-DSPG
-DMPE
-
-Ca. 40
-5 to 15
-23
-41
-22
-55
-23
-41
-18
-55
-50
-
-DPPE
-
-60
-
-DOPE
-
-16
-
-DMPS
-DPPS
-DOPS
-
-38
-51
-10
 
 membrane. Liposomes origined from multilaminar vesicles
 which were clearly taken on morphosis by electron microscope images observed by Bangham and Horne in 1964 [58]. In
@@ -749,12 +530,6 @@ changes, which have brought out a series of new type liposomes, such as long-cir
 liposomes, cationic liposomes and ligand-targeted liposomes.
 Liposomes can serve as the carriers of antitumor drugs, antifungal drugs, analgesic drugs, gene therapeutics and vaccines,
 and there have been some liposomal formulations industrialized which are listed in Table 5.
-
-Fig. 6 e Schematic representation of liposome.
-
-89
-
-a s i a n j o u r n a l o f p h a r m a c e u t i c a l s c i e n c e s 1 0 ( 2 0 1 5 ) 8 1 e9 8
 
 3.1.2. Considering a variety of factors to select the
 appropriate phospholipid to prepare liposomes
@@ -822,71 +597,6 @@ Adding other phospholipids (mainly DSPC and HSPC) to DPPC
 would have a positive impact on the amount and rate of drug
 release [68]. However, the Tc of liposomes composed of DPPC/
 DSPC are enhanced. Furthermore, DSPC added increases the
-
-Table 5 e Approved liposomal formulations [4,62].
-Product
-
-Phospholipids
-
-Drug
-
-Ambisome®
-
-HSPC and DSPG
-
-Amphotericin B
-
-Doxil®
-
-HSPC and DSPE-PEG2000
-
-Doxorubicin
-
-DaunoXome®
-
-DSPC
-
-Daunorubicin
-
-Myocet™
-DepoDur™
-DepoCyt®
-
-EPC
-DOPC and DPPG
-DOPC and DPPG
-
-Lipo-Dox®
-Marqibo®
-
-DSPC and DSPE-PEG2000
-ESM
-
-Doxorubicin
-Morphine sulfate
-Cytosine
-Arabinoside
-Doxorubicin
-Vincristine
-
-Year approved
-1990 (Europe)
-1997 (USA), 2000
-1995
-1999
-2003
-(Europe, Canada) 2007
-1996 (Europe)
-1996 (USA)
-2000 (Europe)
-2004
-1999
-2001 (Taiwan)
-2012 (USA)
-
-90
-
-a s i a n j o u r n a l o f p h a r m a c e u t i c a l s c i e n c e s 1 0 ( 2 0 1 5 ) 8 1 e9 8
 
 span of Tc. As a result, only 43e45  C can trigger the release of
 drugs, but this range can make normal tissue surrounding the
@@ -983,10 +693,6 @@ of hydrogenated egg phosphatidylcholine (HEPC) is larger than
 1 mmol/kg in rats, the second injection of PEGylated liposomes
 cannot induce the ABC phenomenon [81]; however, when
 
-91
-
-a s i a n j o u r n a l o f p h a r m a c e u t i c a l s c i e n c e s 1 0 ( 2 0 1 5 ) 8 1 e9 8
-
 liposomes are composed of partially hydrogenated egg phosphatidylcholine (PHEPC), intravenous injection of different
 phospholipids doses of PEGylated liposomes (i.e. 0.05, 0.5 or
 5 mmol/kg) as a first dose can cause the second specific dose
@@ -1055,71 +761,6 @@ cholesterol esters of emulsion were eliminated very fast, but
 phospholipids were not transferred to the HDL. For DOPC
 emulsions, clearances were slower than EPC and POPC
 emulsions, but it was effectively transferred to the HDL [87].
-
-Table 6 e Representative list of currently marketed drug containing injectable emulsions.
-Product
-Cleviprex®
-Diazemuls®
-Diazepam-Lipuro®
-Diprivan®
-Etomidat-Lipuro®
-Fluosol-DA®
-Liple®
-Limethason®
-Lipo-NSAID®
-Stesolid®
-Vitalipid®
-
-Drug
-
-Market
-
-Emusifier
-
-Clevidipine Butyrate
-Diazepam
-Diazepam
-Propofol
-Etomidate
-Perfluorodecalin
-Perflurotripropylamine
-Alprostadil (PGE1)
-Dexamethasone Palmitate
-Flurbiprofen axetil
-Diazepam
-Vitamins A, D2, E, K1
-
-USA
-Europe, Canada, Australia
-Europe, Canada, Australia
-Worldwide
-Germany
-Worldwide
-
-EP
-EP
-EL
-EL
-EL
-EP and pluronic F68
-
-Japan
-Japan, Germany
-Japan
-Europe
-Europe
-
-EP
-EL
-EL
-EP
-EL
-
-EL: egg lecithin EP: egg phospholipid.
-
-92
-
-a s i a n j o u r n a l o f p h a r m a c e u t i c a l s c i e n c e s 1 0 ( 2 0 1 5 ) 8 1 e9 8
 
 Redgrave et al. showed that the clearances of DSPC-stabilized
 fat emulsions from the plasma were faster than the DPPCstabilized fat emulsions. Although DSPC fat emulsions can
@@ -1204,12 +845,6 @@ half-life of the micelles. Anatoly et al. demonstrated that
 replacing DSPE that is lipid component of PE-PEG with DOPE to
 form micelles can reduce the circulating half-life [98].
 
-Fig. 8 e Schematic representation of the structures of conventional emulsion (A) and PEGylated emulsion (B).
-
-a s i a n j o u r n a l o f p h a r m a c e u t i c a l s c i e n c e s 1 0 ( 2 0 1 5 ) 8 1 e9 8
-
-93
-
 Fig. 9 e Molecular models for the lecithin-rich type of mixed micelles (A) and for the bile salt-rich type (B). The bile salts are
 thought to form pairs to avoid contact of the hydroxyl groups (solid circles) with the apolar environment.
 
@@ -1236,10 +871,6 @@ IgM, which led to accelerated clearance of subsequently
 administered PEGylated liposomes. But the second injection
 of PEGylated micelles were not substrates for IgM binding and
 did not exhibit a similar ABC phenomenon [101].
-
-Fig. 10 e Schematic representation of the structure of PEPEG micelle.
-
-3.4.
 
 Drug-phospholipid complexes
 
@@ -1273,10 +904,6 @@ duration of action of drugs [7].
 When treated with water, phytosomes form liposome-like
 structures (Fig. 11A). However, there are many differences
 between phytosomes and liposomes, mainly including: 1) the
-
-94
-
-a s i a n j o u r n a l o f p h a r m a c e u t i c a l s c i e n c e s 1 0 ( 2 0 1 5 ) 8 1 e9 8
 
 size of liposomes is much bigger than that of phytosomes; 2)
 there is the formation of new bonds in phytosomes, whereas
@@ -1351,15 +978,6 @@ phospholipids have wide applications in DDS, they also face
 challenges, for instance, liposomes and intravenous lipid
 emulsions have ABC phenomenon. In sum, the applications of
 
-Fig. 11 e Schematic representation of the structure of phytosome (A) and major difference between liposome and
-phytosome (B).
-
-a s i a n j o u r n a l o f p h a r m a c e u t i c a l s c i e n c e s 1 0 ( 2 0 1 5 ) 8 1 e9 8
-
-95
-
-Fig. 12 e Cochleate can encapsulate (A) hydrophobic, (B) amphiphilic, (C) negatively charged, or (D) (E) positively charged
-drugs.
 
 phospholipids in DDS are the coexistence of opportunities and
 challenges.
@@ -1397,11 +1015,6 @@ J Biol Chem 1961;236(5):1269e1272.
 [9] Paltauf F, Hermetter A. Phospholipidsdnatural,
 semisynthetic, synthetic[M]. Phospholipids. Springer; 1990.
 p. 1e12.
-
-96
-
-a s i a n j o u r n a l o f p h a r m a c e u t i c a l s c i e n c e s 1 0 ( 2 0 1 5 ) 8 1 e9 8
-
 [10] Stafford RE, Dennis EA. Lysophospholipids as
 biosurfactants. Colloids Surf 1987;30(1):47e64.
 [11] Washington C. Stability of lipid emulsions for drug delivery.
@@ -1607,40 +1220,6 @@ Drug Deliv Rev 2001;53(3):307e319.
 [72] Allen T, Williamson P, Schlegel RA. Phosphatidylserine as a
 determinant of reticuloendothelial recognition of liposome
 
-[73]
-
-[74]
-
-[75]
-
-[76]
-[77]
-
-[78]
-
-[79]
-
-[80]
-
-[81]
-
-[82]
-
-[83]
-
-[84]
-[85]
-
-[86]
-
-[87]
-
-[88]
-
-[89]
-
-97
-
 models of the erythrocyte surface. Proc Natl Acad Sci
 1988;85(21):8067e8071.
 Zachowski A. Phospholipids in animal eukaryotic
@@ -1706,34 +1285,6 @@ Studies with lipid emulsions in rats. Biochim Biophys Acta
 Wang C, Cheng X, Sui Y, et al. A noticeable phenomenon:
 thiol terminal PEG enhances the immunogenicity of
 PEGylated emulsions injected intravenously or
-
-98
-
-[90]
-
-[91]
-
-[92]
-
-[93]
-
-[94]
-
-[95]
-
-[96]
-
-[97]
-
-[98]
-
-[99]
-
-[100]
-
-[101]
-
-a s i a n j o u r n a l o f p h a r m a c e u t i c a l s c i e n c e s 1 0 ( 2 0 1 5 ) 8 1 e9 8
 
 subcutaneously into rats. Eur J Pharm Biopharm
 2013;85(3):744e751.
@@ -1826,4 +1377,4 @@ Biophys 1994;314(1):205e216.
 memory disorders in the aged. La Clinica Terapeutica
 1987;120(5):399e404.
 
-
+end
