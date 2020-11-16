@@ -11,8 +11,6 @@ Review
 
 PEGylation in anti-cancer therapy: An overview
 Prajna Mishra a, Bismita Nayak b, R.K. Dey a,*
-a
-b
 
 Centre for Applied Chemistry, Central University of Jharkhand, Ranchi 835 205, Jharkhand, India
 Department of Life Science, National Institute of Technology, Rourkela 769 008, Odisha, India
@@ -101,10 +99,6 @@ http://dx.doi.org/10.1016/j.ajps.2015.08.011
 1818-0876/© 2016 The Authors. Production and hosting by Elsevier B.V. on behalf of Shenyang Pharmaceutical University. This is an
 open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
 
-338
-
-asian journal of pharmaceutical sciences 11 (2016) 337–348
-
 in cancer treatment and its future prospective in a comprehensive way.
 
 2.
@@ -165,18 +159,6 @@ of the conjugates [13–16]. It has also been reported that
 PEGylation increases the absorption half-life of subcutaneously administered agents and is associated with a decreased
 volume of distribution [11]. PEG is a non-biodegradable polymer
 
-PEG
-
-Linker
-
-Drug
-
-(PEG-Prodrug)
-Fig. 1 – PEG-prodrug.
-
-Fig. 2 – Significance of PEGylated therapeutics.
-
-asian journal of pharmaceutical sciences 11 (2016) 337–348
 
 that puts limits on its use. It has been shown that PEGs (up
 to molecular weight 20 kDa) is primarily excreted through the
@@ -208,8 +190,6 @@ effect cannot be studied with low molecular weight drugs that
 freely extravagate causing systemic toxicity, and this is a sizedependent effect. PEGylation increases the solubility, size,
 molecular mass and serum stability of the drugs. For all these
 
-339
-
 reasons, PEGylation is considered to be one of the best methods
 for passive targeting of anticancer therapeutics.
 The concept of active targeting of drugs is based on the idea
@@ -235,21 +215,7 @@ PEGylation of proteins is a well-established method in the pharmaceutical field,
 proteins for anti-cancer therapy has only been realized in the
 last several years as more and more PEG conjugates make it
 to late-phase clinical trials. Enzymes, monoclonal antibodies
-and cytokines are the three major class of proteins used in anticancer therapy or as adjuvant therapy (Table 1).
-
-Fig. 3 – A schematic illustration of passive targeting with acid-sensitive PEG-prodrugs that cleave in the extracellular space.
-
-340
-
-asian journal of pharmaceutical sciences 11 (2016) 337–348
-
-Fig. 4 – A schematic illustration of receptor mediated internalization and endosomal/lysosomal degradation of the pro-drug
-during active targeting.
-
-Fig. 5 – A schematic illustration of Active Targeting with acid sensitive PEG- prodrugs which cleaves in the extracellular
-space.
-
-3.1.
+and cytokines are the three major class of proteins used in anticancer therapy or as adjuvant therapy
 
 PEGylated monoclonal antibody fragment
 
@@ -272,39 +238,6 @@ tolerate attachment of one or two PEG moieties (up to a total
 of 40 kDa molecular weight) with little effect on antigen binding
 affinity. This process also enables significant increase in the
 half-life of the circulating plasma antibodies by reducing the
-
-asian journal of pharmaceutical sciences 11 (2016) 337–348
-
-341
-
-Table 1 – PEG protein/enzyme conjugates in clinical development as anticancer therapy.
-Trade name
-
-Conjugate
-
-Protein/Enzyme
-
-Sylatron™
-
-PEG-interferon α-2b
-
-PEG-interferon α-2b
-
-Pegasys®
-Neulasta®
-
-PEG-interferon α-2a
-PEG-filgrastim
-
-Oncaspar®
-
-PEG-asparaginase
-
-Interferon α-2a
-G-CSF(granulocyte-colony
-stimulating factor)
-Asparaginase
-
 FDA approved date/clinical trial status and use
 March 9, 2011, approved as adjuvant therapy for resected stage III
 melanoma
@@ -465,58 +398,6 @@ PEG-SN38 (EZN-2208)
 
 EZN-2208, the product Enzon Pharmaceuticals, Inc, is a
 PEGylated SN38 (10-hydroxy-7-ethyl-camptothecin (a derivative of camptothecin)). SN38 is the active moiety of CPT-11
-
-Table 2 – PEGylated low molecular weight drugs/liposomal derivatives/thermo-sensitive conjugates and nanoparticles in
-clinical development as anticancer therapy.
-Trade name
-
-Conjugate
-
-EZN-2208
-
-PEG-SN38
-
-NKTR-102
-Irinotecan
-
-PEG-irinotecan
-
-Doxil (Caelyx)
-ThermoDox
-
-PEG-liposomal doxorubicin
-PEG-thermosensitive
-liposomal doxorubicin
-Pegylated cyclodextrin
-nanoparticle
-
-CALLA 01
-
-Parent drug
-SN38 (camptothecin
-derivative)
-Irinotecan
-
-FDA approved date/clinical trial status
-Phase II, various cancer
-
-Doxorubicin
-Doxorubicin
-
-Phase III, metastatic or locally recurrent breast cancer and Phase II,
-solid tumor malignancies, including ovarian, colorectal, glioma,
-small cell and non-small cell lung cancers
-November 1995 for ovarian/breast cancer and Kaposi’s sarcoma
-Phase III, hepatocellular carcinoma
-
-SiRNA
-
-In clinical phase I for solid tumors
-
-344
-
-asian journal of pharmaceutical sciences 11 (2016) 337–348
-
 (Camptosar®, irinotecan) and reported to be a potent
 topoisomerase I inhibitor. In this PEGylated product, the 20OH group of SN38 was selectively coupled with a 4 arm PEG
 of 40 kDa through a glycine spacer to preserve the E ring of
@@ -691,39 +572,6 @@ The grant in aid from DST, New Delhi (Project No. SR/S1/PC-24/
 2009) is duly acknowledged. University fellowship to Prajna
 Mishra for pursuing her research work is acknowledged.
 
-Table 3 – PEGylated polymeric micelles in clinical development as anticancer therapy.
-Trade name for polymeric micelle
-NK105
-NK012
-NC-6300
-NC-6004
-Genexol-PM
-
-Block copolymer
-PEG-P(aspartate) Paclitaxel
-PEG-PGlu(SN-38)
-PEG-P(aspartate) Epirubicin
-PEG-PGlu(cisplatin)
-PEG-P(D,L-lactide) Paclitaxel
-
-Parent drug
-Paclitaxel
-SN-38
-Epirubicin
-Cisplatin
-Paclitaxel
-
-Clinical trial status
-Phase II, advanced stomach cancer
-Phase II, breast cancer
-Phase I, breast cancer, stomach cancer, lymphoma
-Phase I/II, solid tumors
-Phase IV, breast cancer
-Phase II, pancreatic cancer
-
-346
-
-asian journal of pharmaceutical sciences 11 (2016) 337–348
 
 REFERENCES
 
@@ -856,39 +704,6 @@ with breast cancer. Ann Oncol 2002;13:903–909.
 [40] Grigg A, Solal-Celigny P, Hoskin P, et al. Open-label,
 randomized study of pegfilgrastim vs. daily filgrastim as an
 
-asian journal of pharmaceutical sciences 11 (2016) 337–348
-
-[41]
-
-[42]
-
-[43]
-[44]
-
-[45]
-
-[46]
-
-[47]
-
-[48]
-[49]
-
-[50]
-
-[51]
-
-[52]
-
-[53]
-
-[54]
-[55]
-
-[56]
-
-[57]
-
 adjunct to chemotherapy in elderly patients with nonHodgkin’s lymphoma. Leuk Lymphoma 2003;44:1503–
 1508.
 Vogel CL, Wojtukiewicz MZ, Carroll RR, et al. First and
@@ -954,8 +769,6 @@ phase II trial comparing two schedules of etirinotecan pegol
 (NKTR-102) in women with recurrent platinum-resistant/
 refractory epithelial ovarian cancer. J Clin Oncol
 2013;31:4060–4066.
-
-347
 
 [58] Awada A, Garcia AA, Chan S, et al. Two schedules of
 etirinotecan pegol (NKTR-102) in patients with previously
@@ -1100,4 +913,4 @@ siRNA delivery barriers. Biomaterials 2015;38:97–107.
 nanoparticle-based siRNA delivery for cancer therapy.
 Biomed Res Int 2013;2013:Article ID 782041.
 
-
+end

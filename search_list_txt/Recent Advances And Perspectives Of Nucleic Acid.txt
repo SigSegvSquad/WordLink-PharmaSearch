@@ -202,11 +202,6 @@ coated on the text line of the strip (Fig. 1B), thus presenting a
 colored line that is visible to the naked eye. In this instance, MERSCoV RNA can be detected with a detection limit of 10 copies/mL.
 Scientists from Ellington’s group did plenty of work to both
 improve the speciﬁcity of LAMP detection and make readout
-
-M. Shen et al. / Journal of Pharmaceutical Analysis 10 (2020) 97e101
-
-99
-
 3.3. Rolling circle ampliﬁcation-based methods
 The rolling circle ampliﬁcation (RCA) has attracted considerable
 attention in nucleic acid determination [35,36]. In isothermal
@@ -217,10 +212,6 @@ performed under isothermal conditions with minimal reagents and
 avoid the generation of false-positive results, which is frequently
 encountered in PCR-based assays.
 4. Microarray-based methods
-
-Fig. 1. Schematic illustration of the RT-LAMP-VF assay. (A) ampliﬁcation reaction for
-RT-LAMP and (B) detection on visualization strip. The ﬁgure was reproduced with
-permission from Ref. [4].
 
 simpler and more reliable. They replaced the intercalating dye
 typically used for monitoring in real-time ﬂuorescence with a
@@ -289,12 +280,6 @@ detection platform of nucleic acids.
 Currently, the diagnosis of COVID-19 mainly relies on the
 detection of the coronavirus RNA. It is of great importance to select
 
-100
-
-M. Shen et al. / Journal of Pharmaceutical Analysis 10 (2020) 97e101
-
-Fig. 2. Scheme for adapting isothermal ampliﬁcation to a glucometer. The ﬁgure was reproduced with permission from Ref. [32].
-
 equipment and educated analysts, which is only possibly accomplished by a well-established laboratory. LAMP is an ultrasensitive
 nucleic acid ampliﬁcation method that can often detect small
 numbers of DNA or RNA templates within roughly an hour, but the
@@ -330,8 +315,6 @@ Science Foundation of China (Grant 81973281), the Fundamental
 Research Funds for the Central Universities (2019FZA7017), and
 Leading Talent of “Ten Thousand Plan”- National High-Level Talents
 Special Support Plan.
-
-M. Shen et al. / Journal of Pharmaceutical Analysis 10 (2020) 97e101
 
 References
 [1] D.M. Morens, A.S. Fauci, Emerging infectious diseases: threats to human

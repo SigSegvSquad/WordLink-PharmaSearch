@@ -13,7 +13,7 @@ Xiaojun Lu, Shihua Lin, Niluka De Mel, Arun Parupudi, Jared Delmar, Madhu Pandey
 Xiangyang Wang, Jihong Wang*
 Analytical Sciences, Biopharmaceutical Development, AstraZeneca, One MedImmune Way, Gaithersburg, Maryland 20878
 
-a r t i c l e i n f o
+article info
 
 abstract
 
@@ -251,42 +251,7 @@ translation, the sample would be inactive.
 Table 1
 DSC Melting Temperature and Enthalpy of the Pre-Peak (deamidated Product) and Main Peak (Original Protein) Fractions.
 Sample
-
-Pre-peak (deamidated product)
-Main peak (original protein)
-Tm, melting temperature.
-
-First transition
-
-Second transition
-
-Tm ( C)
-
-Enthalpy (kcal)
-
-Tm ( C)
-
-Enthalpy (kcal)
-
-43.5
-44.8
-
-122
-137
-
-77.5
-77.6
-
-186
-186
-
 X. Lu et al. / Journal of Pharmaceutical Sciences 109 (2020) 2676-2683
-
-2679
-
-Fig. 3. HDX analysis of pre-peak (deamidate product) and main peak (original protein) fractions. (a) Deuterium uptake kinetic curves of selected peptides from the pre-peak
-(deamidate product) fraction and the main peak (original protein) fraction. Difference charts of (b) light chain and (c) heavy chain summarize the difference in deuterium uptake between the two fractions for all seven exchange time points: 0.5 min (orange), 1 min (red), 5 min (dark red), 10 min (cyan), 30 min (blue), 60 min (dark blue), and 120 min
-(black). The gray vertical bars represent the summed difference from all time points. Dashed lines mark ± 0.3 Da, the determined standard deviation for each exchange time point.
 
 Results and Discussion
 Separation and Identiﬁcation of Asn-358 Deamidated Variant
@@ -325,10 +290,6 @@ data processing, and the standard deviation for each exchange time
 2680
 
 X. Lu et al. / Journal of Pharmaceutical Sciences 109 (2020) 2676-2683
-
-Fig. 4. HDX heat map of PE38. Relative deuterium uptake differences between pre-peak (deamidated product) and main peak (original protein) fractions are shown in color along
-the sequence for all seven exchange time points: 0.5, 1, 5, 10, 30, 60, and 120 min.
-
 point was determined to be ±0.3 Dalton (Da). Among all identiﬁed
 peptides, 14 were from the variable domain of the light chain (LC),
 resulting in 81% of the LC sequence coverage. Both fractions had
@@ -352,39 +313,10 @@ Second, most peptides in the PE38 region (residues HC130e476)
 showed no or only minor differences (0.3 Da) in deuterium uptake between the pre-peak and the main peak fractions, suggesting
 that no signiﬁcant conformational difference was caused by Asn358 deamidation in most of the PE38 region. Finally, obvious differences were observed for peptides associated with four regions
 
-Fig. 5. Crystalline structure of PE (PDB 1IKQ). (a) HDX heat map of 0.5-min exchange time point; (b) binding interface of eEF2 (magenta)33 and NAD (green).34 The deamidation site
-is shown in orange.
-
 X. Lu et al. / Journal of Pharmaceutical Sciences 109 (2020) 2676-2683
 
 2681
 
-Table 2
-Summary of Deamidated Product (IEC Pre-Peak) Biological Characterization.
-Method
-
-Purpose
-
-CD22 binding assay
-Internalization assay
-ADP ribosylation assay
-Apoptosis bioassay
-
-Measure
-Measure
-Measure
-Measure
-
-Results
-binding afﬁnity to CD22
-cellular internalization
-ADP ribosylation activity
-cell-killing activity (relative potency)
-
-kD ¼ 1.39 nM for deamidated product kD ¼ 1.38 nM for original protein
-Internalization observed
-Inactive
-Inactive
 
 Plausible Mechanism for Biological Activity Loss
 
@@ -451,13 +383,6 @@ into B-lymphoma cells. Quantitative assessment of kinetic images
 of the cell membrane and cytoplasm over time demonstrated the
 internalization of moxetumomab pasudotox into the cytoplasm.
 
-Fig. 6. Dose-response curves of ADP ribosylation activity of IEC pre-peak (deamidated
-product) and starting moxetumomab pasudotox. RLU ¼ Relative light unit.
-
-Fig. 7. Correlation of IEC pre-peak (deamidated product) ratio to relative potency of
-moxetumomab pasudotox.
-
-2682
 
 X. Lu et al. / Journal of Pharmaceutical Sciences 109 (2020) 2676-2683
 
@@ -592,7 +517,4 @@ indicates ADP ribosylation by ribosome mimicry. Nature. 2005;436(7053):979984.
 domain of Pseudomonas exotoxin A complexed with a nicotinamide adenine
 dinucleotide analog: implications for the activation process and for ADP
 ribosylation. Proc Natl Acad Sci U S A. 1996;93(14):6902-6906.
-
 end
-
-

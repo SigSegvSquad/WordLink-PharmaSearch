@@ -303,45 +303,6 @@ Asian Journal of Pharmaceutical Sciences 15 (2020) 60–68
 Fig. 3 – 2D original slice of the radial middle layer of the glipizide tablet (A), partial magnification of the slice containing the
 selected SA particle (B) and the line profile of the selected SA particle (C).
 
-Table 1 – Comparison and analysis of 3D morphological parameters like sphericity, equivalent diameter, area of surface, volume, total area of surface of individual SA particles, as well as the number of SA particles in RLD, GUT and GRT
-(mean ± SD).
-Morphology parameter
-
-Sphericity
-Equivalent diameter (μm)
-Area of surface (μm2 )
-Volume (μm3 )
-Total area of surface (μm2 )
-Number of particles
-
-Individual SA particles in tablets
-RLD
-
-GUT
-
-GRT
-
-0.86 ± 0.09
-36.28 ± 17.84
-5 786 ± 6 156
-45 872 ± 73 025
-4.88 × 107
-8432
-
-0.83 ± 0.09
-34.60 ± 22.90
-6 659 ± 12 644
-63 381 ± 222 477
-2.98 × 107
-4479
-
-0.86 ± 0.06
-26.45 ± 11.79
-3 086 ± 2 752
-15 923 ± 20 389
-8.60 × 107
-27 875
-
 which can be seen from partial magnifications (Fig. 4B, 4D and
 4F). Apparently, the size of SA particles in GUT are less regular,
 and the difference of morphological characteristics between
@@ -385,19 +346,7 @@ smallest, reflecting that SA particles with the biggest particle
 size in GUT have no better lubrication efficiency than those
 in the other two kinds of tablets. The frequency profiles (Fig.
 5B) of surface area indicate that rather than in GUT, the frequency distribution tendency of SA particles in GRT are more
-similar with in RLD. In short, from the 3D measurement using SR-μCT technology, uniformly spherical SA particles with
-
-66
-
-Asian Journal of Pharmaceutical Sciences 15 (2020) 60–68
-
-Fig. 4 – The 3D images of SA particles in different kinds of glipizide tablets. The left column shows location of the total SA
-particles in tablets and the right column shows a partial enlarged view of SA particles. (A, B), (C, D), (E, F) represent SA in
-RLD, GUT and GRT, respectively. Each particle is colored randomly by the software.
-
-Fig. 5 – Frequency distributing graphs of 3D morphological parameters of SA particles in RLD (blue), GUT (red) and GRT
-(green).
-
+similar with in RLD. In short, from the 3D measurement using SR-μCT technology, uniformly spherical SA particles wit
 a narrow size distribution can be observed in GRT, which is
 closer to the results in RLD. The elaborate quantitative results
 of SA particles in tablet, which cannot be obtained without the

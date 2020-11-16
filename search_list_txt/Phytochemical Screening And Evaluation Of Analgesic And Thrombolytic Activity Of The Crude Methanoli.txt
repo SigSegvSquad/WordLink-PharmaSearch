@@ -61,27 +61,6 @@ Statistical Analysis: All data were analyzed by using statistical software Stati
 
 RESULTS:
 
-Phytochemical Screening: The result of the phytochemical analysis was presented in Table 1.
-
-TABLE 1: PHYTOCHEMICAL SCREENING OF CRUDE METHANOLIC EXTRACTS OF CALAMUS ROTANG LEAVES (CRME)
-
-Phytochemicals	CRME
-Terpenoids	-
-Steroids	+
-Saponins	+
-Glycosides	+
-Cardiac glycosides	+
-Flavonoids	+
-Tannins	-
-Phlobatannins	+
-Anthraquinones	-
-Alkaloids	-
-Carbohydrates	+
-Reducing sugars	+
-Key:  + = Present, - = Absent
-
-In-vivo Analgesic Activity Assay:
-
 Acetic Acid-Induced Writhing Method: The peripheral analgesic effect of CRME in the acetic acid-induced writhing method was presented in Table 2 and Fig. 1.
 
 TABLE 2: SCREENING OF PERIPHERAL ANALGESIC ACTIVITY OF CALAMUS ROTANG BY USING THE ACETIC ACID-INDUCED WRITHING METHOD
@@ -99,79 +78,13 @@ FIG. 1: SCREENING OF PERIPHERAL ANALGESIC ACTIVITY OF CALAMUS ROTANG BY USING AC
 
 Tail-Immersion Test: The result of the central analgesic activity of CRME obtained from the tail-immersion test was demonstrated in Table 3, Table 4 and Fig. 2.
 
-TABLE 3: SCREENING OF CENTRAL ANALGESIC ACTIVITY OF CALAMUS ROTANG BY CALCULATING %MPE USING TAIL-IMMERSION TEST
-
-Treatment	Dose	Response time in seconds at time ± SEM and %MPE
-Pretreatment	30 minute	60 minute	90 minute	120 minute
-Negative control	10 ml/kg	3.72 ± 0.24	4.78 ± 0.31
-(23.9%)
-
-3.26 ± 0.18
-(16.3%)
-
-3.60 ± 0.19
-(18%)
-
-3.62 ± 0.24
-(18.1%)
-
-Morphine sulphate	10 mg/kg	3.72 ± 0.24	9.08 ± 0.15a
-(45.4%)
-
-9.10 ± 0.29a
-(45.5%)
-
-8.96 ± 0.07a
-(44.8%)
-
-8.74 ± 0.06a
-(43.7%)
-
-CRME	200 mg/kg	3.72 ± 0.24	6.03 ± 0.14
-(30.15%)
-
-5.54 ± 0.20a
-(27.7%)
-
-5.53 ± 0.02a
-(27.65%)
-
-5.30 ± 0.11a
-(26.5%)
-
-400 mg/kg	3.72 ± 0.24	6.50 ± 0.24a
-(32.5%)
-
-6.64 ± 0.17a
-(33.2%)
-
-6.09 ± 0.12a
-(30.45%)
-
-6.65 ± 0.17ab
-(33.25%)
-
 *CRME= Crude methanolic extracts of C. rotang leaves; Values were expressed as Mean ± SEM; n=5.  ap< 0.001 is statistically significant with a comparison to the negative control, bp< 0.001 is statistically significant in comparison of CRME 400mg/kg to CRME 200 mg/kg done by one way ANOVA followed by post hoc Tukey test.
 
 TABLE 4: SCREENING OF CENTRAL ANALGESIC ACTIVITY OF CALAMUS ROTANG BY CALCULATING %TE USING TAIL-IMMERSION TEST
 
-Treatment	Dose	% TE
-30 min	60 min	90 min	120 min
-Morphine sulphate	10 mg/kg	47.35%	64.17%	59.82%	58.58%
-CRME	200 mg/kg	20.72%	41.15%	34.90%	31.69%
- 	400 mg/kg	26.46%	50.90%	40.88%	45.56%
-* CRME= Crude methanolic extracts of C. rotang leaves
-
-
 
 FIG. 2: SCREENING OF CENTRAL ANALGESIC ACTIVITY CALAMUS ROTANG BY USING TAIL-IMMERSION TEST. CRME= Crude methanolic extracts of C. rotang leaves; Values were expressed as Mean ± SEM; n=5. ap< 0.001 is statistically significant with comparison to control, bp< 0.001 is statistically significant in comparison of CRME 400 mg/kg to CRME 200 mg/kg.
 
-TABLE 5: SCREENING OF THROMBOLYTIC ACTIVITY (IN TERM OF % OF CLOT LYSIS) OF CALAMUS ROTANG
-
-Treatment	% clot lysis
-Negative control	4.08 ± 0.56
-SK	63.3 ± 2.81a
-CRME	16.2 ± 1.75ab
 *SK= Streptokinase, CRME= Crude methanolic extracts of C. rotang leaves; Values were expressed as Mean ± SEM; ap< 0.001 significant when compared with the corresponding value of DW and bp< 0.001 significant when compared with the corresponding value of SK, done by one way ANOVA followed by Post hoc Tukey test.
 
 In-vitro Thrombolytic Activity Assay: As a part of discovering natural medicine as the cardioactive drug, the antithrombotic effect of CRME was evaluated and the result was represented in Table 5 and Fig. 3.

@@ -81,11 +81,6 @@ human coronavirus 229E, and avian infectious bronchitis virus (IBV)
 
 Cytokine and Growth Factor Reviews 53 (2020) 66–70
 
-Fig. 1. COVID-19 pathogenic phases and potential therapeutic targets (modified and adopted from Siddiqi and Mehra, 2020 [38]).
-
-Fig. 2. Schematic representation of COVID-19 pathogenesis and cytokine storm with possible effects. SARS-CoV-2: severe acute respiratory syndrome coronavirus 2;
-ACE2: angiotensin-converting enzyme 2; PMN: polymorphonuclear granulocyte; AC: alveolar cell; NK: natural killer).
-
 were susceptible to IFN treatment [17,23]. In patients with MERS infection, a combination of ritonavir plus IFN α2a or IFN α-2b resulted in
 significantly improved survival after 14 days of treatment. The combination of ritonavir and IFNβhad no significant effect on clinical outcome in patients infected with MERS, but the combination of ribavirin
 (1), ritonavir (2) and IFN α-2a inhibited viremia within 48h of treatment [13]. The use of recombinant IFNs (IFN -α, IFN -β and exogenous
@@ -105,14 +100,6 @@ days to eleven days. Originally developed as a small molecule
 Cytokine and Growth Factor Reviews 53 (2020) 66–70
 
 Fig. 3. Mechanism of interferon biosynthesis and their functions.
-
-Table 1
-Combinational remedies and drugs as potential targets for COVID-19.
-Name of the agent/therapy
-
-Targeted virions infection
-
-Target virion mechanism
 
 References
 

@@ -213,100 +213,6 @@ lowered to the predetermined position and when the loading tool touched the bott
 measurements were repeated three times and the average values were
 calculated.
 
-%(w/w)
-
-Powdered tea
-Polysaccharide
-
-Excipient
-Disintegrant
-
-Binder
-
-Utonrousousuisen
-Gum arabic
-Carrageenan
-Guar gum
-Tamarind gum
-Pectin
-D (−)-Mannitol
-Low-substituted
-hydroxypropyl cellulose (LHPC NBD-020)
-Polyyvinylpyrrolidone
-(PVP Kollidon® 25)
-Total
-
-F1
-
-F2
-
-F3
-
-F4
-
-F5
-
-F6
-
-32
-
-32
-1
-
-32
-
-32
-
-32
-
-32
-
-1
-1
-1
-56
-10
-
-55
-10
-
-55
-10
-
-55
-10
-
-55
-10
-
-1
-55
-10
-
-2
-
-2
-
-2
-
-2
-
-2
-
-2
-
-100
-
-100
-
-100
-
-100
-
-100
-
-100
-
 dried in a thermostatic chamber at 80 °C for 24 h.
 2.2.2. Formulation of ODTTs with various tamarind gum mass fractions
 We formulated ODTTs with various tamarind gum mass fractions
@@ -355,69 +261,6 @@ Particle retention ratio
 Before drop treatment (g ) − After drop treatment (g )
 =
 Before drop treatment (g )
-
-Table 2
-ODTT formulations containing tamarind gum.
-%(w/w)
-
-Powdered tea
-Polysaccharide
-Excipient
-Disintegrant
-Binder
-
-Utonrousousuisen
-Tamarind gum
-D (−)-Mannitol
-Low-substituted hydroxypropyl
-cellulose (L-HPC NBD-020)
-Polyyvinylpyrrolidone (PVP Kollidon®
-25)
-Total
-
-1
-
-3
-
-5
-
-32
-0.5
-55.5
-10
-
-32
-1
-55
-10
-
-32
-3
-53
-10
-
-32
-5
-51
-10
-
-2
-
-2
-
-2
-
-2
-
-100
-
-100
-
-100
-
-100
-
-(2)
 
 2.3.6. Particle retention ratio
 Each tablet was pulverized with a mortar and pestle, and 100 mg of
@@ -685,41 +528,6 @@ treated. *p < 0.01 versus control. Each symbol represents the mean ± S.D.
 3.5. Evaluation of the antibacterial eﬀect
 Next, we studied the antimicrobial activity against S. mutans
 (Fig. 8). The vertical axis represents the absorbance at 651.5 nm. A
-Table 3
-Quantitative analysis of active compounds in tea powder.
-F1-witout microwave
-ECG (µg/mL)
-GCG (µg/mL)
-EGC (µg/mL)
-EGCG (µg/mL)
-
-8.43 ± 1.21
-4.04 ± 0.34
-82.1 ± 8.59
-620.8 ± 2.36
-
-F1
-*
-
-3.31 ± 2.39
-1.30 ± 0.47
-45.4 ± 4.19
-563.8 ± 0.66**
-
-F5-without microwave
-
-F5
-
-6.49 ± 2.42
-2.99 ± 1.44
-76.4 ± 2.27
-623.5 ± 2.31
-
-4.74 ± 0.21
-1.09 ± 0.10
-53.8 ± 10.7
-579.1 ± 2.92♯♯
-
 *p < 0.05 and **p < 0.01 versus F1-without microwave group. ♯♯p < 0.01 versus F5-without microwave. Each value represents the mean ± S.D. (n = 3).
 8
 
@@ -891,7 +699,3 @@ mannitol. Int. J. Pharm. https://doi.org/10.1016/j.ijpharm.2013.03.023.
 Tanaka, H., Iwao, Y., Izumikawa, M., Sano, S., Ishida, H., Noguchi, S., Itai, S., 2016.
 Preparation of orally disintegrating tablets containing powdered tea leaves with
 enriched levels of bioactive compounds by means of microwave irradiation
-
-10
-
-

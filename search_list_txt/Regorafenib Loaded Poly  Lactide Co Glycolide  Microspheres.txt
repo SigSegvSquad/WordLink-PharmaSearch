@@ -1,4 +1,3 @@
-
 abstract
 
 Transarterial chemoembolization (TACE) has been widely introduced to treat hepatocellular
@@ -189,65 +188,6 @@ using syringe filters (ClarinertTM , Nylon, 0.22 μm). The filtered
 supernatant was diluted with the separated solvents and
 analyzed by Ultra Performance Liquid Chromatography (UPLC)
 using Waters ACQUITY H-Class (Milford, USA). Briefly, 1 μl of
-
-Table 1 – Preparation of REGO microspheres using various
-organic solvents. Data are expressed as the means ± SD
-(n = 3).
-Solvents for preparation
-
-Particle Size (μm)
-
-LC (%)
-
-LE (%)
-
-DCM
-EA-DCM (1:9)
-AC-DCM (1:9)
-DMF-DCM (1:9)
-
-98 ± 2.0
-61 ± 1.0
-56 ± 1.0
-149 ± 1.0
-
-2.1 ± 0.1
-3.7 ± 0.2
-7.3 ± 0.5
-28.6 ± 0.3
-
-83.6 ± 1.4
-57.5 ± 2.1
-48.4 ± 1.7
-91.5 ± 1.7
-
-Table 2 – REGO microspheres preparation in various ratios
-of DMF-DCM. Data are expressed as the means ± SD
-(n = 3).
-Solvent for preparation
-
-Particle Size (μm)
-
-LC (%)
-
-LE (%)
-
-DMF-DCM (1:9)
-DMF-DCM (1:4)
-DMF-DCM (3:7)
-
-149 ± 1.0
-170 ± 2.0
-200 ± 1.0
-
-28.6 ± 0.3
-27.9 ± 0.4
-29.6 ± 0.2
-
-91.5 ± 1.7
-90.2 ± 1.5
-87.1 ± 0.9
-
 the supernatant was injected onto a Waters BEH C18 column
 (100 mm × 2.1 mm, 1.7 μm) with the column temperature of
 35 °C.The mobile phase was acetonitrile-water (70:30, v/v) at
@@ -670,20 +610,6 @@ Please cite this article as: Xiang Li, Guangwei He and Feng Su et al., Regorafen
 designed to improve transarterial chemoembolization therapy for hepatocellular carcinoma, Asian Journal of Pharmaceutical
 Sciences, https://doi.org/10.1016/j.ajps.2020.01.001
 
-JID: AJPS
-
-ARTICLE IN PRESS
-
-[m7;May 23, 2020;2:35]
-
-Asian Journal of Pharmaceutical Sciences xxx (xxxx) xxx
-
-7
-
-Fig. 2 – REGO release profiles from microspheres in various
-ratios of DMF-DCM. Data are expressed as the means ± SD
-(n = 3).
-
 in REGO precipitation at the polymer-water interface, owing
 to the poor aqueous solubility of REGO.
 
@@ -771,57 +697,6 @@ Please cite this article as: Xiang Li, Guangwei He and Feng Su et al., Regorafen
 designed to improve transarterial chemoembolization therapy for hepatocellular carcinoma, Asian Journal of Pharmaceutical
 Sciences, https://doi.org/10.1016/j.ajps.2020.01.001
 
-JID: AJPS
-
-8
-
-ARTICLE IN PRESS
-
-[m7;May 23, 2020;2:35]
-
-Asian Journal of Pharmaceutical Sciences xxx (xxxx) xxx
-
-Table 3 – IC50 values of miriplatin and the resistance index of cell lines. Data are expressed as the means ± SD (n = 5).
-Cell lines
-
-Induced drug
-
-IC50 values (μg/ml)
-
-Resistance index
-
-HepG-2
-HepG2/MIRI-REGO 0
-HepG2/MIRI-REGO 0.5
-HepG2/MIRI-REGO 1.0
-HepG2/MIRI-REGO 2.0
-
-/
-Miriplatin
-Miriplatin + REGO (0.5 μmol/l)
-Miriplatin + REGO (1.0 μmol/l)
-Miriplatin + REGO (2.0 μmol/l)
-
-2.21 ± 0.03
-30.08 ± 0.61∗∗∗
-14.43 ± 0.27∗∗∗
-12.80 ± 0.47∗∗∗
-6.43 ± 0.32∗∗∗
-
-/
-13.61
-6.53
-5.79
-2.91
-
-∗∗∗
-
-P < 0.001, compared with HepG-2.
-
-Fig. 4 – XRD profiles of (A) REGO, (B) physical mixture of
-blank microspheres and REGO, (C) REGO microspheres, and
-(D) blank microspheres.
-
 3.5.
 Effect of REGO on drug resistance of HepG-2 induced
 by miriplatin
@@ -845,11 +720,6 @@ the sensitivity of the drug resistant cell HepG2/MIRIREGO 0.5, HepG2/MIRI-REGO 1
 to miriplatin was enhanced, and evidenced by greatly
 significant decrease in IC50 values (P < 0.001) of 14.43 ± 0.27,
 12.80 ± 0.47 and 6.43 ± 0.32 μg/ml, respectively. Meanwhile,
-
-Fig. 5 – Effects of REGO on drug resistance of HepG-2 cells
-induced by miriplatin. Data are expressed as the means ±
-SD (n = 5).
-
 the resistance index was also decreasing as 6.53, 5.79 and 2.91,
 respectively.
 As demonstrated in Fig. 5, the IC50 values were reduced
@@ -880,20 +750,6 @@ was found that supernatants from REGO microspheres and
 Please cite this article as: Xiang Li, Guangwei He and Feng Su et al., Regorafenib-loaded poly (lactide-co-glycolide) microspheres
 designed to improve transarterial chemoembolization therapy for hepatocellular carcinoma, Asian Journal of Pharmaceutical
 Sciences, https://doi.org/10.1016/j.ajps.2020.01.001
-
-JID: AJPS
-
-ARTICLE IN PRESS
-
-[m7;May 23, 2020;2:35]
-
-9
-
-Asian Journal of Pharmaceutical Sciences xxx (xxxx) xxx
-
-Table 4 – Plasma PK parameters of miriplatin (Pt) and
-REGO after TACE in rabbits. Data are expressed as the
-means ± SD (n = 6).
 
 Fig. 6 – Cytotoxic effects of sample supernatants obtained
 for different incubation time (1 d, 3 d or 7 d) on HepG2 cell
@@ -939,43 +795,6 @@ In order to evaluate the anti-angiogenesis effect of REGO
 microspheres, HUVECs tube formation assay was performed
 in different samples for 7 d incubation, in which VEGF
 inhibitor (bevacizumab) as positive control. As shown in
-
-Parameters
-
-Miriplatin (Pt)
-
-REGO
-
-T1/2 (h)
-Tmax (h)
-Cmax (ng/ml)
-AUC0–t (hng/ml)
-AUC0–∞ (hng/ml)
-
-607.9 ± 145.6
-14.0 ± 4.9
-395.2 ± 84.1
-203,131.5 ± 56,881.4
-368,008.1 ± 101,657.9
-
-576.8 ± 68.8
-68.0 ± 108.6
-2.5 ± 0.4
-950.6 ± 179.3
-1792.0 ± 447.2
-
-Fig. 7A and 7B, supernatants from miriplatin or blank
-microspheres revealed no inhibitory effects on tube
-formation, with counting results of endothelial tubes
-comparable to untreated control. Supernatants of REGO
-microspheres and REGO microspheres plus miriplatin
-inhibited tube formation significantly, with comparable
-inhibitory levels to bevacizumab group. The results implied
-that REGO released from the microspheres resulted in antiangiogenic effects, consistent with the expected results of
-REGO microspheres in our design. It could be found that REGO
-microspheres not only inhibited the tumor cells proliferation
-but also tumor neovascularization.
-
 3.8.
 
 In vivo pharmacokinetics study
@@ -1018,23 +837,6 @@ slow-down for tumor growth in relative to the miriplatin
 Please cite this article as: Xiang Li, Guangwei He and Feng Su et al., Regorafenib-loaded poly (lactide-co-glycolide) microspheres
 designed to improve transarterial chemoembolization therapy for hepatocellular carcinoma, Asian Journal of Pharmaceutical
 Sciences, https://doi.org/10.1016/j.ajps.2020.01.001
-
-JID: AJPS
-
-10
-
-ARTICLE IN PRESS
-
-[m7;May 23, 2020;2:35]
-
-Asian Journal of Pharmaceutical Sciences xxx (xxxx) xxx
-
-Fig. 7 – The effects of bevacizumab as VEGF inhibitor (positive control) and supernatants of samples on endothelial tube
-formation. (A) Representative photomicrographs of endothelial tube assay. (B) Counting results of endothelial tubes. Data are
-expressed as the means ± SD (n = 5). ∗ P < 0.05, compared with untreated control, # P < 0.05 between conditions.
-
-Fig. 8 – Plasma concentration profiles of miriplatin (Pt) and REGO after TACE in rabbits. Data are expressed as the means
-± SD (n = 6).
 
 monotherapy group (P < 0.05). On day 17, animals in blank
 microspheres group performed a high average tumor weight
@@ -1209,19 +1011,10 @@ Jiangsu Higher Education Institutions. The authors finally
 thank Public platform of State Key Laboratory of Natural
 Medicines for assistance with scanning electron microscopy.
 
-[11]
-
-[12]
-
-[13]
-
-[14]
-[15]
 
 Supplementary materials
 Supplementary material associated with this article can be
 found, in the online version, at doi:10.1016/j.ajps.2020.01.001.
-[16]
 
 references
 
@@ -1260,24 +1053,6 @@ Hepatol 2017;16(2):247–54.
 [9] Pawlik TM, Reyes DK, David C, Kamel IR, Nikhil B,
 Geschwind JFH. Phase II trial of sorafenib combined with
 concurrent transarterial chemoembolization with
-
-[17]
-
-[18]
-
-[19]
-
-[20]
-
-[21]
-
-[22]
-
-[23]
-
-[24]
-
-[25]
 
 drug-eluting beads for hepatocellular carcinoma. J Clin
 Oncol 2011;29(30):3960–7.
