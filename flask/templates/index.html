@@ -22,7 +22,7 @@
             margin: 50px;
         }
 
-        .search-results{
+        #search-results{
             margin: 20px 30px;
         }
 
@@ -43,20 +43,52 @@
 <div id="search-form">
     <img id="logo" src="{{url_for('static', filename='logo.JPG')}}" width="400px" />
     <div class="input-group mb-3">
-  <input type="text" class="form-control" placeholder="Enter search query..." aria-label="Enter search query..." aria-describedby="button-addon2">
+  <input type="text" class="form-control" placeholder="Enter search query..." aria-label="Enter search query..." aria-describedby="button-addon2" id="query">
   <div class="input-group-append">
-    <button class="btn btn-outline-secondary" type="button" id="search-btn">Search</button>
+    <button class="btn btn-outline-secondary" type="button" id="search-btn" onclick="get_results()">Search</button>
   </div>
 </div>
 </div>
 
-<div class="search-results">
+<div id="search-results">
     <h2 style="font-family: Bahnschrift; color: #130438">Search Results</h2>
-    <div class="result-row">
-        <a href="#"><h3>COVID VACCINE IS OUT!</h3></a>
-        <p>THIS IS A JOKE...</p>
-    </div>
 </div>
 
 </body>
+
+<script>
+
+
+    function get_results() {
+
+        let query = document.getElementById("query").value;
+
+        let requestOptions = {
+            method: 'GET',
+            redirect: 'follow'
+        };
+
+        fetch(`http://127.0.0.1:5000/get_results/${query}`, requestOptions)
+            .then(response => response.text())
+            .then(result => appendResult(result))
+            .catch(error => console.log('error', error));
+    }
+</script>
+
+<script>
+    function appendResult(result){
+        let results_div = document.getElementById("search-results");
+        result = JSON.parse(result);
+        for(let title in result) {
+            console.log(title);
+            results_div.innerHTML += `
+            <div class="result-row">
+                <a href="#"><h3>${title}</h3></a>
+                <p>This document has a similarity score of ${result[title] * 100}</p>
+            </div>
+            `;
+        }
+    }
+</script>
+
 </html>
