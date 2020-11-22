@@ -7,6 +7,8 @@ import re
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 
+from collections import OrderedDict
+
 
 class Engine(SearchEngine):
 
@@ -14,7 +16,7 @@ class Engine(SearchEngine):
 
         query_len = 0
         query_vec = np.zeros((200,))
-        result_list = dict()
+        result_list = OrderedDict()
 
         # preprocess the query
         query = re.sub('[^A-Za-z]+', ' ', query).lower()
@@ -40,5 +42,7 @@ class Engine(SearchEngine):
                     cos_sim = np.dot(vector, query_vec) / (np.linalg.norm(vector) * np.linalg.norm(query_vec))
                     if result_list[key] < cos_sim:
                         result_list[key] = cos_sim
-        return {k: v for k, v in sorted(result_list.items(), key=lambda item: item[1], reverse=True)}
+
+        result_list = sorted(result_list.items(), key=lambda item: item[1], reverse=True)
+        return result_list[:5]
 
