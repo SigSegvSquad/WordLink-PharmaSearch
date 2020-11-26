@@ -1,23 +1,5 @@
-asian journal of pharmaceutical sciences 11 (2016) 337–348
-
-HOSTED BY
-
-Available online at www.sciencedirect.com
-
-ScienceDirect
-journal homepage:www.elsevier.com/locate/ajps
-
-Review
-
 PEGylation in anti-cancer therapy: An overview
 Prajna Mishra a, Bismita Nayak b, R.K. Dey a,*
-
-Centre for Applied Chemistry, Central University of Jharkhand, Ranchi 835 205, Jharkhand, India
-Department of Life Science, National Institute of Technology, Rourkela 769 008, Odisha, India
-
-ARTICLE
-
-INFO
 
 Abstract
 
@@ -48,26 +30,11 @@ recent development of which includes fabrication of stimuli-sensitive polymers/s
 
 Keywords:
 
-mers and polymeric micelles to cope of with the pathophysiological environment of targeted
-
 PEG
-
-site with less toxic effects and more effectiveness. This overview discusses PEGylation in-
-
 PEGylation
-
-volving proteins, enzymes, low molecular weight drugs, liposomes and nanoparticles that
-
 Targeted drug delivery
-
-has been developed, clinically tried for anti-cancer therapy during the last decade.
-
 Polymers
 
-© 2016 The Authors. Production and hosting by Elsevier B.V. on behalf of Shenyang Pharmaceutical University. This is an open access article under the CC BY-NC-ND license
-(http://creativecommons.org/licenses/by-nc-nd/4.0/).
-
-1.
 
 Introduction
 
