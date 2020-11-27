@@ -1,7 +1,7 @@
 accord		agree		 Cosine Similarity = 0.23918214
 plentiful	rich		 Cosine Similarity = 0.2593529
 affluent	rich		 Cosine Similarity = 0.22438379
-astonish	overwhelm	 Cosine Similarity = 0.22421083
+astonish	overwhelm	Cosine Similarity = 0.22421083
 augment		add		     Cosine Similarity = 0.1368723
 ignore		shun		 Cosine Similarity = 0.2690468
 avoid		shun		 Cosine Similarity = 0.29339492
