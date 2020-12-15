@@ -1,0 +1,656 @@
+Journal of Microbiology, Immunology and Infection (2020) 53, 404e412
+
+Asymptomatic carrier state, acute
+respiratory disease, and pneumonia due to
+severe acute respiratory syndrome
+coronavirus 2 (SARS-CoV-2): Facts and myths
+Chih-Cheng Lai a, Yen Hung Liu b, Cheng-Yi Wang b,
+Ya-Hui Wang c, Shun-Chung Hsueh d, Muh-Yen Yen e,f,
+Wen-Chien Ko g, Po-Ren Hsueh h,i,*
+
+Keywords
+Coronavirus 2019-nCoV SARS-CoV-2 COVID-19 Asymptomatic carrier
+
+Abstract
+Since the emergence of coronavirus disease 2019 (COVID-19) (formerly known as the 2019 novel coronavirus [2019-nCoV]) in Wuhan, China in December 2019, which is caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), more than 75,000 cases have been reported in 32 countries/regions, resulting in more than 2000 deaths worldwide. Despite the fact that most COVID-19 cases and mortalities were reported in China, the WHO has declared this outbreak as the sixth public health emergency of international concern. The COVID-19 can present as an asymptomatic carrier state, acute respiratory disease, and pneumonia. Adults represent the population with the highest infection rate; however, neonates, children, and elderly patients can also be infected by SARS-CoV-2. In addition, nosocomial infection of hospitalized patients and healthcare workers, and viral transmission from asymptomatic carriers are possible. The most common finding on chest imaging among patients with pneumonia was ground-glass opacity with bilateral involvement. Severe cases are more likely to be older patients with underlying comorbidities compared to mild cases. Indeed, age and disease severity may be correlated with the outcomes of COVID-19. To date, effective treatment is lacking; however, clinical trials investigating the efficacy of several agents, including remdesivir and chloroquine, are underway in China. Currently, effective infection control intervention is the only way to prevent the spread of SARS-CoV-2.
+
+Introduction
+In December 2019, an outbreak of pneumonia due to unknown cause occurred in Wuhan, China and rapidly spread
+throughout the country within 1 month. The pathogen of
+this disease was confirmed as a novel coronavirus by molecular methods and was initially named as 2019 novel
+coronavirus (2019-nCoV); however, the World Health Organization (WHO) announced a new name on February 11,
+2020 for the epidemic disease: Corona Virus Disease
+(COVID-19). To date, COVID-19 has affected people in more
+than 28 countries/regions, including Taiwan, and has
+become a global threat.1e4 In addition, the Coronavirus
+Study Group of the International Committee on Taxonomy
+of Viruses has renamed the virus, which was provisionally
+named 2019-nCoV, as severe acute respiratory syndrome
+coronavirus-2 (SARS-CoV-2) based on phylogeny, taxonomy,
+and established practice.5 Prior to this, on January 30,
+2020, the WHO declared the COVID-19 outbreak as the sixth
+public health emergency of international concern; therefore, this outbreak constitutes a public health risk through
+the international spread of disease and requires a coordinated international response. Increased dissemination of
+information through use of the internet is associated with
+increased transmission of information from all geographical
+regions and across disciplines regarding recognition of
+SARS-CoV-2 and COVID-196; nevertheless, important factors
+associated with COVID-19, specifically age and sex distribution, incubation period, clinical features, and optimal
+treatment, remain uncertain. Therefore, herein, we performed a literature review, focusing on the epidemiological
+characteristics and clinical manifestations of COVID-19,
+including asymptomatic carrier state, acute respiratory
+disease (ARD), and pneumonia.
+
+Main
+
+Severity of COVID-19
+COVID-19 was defined as the respiratory disease caused by
+SARS-CoV-2 that emerged in China in 2019 (https://www.
+who.int/westernpacific/emergencies/covid-19).
+The
+clinical manifestations of COVID-19 are protean, which
+include asymptomatic carrier, ARD, and pneumonia of
+varying degrees of severity. First, asymptomatic cases were
+diagnosed based on positive viral nucleic acid test results,
+but without any COVID-19 symptoms, such as fever,
+
+gastrointestinal, or respiratory symptoms, and no significant abnormalities on chest radiograph7,8 However, the
+transmission of COVID-19 through asymptomatic carriers via
+person-to-person contact was observed in many reports.4,7,9,10 Second, patients with ARD defined as
+laboratory-confirmed COVID-19 cases had respiratory
+symptoms; however, chest computed tomography (CT) did
+not reveal signs of pneumonia.11 Third, patients with
+pneumonia defined as COVID-19 cases had both respiratory
+symptoms and pneumonia on chest radiograph. This category includes severe pneumonia e either respiratory rate
+30/minute, SpO2  93%, or PaO2/FiO2  300 mmHg, and a
+critical condition, characterized by respiratory failure
+requiring mechanical ventilation, shock, or other organ
+failure requiring ICU management.8
+
+Epidemiology
+As of February 21, 2020, data from the WHO revealed
+altogether 76,769 cases of COVID-19.1 Thirty-two countries
+or regions have reported confirmed cases, including mainland China, Japan, Singapore, Hong Kong Special Administrative Region (SAR), Thailand, South Korea, Taiwan,
+Australia, Malaysia, Germany, Vietnam, the United States,
+Macao SAR, the United Arab Emirates, Canada, France, the
+Philippines, the United Kingdom, Italy, India, Russia,
+Finland, Sweden, Sri Lanka, Cambodia, Nepal, Spain,
+Belgium, Iran, Egypt, Israel, and Lebanon. In addition, 643
+cases were found in international conveyance e Diamond
+Princess. China has the largest number of patients with
+COVID-19 (n Z 75,543), followed by South Korea (n Z 204),
+Japan (n Z 93), and Singapore (n Z 85). To date, the reported number of deaths is 2247 and only 11 occurred
+outside of mainland China, including two each in Hong Kong
+Special administrative regions (SAR), Iran, and Diamond
+Princess, and one each in Taiwan, South Korea, Japan,
+Philippines, and France. However, asymptomatic patients
+or patients with mild COVID-19 symptoms may not seek
+health care, nor receive diagnosis, which leads to underestimation of the burden of COVID-19.
+
+Age and sex
+Initially, most reported COVID-19 cases in Wuhan were
+adult patients; however, all of these cases had pneumonia.12e14 Their median or mean ages were 55.5, 49.0, and
+
+406
+56 years in three separate studies.12e14 A similar finding
+was observed in two recent non-peer-reviewed studies: one
+study with 1099 patients from 552 hospitals in 31 provinces
+in China, in which the median age was 47.0 years, and
+55.1% of the patients were between the ages of 15e49
+years; and a second study that included 4021 confirmed
+cases in 30 provinces of China, in which the mean age was
+49 years and 50.7% of patients were between the ages of
+20e50 years.11,15 Both these studies included ARD and
+pneumonia cases.11,15 Similarly, the Novel Coronavirus
+Pneumonia Emergency Response Epidemiology Team in
+China reported that 66.7% (n Z 29,798) of 44,672 cases of
+COVID-19 of varying degrees of severity were between 20
+and 60 years of age.8 In Korea, Ryu et al. found that the
+initial 15 cases were aged between 25 and 62 years.16
+Regarding elderly patients infected with SARS-CoV-2, one
+study showed that 14.6% (6 in 41) of patients were aged 65
+years,13 while another study showed that 15.2% (15 in 99)
+patients were aged 70 years, among pneumonia cases.12
+In addition, two non-peer-reviewed studies showed only
+153 (15.1%) patients were elderly patients aged 65
+years,11 and 407 (10.1%) patients were aged >70 years.15
+According to the recent China CDC report,8 12.0%
+(n Z 5326) of patients were aged 70 years. Regarding
+children with COVID-19, nine (0.9%) patients aged 0e14
+years were found in only one study,11 while 14 (0.35%) patients were aged 10 years in another study.15 The largest
+study in China showed that 0.9% (n Z 416) of patients were
+aged <10 years.8 Further, Wei et al. reported that nine
+infants under 1 year of age were infected with SARS-CoV-2
+in China.8 Regarding patient sex ratio, male sex comprised
+more than half of the cases in most COVID-19 studies11e14
+and the proportion of males ranged from 51.4% to
+73.2%.8,11e14,16
+Initially, approximately half of the cases had Huanan
+seafood market exposure and animal-to-human transmission was suspected.12,13 However, fewer cases had
+exposure to this seafood market and an increasing number
+of cases demonstrated human-to-human transmission.11,17
+Fortunately, no evidence was found for intrauterine infection caused by vertical transmission in women who contracted COVID-19 pneumonia in late pregnancy.18 In
+addition to family cluster infections due to human-tohuman transmission,19 nosocomial spread of SARS-CoV-2 is
+a serious concern. Indeed, one study in a Zhongnan hospital
+of the Wuhan University showed 29.0% (n Z 40) were
+medical staff and 12.3% (n Z 17) contracted COVID-19
+during hospitalization.14 Two other studies showed that
+2.1% (n Z 23) and 3.8% (n Z 1716) of patients were health
+workers.8,11
+
+Risk factors
+Although the risk factors of COVID-19 remain unclear, many
+studies reported that a significant proportion of patients
+had underlying conditions.8,11e14 For patients with SARSCoV pneumonia, Chen et al. showed that 50.5% (n Z 51)
+of patients had chronic medical illness, namely cardiovascular and cerebrovascular diseases (40.4%).12 Among 1099
+patients with SARS-CoV-2 ARD, Guan et al. showed that
+23.2% (n Z 255) of patients had at least one coexisting
+
+C.-C. Lai et al.
+disorder, and hypertension was the most common underlying disease (14.9%), followed by diabetes mellitus
+(7.4%).11 Another large study on COVID-19 cases of varying
+degrees of severity also showed that hypertension was the
+most common underlying disease (n Z 2,683, 12.8%), followed by diabetes mellitus (n Z 1,102, 5.3%), and cardiovascular disease (n Z 873, 4.2%).8 Moreover, patients with
+severe COVID-19 were more likely to have comorbidities
+than those with non-severe diseases (37.6% vs. 20.5%,
+p < 0.001).11 A similar trend was observed in another study
+of 138 hospitalized patients with SARS-CoV-2 pneumonia, in
+which 46.4% (n Z 64) of patients had comorbidities and the
+intensive care unit (ICU) patients were more likely to have
+underlying diseases compared to non-ICU patients (72.2%
+vs. 37.3%, p < 0.001).14
+In summary, these studies disclosed several significant
+findings. First, although most patients with COVID-19 were
+middle-aged adults, elderly patients and children also
+contracted COVID-19. Second, there is a higher prevalence
+of men with COVID-19 than that of women; however,
+further studies are warranted to confirm this finding. Third,
+health care workers and hospitalized patients could be
+infected by SARS-CoV-2 in the hospital setting. Finally, at
+least 20% of COVID-19 cases had underlying diseases, and
+more severe cases were more likely to have comorbidities
+than non-severe cases.
+
+Incubation period
+It is essential to know the incubation period, the time
+elapsing between the moment of exposure to an infectious
+agent and the appearance of signs and symptoms of the
+disease, for infection control and guidance for the duration
+of isolation. Initially, Li et al. used the data on exposure
+among 10 confirmed cases in Wuhan to estimate the mean
+incubation period, which was 5.2 days (95% confidence interval [CI], 4.1e7.0); the 95th percentile of the distribution
+was 12.5 days (95% CI, 9.2e18).20 One estimation based on
+125 patients with clearly defined exposure periods in China
+indicated that the median incubation period was 4.75
+(interquartile range: 3.0e7.2) days.15 Using the travel history and symptom onset of 88 confirmed cases that were
+detected outside of Wuhan in the early outbreak phase,
+Backer et al. estimated that the mean incubation period
+was 6.4 days (95% credible interval: 5.6e7.7), ranging from
+2.1 to 11.1 days (2.5th to 97.5th percentile).21 However,
+Guan et al., using a large sample for estimation, suggested
+that the median incubation period was only 3.0 days, but
+could be as long as 24 days.11 Overall, these estimates will
+be refined as more data become available. Detailed
+epidemiological information based on a larger sample of
+patients infected with COVID-19 is needed to determine the
+infectious period of SARS-CoV-2, as well as to determine
+whether transmission can occur from asymptomatic individuals during the incubation period.
+
+Clinical manifestations
+Previous reports revealed that there are asymptomatic
+patients infected with SARS-CoV-2.7,8,22 These patients can
+spread the virus and may represent a population that can
+
+Coronavirus 2 (SARS-CoV-2): facts and myths
+
+407
+
+be easily neglected in epidemic prevention. Therefore, it is
+important to identify asymptomatic patients with COVID19. Since these patients are asymptomatic, careful monitoring of the natural course of the disease and contact
+history may only identify them. Based on the current data,
+we do not know whether these patients are only asymptomatic initially after contracting the disease or if they are
+asymptomatic throughout the course of the disease.
+Among a pooled analysis of 970 patients with ARD (Table
+1) based on two studies with detail clinical characteristics,11,23 males comprised more than half of the patients
+and the mean age was 45 years. Hypertension was the most
+
+
+Data are n (%), n/N (%), and mean (SD).
+COPD, chronic obstructive pulmonary disease; ECMO, extracorporeal membrane oxygenation; NA, not available.
+
+common underlying disease, followed by diabetes mellitus.
+Approximately two-thirds of patients had cough, but only
+44.7% patients had fever. In addition, sputum production
+was observed in one-third of patients and sore throat was
+found in 14.0% of patients. Only fewer than 5% of patients
+had gastrointestinal symptoms, such as diarrhea, nausea,
+and vomiting. Meanwhile, 32.4% of patients required oxygen therapy, but none required mechanical ventilation.
+Only one patient with ARD died and the mortality rate was
+0.1%.
+Among a pooled analysis of 468 patients with pneumonia
+(Table 2) based on five studies with detailed description of
+clinical features of the disease,11e14,23 male sex comprised
+60.3% of patients and the mean age was 53 years. Approximately one-fifth of patients reported smoking history.
+Hypertension was the most common underlying disease
+(20.5%), followed by diabetes mellitus (14.4%). Additionally, 76.3% of patients had fever and 70.5% of patients
+presented cough. Furthermore, dyspnea and sputum production were observed in approximately one-third of patients. Moreover, 8% and 6% of patients had nausea/
+vomiting or diarrhea, respectively. In all, 70.9% of patients
+required oxygen therapy, and 28.8% required mechanical
+ventilation. Moreover, 5.1% and 3.1% of patients required
+renal replacement therapy and extracorporeal membrane
+oxygenation, respectively. The overall mortality was 8.2%
+(n Z 37); however, 313 (66.9%) patients remained
+hospitalized.
+Furthermore, patients with pneumonia were older, with
+a higher prevalence of smoking history, more underlying
+diseases, and were more likely to have fever, myalgia/fatigue, dyspnea, headache, and nausea/vomiting compared
+to patients with ARD (all p < 0.05) (Table 3). In addition,
+pneumonia cases presented a higher white blood cell count
+and neutrophil count, but had a reduced leukocyte count
+compared to ARD cases. Serum procalcitonin levels of
+0.5 ng/mL were found in 6.1% (6/99),12 7.7% (3/39),13 to
+13.7% (16/117),11 among SARS-CoV-2 pneumonia patients
+reported from three studies.11e13 Moreover, patients with
+pneumonia were more likely to require oxygenation therapy, mechanical ventilator, renal replacement, and extracorporeal membrane oxygenation, and received more
+antibiotics and antiviral therapy than patients with ARD.
+Finally, pneumonia was associated with a higher mortality
+rate than ARD (p < 0.0001).
+
+Image
+Based on the findings of 1099 ARD cases of COVID, only
+14.7% (n Z 162) of patients had an abnormal chest radiograph.11 In contrast, 840 (76.4%) patients had abnormal and
+diverse chest CT images, in which ground-glass opacity
+(GGO) was the most common abnormality (n Z 550, 65.5%),
+followed by local patchy shadowing (n Z 409, 48.7%), and
+interstitial abnormalities (n Z 143, 17.0%). In addition, 505
+(50.1%) had bilateral involvement.11 The predominance of
+GGO and bilateral involvement in chest CT is consistent
+with previous studies.24e26 In contrast, other types of abnormalities, such as cavitation, pleural effusion, and
+lymphadenopathy, were not found.24,27 As the disease
+progressed, follow-up CT showed enlargement and
+
+
+C.-C. Lai et al.
+
+Data are n (%), n/N (%), and mean (SD).
+COPD, chronic obstructive pulmonary disease; ECMO, extracorporeal membrane oxygenation; NA, not available.
+
+consolidation of single GGO, an enlarged fibrous stripe, and
+solid nodules. In contrast, a small fibrous stripe, as well as
+the resolution of GGO, may be associated with improvement in the patient’s condition.28,29
+
+Treatment
+Several reports suggest the following as potential drug
+candidates, although the clinical effectiveness of these
+drugs have not yet been evidenced for COVID-19: lopinavir/
+ritonavir (Kaletra), nucleoside analogs, neuraminidase
+inhibitors, remdesivir, umifenovir (arbidol), DNA synthesis
+inhibitors (such as tenofovir disoproxil, and lamivudine),
+chloroquine, ACE2-based peptides, 3C-like protease
+(3CLpro) inhibitors, novel vinylsulfone protease inhibitor,
+
+teicoplanin, and Chinese traditional medicine (such as
+ShuFengJieDu or Lianhuaqingwen capsules).30e39 The
+effectiveness of remdesivir is more evident in the literature
+to date; indeed, it appears to be the most promising drug
+for COVID-19. In fact, an in vitro study demonstrated that
+the 50% effective concentration (EC50) of remdesivir against
+nCoV-2019/BetaCoV/Wuhan/WIV04/2019 in Vero E6 cells
+was 0.77 mM, and the 90% effective concentration (EC90)
+was 1.76 mM.31 However, only one case in the US showed a
+clinical response to remdesivir, although the viral load
+appeared to decline at the time of initiating remdesivir
+(cycle threshold from 18e20 to 23e24).33 Subsequently,
+two large clinical trials, NCT04252664 (https://
+clinicaltrials.gov/ct2/show/NCT04252664)
+for
+mild/
+moderate
+COVID-19
+and
+NCT04257656
+(https://
+clinicaltrials.gov/ct2/show/NCT04257656)
+for
+severe
+
+Coronavirus 2 (SARS-CoV-2): facts and myths
+
+409
+
+Data are n (%), n/N (%), and mean (SD).
+COPD, chronic obstructive pulmonary disease; ECMO, extracorporeal membrane oxygenation; NA, not available.
+Bold indicates p < 0.05.
+
+COVID-18, were initiated in China, with an estimated end
+date in early April 2020. In these two trials, the 10-day
+regimen of remdesivir was 100 mg once daily for 9 days
+after the loading of 200 mg on day 1.34 Chloroquine is
+another promising drug.35,36 An in vitro study on the timeof-addition assay in Vero E6 cells demonstrated that chloroquine functioned at both entry and at post-entry stages
+of COVID-19, and the EC90 value of chloroquine against the
+2019-nCoV was 6.90 mM.31 In addition, passive immunization
+therapy and the use of interferon could theoretically be
+helpful, but to date there is no evidence to validate this
+hypothesis.
+Systemic corticosteroid was administered in 18.6%e
+44.9% patients in order to control the inflammatory
+response caused by SARS-CoV-2 in 4 initial large studies.11e14 However, corticosteroid therapy could be associated with delayed MERS-CoV RNA clearance (adjusted
+hazard ratio, 0.35; 95% CI, 0.17e0.72; p Z 0.005) for critically ill patients with MERS,40 and early corticosteroid
+treatment could be associated with higher subsequent
+plasma RNA load of SARS-CoV for adults with SARS.41
+Moreover, corticosteroid-associated psychosis and diabetes were observed in the treatment of SARS.42,43 Thus,
+clinical use of corticosteroids in the treatment of COVID-19
+was not recommended in the interim, unless indicated for
+another reason.44,45
+
+Outcomes
+According to WHO reports, the overall mortality rate for
+COVID-19 was 2.9% (2247 in 76,769),1 however, the mortality rate varied among studies. Initial studies reported
+that the mortality rate associated with SARS-CoV-2 pneumonia ranged from 11%12 to 15%,13 but later studies
+revealed that the mortality rate was between 1.4%11 and
+4.3%.14 The differences in the results among different
+studies could be due to the study population, as well as the
+differences among the studies in terms of disease severity.
+In addition, these results need further clarification, since a
+majority of the reported mortality was all-cause mortality,
+not COVID-attributed mortality; also, the outcome measurement was incomplete because many patients remained
+hospitalized before publication of the results.
+Several prognostic factors of COVID-19 were also reported in these studies. In one study using the MulBSTA
+score system,46 which includes six indices, namely multilocular infiltration, lymphopenia, bacterial co-infection,
+smoking history, hypertension, and age, revealed that
+these indices were poor prognostic factors.12 Another study
+showed similar findings, and specifically the indicators of
+disease severity, including oxygenation, respiratory rate,
+leukocyte/lymphocyte count, and the chest imaging findings, were associated with a poor clinical outcome.11
+Moreover, a substantially elevated case-fatality rate
+included the following patient characteristics: male sex,
+60 years of age, baseline diagnosis of severe pneumonia,
+and delay in diagnosis.15 Similarly, the China CDC reported
+that patients aged 80 years had the highest case fatality
+rate, 14.8%, among different age groups, and the case
+
+410
+fatality rate of patients in which disease severity was
+critical was 49.0%.8 Together, these findings suggest that
+old age and increased disease severity could predict a poor
+outcome.
+In this stage of lack of effective drugs, the implementation of infection control interventions and traffic
+control bundle to effectively limit droplet, contact, and
+fomite transmission is the only way to slow the spread of
+the SARS-CoV-2. These infection control interventions
+include early identification of cases and their contacts,
+avoiding close contact with people with airway symptoms,
+appropriate hand washing, and enhanced standard infection prevention, and control practices in the healthcare
+setting.47,48
+
+Uncertain issues
+Although information on COVID-19 has increased rapidly
+since the emergence of SARS-CoV-2, many issues remain
+unresolved. First, the clinical manifestation of COVID-19
+ranges from the asymptomatic carrier state to severe
+pneumonia; however, most early reports only showed the
+findings of SARS-CoV-2 pneumonia, in which the ratio of
+male patients was much larger than that of female patients, there were no pediatric cases, and the mortality
+rate was high.12e14 Subsequent to the publication of the
+studies of patients with only ARD or mild pneumonia, we
+found the ratio of male-to-female patients decreased,
+children or neonates could contract COVID-19, and the
+mortality rate declined compared to that of previous reports.8,11 However, whether children were less susceptible
+to SARS-CoV-2, or their presentation was mostly asymptomatic or difficult to detect, remains unclear.49 In addition, most studies, especially those with a large patient
+population, were conducted in China, and the study of
+asymptomatic carriers was limited. More studies are
+needed to clarify the epidemiologic characteristics of
+COVID-19 and to identify the risk and prognostic factors of
+patients infected with SARS-CoV-2. Second, Zou et al. reported that the viral load detected in asymptomatic patients was similar to that found in symptomatic patients;
+however, the viral loads from patients with severe diseases
+were higher than those in patients with mild-to-moderate
+presentations. Moreover, higher viral loads were detected
+in the nose than in the throat.50 As there is a concern of
+virus spread due to severe cough induced by performing a
+throat swab, nasal swab may be a relatively safe and sensitive alternative to collect the respiratory specimen of
+patients with COVID-19. However, this study involved a
+population of only 18 patients, including one asymptomatic
+patient.49 In addition, every test has its own limitation and
+sensitivity/specificity; however, the studies investigating
+the performance of current diagnostic methods of SARSCoV-2 among different COVID-19 populations, including
+asymptomatic carriers, ARD, and pneumonia, are lacking.
+The false positive and negative rates of each diagnostic tool
+among patients with COVID-19 presenting varying degrees
+of severity of the disease remain unknown. This type of
+information is important for screening patients with COVID19 and to aid isolation and infection control strategies.
+Finally, since SARS-CoV-2 can be detected in the
+
+C.-C. Lai et al.
+asymptomatic individual, the prophylactic or pre-emptive
+use of effective anti-viral agents to reduce the viral load
+and decrease the risk of virus spread from asymptomatic
+carriers may help to control the spread of COVID-19.
+
+Conclusion
+This review provides updated information about COVID-19.
+SARS-CoV-2 can affect patients of all ages. COVID-19 can
+present as asymptomatic carriage, ARD, and pneumonia.
+Severe cases are more likely to be older and to have
+increased underlying comorbidities compared to mild
+cases. Age and disease severity can be correlated with the
+outcomes of COVID-19. To date, effective treatment for
+SARS-CoV-2 is lacking; however, two trials investigating the
+clinical efficacy of remdesivir are underway in China.
+Currently, effective infection control intervention is the
+only way to prevent the spread of SARS-CoV-2.
+
+References
+1. WHO.
+https://www.who.int/docs/default-source/
+coronaviruse/situation-reports/20200221-sitrep-32-covid-19.
+pdf?sfvrsn&equals;4802d089_2. [Accessed on 21 February 2020].
+2. Lee PI, Hsueh PR. Emerging threats from zoonotic
+coronaviruses-from SARS and MERS to 2019-nCoV. J Microbiol
+Immunol
+Infect
+2020;53:365e7.
+https:
+//doi.org/10.1016/j.jmii.2020.02.001.
+3. Huang WH, Teng LC, Yeh TK, Chen YJ, Lo WJ, Wu MJ, et al.
+2019 novel coronavirus disease (COVID-19) in Taiwan: reports
+of two cases from Wuhan, China. J Microbiol Immunol Infect
+2020;53:481e4. https://doi.org/10.1016/j.jmii.2020.02.009.
+4. Liu YC, Liao CH, Chang CF, Chou CC, Lin YR. A locally transmitted case of SARS-CoV-2 infection in Taiwan. N Engl J Med
+2020 Feb 12. https://doi.org/10.1056/NEJMc2001573.
+5. Gorbalenya AE, Baker SC, Baric RS, de Groot RJ, Drosten C,
+Gulyaeva AA, et al. Severe acute respiratory syndrome-related
+coronavirus: the species and its viruses e a statement of the
+Coronavirus Study Group. 2020. 2020.02.07.937862.
+6. Lai CC, Shih TP, Ko WC, Tang HJ, Hsueh PR. Severe acute
+respiratory syndrome coronavirus 2 (SARS-CoV-2) and corona
+virus disease-2019 (COVID-19): the epidemic and the challenges. Int J Antimicrob Agents 2020 Feb 17. https:
+//doi.org/10.1016/j.ijantimicag.2020.105924.
+7. Bai Y, Yao L, Wei T, Tian F, Jih DY, Chen L, et al. Presumed
+asymptomatic carrier transmission of COVID-19. J Am Med
+Assoc 2020 Feb 21. https://doi.org/10.1001/jama.2020.2565.
+8. The Novel Coronavirus Pneumonia Emergency Response
+Epidemiology Team. The epidemiological characteristics of an
+outbreak of 2019 novel coronavirus disease (COVID-19) e
+China. China CDC Weekly; 2020.
+9. Rothe C, Schunk M, Sothmann P, Bretzel G, Froeschl G,
+Wallrauch C, et al. Transmission of 2019-nCoV infection from
+an asymptomatic contact in Germany. N Engl J Med 2020 Jan
+30. https://doi.org/10.1056/NEJMc2001468.
+10. Yu P, Zhu J, Zhang Z, Han Y, Huang L. A familial cluster of
+infection associated with the 2019 novel coronavirus indicating
+potential person-to-person transmission during the incubation
+period. J Infect Dis 2020 Feb 18. https://doi.org/10.1093/infdis/jiaa077. pii: jiaa077.
+
+Coronavirus 2 (SARS-CoV-2): facts and myths
+11. Guan WJ, Ni ZY, Hu Y, Laing WH, Ou CQ, He JX, et al. Clinical
+characteristics of 2019 novel coronavirus infection in China.
+medRxiv
+2020
+Feb
+9.
+https:
+//doi.org/10.1101/2020.02.06.20020974. preprint.
+12. Chen N, Zhou M, Dong X, Qu J, Gong F, Han Y, et al. Epidemiological and clinical characteristics of 99 cases of 2019 novel
+coronavirus pneumonia in Wuhan, China: a descriptive study.
+Lancet 2020;395:507e13. https://doi.org/10.1016/S01406736(20)30211-7.
+13. Huang C, Wang Y, Li X, Ren L, Zhao J, Hu Y, et al. Clinical
+features of patients infected with 2019 novel coronavirus in
+Wuhan,
+China.
+Lancet
+2020;395:497e506.
+https:
+//doi.org/10.1016/S0140-6736(20)30183-5.
+14. Wang D, Hu B, Hu C, Zhu F, Liu X, Zhang J, et al. Clinical
+characteristics of 138 hospitalized patients with 2019 novel
+coronavirus-infected pneumonia in Wuhan, China. J Am Med
+Assoc 2020 Feb 7. https://doi.org/10.1001/jama.2020.1585.
+15. Yang Y, Lu Q, Liu M, Wang Y, Zhang A, Jalali N, et al. Epidemiological and clinical features of the 2019 novel coronavirus
+outbreak in China. medRxiv 2020 Feb 11. https:
+//doi.org/10.1101/2020.02.10.20021675.
+16. Ryu S, Chun BC. An interim review of the epidemiological
+characteristics of 2019 novel coronavirus. Epidemiol Health
+2020;42:e2020006.
+17. Nishiura H, Linton NM, Akhmetzhanov AR. Initial cluster of
+novel coronavirus (2019-nCoV) infections in Wuhan, China is
+consistent with substantial human-to-human transmission. J
+Clin Med 2020;9:E488. https://doi.org/10.3390/jcm9020488.
+18. Chen H, Guo J, Wang C, Luo F, Yu X, Zhang W, et al. Clinical
+characteristics and intrauterine vertical transmission potential
+of COVID-19 infection in nine pregnant women: a retrospective
+review of medical records. Lancet 2020 Feb 12. https:
+//doi.org/10.1016/S0140-6736(20)30360-3.
+19. Chan JF, Yuan S, Kok KH, To KK, Chu H, Yang J, et al. A familial
+cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a
+family
+cluster.
+Lancet
+2020;395:514e23.
+https:
+//doi.org/10.1016/S0140-6736(20)30154-9.
+20. Li Q, Guan X, Wu P, Wang X, Zhou L, Tong Y, et al. Early
+transmission dynamics in Wuhan, China, of novel coronavirusinfected pneumonia. N Engl J Med 2020 Jan 29. https:
+//doi.org/10.1056/NEJMoa2001316.
+21. Backer JA, Klinkenberg D, Wallinga J. Incubation period of 2019
+novel coronavirus (2019-nCoV) infections among travellers
+from Wuhan, China, 20-28 January 2020. Euro Surveill 2020;
+25(5). https://doi.org/10.2807/1560-7917.
+22. Chang Xu H, Rebaza A, Sharma L, Dela Cruz CS. Protecting
+health-care workers from subclinical coronavirus infection.
+Lancet Respir Med 2020 Feb 13. https://doi.org/10.1016/S22132600(20)30066-7. pii: S2213-2600(20)30066-30067.
+23. Liu J, Liu Y, Xiang P, Pu L, Xiong H, Li C, et al. Neutrophil-tolymphocyte ratio predicts severe illness patients with 2019
+novel coronaviruse in the early stage. medRxiv 2020 Feb 12.
+https://doi.org/10.1101/2020.02.10.20021584.
+24. Chung M, Bernheim A, Mei X, Zhang N, Huang M, Zeng X, et al.
+CT imaging features of 2019 novel coronavirus (2019-nCoV).
+Radiology
+2020
+Feb
+4:200230.
+https:
+//doi.org/10.1148/radiol.2020200230.
+25. Lei J, Li J, Li X, Qi X. CT Imaging of the 2019 novel coronavirus
+(2019-nCoV) pneumonia. Radiology 2020 Jan 31:200236. https:
+//doi.org/10.1148/radiol.2020200236.
+26. Pan Y, Guan H. Imaging changes in patients with 2019-nCov. Eur
+Radiol 2020 Feb 6. https://doi.org/10.1007/s00330-020-06713-z.
+27. Kanne JP. Chest CT findings in 2019 novel coronavirus (2019nCoV) infections from Wuhan, China: key points for the radiologist.
+Radiology
+2020
+Feb
+4:200241.
+https:
+//doi.org/10.1148/radiol.2020200241.
+
+411
+28. Pan Y, Guan H, Zhou S, Wang Y, Li Q, Zhu T, et al. Initial CT
+findings and temporal changes in patients with the novel
+coronavirus pneumonia (2019-nCoV): a study of 63 patients in
+Wuhan, China. Eur Radiol 2020 Feb 13. https:
+//doi.org/10.1007/s00330-020-06731-x.
+29. Duan YN, Qin J. Pre- and posttreatment chest CT findings: 2019
+novel coronavirus (2019-nCoV) pneumonia. Radiology 2020 Feb
+12:200323. https://doi.org/10.1148/radiol.2020200323.
+30. Lu H. Drug treatment options for the 2019-new coronavirus
+(2019-nCoV). Biosci Trends 2020 Jan 28. https:
+//doi.org/10.5582/bst.2020.01020.
+31. Wang M, Cao R, Zhang L, Yang X, Liu J, Xu M, et al. Remdesivir
+and chloroquine effectively inhibit the recently emerged novel
+coronavirus (2019-nCoV) in vitro. Cell Res 2020 Feb 4. https:
+//doi.org/10.1038/s41422-020-0282-0.
+32. Liu W, Morse JS, Lalonde T, Xu S. Learning from the past: possible
+urgent prevention and treatment options for severe acute respiratory infections caused by 2019-nCoV. ChemBioChem 2020 Feb 4.
+https://doi.org/10.1038/s41422-020-0282-0.
+33. Holshue ML, DeBolt C, Lindquist S, Lofy KH, Wiesman J,
+Bruce H, et al. First case of 2019 novel coronavirus in the
+United States. N Engl J Med 2020 Jan 31. https:
+//doi.org/10.1056/NEJMoa2001191.
+34. Ko WC, Rolain JM, Lee NY, Chen PL, Huang CT, Lee PI, et al.
+Arguments in favor of remdesivir for treating SARS-CoV-2 infections. Int J Antimicrob Agents 2020 Mar 6. https:
+//doi.org/10.1016/j.ijantimicag.2020.105933.
+35. Colson P, Rolain JM, Raoult D. Chloroquine for the 2019 novel
+coronavirus. Int J Antimicrob Agents 2020 Feb 17. https:
+//doi.org/10.1016/j.ijantimicag.2020.105923.
+36. Multicenter collaboration group of Department of Science and
+Technology of Guangdong Province and Health Commission of
+Guangdong Province for chloroquine in the treatment of novel
+coronavirus pneumonia. [Expert consensus on chloroquine
+phosphate for the treatment of novel coronavirus pneumonia].
+Zhonghua Jie He He Hu Xi Za Zhi 2020 Feb 20;43(0):E019.
+https://doi.org/10.3760/cma.j.issn.1001-0939.2020.0019.
+}th E, Batta G, et al.
+} cs Z, Kelemen V, Le Thai S, Csávás M, Ro
+37. Szu
+Structure-activity relationship studies of lipophilic teicoplanin
+pseudoaglycon derivatives as new anti-influenza virus agents.
+Eur J Med Chem 2018;157:1017e30.
+38. Zhou N, Pan T, Zhang J, Li Q, Zhang X, Bai C, et al. Glycopeptide antibiotics potently inhibit cathepsin L in the late
+endosome/lysosome and block the entry of Ebola virus, middle
+east respiratory syndrome coronavirus (MERS-CoV), and severe
+acute respiratory syndrome coronavirus (SARS-CoV). J Biol
+Chem 2016;291:9218e32.
+39. Balzarini J, Keyaerts E, Vijgen L, Egberink H, De Clercq E, Van
+Ranst M, et al. Inhibition of feline (FIPV) and human (SARS)
+coronavirus by semisynthetic derivatives of glycopeptide antibiotics. Antivir Res 2006;72:20e33.
+40. Arabi YM, Mandourah Y, Al-Hameed F, Sindi AA, Almekhlafi GA,
+Hussein MA, et al. Corticosteroid therapy for critically ill patients with middle east respiratory syndrome. Am J Respir Crit
+Care Med 2018;197:757e67.
+41. Lee N, Allen Chan KC, Hui DS, Ng EK, Wu A, Chiu RW, et al.
+Effects of early corticosteroid treatment on plasma SARSassociated coronavirus RNA concentrations in adult patients.
+J Clin Virol 2004;31:304e9.
+42. Lee DT, Wing YK, Leung HC, Sung JJ, Ng YK, Yiu GC, et al.
+Factors associated with psychosis among patients with severe
+acute respiratory syndrome: a case-control study. Clin Infect
+Dis 2004;39:1247e9.
+43. Xiao JZ, Ma L, Gao J, Yang ZJ, Xing XY, Zhao HC, et al. Glucocorticoid-induced diabetes in severe acute respiratory syndrome:
+the impact of high dosage and duration of methylprednisolone
+therapy. Zhonghua Nei Ke Za Zhi 2004;43:179e82.
+
+412
+44. Russell CD, Millar JE, Baillie JK. Clinical evidence does not
+support corticosteroid treatment for 2019-nCoV lung injury.
+Lancet 2020;395:473e5.
+45. Li G, Fan Y, Lai Y, Han T, Li Z, Zhou P, et al. Coronavirus infections and immune responses. J Med Virol 2020;92:424e32.
+https://doi.org/10.1002/jmv.25685.
+46. Guo L, Wei D, Zhang X, Wu Y, Li Q, Zhou M, et al. Clinical
+features predicting mortality risk in patients with viral pneumonia: the MuLBSTA score. Front Microbiol 2019;10:2752.
+https://doi.org/10.3389/fmicb.2019.02752.
+47. Patel A, Jernigan DB. 2019-nCoV CDC Response Team. Initial
+public health response and interim clinical guidance for the
+2019 novel coronavirus outbreak e United States, December
+
+C.-C. Lai et al.
+31, 2019-February 4, 2020. MMWR e Morb Mortal Wkly Rep
+2020;69:140e6.
+48. Yen MY, Schwartz J, Wu JS, Hsueh PR. Controlling Middle
+East respiratory syndrome: lessons learned from severe
+acute respiratory syndrome. Clin Infect Dis 2015;61:
+1761e2.
+49. Lee PI, Hu YL, Chen PY, Huang YC, Hsueh PR. Are children less
+susceptible to COVID-19? J Microbiol Immunol Infect 2020 Feb
+25. https://doi.org/10.1016/j.jmii.2020.02.011.
+50. Zou L, Ruan F, Huang M, Liang L, Huang H, Hong Z, et al. SARSCoV-2 viral load in upper respiratory specimens of infected
+patients. N Engl J Med 2020 Feb 19. https:
+//doi.org/10.1056/NEJMc2001737.
+
+End

@@ -1,0 +1,645 @@
+Asian Journal of Pharmaceutical Sciences 15 (2020) 356–364
+Assembling structurally customizable synthetic
+carriers of siRNA through thermodynamically
+self-regulated process
+Guang Bai, Tong Xue, Xiaotao Dong, Uday Kumar Chinta, Jia Feng, Tuo Jin∗, Fei Wu∗
+School of Pharmacy, Shanghai Jiao Tong University, Shanghai 200240, China
+
+Abstract
+
+This study demonstrates that our previously reported polywraplex, a synthetic siRNA carrier consisting of a uni-molecular polyplex core of customizable size and a self-assembled tri-block copolymer envelop, may be constructed using dendrimers as the crosslinking junctions. Replacing the branched low molecular weight PEI with polyamidoamine (PAMAM) dendrimer in the zeta potential regulated polymerization resulted in the similar network structured cationic polymer with electron microscopically visible crosslinking
+
+Keywords
+Networked cationic polymer Thermodynamically self-regulated processes siRNA delivery Unimolecular polyplex Zeta potential regulated polymerization
+
+Introduction
+While the ability of nucleic acids to express, silence, edit and
+regulate genes enable them to be powerful therapeutic agents
+in potential, the lack of safe and efficient carrier systems to
+deliver them to sites of action retarded practical applications
+[1–2]. Synthetic carriers of nucleic acids are regarded to be
+∗
+
+safe biologically and have attracted extensive research efforts,
+however, the advances are still far from satisfactory [3–5].
+The synthetic carriers most reported to date, polyplexes,
+lipoplexes, micelplexes, synthetic lipidoids, and hydrophobic
+polymer particles, were assembled rather randomly with
+arbitrary amounts of functional components immobilized
+[6–10]. Mesoporous silica nanoparticles with a variety of
+modified inner surface and dendritic cationic polymer
+
+represent alternative synthetic carrier systems of semidefined structure [11–12]. Although the nano-architectures
+of DNA or RNA may be constructed precisely through the
+preprogrammed assembly, they are less functioning because
+the building blocks are chemically homogenous to what they
+deliver [13–14]. There has yet to be a synthetic carrier of
+nucleic acids assembled as precise in structure and function
+in cell targeting as viral vectors, the nature-existing nanomachinery capable to deliver genetic materials to host cells.
+Despite the still-standing unmet need, reports in this field
+seem to have decreased dramatically in the literature in recent
+years [15]. Even though some newly emerged topic may have
+attracted public attention, lack of new strategies to overcome
+the encountered difficulties may have compromised people’s
+enthusiasm.
+To address the situation, we reported a precisely
+customizable and broadly applicable nano-vehicle for
+researchers to easily functionalize according to their specific
+needs recently [16]. This system, known as polywraplex,
+consists of a pH-responsive polyplex core of customizable
+size and a self-assembled monolayer membrane of rationally
+designed triblock copolymer membrane to immobilize
+functional components. The polyplex-forming cationic
+polymer possesses a uni-sized networked structure and
+imidazole-4,5-diimine involved backbone which was formed
+by zeta potential regulated polymerization of spermine and
+branched low molecular weight PEI through imidazole-4,5dicarbaldehyde. Since the increased zeta potential of the
+growing polymer inhibited more of the cationic reactants
+to approach, the polymerization was self-terminated at
+a size. The beauty of the art is that this size customized
+cationic polymer packed siRNA intramolecularly to form a
+uni-molecular polyplex when siRNA was gradually added into
+its solution [16]. The imidazole ring involved in the polymer
+backbone possesses a pKa of 5.9 for which endosomal pH
+may induce protonation of the ring and disruption of the
+fairly stable conjugated π bond of the imine linkages [17]. The
+self-assembled monolayer membrane was formed by triblock
+copolymer which was consisted of: a negative multicarboxyl
+saccharide head that lead the whole triblock copolymer to
+the polyplex core; a polycaprolactone (PCL) middle block that
+formed hydrophobic layer to isolate the internal and external
+water environment and to prevent siRNA from degrading by
+RNase in vivo; and a poly(ethylene glycol) (PEG) block which
+made the whole nanoparticle keep a neutralized condition
+and prohibit siRNA non-specific absorption in vivo. This triblock copolymer membrane self-assembled around the pHresponsive polyplex core may not only prevent pre-phagocytic
+siRNA leaking and charge induced non-specific binding
+but also offer a convenient way to immobilize functional
+components in the optimized surface population [18].
+To further clarify the network structure of the
+polymer, we replaced the branched low molecular PEI
+with polyamidoamine (PAMAM) dendrimer in the zeta
+potential regulated polymerization in the present study
+in order to observe the crosslinking junctions electron
+microscopically. The obtained electron microscopic images
+further indicated the expected networked structure,
+and a series of physical chemical characterizations
+(including the surface assembly) and biological assays
+
+357
+
+confirmed the same nature and functions of polyplex and
+polywraplex.
+
+2.
+
+Materials and methods
+
+2.1.
+
+Materials
+
+Imidazole-4,5-dicarbaldehyde and PEG45-PCL20-maltotrioseCOO− was synthesized as our previous study [17–
+18]. Polyamidoamine (PAMAM) G6 was purchased
+from CYD Company (Weihai, China). Spermine, PEI
+25k and dimethylformamide (DMF) were obtained
+from Sigma-Aldrich (MA, USA). Anti-VEGFA sense
+strand (5 -GGAGUACCCUGAUGAGAUCdTdT-3 ), antisense
+strand
+(5 -GAUCUCAUCAGGGUACUCCdTdT-3 ),
+Cy3
+and Cy5-labeled siRNA were all purchased from
+GenePharma (Shanghai, China). The VEGFA primer
+(forward 5 -AGGAGGGCAGAATCATCACG-3 and reverse
+5 -GATCCGCATAATCTGCATGGT-3 ) and the GAPDH primer
+(forward 5 -CCAAGGTCATCCATGACAAC-3 and reverse 5 TCCACAGTCTTCTGAGTGGC-3 ) were synthesized by and
+obtained from Sangon Biotech (Shanghai, China). U87MG
+cell line was acquired from Guo Shengrong laboratory at
+Shanghai Jiao Tong University (Shanghai, China). 5-week-old
+male Bab/c nude mice were acquired from Experimental
+animal center of Shanghai Jiao Tong University (Shanghai,
+China). The usage of animal was performed according to the
+guideline of Institutional Animal Care and Use Committee
+(IACUC) of Shanghai Jiao Tong University.
+
+2.2.
+Synthesis and characterization of the networked
+cationic polymer
+Spermine (40 mg, 0.197 mmol) in water (2 ml), Imidazole-4,5dicarbaldehyde (30 mg, 0.247 mmol) in DMF/water (1 ml/1 ml)
+were mixed and stirred at room temperature for 12 h, the
+color of the solution changed from colorless to dark red,
+following which, PAMAM (143 mg, 2.47 μmol) in water (2 ml)
+was added to the mixture dropwise for 2 h with continuous
+stirring at room temperature. The endpoint of the reaction
+was measured using dynamic laser scattering (DLS) to detect
+the size of the networked cationic polymer. At last, the
+solution was subjected to dialysis by a cutoff size 10 KDa
+cellulose membrane to remove the organic solution DMF and
+finally lyophilized to get the final polymer [16].
+
+2.3.
+Formation and characterization of polyplex and
+polywraplex
+Polyplex was formulated by dropping siRNA solution into
+networked cationic polymer in a series mass ratio of
+siRNA/cationic polymer (1/1, 1/2, 1/3, 1/5, 1/7, 1/10, 1/15
+and 1/20), incubated for 30 min at room temperature. The
+Polyetherimide 25 K (PEI 25 K) polyplex as the positive control
+group was processed through mixing siRNA solution and
+PEI 25 K solution in mass ratio (wsiRNA /wPEI25K = 1/2) in equal
+volume. The condensing ability of polyplex was confirmed
+by agarose gel electrophoresis. Polywraplex was prepared
+by dropping triblock surface copolymer into the selected
+
+358
+
+Asian Journal of Pharmaceutical Sciences 15 (2020) 356–364
+
+polyplex (wsiRNA /wcationic polymer = 1/7) solution, incubated
+for 30 min at room temperature. Both particle size and Zeta
+potential of the polyplexes and polywraplexes were measured
+using DLS (Zetasizer Nano, Malvern). Microscopic morphology
+of polyplexes and polywraplexes were determined using
+transmission electron microscope (TEM, FEI).
+
+2.4.
+
+Serum stability of polyplex and polywraplex
+
+The polyplex was formulated as presented in
+Section 2.3 (wcationic polymer /wsiRNA = 7/1), and the polywraplex
+(wtriblock copolymer /wcationic polymer = 12/1),
+followed
+by
+incubated with 50% fetal bovine serum (FBS) at 37 °C for
+48 h. Samples were taken at each time and detected using
+electrophoresis.
+
+2.5.
+
+Cell culture
+
+Human primary glioblastoma cell line U87MG was cultured in
+Dulbecco’s Modified Eagle Medium (DMEM) (Gibco) containing
+10% FBS, penicillin (100 units/ml), and streptomycin
+(100 μg/ml) in a cell incubator at 37 °C with 5% CO2 .
+
+2.6.
+Intracellular uptake of polyplex and polywraplex
+using flow cytometry
+U87MG cells were seeded onto 48-well microplates (10 × 104
+cells/well) and incubated at 37 °C for 24 h. Subsequently, Cy3labeled siRNA polyplex and polywraplex (contained siRNA
+was 500 ng/well) were added, respectively. After incubating
+for 4 h, the cells were harvested and detected using flow
+cytometry (BD). The data was assessed using FlowJo software.
+
+2.7.
+Intracellular distribution of the polyplex and
+polywraplex using confocal laser scanning microscopy (CLSM)
+U87MG cells were seeded in 12-well plate with 14 mm cover
+glass and incubated at 37 °C for 24 h (1 × 104 cells/well). The
+medium was replaced, then the Cy3-labeled siRNA (contained
+siRNA was 2000 ng) polyplex and polywraplex solution were
+added to the wells, respectively. After incubation for 4 h,
+the cells were washed three times with PBS, stained with
+LysoTracker Green (75 nM) and DAPI (2 μg/ml), and imaged
+using CLSM.
+
+2.8.
+
+Cytotoxicity of the network cationic polymer
+
+U87MG cells were seeded onto 96-well microplates and
+incubated for 24 h at 37 °C. The cytotoxicity of the network
+cationic polymer against U87MG cells was evaluated using
+Cell Counting Kit-8 (CCK8 kit, Dojindo). Following the CCK8 kit
+protocol, the cells were incubated with the network cationic
+polymer in PBS solution of concentration from 20 to 300 μg/ml
+for 4 h in which the same concentrations of PEI 25k PBS
+solution were as positive control, then the CCK-8 agent was
+added into the 96-well microplates. After 2 h, the absorbance
+at 450 nm was measured using microplate reader (Molecular
+Devices). The result was normalized to untreated cells.
+
+2.9.
+Determination of VEGFA gene silence of polyplex and
+polywraplex in U87MG cells using qPCR
+U87 MG cells were seeded onto 24 well microplates (10 × 105
+cells /well) and incubated at 37 °C for 24 h, polyplex (contained
+siRNA was 1 μg /well) were added onto the wells and
+incubated in FBS free DMEM culture for 4 h, subsequently,
+the culture was substituted with 10% FBS. After 24 h, cells
+were harvested, total mRNA was extracted using TRIzol
+(Thermofisher) and reverse transcribed into cDNA using
+PrimeScript RT reagent Kit (Takara). The real-time qPCR was
+operated using Eppendorf Mastercycler. To assess the gene
+silencing ability of polywraplex against the interference of
+FBS, polywraplex (contained siRNA was 1 μg/well) were added
+onto the wells and incubated in 10% FBS DMEM culture for
+4 h, and exchanged with fresh DMEM medium containing 10%
+FBS. After 24 h, cells were harvested and PCR reaction was
+processed as previously described.
+
+2.10.
+
+In vivo distribution of polywraplex
+
+To assess the distribution of systemic delivery of Cy5-siRNA
+polypwraplex required utilization of tumor models performed
+by inoculating U87MG cells to male BALB/c nude mice under
+the right armpits skin (2 × 106 cells). When the tumor was
+allowed to mature (volume 150–200 mm3 ), mice were divided
+into naked Cy5-labeled siRNA, Cy5-labeled siRNA polyplex,
+and Cy5-labeled siRNA polywraplex groups randomly. Each
+of the groups was intravenously injected with dosage form
+at the dose of 0.5 mg/Kg, respectively. After 24 h, the tissues
+of mice were harvested and fluorescence image using IVIS
+instrument (PerkinElmer) was performed.
+
+2.11.
+
+Tumor suppression test in vivo
+
+To evaluate the ability of tumor suppression in vivo, inoculated
+U87MG cells were injected into the mice as previously
+described. When the tumor volume reached 150–200 mm3 ,
+mice were randomly divided into four groups (6 mice each
+group): saline, naked anti-VEGFA siRNA, anti-VEGFA siRNA
+polyplex and anti-VEGFA siRNA polywraplex. The mice
+of each group were injected the dosage form at the dose
+of 0.5 mg/Kg, through the tail vein every 7 d The length
+(L) and the width (W) of the tumor were recorded during
+the period of experiment and the volume of tumor was
+calculated (V = LW2 /2). At last, the tumors were harvested,
+weighed and photographed. Body weight of mice was
+also detected every 3 d, and survival curve was drawn
+correspondingly.
+
+2.12.
+
+Evaluation of anti-angiogenetic efficacy
+
+The anti-angiogenetic therapy efficacy of the polywraplex (the
+four groups: saline, naked siRNA, polyplex and polywraplex)
+was measured by calculating the density of blood capillaries.
+The capillaries of tumor slides of each group were stained
+with rabbit anti-CD 31 antibodies.
+
+Fig. 1 – Schematic diagram of the process of uni-molecular polyplex formulation, and the subsequent utilization as a core to
+obtain assembled polywraplex encapsulated by triblock copolymers.
+
+2.13.
+
+Statistical analysis
+
+The data of each group collected were analyzed by two-way
+t-test, using OriginPro 2017 software. The value of ∗∗ P < 0.01,
+∗∗∗ P < 0.001 was considered as statistically significance (Fig. 1).
+
+Results
+
+3.1.
+Synthesis of network cationic polymer through
+thermodynamically interlocked method
+
+A thermodynamically interlocked method was utilized
+to construct a network cationic polymer, which was
+polymerized by condensing PAMAM and oligo-spermineimidazole-diimine through imine which was pH-responsible
+
+in biological condition according to previously study [17]. The
+oligo-spermine-imidazole-diimine was condensed by mixing
+imidazole-4,5- dicarbaldehyde and spermine in a mole ratio
+5/4 for 12 h. At the end of the reaction, the generation of Zeta
+potential around the network cationic polymer would prohibit
+additional cationic materials from further polymerizing,
+giving rise to a thermodynamic interlocked method, following
+which a network cationic polymer of the mean particle
+diameter of 408 nm was thermodynamically synthesized.
+Similarity of the structure to dendrimers, with increasing in
+diameter, the molecular weight (MW) doubles, the MW
+of PAMAM dendrimer 6 generation was 58048 Dalton and
+diameter was 6.7 nm, the MW of network cationic polymer
+was high, approximately tens of millions Dalton and couldn’t
+be detected accurately using the molecular weight analysis
+method, size-exclusion chromatography. The H-NMR of the
+network cationic polymer (DMSO-d6, ppm): 8.45-8.38 (m,
+
+
+Fig. 2 – The structure characterization of the networked cationic polymer, polyplex and polywraplex. (A) 1H-NMR of
+networked cationic polymer; (B) Image of agarose electrophoresis of polyplex in a series of the mass ratio of
+siRNA/networked cationic polymer; (C) Particle size and zeta potential of polyplex upon addition of siRNA into the
+networked cationic polymer; (D) Change of particle size and zeta potential during formulating polywraplex.
+
+=NH-), 8.06-7.73 (m, Ar-H), 3.56-2.16 (m, -CH2-CH2-), is as
+shown in Fig. 2A.
+
+3.2.
+Formation and characterization of polyplex and
+polywraplex
+As shown in Fig. 2B, the image of the electrophoresis indicated
+that cationic polymer could condense the siRNA completely,
+when mass ratios of network cationic polymer/siRNA were
+more than 1:1. As shown in Fig. 2C, the particle shrank from
+its maximum size at 408 to 81 nm as siRNA was gradually
+dropping to the polymer solution in the mass ratio from
+1/20 to 1/5. Then the diameter regained to near 200 nm
+after continuously adding siRNA. The shrinkage of particles
+was attributed to the siRNA encapsulated into the cationic
+polymer by the electrostatic forces. When a charged particle
+collapsed to a smaller size due to neutralization or partial
+neutralization, the oppositely charged species must be located
+inside the particle. After that, upon further addition of siRNA,
+the particle gradually rebounded to near 200 nm, which was
+initiated by the condensation ability of the cationic polymer
+being saturated, no further the siRNA could enter into them.
+Meanwhile, the decrease of zeta potential gradually deprived
+stability of the individual particles in solution, inducing the
+inter-particulate condensation.
+The core of polywraplex was constructed using polyplex
+(wcationic polymer /wsiRNA = 7/1), since the mRNA expression
+suppression of polyplex was optimum in the mass ratio at
+7/1 shown in Fig. 5B and the diameter was about 100 nm
+shown in Fig. 2C which was prone to enhanced permeability
+and retention (EPR) effect [19]. The mass ratio of triblock
+copolymer/cationic polymer (w/w = 12/1) was used to surface
+layer of formulated polywraplex because that the surface
+of particle presented neutralization shown zeta potential
+decreased to 0 mV in Fig. 2D. The decreased reason of zeta
+potential was due to the surface positive charge of polyplex
+neutralized by excessive negative charged triblock copolymer,
+according to previous studies in this project [18].
+
+As the image of TEM shown in Fig. 3A, the networked
+cationic polymer was connected with the black crosslinking
+junction on the TEM photograph, indicating that the
+whole polymers were consisted of branched PAMAM G6
+and the linear oligo-spermine-imidazole-4,5-diimine to
+form networked structure. As shown in Fig. 3B, the image
+demonstrated that the polyplexes in the mass ratio of 7/1
+could condense the siRNA effectively. Under the 0.5 μm scale,
+polyplexes were well-formed, spherical with a particle size
+of about 100 nm. The TEM image of polywraplexes showed
+that morphology of the particle was near sphere and the size
+at about 200 nm larger than polyplexes, as shown in Fig. 3C.
+both of the particles sizes were less smaller than DLS data
+shown in Fig. 2C and 2D since DLS detects the hydrodynamic
+size of particle which is swollen in water condition compared
+to the dried state of TEM sample, meanwhile, the asymmetric
+surface monolayer of polywraplex with low electronic density
+was not clearly visible by TEM.
+
+3.3.
+
+Serum stability of polyplex and polywraplex
+
+As shown in Fig. 4A. the image of the electrophoresis agarose
+gel demonstrated that the degradation time of the siRNA
+in polyplex is consistency with Naked siRNA was about
+6 h, for positive polyplexes are believed to induce strong
+interaction with the compositions in the FBS for which may
+lose the ability to protect the siRNA [18]. When siRNA amid
+polywraplex, it could be detected until 48 h since the surface
+tri-block copolymer membrane could play the role of guardian
+to avoid degrading in serum.
+
+3.4.
+Determination of intracellular uptake efficiency of
+polyplex and polywraplex in U87MG cells using flow
+cytometry
+The intracellular uptake efficiency of the polyplexes and
+polywraplexes in U87MG cells was measured using flow
+cytometry. As shown in Fig. 4B, the uptake efficiency of
+
+polyplexes in different mass ratios from 7/1 to 15/1 was
+almost the same with PEI 25 K group, which was the gold
+standard of gene non-viral vector but owned high cytotoxicity.
+When FBS excised in the medium shown in Fig. 4C, the uptake
+efficiency of polyplex was lower than polywraplex. The nearly
+30 eV cationic charges of the naked polyplexes were believed
+to induce strong interaction with the proteins in the FBS for
+which may compromise the polyplexes to interact with the
+target cells. In the case of polywraplexes, since the surface
+charges were neutralized/covered by the tri-block copolymer
+membrane, the particles had better accessibility with the
+target cells.
+
+3.5.
+Intracellular distribution of the polyplex and
+polywraplex using CLSM
+The intracellular distribution of the polyplex and the
+polywraplex was measured using CLSM. As shown in Fig. 4D,
+the red dots (Cy3-labeled siRNA polyplex) can overlap with the
+green dots (LysoTrack Green- labeled lysosomes) indicating
+
+that polyplexes were successfully uptaken by the U87MG
+cells in the FBS free medium. At the same time, polywraplex
+could transfect siRNA more effectively than polyplex in the
+FBS 10% medium. The Cy3-labeled siRNAs were presented in
+the cytoplasm, which was the destination for them to play
+the role of silence instead of cell nucleus. The results indicate
+that the polywraplex can protect siRNA from degrading and
+can effectively take siRNA into the cytoplasm. These results
+were consistent with the data of cellular uptake experiment.
+
+3.6.
+
+Cytotoxicity of the network cationic polymer
+
+As shown in Fig. 5A, cytotoxicity of the network cationic
+polymer was tested through the viability of U87MG cells
+treated with a serious concentration of the polymers. While
+PEI 25 K was as positive control, the viability of the networked
+cationic polymer was higher than PEI 25 K in U87MG cells
+in concentration from 20 to 300 μg/ml. The differentiation of
+cytotoxicity of two polymers may be due to the components
+of the cationic polymer which was linked with pH-sensitive
+
+Fig. 5 – (A) viability of U87MG cells treated with the networked cationic polymer; (B) gene knockdown efficiency of polyplex
+in FBS free DMEM medium (contained siRNA was 1 μg/well); (C) gene knockdown efficiency of polywraplex in DMEM
+medium with FBS 10% (contained siRNA was 1 μg/well); (D) the NIR image of tissue distribution in tumor-bearing nude mice
+administrated systemically after 24 h of each group: (a) naked siRNA, (b) Cy5-siRNA polyplex and (c) Cy5-siRNA polywraplex.
+
+chemical bonds relative to the PEI which was linked more
+stably in low pH environments [5].
+
+3.7.
+Determination of VEGFA gene silencing of polyplex
+and polywraplex in U87MG cells using qPCR
+When polyplexes formed in a series of mass ratio were
+used to transfect vascular endothelial growth factor A
+silence siRNA(anti-VEGFA siRNA) into U87 MG cells, the
+one (wcationic polymer /wsiRNA = 7//1) showed the higher silence
+ability at lower mass ratio than the other groups in FBS free
+medium shown in Fig. 5B. So this mass ratio was selected
+to construct the next step formulation (polywraplex). In the
+10% FBS medium, polywraplex demonstrated more efficiently
+silencing effect compared to other groups, as shown in
+Fig. 5C. The results indicated that the polywraplex coated
+with surface triblock copolymer could prevent siRNA from
+degrading and transfect the gene into the U87MG cells, which
+were consistent with intracellular uptake and distribution
+experiment.
+
+3.8.
+
+Distribution of Cy5-labeled siRNA in vivo
+
+Each of siRNA formulation demonstrated different organtargeted affinity shown in Fig. 5D. Naked siRNA was prone to
+accumulating and clearing in kidney since its particle size less
+than 10 nm could pass the glomerular filtration. The cationic
+polyplex mainly accumulated in liver for its particle size
+about 100 nm according to EPR effect. The polywraplex group
+showed the most fluorescent intensity in tumor than the
+other groups, because that its neutralized and PEG-stabilized
+surface were facilitated to be trapped by tumor according to
+EPR effect.
+
+3.9.
+
+In vivo tumor suppression
+
+As shown in Fig. 6A, polywraplex group demonstrated
+significant difference compared to saline group and Naked
+siRNA group, owning the largest reduction in volume of the
+tumor. The body weight curve of mice in Fig. 6B shows that the
+differentiation of each group is not significant and no mice
+died during the experiment. As shown in Fig. 6C and 6D, both
+the weight and images of tumors from polywraplex group
+showed the lowest volume in all experiment groups, which
+indicated that the polywraplex siRNA system can efficiently
+deliver the siRNA to the tumor tissues. The average tumor
+relative weights for the four experiment groups were 100%,
+91%, 67%, and 39%, respectively, shown in Fig. 6C. The results
+indicated that polywraplex with triblock surface membrane
+could more efficiently deliver to tumor, which was consistent
+with siRNA distribution experiment in vivo.
+
+3.10.
+
+Evaluation of anti-angiogenetic efficacy
+
+The anti-angiogenetic efficacy of polywraplex loading antiVEGF siRNA was evaluated by calculating the nascent
+capillary density. As shown in Fig. 7A, the microscopic images
+of tumor slides, which stained with CD-31 antibody form each
+group of mice receiving the four dosage forms, respectively
+the capillary densities decreased significantly in polywraplex
+group, compared to saline, naked siRNA and polyplex groups.
+The average capillary densities of tumor slides for the four
+groups were 169, 161, 101 and 47 spots/slides respectively,
+which were equivalent to 100%, 95%, 59% and 27% as shown
+in Fig. 7B. The results are more remarkable than the order of
+tumor weight experiment shown in Fig. 6C. Anti-VEGFA siRNA
+directly inhibits tumor angiogenesis, consequently, lead to
+
+Fig. 6 – Results of Anti-tumor effect of U87MG tumor-bearing nude mice in vivo (Injection dosage of each mouse was
+0.5 mg/Kg/time). (A) Growth volume curves of xenograft tumor; (B) Body weight and survival curves of mice; (C) Relative
+tumor weight data and (D) photos of U87 MG tumors of each group: (a) saline, (b) naked siRNA, (c) polyplex, (d) polywraplex.
+mean±SD (n = 6).
+
+Fig. 7 – (A) Images of tumor sections stained by CD 31 antibody from four experiment group: (a) saline, (b) naked siRNA, (c)
+polyplex, (d) polywraplex and (B) quantification of capillaries of tumor. mean±SD (n = 5). ∗∗ P < 0.01, ∗∗∗ P < 0.001.
+
+a decrease of tumor weight and volume, which induced the
+differentiation between capillary density and tumor weight
+experiment.
+
+
+Conclusion
+
+In constructing size-customizable uni-molecular polyplex,
+replacing the low molecular weight branched PEI with
+dendrimers as the crosslinking junctions of the networked
+cationic polymer may offer a better-defined structure
+and electron microscopic visibility without changing the
+chemistry. The Zeta potential-regulated polymerization selfterminated at pre-determined size; the formed networked
+cationic polymer packed siRNA intramolecularly to form a
+uni-molecular polyplex; and the cationic particle adsorbed
+rationally designed tri-block copolymer to form a monolayer.
+Biologic assays comprising poly-electrolytes induced siRNA
+leaking, enzymatic degradation, and gene silencing activity
+(in vitro and in vivo) confirmed the functional similarity of this
+delivery carrier to that with PEI as the polymer crosslinking
+junctions. The polywraplexes using dendrimer as the cationic
+polymer crosslinkers may serve a useful model to feedback
+the construction processes of synthetic carriers, and a
+low generation dendrimer cationic polymer may serve as
+formulation component.
+
+Acknowledgments
+These authors G.B. performed the research; G.B. and T.X.
+drafted the manuscript; F.W. conceived the research, designed
+the experiments together with G.B. and T.J., U.K.C. revised the
+manuscript; J.F., XT.D. provided help in synthesis and animal
+experiment. This study was financially supported by the
+grant of the Natural Science Foundation of China (Grant nos.
+81373352 and 81690262). The authors appreciate the generous
+help from the faculties of the Analytical Center of Shanghai
+Jiao Tong University.
+
+
+references
+
+[1] Chen Y, Gao DY, Huang L. In vivo delivery of miRNAs for
+cancer therapy: challenges and strategies. Adv Drug Deliv
+Rev 2015;81:128–41.
+[2] Juliano RL. The delivery of therapeutic oligonucleotides.
+Nucleic Acids Res 2016;44(14):6518–48.
+[3] Li Z, Rana TM. Therapeutic targeting of microRNAs: current
+status and future challenges. Nat Rev Drug Discov
+2014;13(8):622–38.
+[4] Pack DW, Hoffman AS, Pun S, Stayton PS. Design and
+development of polymers for gene delivery. Nat Rev Drug
+Discov 2005;4(7):581–93.
+[5] Duan SY, Ge XM, Lu N, Wu F, Yuan WE, Jin T. Synthetic
+polyspermine imidazole-4,5-amide as an efficient and
+cytotoxicity-free gene delivery system. Int J Nanomedicine
+2012;7:3813–22.
+[6] Santiago-Ortiz JL, Schaffer DV. Adeno-associated virus (AAV)
+vectors in cancer gene therapy. J Control Rel
+2016;240:287–301.
+[7] Liu Y, Siriwon N, Rohrs JA, Wang P. Generation of targeted
+Adeno-associated virus (AAV) vectors for human gene
+therapy. Curr Pharm Des 2015;21(22):3248–56.
+[8] Blessing D, Deglon N. Adeno-associated virus and lentivirus
+vectors: a refined toolkit for the central nervous system. Curr
+Opin Virol 2016;21:61–6.
+[9] Yin H, Kanasty RL, Eltoukhy AA, Vegas AJ, Dorkin JR,
+Anderson DG. Non-viral vectors for gene-based therapy. Nat
+Rev Genet 2014;15(8):541–55.
+[10] Slita A, Egoroua A, Casals E, Casalsa E, Kiselev A,
+Rosenholma JM. Characterization of modified mesoporous
+silica nanoparticles as vectors for siRNA delivery. Asian J
+Pharm Sci 2018;13(6):592–9.
+
+[11] Whitehead KA, Dorkin JR, Vegas AJ, Chang PH, Veiseh O,
+Matthews J, et al. Degradable lipid nanoparticles with
+predictable in vivo siRNA delivery activity. Nat Commun
+2014;5:4277.
+[12] Lv H, Zhang S, Wang B, Cui S, Yan J. Toxicity of cationic lipids
+and cationic polymers in gene delivery. J Control Rel
+2006;114(1):100–9.
+[13] Hong CA, Eltoukhy AA, Lee H, Langer R, Anderson DG,
+Nam YS. Dendrimeric siRNA for efficient gene silencing.
+Angew Chem Int Ed 2015;54(23):6740–4.
+[14] Liu J, Song L, Liu S, Zhao S, Jiang Q, Ding B. A tailored DNA
+nanoplatform for synergistic RNAi-/chemotherapy of
+multidrug-resistant tumors. Angew Chem Int Ed
+2018;57(47):15486–90.
+[15] Dowdy SF. Overcoming cellular barriers for RNA
+therapeutics. Nat Biotechnol 2017;35(3):222–9.
+[16] Feng J, Chen S, Ge XM, Wu F, Bai G, Jin T. Precise assembly of
+synthetic carriers of siRNA through a series of interlocked
+thermodynamically self-regulated processes. Adv Funct
+Mater 2018;28(6):1703207.
+[17] Duan S, Yuan W, Wu F, Jin T. Polyspermine
+imidazole-4,5-imine, a chemically dynamic and biologically
+responsive carrier system for intracellular delivery of siRNA.
+Ange Chem Int Ed 2012;51(32):7938–41.
+[18] Ge XM, Duan SY, Wu F, Feng J, Zhu H, Jin T. Polywraplex,
+functionalized polyplexes by post-polyplexing assembly of a
+rationally designed triblock copolymer membrane. Adv
+Funct Mater 2015;25(27):4352–63.
+[19] Maeda H, Wu J, Sawa T, Matsumura Y, Hori K. Tumor
+vascular permeability and the EPR effect in macromolecular
+therapeutics: a review. J Control Rel 2000;65(1–2):271–84.
+
+End

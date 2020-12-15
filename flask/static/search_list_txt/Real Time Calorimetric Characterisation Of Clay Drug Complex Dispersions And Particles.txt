@@ -1,0 +1,42 @@
+Keywords
+Magnesium aluminium silicate
+Propranolol hydrochloride
+Isothermal titration calorimetry
+Complexation
+
+ABSTRACT
+
+Isothermal titration calorimetry (ITC) along with attenuated total reflectance Fourier transform infrared spectroscopy (ATR-FTIR), scanning electron microscopy with energy dispersive X-ray spectroscopy (SEM/EDX) and
+high-performance liquid chromatography (HPLC) were employed to investigate the process of adsorption of
+propranolol hydrochloride (PPN) onto magnesium aluminium silicate (MAS) and to characterise the MAS-PPN
+particles formed upon complexation. The composition of MAS was confirmed by infrared (IR) spectroscopy and a
+calcimeter. The calorimetric results confirmed the binding between PPN and MAS at various pHs and temperatures. The overall change in enthalpy was found to be exothermic with a comparatively small entropic
+contribution to the total change in Gibbs free energy. These findings suggest that the binding process was
+enthalpically driven and entropically unfavourable (lower affinity) suggesting hydrogen bonding and electrostatic interactions dominating the interaction. The variation of pH and temperature did not have a great impact
+on the thermodynamics of the binding process, as observed from the similarity in enthalpy (ΔH), entropy (ΔS) or
+Gibbs free energy (ΔG). A slight reduction in the binding affinity (Ka) with varing pH and temperature was
+however observed. SEM/EDX studies showed the occurrence of changes in the microstructural properties of MAS
+following complexation which may explain the potential of MAS-PPN complexes for controlled drug release
+promoting pharmaceutical innovation.
+
+Introduction
+Sustained-release drug formulation is of high importance as it
+achieves optimal therapeutic efficacy in chronic conditions where
+treatment must be administered at constant levels over a period of time,
+and provides a reduced frequency of side effects (Aulton, 2007). In
+recent years, excipients such as clay minerals have often been used as
+carriers of active ingredients to retard or modulate drug release
+(Trikeriotis and Ghanotakis, 2007; Park et al., 2008; Joshi et al., 2009;
+Meng et al., 2009; Pongjanyakul et al., 2009; Rojtanatanya and
+Pongjanyakul, 2010). Their physicochemical properties make them
+suitable to be used in the formulation of pharmaceutical dosage forms,
+as they can adsorb the active ingredient onto their structure and form
+complex dispersions and particles (Carretero and Pozo, 2009;
+Pongjanyakul et al., 2009; Rojtanatanya and Pongjanyakul, 2010;
+
+Main
+Kanjanakawinkul et al., 2013; Rongthong et al., 2013). These have been
+shown to modify the release of drugs upon administration, which would
+be desirable for drugs having a short half
+
+end

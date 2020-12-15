@@ -1,0 +1,220 @@
+Journal of
+Clinical and Experimental Pharmacology
+
+ISSN: 2161-1459
+
+Zhu and Sun, Clin Exp Pharmacol 2014, 5:1
+DOI: 10.4172/2161-1459.1000166
+
+Case Report
+
+Open Access
+
+Pharmaceutical Care in a Patient with Recurrent Infection after Liver
+Transplant
+Liqin Zhu1 and Xiaoye Sun2
+1
+2
+
+Department of Pharmacy, Tianjin First Central Hospital, Tianjin, China
+Department of Organ Transplant, Tianjin First Central Hospital, Tianjin, China
+
+Abstract
+Case (description): A case of a 57-year-old liver transplant patient with biliary drainage catheter whose recurrent
+infection was managed by clinical pharmacists. The suggestions about the choice of antibiotic regimen and the
+monitoring to other related infection factors, such as biliary drainage catheter and concentration of tracrolimus, were
+accepted and used to the patient. The state of the infected patient was improved.
+Conclusion: The antibiotics’ distribution, antibacterial effect, and drug resistance could be taken into consideration
+for the patients with recurrent infection after liver transplant. The resistance of antibiotics could be deferred by altering
+suitable antibiotics. Close care to catheter and immunosuppressants could be necessary to prevent infection for the
+patients after transplant.
+
+Keywords: Pharmaceutical care; Recurrent infection; Liver
+
+transplant
+
+Introduction
+The recurrences of bacteria and virus infection are common
+problems in liver transplant recipients because of the biliary drainage
+catheter and their extended state of immunosuppression. In recent
+years, gram-negative rods have emerged as the predominant pathogens
+in solid organ transplant (SOT) recipients [1-3]. Among these gramnegative rods, Klebsiella pneumonia (K. pneumoniae) was the most
+common bacteria identified in some case studies [3], and SOT has
+been implicated as a factor predisposing patients to K. pneumoniae
+bloodstream infection (BSI) [4]. Carbapenems, which are regarded
+as effective agents for treating K. pneumonia infection, induce the
+production and global spread of Klebsiella pneumoniae carbapenemase
+(KPC) [5]. Although polymyxin B combined with tigecycline could be
+used for carbapenem-resistant K. pneumoniae (CRKP) [6], limitations
+to the application of carbapenems are of great concern in K. pneumonia
+therapy.
+This case report provided a series of therapeutic strategies,
+from view of the clinical pharmacist, in a patient with recurrent K.
+pneumoniae infection after liver transplant.
+
+Ethical approval: No approval was necessary
+Case Report
+The patient was a 57-year-old man diagnosed with Hepatitis B
+virus (HBV)-related cirrhosis and type II diabetes. He underwent liver
+transplant surgery in December 2009. After his surgery, ursodeoxycholic
+acid and losartan potassium/hydrochlorothiazide were administered
+discontinuously and biliary drainage catheter was kept in place because
+of elevated bilirubin levels and blood pressure. Tacrolimus (FK506) was
+administered at a decreasing dose and its concentration was within the
+therapeutic window (Figure 1). He was examined by his physician at
+the beginning of 2014 because of his recurrent infection in the third
+year after surgery. The patient was tested for K. pneumoniae and
+Enterococcus faecium 40 and 35 times, respectively, from December
+2012 to March 2014. Most test results were normal. The patient suffered
+infections for three times (one in December 2012 and two in January
+2013) induced by K. pneumoniae. His white blood cell (WBC) count,
+total bile acid (TBIL), alanine aminotransferase (ALT) and aspartate
+aminotransferase (AST) varied during this period, and there was no
+Clin Exp Pharmacol
+ISSN: 2161-1459 CPECR, an open access journal
+
+notable increase except for neutrophils (Neut) (Figure 2-6). WBC and
+Neut were fluctuated. Neut were higher than normal for three times.
+Although there were only three times abnormal blood chemistry data,
+he was still administered meropenem intravenously when abnormal
+bile occurred or when test results were positive for bacteria in his bile.
+His blood sugar was well controlled in this period. The patient consulted
+his doctor whether this anti-bacterial dosage regimen was suitable.
+Considering the details of the patient and the general condition
+(pharmacokinetics, efficacy, and drug resistance) of antibiotics, clinical
+pharmacists provided the following suggestions. These suggestions were
+accepted by the doctor. By applying the series of therapeutic strategies
+to the patient, the state of the infected patient was improved.
+1. Ensuring that the biliary drainage catheter was still in need.
+If needed, careful care of the catheter was required, such as
+inspecting and flushing the catheter twice daily, and emptying
+collected drainage from the bag daily.
+2. Carbapenems, cephalosporins, and broad-spectrum penicillin
+antibiotics could be used in turn after confirming the infection
+in the patient.
+3. Monitoring tacrolimus concentrations to avoid low immunity
+which could be result in infection.
+
+Discussion
+In special population of liver transplants, bacteria in bile were more
+frequent. It was important that determining the relationship between
+bacteria in bile and infection. Besides the antimicrobial spectrum of
+antibiotics, pharmacokinetic parameters, especially the distribution
+
+*Corresponding author: Liqin Zhu, Pharm D, Chinical Pharmacist, Pharmacy
+Dept., Tianjin First Center Hospital, Tianjin, China, No.24 Fukang Road, Nankai
+District, 300192, China, Tel: +86 022 23626417; E-mail: zlq0713@aliyun.com
+Received November 04, 2014; Accepted November 28, 2014; Published
+December 01, 2014
+Citation: Zhu L, Sun X (2014) Pharmaceutical Care in a Patient with Recurrent
+Infection after Liver Transplant. Clin Exp Pharmacol 4: 166. doi:10.4172/21611459.1000166
+Copyright: © 2014 Zhu L, et al. This is an open-access article distributed under
+the terms of the Creative Commons Attribution License, which permits unrestricted
+use, distribution, and reproduction in any medium, provided the original author and
+source are credited.
+
+Concentration of FK506 (ng/ml)
+
+Clin Exp Pharmacol
+ISSN: 2161-1459 CPECR, an open access journal
+Concentration(U/L)
+
+of antibiotics, should be considered while choosing antibiotics for the
+patients with recurrent infection.
+K. pneumoniae [7] and Enterococcus faecium [8] were common
+bacteria in the human intestinal tract. Only under certain conditions
+could infections be induced. For this patient, the liver transplant
+surgery and extended use of immunosuppressants after surgery, which
+Clin Exp Pharmacol
+ISSN: 2161-1459 CPECR, an open access journal
+
+maintained reduced immunity, made infection easier. Moreover, the
+biliary drainage catheter and diabetes also increase the incidence of
+infection.
+While infection occurred after liver transplant, antibiotic use should
+be considered for this patient. Carbapenems such as meropenem were
+usually used in patients after liver transplant because of their higher
+Page 4 of 4
+Hepatobiliary
+System
+Distribution
+
+Anti-infection
+Effect
+
+Note: +, ++, +++: the distribution and drug resistance varied from low (+) to high
+(+++); the anti-infection effect varied from weak (+) to strong (+++); -: no distribution
+Table 1: Comparison between different kinds of antibiotics.
+
+anti-bacterial effectiveness. The patient was prescribed meropenem
+as soon as the bacteria were detected. However, the bacterial test
+results did not accurately represent the infection. The physician
+had to ensure that the antibiotic use was needed to the patient.
+Moreover, clinical pharmacist suggested that the pharmacokinetics,
+pharmacodynamics and drug resistance conditions should be taken
+into consideration. Detailed information was presented in Table 1.
+Of all the anti-Klebsiella pneumoniae drugs, only fluoroquinolones
+(FQNs) have poor distribution in the hepatobiliary system. Therefore,
+FQNs should not be applied in this patient. Although the effectiveness
+of carbapenems against infection was higher than cephalosporins
+and broad-spectrum penicillins, their lower distribution in the
+hepatobiliary system and higher drug resistance somehow limited their
+using. Clinical pharmacists suggested alternating use among the three
+kinds of antibiotics to avoid resistance. For some antibiotics that were
+metabolized by liver (such as cefoperazone), the side effects, especially
+liver-related side effects and drug-drug interactions, should be carefully
+monitored by clinical pharmacists.
+Additional information should be considered to prevent
+inflammation, as follows: 1) cleaning the biliary drainage catheter.
+The biliary drainage catheter should be flushed twice daily using
+normal saline and the bag should also be emptied daily. The dressing
+stopcock and the drainage bag should be changed once a week. The
+dressing should be changed more frequently if it became loose, wet,
+or soiled; and 2) monitoring immunosuppressant. An infection after
+liver transplant is often related to lower immunity. Immunosuppressant
+monitoring was required for the rest of his life after the transplant.
+
+Clin Exp Pharmacol
+ISSN: 2161-1459 CPECR, an open access journal
+
+The therapeutic strategy for patients with recurrent K. pneumonia
+infection after liver transplant should be carefully considered. The catheter
+should be sterilized according to the protocol, immunosuppressant
+should be controlled and managed, and appropriate antibiotics should
+be chosen. Anti-K. pneumonia antibiotics should be rotated between
+carbapenems, cephalosporins, and broad-spectrum penicillins by
+taking the anti-infection effect, drug distribution, and drug resistance
+into consideration.
+Acknowledgment
+This work was supported by National High Technology Development
+Project (2012AA021003) and the key Projects of Tianjin Health Bureau(12KG103).
+
+References
+1. Linares L, Garcia-Goez JF, Cervera C, Almela M, Sanclemente G, et al. (2009)
+Early bacteremia after solid organ transplantation. Transplant Proc 41: 2262–
+2264.
+2. Al-Hasan MN, Razonable RR, Eckel-Passow JE, Baddour LM, (2009)
+Incidence rate and outcome of gram-negative bloodstream infection in solid
+organ transplant recipients. Am J Transplant 9: 835–843.
+3. Singh N, Wagener MM, Obman A, Cacciarelli TV, de Vera ME, et al. (2004)
+Bacteremias in liver transplant recipients: shift toward gram-negative bacteria
+as predominant pathogens. Liver Transpl 10: 844–849.
+4. Meatherall BL, Gregson D, Ross T, Pitout JD, Laupland (2009) KB Incidence,
+risk factors, and outcomes of Klebsiella pneumoniae bacteremia. Am J Med
+122: 866–873.
+5. Bergamasco MD, Barroso Barbosa M, de Oliveira Garcia D, Cipullo R, Moreira
+JC et al. (2012) Infection with Klebsiella pneumoniae carbapenemase (KPC)producing K. pneumoniae in solid organ transplantation. Transpl Infect Dis 14:
+198–205.
+6. Lee J, Patel G, Huprikar S, Calfee DP, Jenkins SG (2009) Decreased
+Susceptibility to Polymyxin B during Treatment for Carbapenem-Resistant
+Klebsiella pneumoniae Infection. J Clin Microbiol 47:1611–1612.
+7. Wong MT, Choi SB, Kuan CS, Chua SL, Chang CH, Normi YM, et al. (2012)
+Structural Modeling and Biochemical Characterization of Recombinant
+KPN_02809, a Zinc-Dependent Metalloprotease from Klebsiella pneumoniae
+MGH 78578. Int J Mol Sci 13: 901–917.
+8. Castillo-Rojas G, Mazari-Hiríart M, Ponce de León S, Amieva-Fernández
+RI, Agis-Juárez RA, et al. (2013) Comparison of Enterococcus faecium and
+Enterococcus faecalis Strains Isolated from Water and Clinical Samples:
+Antimicrobial Susceptibility and Genetic Relationships. PLoS One 8:e59491.
+
+end

@@ -1,0 +1,850 @@
+Asian Journal of Pharmaceutical Sciences 15 (2020) 83–94
+
+Available online at www.sciencedirect.com
+
+journal homepage: www.elsevier.com/locate/AJPS
+
+Original Research Paper
+
+Redox-responsive biocompatible nanocarriers based
+on novel heparosan polysaccharides for intracellular
+anticancer drug delivery
+Lipeng Qiu a,1, Lu Ge a,1, Miaomiao Long b, Jing Mao a, Kamel S. Ahmed a, Xiaotian Shan a,
+Huijie Zhang a, Li Qin a, Guozhong Lv c, Jinghua Chen a,∗
+a School
+
+of Pharmaceutical Sciences, Jiangnan University, Wuxi 214122, China
+Higher Health Vocational Technology School, Wuxi 214028, China
+c Wuxi Third Renmin Hospital, Wuxi 214041, China
+b Wuxi
+
+article
+
+info
+
+abstract
+
+Article history:
+
+Heparosan is a natural precursor of heparin biosynthesis in mammals. It is stable in blood
+
+Received 5 July 2018
+
+circulation but can be degraded in lysosomes, showing good biocompatibility and long cir-
+
+Revised 31 October 2018
+
+culation features. So heparosan can be designed as anticancer drug carriers to increase
+
+Accepted 16 November 2018
+
+tumor selectivity and improve the therapeutic effect. A novel redox-sensitive heparosan-
+
+Available online 17 December 2018
+
+cystamine-vitamin E succinate (KSV) micelle system was constructed for intracellular delivery of doxorubicin (DOX). Simultaneously, the redox-insensitive heparosan-adipic acid
+
+Keywords:
+
+dihydrazide-vitamin E succinate copolymer (KV) was synthesized as control. DOX-loaded
+
+Heparosan
+
+micelles (DOX/KSV) with an average particle size of 90–120 nm had good serum stability
+
+Vitamin E succinate
+
+and redox-triggered depolymerization. In vitro drug release test showed that DOX/KSV mi-
+
+Redox-sensitive micelles
+
+celles presented obvious redox-triggered release behavior compared with DOX/KV. Cytotox-
+
+Drug delivery
+
+icity and cell uptake were investigated using MGC80-3 tumor cells and COS7 fibroblast-like
+cells. The cell survival rate of blank micelles was more than 90%, and the cytotoxicity of
+DOX/KSV in MGC80-3 cells was higher than in COS7 cells, indicating that the carrier has
+better biocompatibility and less toxicity side effect. The cytotoxicity of DOX/KSV against
+MGC80-3 cells was significantly greater than that of free DOX and DOX/KV. Furthermore,
+compared with DOX/KV in MGC80-3 cells, DOX/KSV micelles uptook more anticancer drugs
+and then released DOX faster into the cell nucleus. The micelles were endocytosed by multiple pathways, but clathrin-mediated endocytosis was the main pathway. Therefore, heparosan polysaccharide could be a potential option as anticancer carrier for enhancing efficacy and mitigating toxicity.
+© 2019 Published by Elsevier B.V. on behalf of Shenyang Pharmaceutical University.
+This is an open access article under the CC BY-NC-ND license.
+(http://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+
+Corresponding author. Jiangnan University, No. 1800 Lihu Road, Wuxi 214122, China. Tel.: +86 510 85329042.
+E-mail address: chenjinghua@jiangnan.edu.cn (J.H. Chen).
+These authors contributed equally to this work.
+Peer review under responsibility of Shenyang Pharmaceutical University.
+
+https://doi.org/10.1016/j.ajps.2018.11.005
+1818-0876/© 2019 Published by Elsevier B.V. on behalf of Shenyang Pharmaceutical University. This is an open access article under the
+CC BY-NC-ND license. (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+Introduction
+
+Cancer is a global public health problem. In the current treatment of cancer, chemotherapy is one of the most important
+methods [1]. Doxorubicin (DOX), an antibiotic anticancer drug,
+is used for multiple cancers such as bladder cancer, breast
+cancer, stomach cancer, ovarian cancer, thyroid cancer, lung
+cancer, multiple myeloma and soft tissue sarcoma [2–4]. However, the poor targeting and serious side effects limit the application of DOX [5–7]. In order to solve these problems, in
+the past several decades, drug delivery systems (DDS) have
+been developed for the delivery of DOX, such as liposomes,
+nanoparticles, and polymer micelles [8–10]. Among them,
+polymer micelles which are easy to prepare and applicable
+to all hydrophobic drugs have attracted attention due to their
+unique advantages. Polymer micelles are usually composed of
+hydrophobic core in which hydrophobic drugs can be loaded
+and hydrophilic shell which can keep the core away from
+the aqueous environment [11]. What’s more, the structure
+can greatly increase the solubility and stability of hydrophobic drugs in aqueous solution, resulting in enhancing their
+bioavailability and blood circulation time. And the hydrophilic
+shell can protect the carrier from reticulo-endothelial system
+(RES) [12–18]. Polymer micelles also can improve the selectivity of tumor tissue through enhanced permeability and retention (EPR) effects to significantly increase the efficiency of anticancer drugs [6,19].
+The materials for constructing polymer micelle can be divided into natural polymers and synthetic polymers according
+to their sources. Polyethylene glycol (PEG) is a commonly used
+synthetic material. PEGylated polymer micelles are widely
+used because of their prone to self-assembly, small particle
+size, narrow size distribution and unique shell and shell structure [20,21]. However, as the synthetic material, PEG has poor
+biodegradability and biocompatibility. PEG is metabolized to
+some accumulated toxic metabolites in vivo. Besides, studies have found that PEG shell can hinder the disassembly of
+the micelles and reduce drug release from tumor cells [22,23].
+Natural materials have gradually become hotspot polymers to
+study due to their high biocompatibility and biodegradability. The natural polymer materials are represented by polysaccharides such as chitosan [24], hyaluronic acid [25] and heparin [26]. However, most of polysaccharides can be degraded
+by enzyme resulting in short circulation time of nanoparticles in vivo. Therefore, how to design a better delivery system becomes an important issue. Heparosan (HR) is a natural precursor to heparin biosynthesis in mammals and a
+heparin-like material. But unlike heparin, HR will not be degraded by heparanase in vivo because of the unsulfated oxygen
+site, which endows HR with long circulation effect. However,
+HR can be degraded by glucuronidase and hexosaminidase to
+N-acetylglucosamine and glucuronic acid in lysosomes. The
+degradation products are normal monosaccharides in vivo and
+can be recycled by cells without accumulation in the tissue
+[27]. Therefore, HR has good biocompatibility and HR-based
+drug delivery systems are considered “zero-residue” system
+[28].
+After arrival at tumor cell, anticancer drugs encapsulated
+into the polymer micelles need to be released in time to
+
+achieve their high therapeutic efficiency for tumors [29,30].
+Some studies also have shown that faster intracellular drug
+release can improve cytotoxicity and overcome MDR [31].
+In recent years, environmental stimuli-responsive polymer
+micelles have been widely used for delivery and controlled
+release of anticancer drugs. Stimuli-responsive polymer micelles can be triggered by pH, temperature, enzymes, redox potentials, light, magnetic fields and ultrasound waves
+[32–38] to rapidly release the loaded drugs. Among them,
+redox-sensitive polymer micelles have been widely studied
+because of the difference redox content between extracellular and tumor cells [39–41]. It is noteworthy that many tumor
+cells have higher glutathione (GSH) concentrations than normal cells [42]. This difference can cause rapid release of active
+ingredients such as drugs, genes, and proteins from the redoxsensitive carriers resulting in a stronger therapeutic effect
+[43–45].
+In this study, high-purity HR polysaccharide obtained by a
+combination of modern separation and chromatography techniques was used to prepare the redox-sensitive amphiphilic
+copolymer. Vitamin E succinate was linked to polysaccharide
+by cystatines (CYS) to synthesize heparosan-cystamine- vitamin E succinate (KSV) copolymers. And redox-insensitive
+heparosan-adipic acid dihydrazide-vitamin E succinate (KV)
+copolymers were synthesized as controls. Using DOX as a
+model anticancer drug, the properties of blank micelles and
+drug-loaded micelles were investigated. The cytotoxicity and
+intracellular release of the micelles against MGC80-3 cells and
+COS7 cells were evaluated. Furthermore, the internalization
+pathways of DOX-loaded micelles were further tested. The
+preparation and antitumor effect of DOX-loaded micelles is
+shown in Scheme 1.
+
+2.
+
+Materials and methods
+
+2.1.
+
+Materials
+
+Heparosan was separated and purified in the lab. Dα-tocopherol acid succinate (VES), N-hydroxysuccinimide
+(NHS) and 1-ethyl-3-(3-dimethylaminopropyl) carbodiimide
+(EDC) were purchased from Aladdin Regent Co. (Shanghai, China). Adipodihydrazide (ADH), cystamine dihydrochloride (CYS) were provided by Energy Chemical Reagent Co.
+Ltd (Shanghai, China). Dimethyl sulfoxide (DSMO), dithiothreitol (DTT), pancreatin and penicillin-streptomycin solution were obtained from Shanghai Songan Biotech Co.
+Ltd (Shanghai, China). Tetrahydrofuran (THF), dimethylformamide (DMF), formamid and triethylamine (TEA) were obtained from Shanghai Reagent Chemical Co. Ltd (Shanghai,
+China). Doxorubicin hydrochloride (DOX•HCl) was purchased
+from Dalian Meilune Biotech Co. Ltd (Dalian, China). Fetal bovine serum (FBS), Dulbecco’s modified eagle medium
+(DMEM) and RPMI-1640 medium were purchased from
+Gibco BRL (Maryland, USA). 3-[4,5-dimethylthiazol-2-yl]−2,5diphenyltetrazoliumbromide (MTT) was obtained from Invitrogen Corp. 4,6-diamidino-2-phenylindole (DAPI) were obtained from Shanghai Beyotime Biotechnology Co. Ltd.
+(Shanghai, China). All other reagents were of analytical grade.
+
+Asian Journal of Pharmaceutical Sciences 15 (2020) 83–94
+
+85
+
+Scheme 1 – The preparation and antitumor effect of redox-responsive DOX/KSV micelles.
+
+2.2.
+
+Cell culture
+
+Human gastric cancer cells (MGC80-3) and transformed
+African green monkey SV40-transformed kidney fibroblast
+cells (COS7) were purchased from Chinese Academy of Sciences (Shanghai, China) and grown in DMEM (Gibco, USA)
+supplemented with 10% fetal bovine serum (FBS), 100 mg/ml
+streptomycin sulfate, 100 U/ml penicillin G sodium. Cells were
+incubated at 37 °C in a humidified atmosphere containing 5%
+CO2 .
+
+2.3.
+
+Synthesis of redox-sensitive KSV copolymers
+
+Cystamine-vitamin E succinate was prepared firstly. Cystamine dihydrochloride was pretreated by NaOH solution
+through acid-base neutralization [46]. Vitamin E succinate
+(1.5 × 10−4 mol) was dissolved in DMF at room temperature
+and EDC (3 × 10−4 mol) and NHS (3 × 10−4 mol) were added to
+the solution successively to activate carboxylic groups. Cystamine (1.5 × 10−4 mol, 1:1; 7.5 × 10−4 mol, 5:1) dissolved in
+DMF (5 ml) and was dropped into the vitamin E succinate solution, stirring for 48 h under a nitrogen atmosphere at room
+temperature. After completion, the solution was dialyzed in
+the dialysis bag (MWCO 3500) against distilled water for 2 d,
+and then freeze-dried to obtain cystamine-vitamin E succinate.
+Then heparosan (1.5 × 10−4 mol) was dissolved in formamide. After activation of the carboxyl groups, heparosan was dropped into the cystamine-vitamin E succinate
+(1.5 × 10−4 mol) solution and then stirred for 48 h under a nitrogen atmosphere at room temperature. After the reaction
+finished, the mixture was allowed to dialyze in the dialysis
+
+membrane (MWCO 3500) against 25% ethanol solution and
+pure water, and then freeze-dried to obtain KSV copolymers.
+
+2.4.
+
+Synthesis of redox-insensitive KV copolymers
+
+As controls, the insensitive KV copolymers were also synthesized by two steps. Firstly, adipic acid dihydrazide
+(7.25 × 10−4 mol) and EDC (2.5 × 10−4 mol) were added into the
+heparosan (1.25 × 10−4 mol) solution. The pH of mixture solution was adjusted to 4.75 by 0.1 M HCl and stirred for 1 h. Then
+the reaction was ended by the addition of 0.1 M NaOH. The solution was dialyzed (MWCO 3500) in distilled water for 2 d, and
+freeze-dried to obtain Heparosan-ADH.
+Secondly, VES (1.5 × 10−4 mol) was dissolved in a mixed solution of dimethylformamide and formamide and activated by
+EDC and NHS. Heparosan-ADH (1.5 × 10−4 mol) was dropped
+into the VES solution and stirred for 48 h under a nitrogen
+atmosphere at room temperature. The reaction solution was
+allowed to dialyze in the dialysis membrane (MWCO 3500)
+against 0.1 M sodium chloride, 25% ethanol solution, and pure
+water, and finally freeze-dried to obtain KV copolymers.
+
+2.5.
+
+Preparation of DOX-loaded micelles
+
+DOX•HCl (10 mg, 0.017 mmol) was dissolved in methanol
+(10 ml). After adding triethylamine (1 ml), the solution was
+stirred at room temperature for 24 h. The organic solvent
+was removed by rotary evaporation, and then tetrahydrofuran was added to obtain DOX base form solution. KSV copolymer (10 mg) was dissolved in PBS (pH 7.4, 10 ml). After sufficient dispersion, the DOX base form solution (2 ml) was
+slowly dropped into the solution and the mixture solution was
+
+86
+
+Asian Journal of Pharmaceutical Sciences 15 (2020) 83–94
+
+stirred overnight in dark. DOX-loaded KSV polymer micelles
+(DOX/KSV) were got after ultrasonic 30 min in an ice bath. Similarly, DOX-loaded KV polymer micelles (DOX/KV) were also
+prepared with the similar method.
+
+2.6.
+
+2.7.
+Serum stability and redox-triggered disassembly of
+micelles
+The serum stability and redox-sensitive test of the polymer
+micelles were measured by dynamic light scattering spectrophotometry (Zetasizer Nano ZS apparatus, MalvernInstruments, UK), as described by Choi et al. with some modification
+[48]. Briefly, the micelles were dissolved in pH 7.4 PBS solution mixed with DMEM solution containing 10% FBS, and the
+changes of size were measured at different times. In order
+to verify the reduction-sensitive of KSV copolymers, the micelles were dispersed in GSH-containing PBS solution (10 mM,
+pH 7.4) and tested at programmed times.
+
+Determination of drug-loading efficiency
+
+In order to detect the contained drugs, free DOX was separated
+by ultrafiltration firstly. Dimethyl sulfoxide was added into the
+micelles to destroy the micellar structure. According to this
+method, encapsulation efficiency (EE) and drug loading content (DL) were tested by an UV spectrophotometer (UV-2550,
+Shimadzu, Japan) with wavelength of 480 nm.
+Characterization of the micelles
+
+The average particle size, distribution and zeta potential of
+the micelles were investigated by Zetasizer Nano ZS apparatus (MalvernInstruments, UK) at 37 °C. The morphology of
+DOX/KSV and DOX/KV micelles were observed by JEM-2100
+TEM with acceleration voltage was 80 kV (JEO, Japan). Typically,
+the micelles were dropped onto the copper grid and the solution was evaporated. Then it was negatively stained with 2%
+phosphotungstic acid before observation.
+The critical micelle concentration (CMC) of KSV and KV
+copolymers was determined by fluorescence spectrophotometer (RF-5301 PC, Shimadzu, Japan) with pyrene as a hydrophobic probe [47]. Briefly, after pyrene solution completely
+evaporated under a nitrogen stream, a series of polymer solutions with a concentration of 1.0 × 10−4 to 2.0 mg/ml were
+added to the tubes to obtain a final pyrene concentration
+of 6.0 × 10−7 M. The excitation spectrum of pyrene was determined by fluorescence spectrophotometer, and CMC value
+was calculated according to the change of the excitation spectrum.
+
+2.8.
+
+culate the cumulative release of DOX as follows:
+
+In vitro reduction-triggered release behaviors
+
+The release of DOX from the both micelles in vitro was tested
+using dialysis method. The drug-loaded micelles were placed
+into the dialysis bags (MWCO 1000) which were immersed in
+20 ml of different medium at 37 °C, 100 r/min conditions. At a
+predetermined time point, the medium was sampled to cal-
+
+Where, Er represents the cumulative release of DOX, mDOX is
+the content of the drug in the micelles, V0 represents the total
+volume of the release medium, Ve is the replacement volume
+of the release medium and Ci represents the drug concentration released at the ith sample.
+
+2.10.
+
+In vitro cytotoxicity assays
+
+The in vitro cytotoxicity of blank micelles and drug-loaded
+micelles was determined by MTT assay using cancer cells
+(MGC80-3) and normal cells (COS7). Briefly, COS7 and MGC803 cells were seeded in 96-well plates at a density of 5 × 103 .
+After incubated for 24 h, the prepared blank micelles with a
+concentration range of 0–500 μg/ml and drug-loaded micelles
+with a concentration range of 0–10 μg/ml (DOX/KV, DOX/KSV)
+were added to replace the old medium. Then, 100 μl MTT solution was added to each well and incubated for 4 h. MTT solution was discarded and DMSO (100 μl) was added to dissolve
+blue-violet crystals. The absorbance at 570 nm was measured
+by using Multiskan MK3 microplate reader (Thermo, USA) to
+calculate the cell viability. The IC50 values were calculated using SPSS 17.0 (Chicago, IL, USA).
+
+2.11. Observation of the cellular uptake of DOX-loaded
+micelles
+The intracellular distribution of free DOX, DOX/KSV and
+DOX/KV micelles in MGC80-3 and COS7 cells were observed by
+confocal laser scanning microscopy (CLSM, Nikon A1R, Japan).
+MGC80-3 and COS7 cells were seeded into a laser confocal
+dish at a density of 1.5 × 105 cells/well. Free DOX or drugloaded micelles (DOX conc entration of 5.0 μg/ml) were added
+and after 1 h, 2 h and 4 h of incubation, the cells were fixed
+by 4% paraformaldehyde solution. Then, DAPI fluorescent dye
+(20 μg/ml, 30 min) was used to make the nucleus visible. The
+remaining DAPI fluorescent dye was thoroughly washed with
+PBS, and 300 μl of PBS was added to each well for observation
+by CLSM.
+
+2.12.
+
+Flow cytometry analysis
+
+The cellular uptakes of free DOX, DOX/KSV and DOX/KV micelles in MGC80-3 and COS7 cells were measured by flow cytometry (FCM) (BD FACSCalibur). The cells were plated in 6well plates at a density of 4 × 105 cells/well. After Incubated at
+37 °C and 5% CO2 for 12 h, the medium was replaced with free
+DOX or drug-loaded micelles (DOX concentration of 5.0 μg/ml).
+After incubated for different times, the cells were dispersed
+into PBS and measured by FCM.
+
+87
+
+Asian Journal of Pharmaceutical Sciences 15 (2020) 83–94
+
+Fig. 1 – 1 H NMR spectra of KSV (A) and KV (B) copolymers.
+2.13.
+
+Study of the cellular uptake mechanism
+
+2.13.1. Effects of ATP depletion and low temperature on cellular
+uptake
+FCM was used to investigate whether the cellular uptake of
+micelles was energy-dependent. Firstly, MGC80-3 cells were
+seeded into 6-well plates at a density of 3.0 × 105 cells/well.
+
+After incubation of 30 min at 4 °C, drug-loaded micelles (DOX
+concentration of 5.0 μg/ml) were added into the cells for further 1 h incubation. Then the cells were dispersed with 500 μl
+PBS and measured by FCM. In the control group, the treatment
+methods were the same except that the incubated environment was placed to 37 °C, and the uptake of the control group
+was set to 100%.
+
+88
+
+Asian Journal of Pharmaceutical Sciences 15 (2020) 83–94
+
+Fig. 3 – (A) Serum stability of KV and KSV micelles in DMEM containing 10% FBS. Data were presented as mean ± SD (n = 3).
+(B) Particle sizes distribution of KSV micelles in PBS solution (10 mM GSH, pH7.4) at 0 min, 30 min, 1 h, 2 h and 4 h.
+
+Fig. 4 – (A) In vitro redox-dependent release behavior of DOX/KSV micelles in GSH-containing PBS solution (10 mM, pH 5.0).
+(B) In vitro redox-dependent release behavior of drug-loaded micelles in pH 7.4 PBS and pH 5.0 PBS with 10 mM GSH at 6 h.
+Data were presented as mean ± standard deviation (n = 3).
+
+2.13.2. Effects of endocytosis inhibitors on cellular uptake
+The cytotoxicity of each inhibitor to MGC80-3 cells at the
+experimental concentration was determined by MTT assay
+firstly. MGC80-3 cells were seeded into 96-well plates at a density of 5 × 103 cells/well for incubation of 24 h. And then uptake inhibitors were added with the experimental concentration: quercetin (10 μg/ml) [49], chlorpromazine (10 μg/ml)
+[50], colchicine (40 μg/ml) [51] and indomethacin (10 μg/ml)
+[52] were co-incubated with MGC80-3 cells for 2 h.
+Then, the uptake pathway of drug-loaded micelles was
+studied by FCM. MGC80-3 cells were seeded into 6-well plates
+at a density of 3 × 105 cells/well. The inhibitors were added
+
+to replace the old medium, and drug-loaded micelles (DOX
+concentration of 5 μg/ml) were incubated for 1 h and measured by flow cytometry. Cells treated with no inhibitor were
+used as controls and the fluorescence intensity was set to
+100%.
+
+2.14.
+
+Statistical analysis
+
+The results were expressed as the mean ± standard deviation
+(SD), and all experiments were repeated at least three times
+independently. The unpaired students’ test was adopted to determine the statistical significance of differences, P < 0.05.
+
+Asian Journal of Pharmaceutical Sciences 15 (2020) 83–94
+
+89
+
+Fig. 5 – Cytotoxicity of blank micelles in (A) MGC80-3 cells and (B) COS7 cells. Cytotoxicity of DOX, DOX/KV and DOX/KSV at
+various DOX concentrations against (C) MGC80-3 and (D) COS7 cells after incubation for 48 h. Data were presented as
+mean ± standard deviation (n = 3).
+
+3.
+
+Results and discussion
+
+3.1.
+KSV
+
+Synthesis of redox-sensitive amphiphilic copolymer
+
+The 1 H NMR spectrum of KSV is shown in Fig. 1. The carboxyl groups in heparosan polysaccharide and VES were conjugated to the -NH2 groups of CYS, respectively. The typical peaks of glucosamine on heparosan polysaccharide were
+shown at 3.63 ppm, 3.83 ppm, and 5.31 ppm and the typical
+peak of glucosamine methylation on heparosan polysaccharide (-CO–CH3 ) was shown at 1.98 ppm. The typical peaks
+of glucuronic acid on heparosan polysaccharide were shown
+at 3.29 ppm, 3.72 ppm, and 4.54 ppm. The typical peaks of
+methylene (-CH2 -) on the alkanes of VES were shown at 1.05–
+1.35 ppm and 2.85 ppm, and methyl group (-CH3 ) on the phenyl
+ring was shown at 2.63 ppm. The typical peaks of the amide
+group (-CONH-) were shown between 8.05 and 8.11 ppm. Based
+on these results, it can be confirmed that the amphiphilic
+copolymer KSV has been successfully synthesized.
+
+2.63 ppm is the typical peak of VES (-CH3 ), and 5.31 ppm is
+the typical peak of the heparosan polysaccharide. The ratio
+of the integral area between the peaks was used to calculate
+the substitution degree of VES. Two kinds of KSV copolymers
+with different substitution ratios were synthesized. The substitution degrees were respectively 17% and 21%, which were
+expressed by KSV17 and KSV21 .
+
+3.2.
+
+Characterization of the micelles
+
+The blank micelles and drug-loaded micelles were prepared
+by the ultrasonic method and their physicochemical properties were characterized. The results are shown in Table 1.
+With the increase of the substitution degree, the particle size
+of both micelles decreased slightly because of the compact
+hydrophobic core probably. However, particle sizes of the micelles were shown all below 200 nm and presented a narrow
+size distribution (Fig. 2A), indicating that the micelles can be
+easily targeted to tumor tissue by EPR effect. The zeta potential
+of the micelles was kept at a negative value, which could prevent the micelles from aggregation by electrostatic repulsion.
+
+90
+
+Asian Journal of Pharmaceutical Sciences 15 (2020) 83–94
+
+Fig. 6 – CLSM images of (A) COS7 cells and (B) MGC80-3 cells after incubation different times with DOX, DOX/KV and
+DOX/KSV. DOX was visualized as the red fluorescence, nucleuses labeled with Hoechst 33,342 were shown as the blue
+fluorescence and the merged showed purple. DOX concentration was 5 μg/ml. Scale bars correspond to 10 μm in all the
+images. (For interpretation of the references to colour in this figure legend, the reader is referred to the web version of this
+article.)
+
+Transmission electron microscopy (TEM) (Fig. 2B) was shown
+that DOX/KSV had a nearly spherical morphology and good
+dispersibility.
+As shown in Table 1, the drug loading and entrapment efficiency of the micelles were 13%−15% and 88%−90%, which
+means all micelles can load drug well. As the degree of substitution increased, the affinity between the hydrophobic core
+and the drug increased, so the drug loading and entrapment
+efficiency of DOX/KSV21 were slightly greater. Furthermore,
+the copolymers had small CMC values, which indicate that the
+micelles have better thermodynamic stability [53] and can exist stably in vivo.
+
+3.3.
+
+Serum stability and redox-sensitive of KSV
+
+Studies have shown that nanoparticle with high polymer content may cause blood coagulation or gelation in vivo [54], so it is
+necessary to investigate the stability of nanoparticle in serum
+(FBS) at 37 °C. The average size of the protein in FBS was 10 nm,
+which did not affect the measurement of the micelle particle
+size. As shown in Fig. 3A, after incubation of 48 h in FBS, no
+precipitates and visible particles were found, and there was
+no significant increase in the micellar particle size. The result
+indicates that only a small amount of serum proteins were adsorbed on the micelles and the micelles will not aggregate into
+larger particles by absorbing serum proteins after intravenous
+injection. Therefore, the copolymer micelles are relatively stable in serum probably due to the generation of a hydrophilic
+shell.
+The disulfide bond in KSV structure makes it have the characteristic of redox-sensitive. In order to determine the redoxsensitive of micelles, the particle size of KSV micelles incubated with PBS solution (10 mM GSH, pH7.4) was measured by
+
+dynamic light scattering (DLS) method (Fig. 3B). It can be seen
+that the micelles had a good particle size at the beginning.
+However, the particle size was gradually increased with time
+extension, indicating the micelles could be disassembled and
+had obvious redox-sensitive property.
+
+3.4.
+
+In vitro redox-sensitive drug release studies
+
+In order to study in vitro release behavior of DOX/KSV and
+DOX/KV, pH 7.4 PBS, pH 5.0 PBS and GSH-containing PBS
+(10 mM, pH 5.0) were used to simulate the normal physiologic
+environment, tumor acid environment, and tumor intracellular redox-environment. As shown in Fig. 4A, the cumulative release of DOX from both of DOX/KSV micelles in GSH
+(10 mM, pH 5.0 PBS) were 82.33% and 77.34%, respectively. This
+indicates that the anticancer drug can be effectively released
+from the micelles in the tumor cell environment. It is worth
+noting that the cumulative release of DOX/KSV17 is slightly
+higher than that of DOX/KSV21 (P < 0.05). This may be due to
+the fact that DOX/KSV17 was disassembled faster in the reducing condition.
+In addition, further experiments were designed to investigate the effect of GSH on DOX/KSV and DOX/KV micelles. As
+shown in Fig. 4B, the release amount of DOX/KSV and DOX/KV
+in pH 5.0 was higher than that at pH 7.4 (P < 0.01). This difference was probably due to the better solubility of DOX at low
+pH. However, when GSH was added at 6 h, a sudden release of
+DOX/KSV was observed while there was no significant change
+in the DOX/KV release. This also indicates that the micellar
+structure of DOX/KSV was disassembled in the presence of
+GSH resulting in the fast release of the drug. The above results indicate that DOX/KSV has stable in normal physiological condition but the drug can be released rapidly after arrival
+
+Asian Journal of Pharmaceutical Sciences 15 (2020) 83–94
+
+91
+
+Fig. 7 – (A) Mean fluorescence intensities and (B) flow cytometry analysis profiles of different formulations in COS7 cells.
+(C) Mean fluorescence intensities and (D) flow cytometry analysis profiles of different formulations in MGC80-3 cells. All
+data were presented as mean ± SD (n = 3). DOX concentration was 5 μg/ml.
+
+at tumor cells resulting in enhancing the efficacy of anticancer
+drugs.
+
+3.5.
+
+In vitro cytotoxicity assay
+
+The MTT assay was used to assess the biocompatibility
+of the blank micelles. The cell viability of MGC80-3 cells
+(Fig. 5A) and COS7 (Fig. 5B) cells were exceeded 90% even at
+high concentrations (500 μg/ml), suggesting the blank micelles
+were virtually non-toxic. The cytotoxicity of DOX/KSV and
+DOX/KV against MGC80-3 cells and COS7 cells is also studied (Fig. 5). As the concentration of DOX increased, both cell
+viabilities gradually decreased, indicating that the cytotoxicity is concentration-dependent for drug-loaded micelles. For
+COS7 cells, the median inhibitory concentrations (IC50 ) of free
+DOX, DOX/KSV17 , DOX/KSV21 and DOX/KV were 1.752 ± 0.134,
+
+4.931 ± 0.1622, 5.386 ± 0.209 and 4.717 ± 0.211 μg/ml respectively. There was a significant difference between free DOX
+and micelles (P < 0.001), but the cytotoxicity of all the micelle groups was similar. Because the level of GSH was low
+in normal cells, the release rate of DOX from DOX/KSV was
+slow resulting in no significant difference in the IC50 values of DOX/KSV and DOX/KV micelles. However, in MGC803 cells, the IC50 value of DOX/KSV (1.003 ± 0.067 μg/ml) was
+significantly lower than that of DOX/KV(4.717 ± 0.211 μg/ml).
+This could be attributed to the rapid release of DOX from
+DOX/KSV resulting from the high concentration of GSH in
+tumor cells. It was worth noting that the IC50 value of
+DOX/KSV micelles against MGC80-3 cells was about 5-fold
+higher than that of COS7 cells (P < 0.001), indicating that
+redox-sensitive micelles have better selectivity for tumor
+cells.
+
+92
+
+Asian Journal of Pharmaceutical Sciences 15 (2020) 83–94
+
+Fig. 8 – (A) Cytotoxicity of the endocytosis inhibitors at the chosen concentration against MGC80-3 cells. (B) Effects of low
+temperature and endocytosis inhibitors on uptake of DOX/KSV and DOX/KV in MGC80-3 cells. Data were presented as
+mean ± standard deviation (n = 3). ∗∗∗ indicated P < 0.001.
+
+3.6.
+
+Cellular uptake study
+
+CLSM was used to qualitatively investigate the in vitro cellular uptake of DOX/KSV and DOX/KV in MGC80-3 cells and
+COS7 cells. After co-incubated with free DOX, DOX/KSV17 ,
+DOX/KSV21 and DOX/KV micelles, MGC80-3 cells and COS7
+cells were observed by CLSM. As shown in Fig. 6, DOX was
+mainly concentrated in the cytoplasm after incubation for
+1 h, but more drugs were entered into the nucleus in free
+DOX group. For all groups, the fluorescence intensity of DOX
+increased after co-incubated for 2 h and 4 h. It was worth
+noting that most of DOX in the micelle groups remained
+in the cytoplasm after co-incubation for 4 h in COS7 cells
+(Fig. 6A), which indicated that the drugs were not released
+quickly from the micelles. However, in MGC80-3 cells (Fig. 6B),
+DOX was released gradually from the drug-loaded micelles
+into the nucleus after co-incubated for 2 h. And it was not
+difficult to see that DOX/KSV disassembled faster and had
+stronger fluorescence signal than DOX/KV, which also was
+caused by the redox-sensitive behavior of micelles.
+FCM was used to further quantitatively test the cellular uptake of DOX/KSV and DOX/KV in tumor and normal cells. In
+COS7 cells, there was no significant difference in the mean
+fluorescence intensities of DOX/KSV and DOX/ KV (Fig. 7A and
+B). However, the cellular uptake of redox-sensitive micelles
+was significantly higher than that of redox-insensitive micelles (P < 0.001) in MGC80-3 cells (Fig. 7C and 7D). The results
+indicate that redox-sensitive DOX/KSV micelles can be more
+uptaken by tumor cells.
+
+3.7.
+
+Study of the endocytosis pathways
+
+In order to determine the potential endocytic pathway of micelles, a series of uptake inhibitors were used. Specifically,
+chlorpromazine is an inhibitor of clathrin-mediated endocytosis, indomethacin is an inhibitor of caveolae-mediated
+
+endocytosis, colchicine is an inhibitor of macropinocytosis, and quercetin is an inhibitor of clathrin/caveolaeindependent endocytosis. Fig. 8A clearly shows the cytotoxicity of each inhibitor to MGC80-3 cells, which indicates that
+the inhibitor had no toxicity with cell viability above 90% at
+the experimental concentration. Therefore, cellular uptake inhibition was not caused by inhibitor toxicity. Then the uptake
+of micelles in MGC80-3 cells after treatment with different inhibitors is shown in Fig. 8B. Compared to the control, a significant reduction was observed at low temperatures and the uptake rates of DOX/KV and DOX/KSV decreased to 36.89% and
+39.59% (P < 0.001), respectively (Fig. 8), which indicates that the
+uptake pathway of the micelles is an energy-dependent pathway. In addition, the uptake of DOX/KV and DOX/KSV micelles
+decreased to 59.07% (P < 0.001) and 58.37% (P < 0.001), respectively in presence of chlorpromazine. And after DOX/KV and
+DOX/KSV treated with colchicine and indomethacin, the uptake was decreased to 84.46%, 87.04% (P < 0.05) and 87.24%,
+88.41%, (P < 0.05) respectively. However, there was no significant change after treatment with quercetin. These results indicate that though clathrin- and caveolae-mediated
+endocytosis both affect cellular uptake of the heparosanbased micelle, clathrin-mediated endocytosis plays a major
+role.
+
+4.
+
+Conclusion
+
+In this study, the redox-sensitive heparosan-based amphiphilic copolymers were designed and they self-assembled
+into micelles in aqueous solution. The DOX/KSV micelles
+could remain stable under plasma and physiological conditions but dissociate and release DOX in the tumor microenvironment. So DOX/KSV had reduction sensitivity and could
+be internalized in tumor cells to release more anticancer
+drugs rapidly. The cytotoxicity of drug-loaded micelles in tumor cells was significantly higher than that of normal cells,
+
+Asian Journal of Pharmaceutical Sciences 15 (2020) 83–94
+
+and the redox-sensitive micelles DOX/KSV had more toxicity than redox-insensitive micelles DOX/KV in MGC80-3 cells.
+Moreover, drug-loaded micelles could enter cancer cells more
+efficiently compared with normal cells, and DOX/KSV disassembled rapidly in tumor cells to release DOX. In addition, a
+low degree of KSV micelles showed a better antitumor activity.
+The micelles were uptaken into tumor cells via multiple pathways and primarily through clathrin-mediated endocytosis.
+Therefore, redox-sensitive DOX/KSV micelles can effectively
+deliver antitumor drugs to tumors while reducing side effects
+on normal tissues and heparosan-based polymers have great
+potential as effective drug carriers.
+
+Declaration of interest
+The authors report no conflicts of interest. The authors alone
+are responsible for the content and writing of this article.
+
+Acknowledgments
+We are grateful for the financial support from National Natural Science Foundation of China (81503007 and 21574059),
+Research Project of Wuxi Health and Family Planning Commission (Q201843), Natural Science Foundation of Jiangsu
+Province (BK20170202) and the Top-notch Academic Programs Project of Jiangsu Higher Education Institutions
+(PPZY2015B146).
+
+references
+
+[1] Ha W, Zhao XB, Chen XY, Jiang K, Shi YP. Prodrug-based
+cascade self-assembly strategy for precisely controlled
+combination drug therapy. ACS Appl Mater Interfaces
+2018;10(25):21149–59.
+[2] Zhu C, Huo D, Chen Q, Xue J, Shen S, Xia Y. A eutectic
+mixture of natural fatty acids can serve as the gating
+material for near-infrared-triggered drug release. Adv Mater
+2017;29(40):1703702.
+[3] Zhang LH, Qin Y, Zhang ZM, Fan F, Huang C, Lu L, et al. Dual
+pH/reduction-responsive hybrid polymeric micelles for
+targeted chemo-photothermal combination therapy. Acta
+Biomater 2018;75(18):371–85.
+[4] Cho HJ, Yoon IS, Hong YY, Koo H, Jin YJ, Ko SH,
+et al. Polyethylene glycol-conjugated hyaluronic
+acid-ceramide self-assemblednanoparticles for targeted
+delivery of doxorubicin. Biomaterials 2012;33(4):1190–200.
+[5] Jia N, Ye Y, Wang Q, Zhao X, Hu H, Chen D, et al. Preparation
+and evaluation of poly (L-histidine) based pH-sensitive
+micelles for intracellular delivery of doxorubicin against
+MCF-7/ADR cells. Asian J Pharm Sci 2017;12(5):433–41.
+[6] Li Z, Tao W, Zhang D, Wu C, Song B, Wang S, et al. The
+studies of PLGA nanoparticles loading atorvastatin calcium
+for oral administration in vitro and in vivo. Asian J Pharm Sci
+2016;12(3):285–91.
+[7] Danhier F, Feron O, Préat V. To exploit the tumor
+microenvironment: Passive and active tumor targeting of
+nanocarriers for anti-cancer drug delivery. J Controlled
+Release 2010;148(2):135–46.
+[8] Kim D, Zhong Gao ZG, Lee ES, Bae YH. In vivo evaluation of
+doxorubicin-loaded polymeric micelles targeting folate
+
+receptors and early endosomal pH in drug-resistant ovarian
+cancer. Mol Pharm 2009;6(5):1353–62.
+Daglar B, Ozgur E, Corman ME, Uzun L, Demirel GB. Polymeric
+nanocarriers for expected nanomedicine: current challenges
+and future prospects. RSC Advance 2014;4(89):639–59.
+Zhang X, Li L, Li C, Hua Z, Song H, Xiong F, et al. Cisplatincrosslinked glutathione-sensitive micelles loaded with
+doxorubicin for combination and targeted therapy of
+tumors. Carbohydr Polym 2017;155:407–15.
+Zhong Y, Goltsche K, Cheng L, Xie F, Meng F, Deng C,
+et al. Hyaluronic acid-shelled acid-activatable paclitaxel
+prodrug micelles effectively target and treat
+CD44-overexpressing human breast tumor xenografts in vivo.
+Biomaterials 2016;84:250–61.
+Gong J, Chen M, Zheng Y, Wang S, Wang Y. Polymeric
+micelles drug delivery system in oncology. J Control Release
+2012;159(3):312–23.
+Ma N, Li Y, Xu H, Wang Z, Zhang X. Dual redox responsive
+assemblies formed from diselenide block copolymers. J Am
+Chem Soc 2010;132(2):442–3.
+Kedar U, Phutance P, Shidhaye S, Kadam V. Advances in
+polymeric micelles for drug delivery and tumor targeting.
+Nanomedicine 2010;6(6):714–29.
+Li J, Yin T, Wang L, Yin L, Zhou J, Huo M. Biological evaluation
+of redox-sensitive micelles based on hyaluronic
+acid-deoxycholic acid conjugates for tumor-specific delivery
+of paclitaxel. Int J Pharm 2015;483(1–2):38–48.
+Jiang X, Li L, Liu J, Hennink WE, Zhuo R. Facile fabrication of
+thermo-responsive and reduction-sensitive polymeric
+micelles for anticancer drug delivery. Macromol Biosci
+2012;12(5):703–11.
+Zeng L, Li Y, Li T, Cao W, Yi Y, Geng W, et al. Seleniumplatinum coordination compounds as novel anticancer
+drugs: selectively killing cancer cells via a reactive oxygen
+species (ROS)-mediated apoptosis route. Chem Asian J
+2014;9(8):2295–302.
+Lili Y, Ruihua M, Li L, Fei L, Lin Y, Li S. Intracellular
+doxorubicin delivery of a core cross-linked, redoxresponsive polymeric micelles. Int J Pharm
+2016;498(1-2):195–204.
+Yang Q, Tan L, He C, Liu B, Xu Y, Zhu Z. Redox-responsive
+micelles self-assembled from dynamic covalent block
+copolymers for intracellular drug delivery. Acta Biomaterialia
+2015;17:193–200.
+Siegwart DJ, Whitehead KA, Nuhn L, Sahay G, Cheng H,
+Jiang S, et al. Combinatorial synthesis of chemically diverse
+core-shell nanoparticles for intracellular delivery. Proc Natl
+Acad Sci USA 2011;108(32):12996–3001.
+Miteva M, Kirkbride KC, Kilchrist KV, Werfel TA, Li H,
+Nelson CE, et al. Tuning PEGylation of mixed micelles to
+overcome intracellular and systemic sirna delivery barriers.
+Biomaterials 2015;38:97–107.
+Hatakeyama H, Akita H, Harashima H. A multifunctional
+envelope type nano device (MEND) for gene delivery to
+tumours based on the EPR effect: A strategy for overcoming
+the PEG dilemma. Adv Drug Deliv Rev 2011;63(3):152–60.
+Holland JW, Hui C, Cullis PR, Madden TD. Poly(ethylene
+glycol)−lipid conjugates regulate the calcium-induced fusion
+of liposomes composed of phosphatidylethanolamine and
+phosphatidylserine. Biochemistry 1996;35(8):2618–24.
+Kim JH, Kim YS, Park K, Kang E, Lee S, Nam HY,
+et al. Self-assembled glycol chitosan nanoparticles for the
+sustained and prolonged delivery of antiangiogenic small
+peptide drugs in cancer therapy. Biomaterials
+2008;29(12):1920–30.
+Coradini D, Pellizzaro C, Scarlata I, Zorzet S, Garrovo C,
+Abolafio A, et al. Novel retinoic/butyric hyaluronan ester for
+the treatment of acute promyelocytic leukemia: preliminary
+preclinical results. Leukemia 2006;20(5):785–92.
+
+94
+
+Asian Journal of Pharmaceutical Sciences 15 (2020) 83–94
+
+[26] Park K, Kim K, Kwon IC, Kim SK, Lee S, Lee DY,
+et al. Preparation and characterization of self-assembled
+nanoparticles of heparin-deoxycholic acid conjugates.
+Langmuir 2004;20(26):11726–31.
+[27] Deangelis PL. HEPtune: A process of conjugating a naturally
+occurring sugar molecule, heparosan, to a drug for enhanced
+drug delivery. Drug Deliv 2013;3(1):1–5.
+[28] Jing W, Roberts JW, Green DE, Almond A, Deangelis PL.
+Synthesis and characterization of
+heparosan-granulocyte-colony stimulating factor
+conjugates: a natural sugar-based drug delivery system to
+treat neutropenia. Glycobiology 2017;27(11):1052–61.
+[29] Hubbell JA, Chilkoti A. Nanomaterials for drug delivery.
+Science 2012;337(6092):303–5.
+[30] Guo X, Shi C, Wang J, Di S, Zhou S. pH-triggered intracellular
+release from actively targeting polymer micelles.
+Biomaterials 2013;34(18):4544–54.
+[31] Gao Y, Chen Y, Ji X, He X, Yin Q, Zhang Z, et al. Controlled
+intracellular release of doxorubicin in multidrug-resistant
+cancer cells by tuning the shell-pore sizes of mesoporous
+silica nanoparticles. ACS Nano 2011;5(12):9788–98.
+[32] Woraphatphadung T, Sajomsang W, Gonil P, Saesoo S,
+Opanasopit P. Synthesis and characterization of
+pH-responsive N-naphthyl-N,O-succinyl chitosan micelles
+for oral meloxicam delivery. Carbohydr Polym
+2015;121:99–106.
+[33] Yuan W, Zou H, Shen J. Amphiphilic graft copolymers with
+ethyl cellulose backbone: Synthesis, self-assembly and
+tunable temperature-CO2 response. Carbohydr Polym
+2016;136:216–23.
+[34] Naeem M, Yoo JW. Withdrawn: Budesonide-loaded enzymeand pH-sensitive polymeric nanoparticles for the treatment
+of colitis. Asian J Pharm Sci 2015;430:463–7.
+[35] Zhao YP, Ye WL, Liu DZ, Cui H, Cheng Y, Liu M, et al. Redox
+and pH dual sensitive bone targeting nanoparticles to treat
+breast cancer bone metastases and inhibit bone resorption.
+Nanoscale 2017;9(19):6264–77.
+[36] Wang JX, Yang XZ. Near infrared light-activated
+super-sensitive drug release using nanoparticles with a flow
+core. J Controlled Release 2017;259:145.
+[37] Anirudhan TS, Christa J, Binusreejiayan. pH and magnetic
+field sensitive folic acid conjugated protein–polyelectrolyte
+complex for the controlled and targeted delivery of
+5-fluorouracil. J Ind Engin Chem 2018;57:199–207.
+[38] Papa AL, Korin N, Kanapathipillai M, Mammoto A,
+Mammoto T, Jiang A, et al. Ultrasound-sensitive nanoparticle
+aggregates for targeted drug delivery. Biomaterials
+2017;139:187–94.
+[39] Nguyen Thi TT, Tran TV, Tran NQ, Nguyen CK, Nguyen DH.
+Hierarchical self-assembly of heparin-PEG end-capped
+porous silica as a redox sensitive nanocarrier for
+doxorubicin delivery. Mater Sci Eng C Mater Biol Appl
+2017;70(Pt 2):947–54.
+[40] Zhai S, Hu X, Hu Y, Wu B, Xing D. Visible light-induced
+crosslinking and physiological stabilization of
+diselenide-rich nanoparticles for redox-responsive drug
+
+release and combination chemotherapy. Biomaterials
+2017;121:41–54.
+Yu LL Y, Mu RH, Li L, Liang F, Yao L, Su L. Intracellular
+doxorubicin delivery of a core cross-linked, redox-responsive
+polymeric micelles. Int J Pharm 2016;498(1-2):195–204.
+Yang Q, Tan L, He C, Liu B, Xu Y, Zhu Z,
+et al. Redox-responsive micelles self-assembled from
+dynamic covalent block copolymers for intracellular drug
+delivery. Acta Biomater 2015;17:193–200.
+Lin JT, Liu ZK, Zhu QL, Rong XH, Liang CL, Wang J,
+et al. Redox-responsive nanocarriers for drug and gene
+co-delivery based on chitosan derivatives modified
+mesoporous silica nanoparticles. Colloids Surf B
+Biointerfaces 2017;155:41–50.
+Yang HY, Jang MS, Li Y, Lee JH, Lee DS. Multifunctional and
+redox-responsive self-assembled magnetic nanovectors for
+protein delivery and dual-modal imaging. ACS Appl Mater
+Interfaces 2017;9(22):184–92.
+Liu L, Yi H, He H, Pan H, Cai L, Ma Y. Tumor associated
+macrophage-targeted microRNA delivery with
+dual-responsive polypeptide nanovectors for anti-cancer
+therapy. Biomaterials 2017;134:166–79.
+Wen H, Dong H, Liu J, Shen A, Li Y, Shi DL. Redox-mediated
+dissociation of PEG–polypeptide-based micelles for
+on-demand release of anticancer drugs. J Mater Chem B
+2016;4(48):7859–69.
+Choi WI, Yoon KC, Im SK, Kim YH, Yuk SH, Tae G. Remarkably
+enhanced stability and function of core/shell nanoparticles
+composed of a lecithin core and a pluronic shell layer by
+photo-crosslinking the shell layer: In vitro and in vivo study.
+Acta Biomater 2010;6(7):2666–73.
+Liu C, Yuan J, Luo X, Chen M, Chen Z, Zhao Y,
+et al. Folate-decorated and reduction-sensitive micelles
+assembled from amphiphilic polymer-camptothecin
+conjugates for intracellular drug delivery. Mol Pharm
+2014;11(11):4258–69.
+Sahay G, Alakhova DY, Kabanov AV. Endocytosis of
+nanomedicines. J Control Release 2010;145(3):182–95.
+Gersdorff KV, Sanders NN, Vandenbroucke R, Smedt SCD,
+Wagner E, Ogris M. The internalization route resulting in
+successful gene expression depends on both cell line and
+polyethylenimine polyplex type. Mol Ther 2006;14(5):745–53.
+Cheng L, Huang FZ, Cheng LF, Zhu YQ, Hu Q, Li L,
+et al. GE11-modified liposomes for non-small cell lung
+cancer targeting: preparation, ex vitro and in vivo evaluation.
+Int J Nanomedicine 2014;9:921–35.
+Manunta M, Tan PH, Sagoo P, Kashefi K, George AJ. Gene
+delivery by dendrimers operates via a cholesterol dependent
+pathway. Nucleic Acids Res 2004;32(9):2730–9.
+Du JZ, Tang LY, Song WJ, Shi Y, Wang J. Evaluation of
+polymeric micelles from brush polymer with
+poly(epsilon-caprolactone)-b-poly(ethylene glycol) side
+chains as drug carrier. Biomacromolecules
+2009;10(8):2169–74.
+Verma A, Stellacci F. Effect of surface properties on
+nanoparticle-cell interactions. Small 2010;6(1):12–21.
+
+end

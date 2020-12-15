@@ -1,0 +1,146 @@
+Abstract
+Medicinal plants abound with many phytochemicals that are effective in representing lots of pharmacological activities. The current study aimed at investigating the phytochemical and pharmaco-logical activity of crude methanol extract of Calamus rotang L. (CRME) leaves. The analgesic activity and thrombolytic activity were examined by the acetic acid-induced writhing method, while the clot lysis effect was evaluated by an in-vitro thrombolytic method. From this study, it is stated that the extract (400, 200 mg/kg) reduced abdominal writhing by 31.06% and 44.33% for 200 mg/kg and 400 mg/kg respectively while the standard showed 58.57% of inhibition and increased the pain reaction time in mice when compared to that of the negative control group in tail-immersion test. The extract presented 16.2 ± 1.75% of human blood clot lysis in the thrombolytic experiment. The presence of steroids, saponins, glycosides, cardenolides, flavonoids, carbohydrates, and reducing sugars might have an influence on the pharmacological activity of CRME.
+
+Keywords
+Calamus rotang L. leaves, phytochemical, anti-nociceptive, thrombolytic, Tail-immersion
+
+Introduction
+Traditional medicines are very popular with a view to having an intense historical and cultural value in many developing countries 1. It has also gained popularity for its tremendous medicinal properties in the treatment and prevention of different types of diseases 2. A report published by WHO states that about 80% of the world’s population relies mainly on herbal medicine for their primary health care needs, and most of the traditional therapy uses the plant extracts and their active constituents due to their safety and effectiveness 3, 4.
+
+The synthetic drugs that are used in the treatment of analgesia and thrombosis have different types of adverse effects, and some are costly 5. The plant-based drug discovery can avert this in an effective and safe manner. Calamus rotang L. (commonly known as bet) is a common growing shrub and medicinal plant in Bangladesh, belonging to the family Arecaceae 6. It is an evergreen climber and a native plant of south-west Asia 6.
+
+This medicinal plant possesses several medicinal uses because of the presence of secondary metabolites like saponin in the stem, alkaloid in the leaves, and flavonoid in the root 7. It has shown several medicinal properties, including anti-diarrheal, anti-inflammatory, antipyretic, anti-diabetic, astringent, antibilious, spasmolytic, wood-vermifuge effects 8. Its tender shoots are utilized as a febrifuge 9, antihelminthic by tribal people 6. Its leaf sap is used for eye problem 6 and in the treatment of biliousness and diseases of the blood 8. The stem bark is used in the treatment of chronic fevers and as an antidote to snake venom 10.
+
+The plant extracts also possess cooling, alexiteric, hypotensive, depurative, diuretic, febrifuge, hyper-dipsia, cough, bronchitis, vesical calculi, chronic fever, and to treat skin disease 11.
+
+Considering the traditional use of Calamus rotang, here we designed the study to assess the analgesic activity by an acetic acid-induced writhing method and tail-immersion method, thrombolytic activity by clot lysis method and evaluate the presence of phytochemical constituents.
+
+Main
+
+Materials: Analytical and laboratory-grade (e.g., SIGMA, E. Merck or BDH) reagents like Mayer’s Reagent, Wagner’s reagent, Fehling’s solution, Copper sulfate, Sulfuric acid, Hydrochloric acid, Ferric chloride, Zinc dust, Chloroform, Pure naphthol, Lead acetate, Glacial acetic acid, etc. were used for phytochemical screening.
+
+Collection and Identification of Plant Materials: The matured plant leaves were collected from Chattogram division of Bangladesh. Then, it was distinguished as Calamus rotang by taxonomist Dr. Shaikh Bokhtear Uddin, Professor, Department of Botany, the University of Chittagong under the identification no ra203426.
+
+Extract Preparation: Plant leaves were washed properly, and semi shed sun-dried for seven days. After drying in an oven, the plant materials were ground using a mechanical grinder. 330 gm of dried powder of C. rotang leaves were soaked in 2000 ml of methanol and kept at room temperature with occasional shaking. After 13 days, the solution was filtered through filter cloth followed by Whatman no. 1 filter paper, and the filtrate thus obtained was concentrated by using a rotary evaporator. The weight of extract yielded was 23.81 gm. The percentage yield of the extract was calculated using the following equation12:
+
+% yield of extracts = Weight of extracted material × 100 / Weight of original plant material used
+
+Experimental Animals: Male Swiss Albino mice of 25-35 gm were used for an in-vivo test, which was bought from the Bangladesh Council of Scientific and Industrial Research (BCSIR), Chattogram, Bangladesh. These were housed properly and served an adequate diet with drinking water ad libitum throughout the study.
+
+Phytochemical Screening: Phytochemical screening of CRME was performed by using standard procedures 13, 14, 15. The color intensity or the precipitate formation was used as analytical responses to these qualitative tests.
+
+In-vivo Analgesic Activity Assay:
+
+Acetic Acid-Induced Writhing Method: The peripheral analgesic study was conducted by using an acetic acid-induced writhing method following the previously described method 16 with slight modifications. Of four groups of mice (five mice per group), each were administered 1% Tween-80 solution 10 ml/kg (negative control), Diclofenac sodium 10 mg/kg (positive control) and CRME 200 mg/kg, CRME 400 mg/kg, respectively all by oral route, 30 min prior to IP administration of 0.7% glacial acetic acid (GAA) at 10 ml/kg. After 5 min of IP administration of 0.7% GAA, the abdominal writhing of each mouse was carefully counted for 20 min. The percentage inhibition of writhing was calculated to investigate the degree of analgesia using the formula: 17
+
+% Inhibition of writhing = Nc – Nt × 100 / Nc
+
+Here, Nc = number of writhings in the negative control, and Nt = number of writhings in test animals
+
+Tail-Immersion Test: The analgesic test was conducted by another method, Tail-immersion test, following a previously described method 18 with minor modifications. Of four groups of mice (five mice per group), each was administered 1% Tween-80 solution 10 ml/kg (negative control), CRME 200 mg/kg, CRME 400 mg/kg orally and Morphine sulfate 10 mg/kg (positive control) by IP route.
+
+About 3 cm of the terminal point of the tail of mice were immersed in warm water by using a water bath at a temperature of 50 °C. Then the tail-flick time of each mice from the water was counted for 30 min prior to and 30, 60, 90 and 120 min after treatment. The cut off period was 15 sec to avoid the tail damage.
+
+The percentage of the Maximal Possible Effect (%MPE) of CRME was calculated using the following equation: 19
+
+% MPE = Post drug latency – Pre drug latency × 100 / Cutt-off time – Pre drug latency
+
+The percentage of time elongation (%TE) produced by CRME with comparison to positive control was calculated from the following equation20:
+
+%TE = [{Latency (extract) – Latency (Positive control)} × 100 / Latency (extract)]
+
+In-vitro Thrombolytic Activity Assay: The thrombolytic study was carried out according to the method reported earlier 21. The test solution was prepared by mixing 100 mg of CRME with 10 ml of distilled water (DW) and was shaken vigorously on a vortex mixer. After overnight, it was filtered by using a 0.22-micron syringe filter. Of twelve pre-weighed Eppendorf tubes, each containing 500 µL of blood samples were incubated at 37 °C for 45 min. After clot formation, the serum was completely removed from each Eppendorf tube, and the clot weight was determined (Clot weight= Weight of clot filled Eppendorf – Weight of empty Eppendorf). Then 100 μl of commercially available lyophilized Streptokinase (SK) (15, 00,000 I.U.) (positive control), 100μl of DW (negative control) and 100 μl of CRME were separately added to the Eppendorf tubes and again incubated at 37 °C for 90 min.
+
+After incubation, the serum was completely removed, and the percentage of clot lysis was determined as followings:
+
+% Clot lysis = Wb – Wc × 100 / Wb
+
+Here, Wb = Weight of Clot before lysis, Wc = Weight of clot after lysis
+
+Statistical Analysis: All data were analyzed by using statistical software Statistical Package for Social Science (SPSS, Version 16.0, IBM Corporation, NY). Graphs were prepared by Graph Pad Prism Data Editor for Windows, Version 5.03 (GraphPad Software Inc., San Diego, CA).
+
+RESULTS:
+
+Acetic Acid-Induced Writhing Method: The peripheral analgesic effect of CRME in the acetic acid-induced writhing method was presented in Table 2 and Fig. 1.
+
+TABLE 2: SCREENING OF PERIPHERAL ANALGESIC ACTIVITY OF CALAMUS ROTANG BY USING THE ACETIC ACID-INDUCED WRITHING METHOD
+
+Treatment	Dose	No. of writhing	% of Inhibition
+Negative control	10 ml/kg	38.62 ± 1.087	-
+CRME	200 mg/kg	26.62 ± 1.028a	31.06
+400 mg/kg	21.50 ± 1.429a	44.33
+Diclofenac Sodium	10 mg/kg	16.00 ± 0.353a	58.57
+*CRME= Crude methanolic extracts of C. rotang leaves; Values were expressed as Mean ± SEM; n=5. ap< 0.001 is statistically significant in comparison to the negative control, done by one way ANOVA followed by post hoc Dunnett ‘t’ test.
+
+
+
+FIG. 1: SCREENING OF PERIPHERAL ANALGESIC ACTIVITY OF CALAMUS ROTANG BY USING ACETIC ACID-INDUCED WRITHING METHOD; CRME= Crude methanolic extracts of C. rotang leaves; Values were expressed as Mean ± SEM; n=5. a p< 0.001 is statistically significant in comparison to the negative control.
+
+Tail-Immersion Test: The result of the central analgesic activity of CRME obtained from the tail-immersion test was demonstrated in Table 3, Table 4 and Fig. 2.
+
+*CRME= Crude methanolic extracts of C. rotang leaves; Values were expressed as Mean ± SEM; n=5.  ap< 0.001 is statistically significant with a comparison to the negative control, bp< 0.001 is statistically significant in comparison of CRME 400mg/kg to CRME 200 mg/kg done by one way ANOVA followed by post hoc Tukey test.
+
+TABLE 4: SCREENING OF CENTRAL ANALGESIC ACTIVITY OF CALAMUS ROTANG BY CALCULATING %TE USING TAIL-IMMERSION TEST
+
+
+FIG. 2: SCREENING OF CENTRAL ANALGESIC ACTIVITY CALAMUS ROTANG BY USING TAIL-IMMERSION TEST. CRME= Crude methanolic extracts of C. rotang leaves; Values were expressed as Mean ± SEM; n=5. ap< 0.001 is statistically significant with comparison to control, bp< 0.001 is statistically significant in comparison of CRME 400 mg/kg to CRME 200 mg/kg.
+
+*SK= Streptokinase, CRME= Crude methanolic extracts of C. rotang leaves; Values were expressed as Mean ± SEM; ap< 0.001 significant when compared with the corresponding value of DW and bp< 0.001 significant when compared with the corresponding value of SK, done by one way ANOVA followed by Post hoc Tukey test.
+
+In-vitro Thrombolytic Activity Assay: As a part of discovering natural medicine as the cardioactive drug, the antithrombotic effect of CRME was evaluated and the result was represented in Table 5 and Fig. 3.
+
+
+
+FIG. 3: SCREENING OF THROMBOLYTIC ACTIVITY OF CRUDE METHANOLIC EXTRACTS OF C. ROTANG LEAVES (CRME). SK= Streptokinase; Values were expressed as Mean ± SEM, ap< 0.001 significant when compared with the corresponding value of negative control and bp< 0.001 significant when compared with the corresponding value of SK
+
+DISCUSSION: Plants combine different end products of metabolites and toxic substances in the form of secondary metabolites. These are stored and used for protection from insects, herbivorous animals, pathogenic organisms, and source of different essential elements. The secondary metabolites were further exploited as antibiotics, anthelminthic agents, anticoagulants, antitumor substances and carcinogens, cardio-excitatory substances, growth substances and hormones, haemagglutinins and lectin-type agglutinins, hypotensives, insecticides, toxins and vitamins. The current study revealed the presence of steroids, saponins, glycosides, cardiac glycosides, flavor-noids and phlorotannins in CRME. Many of the aforementioned compounds can be directly and synthetically modified and used in medicine. The acetic acid- induced writhing model was applied to assess the peripheral analgesic activity of CRME 22, which used IP 0.7% of the GAA to stimulate peripheral pain receptors and caused to release free arachidonic acid (AA) from the tissue phospholipid 23. It resulted in the abdominal writhing of a mouse.
+
+The capability of the suppression of this writhing reflex was used as the indicator of the peripheral analgesic activity of CRME. CRME 200 mg/kg (31.06%) and 400 mg/kg (44.33%) showed a significant (p< 0.001) increase in percentage (%) of inhibition of writhing in comparison to negative control in a dose-dependent manner. It was clearly evident that CRME exerted a moderate peripheral analgesic effect in comparison to highly potent NSAID Diclofenac sodium. Previous researches reported that the flavonoids inhibited prostaglandin synthesis and contributed to the analgesic activity 24. The presence of this phytochemical in CRME might attribute to its peripheral analgesic activity. The tail immersion model was employed to assess the potential narcotic analgesic activity of CRME by using thermal stimuli 23.
+
+In this method, the heat stimulated non-myelinated C fibers of the mouse’s tail, caused the release of excessive substance P 20. The pain receptors were activated when the thermal stimulus reached beyond the threshold of pain receptors, and they were sensitized by the sensory nerves 25. In addition, the thermal stimulus was sensitive to opioid µ-receptor 26. It was noticed that CRME 200 mg/kg, CRME 400 mg/kg and Morphine sulfate showed more post drug latency, the %MPE and %TE than that of the negative control at a different time interval which indicated the possible significant (p<0.001) central analgesic effect of CRME in a dose-dependent manner.
+
+CRME was observed to manifest moderate central analgesic activity in comparison to morphine sulfate whose effect was reduced and increased gradually with the time span at 200 mg/kg and 400 mg/kg, respectively. Commercially available thrombolytic drugs like SK activates other plasminogen to plasmin by complexing with circulatory plasminogen, which in turn dissolves fibrinogen and fibrin, the insoluble matrix of the clot that results in lysis of blood clot 27.
+
+In the current study of evaluation of the thrombolytic activity of CRME, with the comparison of the percentage of clot lysis of positive control (SK) to the negative control (DW), it was evident that the dissolution of the clot was negligible upon addition of DW. Significant (p<0.001) mild thrombolytic activity was exhibited by CRME (16.2 ± 1.75%) when compared to SK (63.3 ± 2.81%) and DW (4.08 ± 0.56%). Several types of researches have revealed that alkaloid 21, flavonoids 28 and cardiac glycoside 29 were effective against thrombosis and coronary artery diseases, the presence of which might have contributed to the slight thrombolytic activity of CRME.
+
+Conclusion
+Natural product development for the treatment of different diseases is of utmost importance. CRME possessed moderate central and peripheral analgesic anxiolytic activity in a dose-dependent manner. It also exhibited mild thrombolytic and anthelmintic effects at higher concentrations. Further researches regarding the isolation of its active compounds must be considered to evaluate its activities in various medical treatments.
+
+Acknowledgements
+The authors would like to thank Dr. Shaikh Bokhtear Uddin, Professor, Department of Botany, the University of Chittagong, for the identification of the plant. The authors would also like to thank all the teachers and staff of the Department of Pharmacy, the University of Chittagong, for their support.
+
+CONFLICTS OF INTEREST: The authors declare no conflict of interest.
+
+REFERENCES
+
+Krishnaraju AV, Rao TV, Sundararaju D, Vanisree M, Tsay H-S and Subbaraju GV: Assessment of bioactivity of Indian medicinal plants using brine shrimp (Artemia salina) lethality assay. International Journal of Applied Sciences and Engineering 2005; 3(2): 125-34.
+Proma NM, Naima J, Islam MR, Papel JA, Rahman MM and Hossain MK: Phytochemical constituents and antidiabetic properties of Syzygium cumini seed. International Journal of Pharmaceutical Sciences and Research 2018; 9(5): 1806-14.
+Mishra P, Kumar A, Nagireddy A, Mani DN, Shukla AK, Tiwari R and Sundaresan V: DNA barcoding: an efficient tool to overcome authentication challenges in the herbal market. Plant Biotech J 2016; 14(1): 8-21.
+Sen S and Chakraborty R: Revival, modernization and integration of Indian traditional herbal medicine in clinical practice: Importance, challenges and future. Journal of Traditional and Complementary Medicine 2017; 7(2): 234-44.
+Naima J, Islam MR, Proma NM, Afrin SR, Hossain MR and Hossain MK: Phytochemical screening and antinociceptive activity of Mimosa diplotricha International Journal of Pharmaceutical Sciences and Research 2019; 10(8): 3679-84.
+Basumatary S, Ahmed M and Deka S: Some medicinal plant leaves used by Boro (tribal) people of Goalpara district, Assam. Natural Product Radiance 2004; 3(2).
+Ripa FA, Dash PR and Faruk O: CNS depressant, analgesic and anti-inflammatory activities of methanolic seed extract of Calamus rotang fruits in rat. Journal of Pharmacognosy and Phytochemistry 2015; 3: 121-25.
+Roy S, Kumari D, Chakraborty M and Haldar PK: Anti proliferative activity of Calamus rotang as a spotlight on ehrlich’s ascites carcinoma treated peritoneal as well as solid tumor model. International Journal of Pharmacy and Pharmaceutical Sciences 2018; 10: 85-90.
+Rethy P, Singh B, Kagyung R and Gajurel P: Ethnobotanical studies of Dehang–Debang Biosphere Reserve of Arunachal Pradesh with special reference to Memba tribe 2010.
+De Sarker D, Saha MR and Saha S: Perspective of dietetic and antioxidant medicinal plants: Notion Press; 2015.
+Ganesan K and Xu B: Ethnobotanical studies on folkloric medicinal plants in Nainamalai, Namakkal District, Tamil Nadu, India. Trends in Phytochem Res 2017; 1(3): 153-68.
+Ezeja M, Omeh Y, Ezeigbo I and Ekechukwu A: Evaluation of the analgesic activity of the methanolic stem bark extract of Dialium guineense (Wild). Annals of Medical and Health Science Research 2011; 1(1): 55-62.
+Bolanle AO, Funmilola AS and Adedayo A: Proximate analysis, mineral contents, amino acid composition, anti-nutrients and phytochemical screening of Brachystegia eurycoma Harms and Pipper guineense Schum and Thonn. American Journal of Food and Nutrition 2014; 2: 11-7.
+Ugbaja CC, Fawibe OO, Oyelakin AS, Fadimu IO, Ajiboye AA and Agboola DA: Comparative phytochemical and nutritional composition of Trichosanthes cucumerina (L.) and some Solanum lycopersicum (L.) cultivars in Nigeria. American Journal of Plant Sciences 2017; 8(2): 297-09.
+Evans W, Trease and Evans: 15thedn. Sanders Co. Ltd. Singapore 2002.
+Suresha RN, Amoghimath S, Vaibhavi PS, Shruthi SL, Jayanthi MK and Kalabharathi HL: Evaluation of analgesic activity of perindopril in albino mice. Journal of Advanced Pharmaceutical Technology & Research 2014; 5(3): 129-33.
+Anafi S, Yaro A, Abbas-Yakubu M and Yakubu A: Evaluation of analgesic and anti-inflammatory activities of methanol leaf extract of Croton lobatus (Euphorbiaceae) in Rodents. Trop Journal of Nat Prod Res 2017; 1(6): 255-58.
+Karim N, Khan I, Ahmad N, Umar MN and Gavande N: Antidepressant, anticonvulsant and antinociceptive effects of 3′-methoxy-6-methylflavone and 3′-hydroxy-6-methylflavone may involve GABAergic mechanisms. Pharmacological Reports 2017; 69(5): 1014-20.
+Boakye-Gyasi E, Henneh IT, Abotsi WK, Ameyaw EO and Woode E: Hydro-ethanolic leaf extract of Ziziphus abyssinica Hochst Ex A. Rich (Rhamnaceae) exhibits anti-nociceptive effects in murine models. BMC Complementary and Alternative Med 2017; 17(1): 231.
+Kumawat RK, Kumar S and Sharma S: Evaluation of analgesic activity of various extracts of Sida tiagii Acta Pol Pharm 2012; 69: 1103-09.
+Hussain MS, Hossain MS, Amin MT and Millat MS: In vitro thrombolytic potentials of methanolic extract of Vigna unguiculata Linn (seed). Journal of Pharmacognosy and Phytochemistry 2016; 5(3): 129-31.
+Kaushik D, Kumar A, Kaushik P and Rana A: Analgesic and anti-inflammatory activity of Pinus roxburghii Advances in Pharmacological Sciences 2012; 245431.
+Islam MR, Naima J, Proma NM, Hussain MS, Uddin SN and Hossain MK: In-vivo and in-vitro evaluation of pharmacological activities of Ardisia solanacea leaf extract. Clinical Phytoscience 2019; 5(1): 32.
+Mali A, Bandawane D and Hivrale M: Evaluation of anti-inflammatory and analgesic activity of methanol extract of Cassia auriculata Pharmacol 2013; 4(2): 117-25.
+Burma NE, Leduc‐Pessah H, Fan CY and Trang T: Animal models of chronic pain: advances and challenges for clinical translation. Journal of Neuroscience Research 2017; 95(6): 1242-56.
+Montilla-García Á, Perazzoli G, Tejada MA, González-Cano R, Sánchez-Fernández C, Cobos EJ and Baeyens JM: Modality-specific peripheral antinociceptive effects of μ-opioid agonists on heat and mechanical stimuli: contribution of sigma-1 receptors. Neuropharmacology 2018; 135: 328-42.
+Maheshwari N, Kantipudi S, Maheshwari A, Arora K, Kwatra N and Sahni G: Amino-Terminal Fusion of Epidermal Growth Factor 4, 5, 6 Domains of Human Thrombomodulin on Streptokinase Confers Anti-Reocclusion Characteristics along with Plasmin-Mediated Clot Specificity. PLOS One 2016; 11(3): e0150315.
+Khatun A, Rahman M, Uddin KN, Ahsan K, Shimu SN, Kobra K, Shimu SA, Haque W, Rahman T, Jessy TH and Akhter F: Preliminary study on thrombolytic property of thirty six different extracts of eight Bangladeshi medicinal plants with folkloric relevance. Oriental Pharmacy and Experimental Medicine 2016; 16(4): 311-9.
+Mahmud S, Akhter S and Rahman M: Antithrombotic effects of five organic extracts of Bangladeshi plants in- vitro and mechanisms in in-silico Evidence-Based Complem and Altern Med 2015.
+
+End

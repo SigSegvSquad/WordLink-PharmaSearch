@@ -1,0 +1,950 @@
+Abstract
+
+
+A series of branched polyethylenimine (PEI) modifications including PEGylation (PEG2k-PEI)
+for steric shielding, redox-sensitive crosslinking for synthesis PEG2k-PEI-ss nanogels and
+subsequent carboxymethylation (PEG2k-CMPEI-ss) for modulation of the polymer pka have
+been introduced for cellular delivery of Anti-miR-21. The synthesis was characterized us-
+ing 1 H NMR, FTIR, TNBS, potentiometric titration, particle size and ζ potential. Loading of
+Anti-miR-21 at various N/P ratios was investigated by gel retardation, ethidium bromide dye
+
+Keywords
+
+MicroRNA PEI nanogels Anti-miR-21 Gene delivery Cisplatin resistance
+
+Introduction
+
+Ovarian cancer is the 6th most common cancer in women
+[1]. Major risk factors contributing to increase ovarian cancer
+have been mentioned as hereditary, reproductive, hormonal,
+inflammatory, dietary and surgical [2]. Indeed, it has been reported that hormone replacement therapy can be considered
+as the major risk factor for developing ovarian cancer [3]. Regarding that only 30% of ovarian cancer patients at advanced
+stages can survive only 5 years after initial diagnosis [4], so urgent needs for developing new therapeutic strategies seem to
+be undeniable.
+For almost 40 years, cisplatin (cis-Pt) has been the most accepted drug for treating ovarian cancer. It has been reported
+that 80%−90% of patients with ovarian cancer respond to platinum chemotherapy, however nearly about one third of them
+resist to cis-Pt [5]. Various mechanisms of cis-Pt resistance
+have been studied which can be divided into pump (mediated by P-glycoprotein and multi-drug resistance proteins)
+and non-pump mechanisms which are mainly due to antiapoptotic cellular defense activations mediated by Bcl-2 and
+survivin [6,7]. Cis-Pt resistance can also occur by elevating
+metallothioneins and glutathione content of the cells. In addition, increasing DNA repair can be considered as an antiappoptotic factor in cis-Pt resistant cells [8].
+MicroRNAs (miRNAs), non-coding endogenous evolutionarily conserved ∼18–22 nucleotide single-stranded RNAs, were
+discovered in 1993 [9]. It has been clear that miRNAs have
+major roles in gene expression regulation through base pair
+formation with messenger RNAs [8]. miRNAs biogenesis and
+their mechanisms of action have been well studied and it has
+been demonstrated that any changes in intracellular amounts
+of miRNA lead to severe diseases including autoimmune malfunctions [10], diabetes [11], Parkinson’s [12], fibrosis [13] and
+cardiovascular [14] abnormalities and cancers such as breast,
+glioblastoma, liver, ovary, prostate, lung, gastric, colon, and endocrine pancreatic tumors [15].
+MicroRNA-21 (miR-21) has been considered as an oncogenic miRNA that upregulates in almost all diseases, downregulates tumor inhibitor proteins, leads to cell proliferation,
+migration, invasion, metastasis, and apoptosis regulation [16].
+Several studies demonstrate that miR-21 overexpression leads
+to downregulation of critical tumor inhibitor proteins such
+as phosphatase and tensin homolog (PTEN), programmed cell
+death protein 4 (PDCD4), hypoxia inducible factor–1α (HIF-1α)
+and regulates drug resistance in ovary cancer cells [17–21].
+So, delivery of Anti-miR-21 to ovarian cancer cells seems to
+be a promising way to inhibit tumor cell proliferation and
+metastasis.
+It has been reported that upregulation of miR-21 in ovarian cancer is responsible for cis-Pt resistance in cancer cells
+by PDCD4 upregulation via JNK-1/c-Jun/miR-21 pathway [22].
+The most important challenge to achieve convenient therapeutic approaches for miR/anti-miR therapy is lack of suitable delivery system which can overcome the obstacles of
+systemic delivery such as phagocytic elimination, renal filtration, nucleases degradation, cellular uptake and endosomal release for possible translation to clinical practice
+
+Main
+
+PEIs have wide applications for gene delivery because of
+their controlled polycationic nature which allow them to
+condense negatively charged oligonucleotide chains, protect
+them against nucleases and facilitate nucleic acid entering
+efficiently via endocytosis [25,26]. Moreover, PEIs increase endosomal escape attributed to the well-known proton sponge
+mechanism [27,28]. Chemical modifications of PEI primary
+and secondary amines can enhance endosomal release of genetic materials by decreasing pKa that makes the modified
+polymer more protonable at acidic than neutral pH [29,30]. In
+addition, it has been shown that addition of carboxyl groups
+induces proton sponge effect since ionized carboxylate groups
+serve as proton-acceptors and enhanced buffer capacity of
+nanovectors [31]. Also, the nanogels composed of PEG-PEI can
+effectively deliver drug or oligonucleotide due to the positively
+charged core of PEI and the shell of mPEG which leads to solubility enhancement, rapid endosomal uptake, prevention of
+unwanted interactions of particles with plasma components
+and nuclease protection [32–34]. In addition, these sterically
+stabilized nanoscale particles can easily provide a convenient
+environment for encapsulation of negatively charged biological agents such as miRNAs to promote their resistance against
+changes in pH, ionic strength and solvent [33,35]. Simultaneously, biodegradable crosslinking provides the demanded stability of a relatively new generation of nanovectors, also called
+nanogels, that causes protection of loaded oligonucleotide
+chains. Furthermore, redox-sensitive disulfide linkages facilitate their breaking down and intracellular release of encapsulated contents in presence of glutathione and reducing enzymes of the cells, but prevent pre-mature release and degradation in the extracellular milieu [34–37].
+In this regard, we aimed to synthesis a series of branched
+PEI modifications including PEGylation reaction (PEG2k-PEI)
+for steric shielding, redox-sensitive chemical crosslinking
+(PEG2k-PEI-ss) for nanogel preparation and subsequent carboxymethylation reaction (PEG2k-CMPEI-ss) for modulation
+of the polymer pka , respectively. To investigate the possible
+role of disulfide crosslinks and the carboxymethylation reaction, the physicochemical and biological properties of the
+nanogels were compared in terms of loading Anti-miR-21, formation of stable nanoplexes, cellular delivery and transfection
+efficiency. In addition, the therapeutic value of Anti-miR-21
+loaded PEG2k-PEI-ss nanogels was compared in A2780 sensitive (A2780S) and resistant (A2780R) cell lines to cis-Pt.
+
+Polyethyleneimine 10 kDa (corresponding to Mw /Mn of 1.4)
+and methoxy polyethylene glycol 2 kDa (mPEG2000 –COOH)
+were purchased from Poly Sciences Inc. (Canada) and Jenkem
+(USA), respectively. Dithiodipropionic acid (DTDP), 1-(3dimethylamino-propyl)-3-ethylcarbodiimide hydrochloride
+(EDC), N-hydroxysuccinimide (NHS), 2,4,6-trinitrobenzene sulfonic acid (TNBS), disodium ethylenediaminetetraacetic acid
+(EDTA), agarose, 4,6-diamidino-2-phenylindole (DAPI), fluorescein isothiocyanate (FITC), sodium borohydride (NaBH4 ),
+4-morpholineethanesulfonic acid (MES), cisplatin (cis-Pt)
+
+and
+3-(4,5-dimethyl-thiazol-2-yl)-2,5-diphenyltetrazolium
+bromide (MTT) were supplied from Sigma-Aldrich (USA).
+ZnSO4 .7H2 O, dichloromethane (DCM), dimethylsulfoxide
+(DMSO), triethylamine (TEA), ethidium bromide (EtBr) and
+potassium bromide (KBr) were obtained from Merck (Germany). A2780S and A2780R ovarian cancer cell lines were
+purchased from Pasteur Institute (Iran, Tehran). Anti-miR21, scrambled and primer sequences were synthesized by
+Macrogen (Korea).
+
+lyophilized products with KBr and compression of the mixtures to form discs. Twenty scans were signal averaged with a
+resolution of 4 cm−1 in range of 500–4000 cm−1 .
+
+
+Coordination complex, micellar template-assisted synthesis
+and characterization of PEG2k-PEI-ss was carried out according to the previous method by Abolmaali et al. [33,38]. Briefly,
+a solution of NHS-activated mPEG2000 –COOH in methanol was
+added to PEI solution in DCM at mPEG2000 /PEI weight ratios
+at 0.5. The medium was supplemented by 1% TEA as a proton quencher and the tubes were incubated for 3 h while stirring. The product was concentrated using a rotational speed
+vacuum (Christ RVC 2–18, Germany), diluted in 3 ml of deionized water, dialyzed using a Float-A-Lyzer 6–8 kDa (Spectrum,
+USA) and lyophilized (Christ alpha 1–2 LD, Germany). For the
+crosslinking reaction, 30 mg of PEG2k-PEI dissolved in 100 mM
+MES buffer pH 5.6, ZnSO4 solution was added dropwise to
+the polymer solution (Zn2+ /N ratio = 0.2) and stirred 30 min to
+constitute a micellar template for the crosslinking reaction.
+The crosslinking reaction was done by adding100 mM DTDP
+solution in DMSO, EDC and NHS, at the molar ratio of 2:2:1
+(NHS/EDC/COOH). The mixture was stirred overnight and then
+the coordinated Zn2+ was removed by dialysis against HCl solution (pH 3.0) using Float-A-Lyzer 3.5 kDa.
+
+2.3.
+
+Carboxymethylation reaction
+
+To carboxylate PEI primary and secondary amines buried in
+the core of PEG2k-PEI-ss nanogels, a solution of 12 mg bromoacetic acid in 3 ml DMSO was added dropwise to 4 ml
+nanogels (2.5 mg/ml). The product (PEG2k-CMPEI-ss) was then
+stirred overnight at room temperature and then dialysis in
+double distilled water for 3 d and stored in 4 °C before use.
+
+NMR spectra was recorded on Bruker-400 MHz using D2 O
+as solvent. Proton integration method was used to estimate
+average degree of PEGylation, disulfide crosslinking and carboxymethylation.
+
+Potentiometric titration
+
+The potentiometric titration was performed to estimate the
+degree of carboxymethylation. Briefly, aliquots of 20 μl of 1 M
+NaOH solution were added to solutions of PEG2k-PEI, PEG2kPEI-ss and PEG2k-CMPEI-ss nanogels (equals to 1 mg PEI). Each
+mixture was titrated with aliquots of 0.5 M HCl while shaking
+at 25 °C. The titration curves were plotted and compared for
+the nanogels.
+
+2.4.5.
+
+Ellman assay
+
+To determine the redox-sensitivity of the nanogels, either simple or carboxylated, Ellman assay was performed [40]. Briefly,
+25 μl of the reagent (0.2 M NaBH4 in 0.2% NaOH solution) were
+mixed to 45 μl of samples containing 4 mM total amines and
+incubated for 1 h. The volume reached to 90 μl with 300 mM
+HEPES buffer (pH 8). Then, 10 μl of 4 mg/ml DTNB solution
+(Ellman’s reagent) was added. After 15 min incubation, the
+absorbance was read at 412 nm. The free thiol content was
+calculated using a calibration curve plotted for reduced glutathione standard solutions.
+
+2.5.
+Preparation and characterization of Anti-miR-21
+loaded nanogels
+2.5.1.
+
+Gel retardation assay
+
+Nanoplexes were prepared by simple mixing of Anti-miR-21
+or scramble sequences with PEG2k-PEI copolymer, PEG2k-PEIss and PEG2k-CMPEI-ss nanogels at various N/P ratios ranging
+from 0 to 10 in deionized water. The products were further incubated for 0.5, 3, 6 and 24 h at room temperature. Nanoplexes
+were run in Bio-Rad electrophoresis apparatus at 60 V, 30 min
+in 2.5% (w/v) agarose gel and visualized by UV transilluminator (Syngene gel documentation system) [41].
+
+2.5.2.
+To calculate the amount of residual primary amines in PEG2kPEI copolymer, PEG2k-PEI-ss and PEG2k-CMPEI-ss nanogels,
+TNBS assay was performed according to the method described
+by Freedman and Radda [39] at polymer concentrations equal
+to 0.75 mM PEI. To 0.5 ml of each standard and sample solutions diluted in 0.1 M borate buffer (pH = 9.5), 2.6 μl TNBS
+reagent was added. Following 45 min incubation at 25 °C, the
+absorbance was read at λ = 420 nm using UV–visible spectrophotometer (ELISA reader, Biotek, USA).
+
+Ethidium bromide (EtBr) dye exclusion assay
+
+EtBr dye exclusion assay was performed to determine the optimum N/P ratio for loading and condensation of nucleic acid
+sequences [42]. Nanoplexes were prepared according to the
+aforementioned method in 96-well plates. After 30 min incubation at room temperature, 50 μl of 0.5 μg/ml of EtBr solution was added to each sample and mixed gently. The mixtures were incubated in dark condition for 15 min and the
+fluorescence intensity was read at excitation and emission
+λ = 510 nm and λ = 595 nm, respectively. Naked Anti-miR-21
+sequence and deionized water were considered as positive
+and negative controls, respectively.
+
+FTIR spectroscopy
+
+Infrared spectra were recorded on FTIR spectrometer (Vertex,
+Bruker, Germany) to study spectral changes. Samples were
+prepared by geometric dilution of an identical amount of the
+Heparin sulfate competition assay
+
+To investigate stability of the Anti-miR-21 loaded nanoplexes
+against heparin sulfate (extracellular polyanion), agarose
+
+
+Asian Journal of Pharmaceutical Sciences 15 (2020) 69–82
+
+gel electrophoresis was performed. In this condition, the
+nanoplexes were prepared at various N/P molar ratios and the
+mixtures were incubated for 24 h at room temperature. Then,
+2 μl of heparin sulfate (2 U/μg oligonucleotide) was added to
+each sample, pipetted several times and after 15 min incubation, they were run in 2.5% agarose gel at 60 V for 30 min.
+The bands were visualized using Syngene gel documentation
+apparatus. In parallel, biological stability of the nanoplexes
+was investigated by measuring their resistance against heparin sulfate by the EtBr dye exclusion assay. Briefly, 0.1–2 IU
+heparin sulfate/μg oligonucleotide sequences were added to
+each well of 96-well plate containing nanoplexes. After 15 min
+incubation, 50 μl of 1 μg/ml EtBr was added to each well. Fluorescence intensities were determined before and after addition of heparin sulfate as mentioned before and any change
+in nucleic acid condensation (%) were calculated accordingly.
+
+2.5.4.
+
+Stability of nanoplexes against DNaseI
+
+To investigate the biological stability of nanoplexes against
+nucleases, the nanoplexes at the N/P = 5 and also 3 μg of naked
+Anti-miR-21 were mixed with 2 μl of reaction buffer and 2 U of
+DNaseI, separately. The mixtures were incubated at 37 °C for
+different times (0 min, 1, 3, 6 and 24 h). Aliquots at different
+incubation times were run in 2.5% agarose gel electrophoresis and their stability against DNaseI was compared to naked
+Anti-miR-21 [43].
+
+Determination of particle size and ζ potential
+
+Particle size was investigated by the dynamic light scattering
+spectrometry (DLS 180°, Microtrac, Germany) using a patented
+controlled reference method which incorporates 180° heterodyne detection by calculating signals of various scattered light
+frequencies combined with the reflected signals of un-shifted
+frequency of the original laser (780 nm) to generate a wide
+spectrum of frequencies. The power spectrum of Doppler frequency shifts was then applied for the multimodal and broad
+size distribution measurements. The hydrodynamic diameters of the nanogels and their respective nanoplexes with
+Anti-miR-21 were determined in 20 mM phosphate buffer
+(pH = 7) at the effective N/P molar ratio = 5. The viscosity and
+refractive index of water at 25 °C were used for data analysis.
+The intensity averaged diameters were reported for each sample. To calculate ζ potentials, the diluted samples underwent
+Cell culture
+
+Cellular studies were carried out using A2780S and A2780R
+ovarian cancer lines. The cells were cultured in RPMI medium
+supplemented with 10% fetal bovine serum (FBS; PAA, Australia) and 1% antibiotic (Penicillin–Streptomycin, Australia)
+in an incubator at 37 °C and 5% CO2 . In order to preserve the
+resistance phenotype, aliquots of 0.1 μM cis-Pt was added to
+A2780 drug resistance cell line after each passage.
+
+MTT cytotoxicity assay
+
+A cell count of 2.5 × 104 A2780R and A2780S cells was seeded
+in 96-well plates. After 24 h incubation at 37 °C and 5% CO2 ,
+the cells were treated with the culture medium containing
+
+various concentrations of PEG2k-PEI copolymer, PEG2k-PEI-ss
+and PEG2k-CMPEI-ss nanogels, at the concentrations ranged
+between 0 and 100 μg/ml, to evaluate cytotoxicity of the
+polymeric biomaterials. Furthermore, the MTT assay was
+performed to investigate the sequence specific cytotoxicity associated with Anti-miR-21 vs. scrambled sequence
+(100 ng/ml) loaded with the nanogels at different N/P mole
+ratios (1, 3, 5) for 72 h. The medium was replaced with 100 μl
+MTT (0.5 mg/ml) in PBS and incubated for a further 3 h. Finally,
+the medium was aspirated and the remaining formazan crystals were solubilized in 100 μl/well DMSO. Light absorbance
+was measured at 570 nm and corrected for the background
+absorbance at 650 nm. Cell viability was calculated as percentage relative to untreated control cells [44].
+
+Trypan blue membrane leakage assay
+
+A2780R and A2780S cells were seeded (106 cells/well) in
+6-well plates. After 24 h, the cells were incubated with solutions of the polymers alone, PEG2k-PEI, PEG2k-PEI-ss and
+PEG2k-CMPEI-ss nanogels at the concentration of 32 mg/l,
+or the loaded nanoplexes prepared at the constant N/P = 5
+(3 μg/l Anti-miR-21 or the scrambled sequence). Next, the cells
+were trypsinized and suspended in PBS containing trypan
+blue and counted to determine the percentage of viable cells
+(with clear cytoplasm) vs. non-viable cells (blue stained cytoplasm). Cell membrane leakage was expressed as the percentage of non-viable to total cells. Untreated cells served as
+control [45].
+
+2.6.3. Cellular uptake and intracellular release by fluorescence
+microscopy
+Cellular uptake of the FITC-labeled nanogels was determined
+by fluorescence microscopy. First, to label the nanogels, 200 μl
+of 10 mg/ml FITC was added to 4 ml of the nanogels (1.3 mg/ml)
+in 0.1 M borate buffer (pH 9.2) and the mixture was incubated
+for 2 h stirring. The excess FITC was removed by dialysis using
+Float-A-Lyzer (8–10 kDa) at 4 °C in dark. The degree of conjugation was determined using standard curve plotted for FITC at
+λ = 495 nm. Then, 105 cells (A2780R and A2780S) were seeded
+in 6-well plates and treated for 0.5, 2 and 4 h with either
+50 μg/ml FITC-labeled nanogels. Following treatment, the cells
+were washed with cold PBS and fixed with 2% paraformaldehyde in PBS at 37 °C for 10 min. After washing with cold PBS,
+the cells were permeabilized with Triton X-100 (0.5% in PBS)
+for 10 min at 4 °C and washed with cold PBS. The nuclei were
+stained with DAPI solution (10 μg/ml in PBS) for 5 min before
+visualized by the fluorescence microscope (Nikon Eclipse E400,
+Japan).
+
+miR-21 expression assay by stem-loop RT PCR
+
+After 24 h incubation of the seeded cells in 6-well plates,
+the cells were treated by nanoplexes with N/P = 5 molar ratios for 72 h. Then, the cells were scrapped and total RNA
+was extracted according to Dena Zist Asia Kit procedure.
+cDNA synthesis was done using M-MuLV-Reverse Transcriptase and special stem-loop primer for microRNA-21 (30 min
+16 °C, 60 min 42 °C followed by 10 min 70 °C). Polymerase chain
+reaction (PCR) was done with the following pattern: 94 °C for
+2 min, followed by 40–60 cycles of 93 °C for 30 s, 58 °C for 1 min
+
+
+and 72 °C for 30 s. The products were run on 2.5% agarose gel
+at 60 V for 30 min. Results were analyzed by ImageJ software.
+
+2.7.
+Interaction between miR-21 downregulation and
+cis-Pt resistance
+In order to evaluate the effect of treating cells with Anti-miR21 loaded nanoparticles on cis-Pt action, the sensitive and resistant cells were pre-treated with Anti-miR-21 nanoplexes
+for 48 h. Following the treatment, the media were aspirated
+and replaced by a medium containing 5 or 10 μM cis-Pt. After 24 h MTT assay was performed according to the aforementioned method.
+In order to discriminate live, apoptotic and necrotic cells under fluorescent microscope, Acridine Orange (AO)/ Ethidium
+Bromide (EtBr) double-staining assay was performed. 7 × 105
+cells/well of A2780S and A2780R cells were seeded in 24-well
+plates, treated with the nanoplexes (N/P = 5) for 72 h. Then,
+the cells were trypsinized, stained with AO/EtBr dye mix in
+PBS (100 μg/ml) and observed under fluorescent microscope
+(Nikon Eclipse E400, Japan) [46].
+
+
+Statistical analysis was performed using Prism Software
+version 5.0 (GraphPad, USA). P values less than 0.05 were
+considered statistically significant. Data were expressed as
+mean ± standard deviation.
+
+Physicochemical characterization of the nanogels
+
+In present study to investigate the effects of structural variation of PEG2k-PEI copolymer on transfection of Anti-miR21, synthesis of PEG2k-PEI-ss nanogels containing redoxsensitive crosslinks [33] and the carboxymethylated nanogels
+(PEG2k-CMPEI-ss) have been done. Synthesis of PEG2k-PEI
+copolymer and the PEG2k-PEI-ss nanogels were confirmed by
+1 H NMR, FTIR and DLS methods as reported previously [33].
+Following the carboxymethylation reaction, TNBS assay was
+used in order to monitor changes in the concentration of primary amine residues [47,48], considering that the reactions
+involves often the PEI primary amines [49]. Using the calibration curve plotted for standard glycine solutions, it was found
+that about 14.7% of the PEG2k-PEI primary amines were consumed to produce simple nanogels and 87.0% of the remaining amines were used to produce PEG2k-CMPEI-ss nanogels,
+so less than 10% of the available primary amines were only
+present in chemical structure of the resulting nanogels, but
+still sufficient for the fluorescent labeling of nanogels [50].
+Following the carboxymethylation reaction, the chemical structure of nanogels were investigated by FTIR and 1 H
+NMR spectroscopy. The peaks at 3420, 1113 and 1669 cm−1
+is attributed to N–H, C–O and amide C=O stretching of PEI,
+PEG2k and the crosslinker DTDP in the PEG2k-PEI-ss nanogels,
+respectively. After carboxymethylation reaction, the unique
+
+Fig. 1 – Back-titration curve of PEG2k-PEI copolymer,
+PEG2k-PEI-ss and PEG2k-CMPEI-ss nanogels at a quantity
+corresponding to 1 mg PEI after supplementing the medium
+(double distilled water, DDW) with 20 μl of 1 N NaOH.
+broad peak at 2500––3000 cm−1 appears that is related to
+the hydroxyl group of carboxylic acid moieties (suplementary
+data) as reported before [51]. The degree of carboxymethylation was determined by 1 H NMR. The peaks at 3.4 and 2.3–
+3.3 ppm are related to CH2 –O of PEG and CH2 –N of PEI in
+the spectrum of the PEG2k-PEI-ss nanogel. The specific peak
+of CH2 –CH2 –COOH in the PEG2k-CMPEI-ss nanogel structure
+is also located at 2.3–3.3 ppm, so the area under the curve
+of this range increased (suplementary data). Degree of carboxymethylation was estimated about 44% for total primary
+and secondary amines.
+Potentiometric titration was performed to determine the
+variation in buffer capacity of PEG2k-PEI copolymer following
+synthesis of the nanogels at the concentration corresponding to 3.3 mg/ml PEI (Fig. 1). It was revealed that the titration
+curves shifted to the right following the crosslinking reaction (PEG2k-PEI-ss). A further shift in acidic pH occurred after carboxymethylation reaction that is responsible not only
+for increasing the buffering capacity and endosomal escape
+properties, but also for reducing the cytotoxicity induced
+by the positively charged nanoparticles [51]. The maximum
+buffer capacity was determined in pH 5.3 corresponding to
+pKa of the carboxylic acid groups that exist in the core of
+PEG2k-CMPEI-ss nanogels [52].
+Ellman’s assay method was done for determination of free
+thiols recovered after treating the nanogels with a reducing
+agent (NaBH4 ). Unlike untreated polymers, the free thiol concentrations were determined 0.14 ± 0.02 and 0.10 ± 0.01 mM
+for PEG2k-PEI-ss and PEG2k-CMPEI-ss nanogels, respectively.
+The concentrations of recovered free thiols were consistent
+with estimated density of the crosslinks.
+
+3.2.
+
+Biological characterization of the nanoplexes
+
+Gel retardation assay was carried out to investigate the
+nanoplex formation after adding Anti-miR-21 to PEG2k-PEI,
+
+74
+
+Asian Journal of Pharmaceutical Sciences 15 (2020) 69–82
+
+Fig. 2 – Gel retardation assay at various incubation times and N/P ratios (lanes from left to right: 0, 0.5, 1, 2, 5, 10).
+
+Fig. 3 – Retardation of Anti-miR-21 loaded in the nanoplexes at various N/P ratios (lanes from left to right: 0, 0.5, 1, 2, 5, 10)
+with or without adding heparin sulfate.
+
+PEG2k-PEI-ss or PEG2k-CMPEI-ss nanogels using agarose gel
+electrophoresis [53]. Retardation of the oligonucleotide band
+was noticed by increasing N/P ratios and the incubation time
+until no residual naked oligonucleotide band was seen in
+the gel as reported by others [54]. Depending on the chemical nature and structure of the polymers, the optimum N/P
+molar ratio was different [55]. In our experiment, at low N/P
+ratios of 0.5–1, the cationic charge was insufficient to neutralize and condense the negatively charged Anti-miR-21 even after long incubation times as reported elsewhere [54]. However,
+upon increasing N/P ratios as well as the incubation time, the
+migration of Anti-miR-21 was retarded in the gel so that no
+migration happens in the gel for N/P as low as 5 and a
+prolonged incubation time of 3–24 h, indicating a complete
+neutralization of Anti-miR-21 negative charge through a complete nanoplex formation (Fig. 2). The nanoplexes formed
+almost completely with PEG2k-PEI copolymer and PEG2kPEI-ss nanogels similarly at N/P ratio as low as 2, but the
+required incubation times were different (3 h vs. 24 h for
+the uncrosslinked copolymer and the nanogel, respectively)
+(Fig. 2). The N/P ratio shifted to the higher value of 5 for PEG2kCMPEI-ss nanogels. A relatively prolonged incubation time is
+required for Anti-miR-21 loading into the nanogels possibly
+due to crosslinks in the polycation network that can hinder
+DNA penetration for subsequent complex formation as reported by Hartlieb et al. [56].
+
+Biologic stability of nanoplexes is a pre-requisite for successful transfection. It has been reported that biologic stability of nanoplexes is related to polymer structure and N/P
+ratio [50]. So, the nanoplexes were exposed to heparin sulfate for determination of possible nucleic acid displacement
+[57]. In this issue, the nanoplex structure can be disrupted
+and Anti-miR-21 may be released following exposure to the
+extracellular matrix due to the polyanionic nature of heparin sulfate [58]. As shown in Fig. 3, unlike the PEG2k-CMPEIss nanogels that resist against heparin sulfate-induced displacement of oligonucleotides at N/P ratio = 10, no displaced
+oligonucleotide band was seen at N/P ratio as low as 5
+similarly for the uncrosslinked PEG2k-PEI and PEG2k-PEI-ss
+nanogels, indicating a complete protection against extracellular matrix. So, the results suggest that the crosslinking reaction provides convenient networks to capture Anti-miR-21
+and lessen displacement induced by heparin sulfate. Although
+there are generally more accessible cationic amines in the uncrosslinked polycation (PEG2k-PEI) than the nanogels (PEG2kPEI-ss and PEG2k-CMPEI-ss) to condense and neutralize negative charges of Anti-miR-21, the instability is less prominent
+for PEG2k-PEI-ss nanogel possibly due to adequacy of the network structure to prevent heparin sulfate interaction.
+EtBr dye exclusion assay was also carried out in order
+to analysis of the nanoplex formation and the resistance
+against heparin sulfate [59]. Intercalation of the EtBr with
+
+Asian Journal of Pharmaceutical Sciences 15 (2020) 69–82
+
+75
+
+Fig. 4 – (A) EtBr dye exclusion assay. (B). Polyanion competition assays after adding heparin sulfate. ∗ ,∗∗ symbols represent
+statistically significant differences between treatments for each N/P ratio: ∗ P < 0.05, ∗∗ P < 0.01.
+
+Fig. 5 – DNase I digestion assay in agarose gel at various incubation times; lanes from left to right: 0, 1, 3, 6, 24 h.
+
+oligonucleotides results in fluorescence intensity enhancement which decreases upon adding polycations as a result
+of the fluorescent probe exclusion from their intercalation
+sites [57,60,61]. The fluorescence intensity of intercalated EtBr
+was determined at different N/P ratios. As shown in Fig. 4A,
+by increasing the N/P ratios, the fluorescence intensity decreased, indicating oligonucleotide sequestration by the polycations. However, PEG2k-PEI-ss nanogel was the most efficient
+polymer in capturing Anti-miR-21 oligonucleotide, the difference was more recognized at N/P = 2. For further characterization of the nanoplexes, polyanion (heparin sulfate) competition assay was performed. Fig. 4B shows that heparin sulfate triggered the release of Anti-miR-21 oligonucleotide from
+the nanoplexes. PEG2k-PEI-ss nanogels show a better condensation of Anti-miR-21 than uncrosslinked PEG2k-PEI and
+less efflux of the loaded Anti-miR-21 following heparin sulfate
+treatment. It was believed that introduction of carboxylate
+negative charge through carboxymethylation of the nanogels
+(PEG2k-CMPEI-ss) may decrease competitive binding of the
+nanogels to condense and protect Anti-miR-21. Therefore at a
+sufficient nanogel concentration (N/P = 5), no practically significant efflux of the oligonucleotide was seen.
+
+3.3.
+
+Stability of nanoplexes against DNase I
+
+DNase I digestion assay was done to evaluate Anti-miR-21 protection provided by the polycations against nucleases at N/P
+of 5. Fig. 5 shows that although all polycations can protect the
+
+oligonucleotide against enzymatic degradation, PEG2k-PEI-ss
+and PEG2k-CMPEI-ss nanogels were more efficient than uncrosslinked PEG2k-PEI copolymer in protecting Anti-miR-21
+after prolonged incubation times. This might be as the result
+of slow penetration of high molecular weight nucleases into
+the PEGylated nanogel network provided by crosslinking reactions [62].
+
+3.4.
+
+Particle size and ζ potential
+
+Colloidal properties (particle size and ζ potential) of the
+nanogels and the resulting nanoplexes are among the factors
+that determines stability, transfection activity and biocompatibility. Particle size and ζ potential values were determined before and after loading Anti-miR-21 at N/P = 5.
+As presented in Table 1, ζ potentials of the nanogels are
+inversely correlated with the protonable amine density. Although less aggregation may occur for the higher ζ zetapotentials due to greater electrostatic repulsion, no colloidal
+instability was determined for PEG2k-CMPEI-ss. Moreover, the
+particle sizes was determined less than those of PEG2k-PEIss possibly due to salt bridges between amines and carboxylate moieties resided within the nanogel structure. Following polyplex formations, reduction of the sizes and ζ potentials probably arises from the formation of tight complexes
+with Anti-miR-21 [63] that were determined identical for the
+uncrosslinked copolymer and the nanogels at N/P ratio of 5.
+Although the mechanism by which oligonulcoetide interacts
+with PEG2k-PEI may differ from the crosslinked structures, no
+
+
+MTT assay
+
+Cytotoxicity of polycations is almost a challengeable factor
+for successful gene delivery [64]. To investigate first the cytocompatibility of nanogels, the cell viability was determined by
+(a) MTT assay of the intracellular metabolic activity and (b) trypan blue exclusion assay that depends on the integrity of the
+cellular membrane. Then, the sequence-specific cell growth
+inhibition induced by the Anti-miR-21 loaded nanogels was
+investigated as a function of N/P mole ratios (N/P = 1, 2 and
+5) in A2780S and A2780R cell lines. As shown in Fig. 6A and
+6B, neither PEG2k-PEI copolymer nor the nanogels showed any
+significant cytotoxicity at concentrations as low as 10 μg/ml
+(P < 0.05). However, their cytotoxicity increased by the poly-
+
+mer concentration so that the cell viability decreased significantly at 50 and 100 μg/ml in both A2780S (P < 0.0001) and
+A2780R (P < 0.01) cells. In addition, it was revealed that the
+cytotoxicity of PEG2k-CMPEI-ss nanogels at the concentration of 100 μg/ml was significantly lower than PEG2k-PEI-ss
+nanogels in A2780S and A2780R (P < 0.0001). The cytotoxicity
+results can be explained according to primary amine contents
+of the polycations [51,65] which cause interactions with negatively charged molecules located on the cell surface [64]. It has
+been shown that crosslinking of PEG2k-PEI reduces cell toxicity significantly due to core-shell structure of the nanogels
+that provides a better PEG shielding [33]. On the other hand,
+carboxymethylation of the nanogels further improves the cell
+compatibility which may be due to reduced pKa of PEG2k-PEI
+and higher buffer capacity of PEG2k-CMPEI-ss in acidic pH as
+demonstrated in Fig. 1. The lower pKa leads to reduced protonation of the nanogels and the lower positive ζ potentials at
+physiologic pH (Table 1) that lessons the cell toxicity [51,66].
+treatment than A2780S (P < 0.05). Treatment of A2780S cells
+with PEG2k-PEI, PEG2k-PEI-ss and PEG2k-CMPEI-ss nanogels
+loaded with Anti-miR-21 at N/P = 5 led to cell viability decrement (if compared to unloaded nanoparticles) by 4% (P < 0.05),
+24% (P < 0.0001) and 35% (P < 0.0001), respectively; while the
+decrements were determined more in A2780R cell lines, 11%
+(P < 0.01), 28% (P < 0.0001) and 47% (P < 0.0001), respectively.
+The nanogels loaded with the scrambled sequence did not
+show any significant effect on the cell viability. Treating
+A2780S cells with PEG2k-PEI, PEG2k-PEI-ss and PEG2k-CMPEIss nanogels loaded with Anti-miR-21 at N/P = 5 led to cell viability decrement while the decrements were determined more
+in A2780R cell lines which can be explained by the abbarent
+expression of miR-21 in A2780R compared to A2780S cell lines.
+
+3.5.2.
+
+Cell membrane leakage assay
+
+Trypan blue membrane leakage assay was done in order to examine whether the nanogels either alone or after loading with
+Anti-miR-21 at N/P = 5 brought about toxic effects on A2780
+cell lines that led to the cell membrane leakage and the cell
+death. Table 2 shows the cell viability changes when incubated with the nanogels for a prolonged period of 24 h. Unlike
+the nanogel treatment alone that showed a modest toxicity,
+the Anti-miR-21 nanoplexes prepared at the corresponding
+nanogel concentration (N/P = 5) produced significant toxicity
+(P < 0.05). The effect was more pronounced for PEG2k-CMPEIss nanogels similarly in A2780S and A2780R cells that may
+be due to efficient delivery of Anti-miR-21 causing loss of cell
+membrane integrity [67].
+
+3.6.
+
+Cellular uptake and intracellular release
+
+Following nanoplex formation, the oligonucleotide charge
+neutralization and condensation happens that can promote
+oligonucleotide interaction with the negatively charged cell
+membrane and cause cellular internalization especially at
+high N/P ratios [68,69]. The cellular uptake of nanoplexes
+
+77
+
+is mainly energy dependent through different mechanisms
+such as clathrin-mediated endocytosis [38]. After having incubated the cells for 1 h with FITC-labeled polycations, the fluorescence microscopy experiment was performed that shows
+green fluorescence in cytoplasm due to cellular binding and
+endosomal uptake in A2780 cell lines (Fig. 7A). The fluorescence was more intense in A2780R than A2780S cells. Cytoplasmic localization of the polycations was found after staining the nuclei by DAPI (blue color) to make the required
+contrast. The green dotted pattern was noticed in the proximity of cell membranes for the polycations having co-treated
+the cells with dextran-FITC. More uniform green fluorescence
+was observed 4 h after treating the cells, indicating endosomal release into cytoplasm (Fig. 7B). The release was more
+around the cell nuclei for PEG2k-CMPEI-ss in comparison to
+PEG2k-PEI and PEG2k-PEI-ss nanogel. Carboxymethylation of
+PEG2k-PEI nanogels lowers pka and increases buffer capacity
+of the nanogels in more acidic pH of late endosomes (Fig. 1);
+therefore, the endosomal escape can occur more effectively
+far from the cell membrane and more close to the nucleus possibly through well-known proton sponge mechanism [27]. To
+further investigate the endosomal release, co-localization experiment of the FITC labeled nanogel with Lysotracker is suggested.
+
+3.7.
+
+miR-21 expression
+
+Cellular uptake and endosomal release of Anti-miR-21 can
+result in miR-21 knockdown as reported elsewhere [70]. Relative expression levels of miR-21 after treating A2780S and
+A2780R cell lines with Anti-miR-21 and the scrambled sequence, either naked or loaded in the nanogels, are shown in
+Fig. 8A. The results clearly demonstrate that the loaded AntimiR-21 downregulated miR-21 expression whereas the loaded
+scrambled sequence or the naked Anti-miR-21 did not show
+any significant effects as reported elsewhere [71]. This result
+indicates the gene knockdown is sequence-specific and needs
+neutralization of the negative charge of Anti-miR-21 for a
+successful transfection [71]. The efficiency of gene silencing
+was absolutely more remarkable in A2780R than A2780R cells.
+Moreover, the downregulation of miR-21 was more evident
+in the cell lines treated with Anti-miR-21 loaded in PEG2kCMPEI-ss nanogels. No changes in ß-actin expression (the
+housekeeping gene as shown in Fig. 8B) was detected. As reported in literature, the positive charges enhance cells interactions, cellular uptake and endosomal release [70] that might
+result in miR-21 knockdown. On the other hand, enhanced
+endosomal release as presented in Fig. 7B might have significant effects in cytoplasmic release of Anti-miR-21 and consequently microRNA-21 down-regulation.
+
+3.8.
+
+Effect of miR-21 downregulation on cis-Pt resistance
+
+It has been revealed that miR-21 overexpression is directly related to drug resistance [17,20,72–75]. cis-Pt treatment alone did not exert any significant cytotoxicity either in A2780S or A2780R in the concentrations below 20 μM
+(Fig. 9A). As shown in Fig. 9B, treating cells with cis-Pt after 48 h incubation with Anti-miR-21 loaded nanogels sensitized cells remarkably to cis-Pt, even in its low concentrations
+
+78
+
+Asian Journal of Pharmaceutical Sciences 15 (2020) 69–82
+
+Fig. 7 – Images of the internalized FITC-labeled polymers in A2780R and A2780S cell lines: cellular uptake after 1 h
+incubation (A) and endosomal release of FITC-dextran co-treated with the polymers after 4 h incubation (B) at 37 °C (all
+figures were overlaid with DAPI stained cell nuclei).
+
+Fig. 8 – (A) Expression of miR-21 in A2780S and A2780R cell lines 72 h after treatment with Anti-miR-21 (A) or the scrambled
+sequence (S) either naked or the nanoplexes prepared with PEG2k-PEI copolymer, PEG2k-PEI-ss and PEG2k-CMPEI-ss
+nanogels. (B) Expression of ß actin.
+
+Asian Journal of Pharmaceutical Sciences 15 (2020) 69–82
+
+79
+
+(5 and 10 μM). This observation can be explained by the research finding that down-regulation of miR-21 could sensitize
+A2780R to cis-Pt through down-regulation of PTEN expression
+and JNK-1/c-Jun/miR-21 pathway [18]. Indeed, it has been revealed that A2780R is more sensitive in response to Anti-miR21 treatment than A2780S at N/P = 5 that may be due to the
+aberrant miR-21 expression in A2780R compared to A2780S
+(Fig. 9B) [18].
+
+3.9.
+
+Fig. 9 – (A) Viability of A2780S and A2780R cell lines after
+treatment with cis-Pt in the range of 2–200 μM. (B) Viability
+of the cells pre-treated with Anti-miR-21 loaded nanogels
+(N/P = 5) and after treatment with cis-Pt. Abbreviations: R
+and S represent A2780R and A2780S cells, respectively. The
+symbols denote statistically significant differences from the
+least cytotoxic treatment: ∗ P < 0.05, ∗∗ P < 0.01, ∗∗∗
+P < 0.001 and ∗∗∗∗ P < 0.0001.
+
+Live / dead assay
+
+As demonstrated in Fig. 10, live cells with normal morphology can be observed in the untreated control or the
+scrambled sequence loaded nanogels. On the other hand,
+early and late apoptotic cells were recognized in the cells
+treated with Anti-miR-21 loaded PEG2k-CMPEI-ss nanogels
+(42% ± 6.4% and 56% ± 1.6% of live cells in A2780R and A2780S,
+respectively). Thus, cellular DNA damage mediated by apoptosis and secondary necrosis, was remarkably induced after Anti-miR-21 loaded PEG2k-CMPEI-ss nanogels treatment
+(Fig. 10), probably because of enhanced endosomal release of
+Anti-miR-21 as presented in Fig. 7B, which can potentiate the
+expression of tumor suppressor PDCD4 and revoked apoptosis
+inhibitor c-IAP2 [22].
+
+Conclusion
+Various PEI modifications including PEG2k-PEI copolymer,
+PEG2k-PEI-ss and PEG2k-CMPEI-ss nanogels have been prepared to improve transfection of Anti-miR-21. Although the vs. untreated control cells. Green live cells showed normal morphology; yellowish-green early apoptotic cells showed
+nuclear margination and chromatin condensation, while late orange apoptotic cells showed fragmented chromatin and
+apoptotic bodies. cross-linking and carboxymethylation reactions decrease primary amine contents of the PEG2k-PEI needed for oligonucleotide charge neutralization and condensation, protonation
+of primary amines at physiologic pH and the general cytotoxicity are diminished. Moreover, the nanogels can effectively
+protect Anti-miR-21 against extracellular matrix and also
+DNase digestion. Notably, an enhanced endosomal escape
+and transfection efficiency are determined for the nanogels.
+Therefore, PEG2k-CMPEI-ss nanogels is proposed as a potential nano-vector for Anti-miR-21 delivery and a basis for future
+dual delivery with chemotherapeutic agents. Investigation of
+cellular trafficking of the nanogels, the biologic consequences
+of miR-21 down-regulation and molecular mechanisms of cisPt chemosensitization by the nanoplexes are suggested for
+further study.
+
+Acknowledgments
+This work was supported financially by Shiraz University of
+Medical Sciences (Grant No: SUMS-93-01-05-8630). The facility
+supports of "Center for Nanotechnology in Drug Delivery" are
+gratefully acknowledged.
+
+Supplementary materials
+Supplementary material associated with this article can be
+found, in the online version, at doi:10.1016/j.ajps.2018.10.006.
+
+references
+
+[1] Baru L, Patnaik R, Singh KB. Clinico pathological study of
+ovarian neoplasms. IJRCOG 2017;6:3438–44.
+[2] Hunn J, Rodriguez GC. Ovarian cancer: etiology, risk factors,
+and epidemiology. Clin Obstet Gynecol 2012;55:3–23.
+[3] Hempling RE, Wong C, Piver MS, Natarajan N, Mettlin CJ.
+Hormone replacement therapy as a risk factor for epithelial
+ovarian cancer: results of a case-control study. Obstet
+Gynecol 1997;89:1012–16.
+[4] Ries LAG. Ovarian cancer: survival and treatment differences
+by age. Cancer 1993;71:524–9.
+[5] Andrews PA, Velury S, Mann SC, Howell SB.
+cis-Diamminedichloroplatinum (II) accumulation in
+sensitive and resistant human ovarian carcinoma cells.
+Cancer Res 1988;48:68–73.
+[6] Ikeguchi M, Nakamura S, Kaibara N. Quantitative analysis of
+expression levels of bax, bcl-2, and survivin in cancer cells
+during cisplatin treatment. Oncol Rep 2002;9:1121–6.
+[7] Ganesh S, Iyer AK, Weiler J, Morrissey DV, Amiji MM.
+Combination of siRNA-directed gene silencing with cisplatin
+reverses drug resistance in human non-small cell lung
+cancer. Mol Ther Nucleic Acids 2013;2:e110.
+[8] Pillai RS. MicroRNA function: multiple mechanisms for a tiny
+RNA? RNA 2005;11:1753–61.
+
+[9] Lee RC, Feinbaum RL, Ambros V. The C. elegans
+heterochronic gene lin-4 encodes small RNAs with antisense
+complementarity to lin-14. Cell 1993;75:843–54.
+[10] Dai R, Ahmed SA. MicroRNA, a new paradigm for
+understanding immunoregulation, inflammation, and
+autoimmune diseases. Transl Res 2011;157:163–79.
+[11] Sekar D, Venugopal B, Sekar P, Ramalingam K. Role of
+microRNA 21 in diabetes and associated/related diseases.
+Gene 2016;582:14–18.
+[12] Saghazadeh A, Rezaei N. MicroRNA machinery in Parkinson’s
+disease: a platform for neurodegenerative diseases. Expert
+Rev Neurother 2015;15:1–27.
+[13] Ge Y, Chen G, Sun L, Liu F. MicroRNA-29 and fibrosis diseases.
+Zhong Nan Da Xue Xue Bao Yi Xue Ban 2011;36:908–12.
+[14] Cao RY, Li Q, Miao Y, Zhang Y, Yuan W, Fan L, et al. The
+emerging role of microRNA-155 in cardiovascular diseases.
+Biomed Res Int 2016;2016:1–5.
+[15] Calin GA, Croce CM. MicroRNA-cancer connection: the
+beginning of a new tale. Cancer Res 2006;66:7390–4.
+[16] Javanmardi S, Reza Aghamaali M, Sadat Abolmaali S,
+Mohammadi S, Mohammad Tamaddon A. miR-21, an
+oncogenic target miRNA for cancer therapy: molecular
+mechanisms and recent advancements in chemo and
+radio-resistance. Curr Gene Ther 2016;16:375–89.
+[17] Chan JK, Blansit K, Kiet T, Sherman A, Wong G, Earle C,
+et al. The inhibition of miR-21 promotes apoptosis and
+chemosensitivity in ovarian cancer. Gynecol Oncol
+2014;132:739–44.
+[18] Echevarría-Vargas IM, Valiyeva F, Vivas-Mejía PE.
+Upregulation of miR-21 in cisplatin resistant ovarian cancer
+via JNK-1/c-Jun pathway. PLoS One 2014;9:e97094.
+[19] Liu S, Fang Y, Shen H, Xu W, Li H. Berberine sensitizes
+ovarian cancer cells to cisplatin through miR-21/PDCD4 axis.
+Acta Biochim Biophys Sin 2013;45:756–62.
+[20] Xie Z, Cao L, Zhang J. miR-21 modulates paclitaxel sensitivity
+and hypoxia-inducible factor-1α expression in human
+ovarian cancer cells. Oncol Lett 2013;6:795–800.
+[21] Li J, Jiang K, Zhao F. Icariin regulates the proliferation and
+apoptosis of human ovarian cancer cells through
+microRNA-21 by targeting PTEN, RECK and Bcl-2. Oncol Rep
+2015;33:2829–36.
+[22] Chan JK, Blansit K, Kiet T, Sherman A, Wong G, Earle C,
+et al. The inhibition of miR-21 promotes apoptosis and
+chemosensitivity in ovarian cancer. Gynecol Oncol
+2014;132:739–44.
+[23] Aied A, Greiser U, Pandit A, Wang W. Polymer gene delivery:
+overcoming the obstacles. Drug Discov Today 2013;18:1090–8.
+[24] Lollo CP, Banaszczyk MG, Chiou HC. Obstacles and advances
+in non-viral gene delivery. Curr Opin Mol Ther 2000;2:136–42.
+[25] Baker A, Saltik M, Lehrmann H, et al. Polyethylenimine (PEI)
+is a simple, inexpensive and effective reagent for condensing
+and linking plasmid DNA to adenovirus for gene delivery.
+Gene Ther 1997;4:773–82.
+[26] Meneksedag-Erol D, Tang T, Uludag˘ H. Probing the effect of
+miRNA on siRNA–PEI polyplexes. J Phys Chem B
+2015;119:5475–86.
+[27] Benjaminsen RV, Mattebjerg MA, Henriksen JR, Moghimi SM,
+Andresen TL. The possible “proton sponge” effect of
+polyethylenimine (PEI) does not include change in lysosomal
+pH. Mol Ther 2013;21:149–57.
+[28] Søndergaard RV, Mattebjerg MA, Henriksen JR, Moghimi SM,
+Andresen TL. The possible" proton sponge" effect of
+polyethylenimine (PEI) does not include change in lysosomal
+pH. Mol Ther 2013;21:149–57.
+[29] Thomas M, Klibanov AM. Enhancing polyethylenimine’s
+delivery of plasmid DNA into mammalian cells. PNAS
+2002;99:14640–5.
+
+Asian Journal of Pharmaceutical Sciences 15 (2020) 69–82
+
+[30] Oskuee RK, Philipp A, Dehshahri A, Wagner E, Ramezani M.
+The impact of carboxyalkylation of branched
+polyethylenimine on effectiveness in small interfering RNA
+delivery. J Gene Med 2010;12:729–38.
+[31] Sakae M, Ito T, Yoshihara C, Iida-Tanaka N, Yanagie H,
+Eriguchi M, et al. Highly efficient in vivo gene transfection by
+plasmid/PEI complexes coated by anionic PEG derivatives
+bearing carboxyl groups and RGD peptide. Biomed
+Pharmacother 2008;62:448–53.
+[32] Hoffmann C, Stuparu MC, Daugaard A, Khan A. Aza-Michael
+addition reaction: Post-polymerization modification and
+preparation of PEI/PEG-based polyester hydrogels from
+enzymatically synthesized reactive polymers. J Polym Sci A
+Polym Chem 2015;53:745–9.
+[33] Abolmaali SS, Tamaddon AM, Dinarvand R. Nano-hydrogels
+of methoxy polyethylene glycol-grafted branched
+polyethyleneimine via biodegradable cross-linking of
+Zn2+ -ionomer micelle template. J Nanopart Res 2013;15:2134.
+[34] Najafi H, Abolmaali SS, Owrangi B, Ghasemi Y,
+Tamaddon AM. Serum resistant and enhanced transfection
+of plasmid DNA by PEG-stabilized polyplex nanoparticles of
+L-histidine substituted polyethyleneimine. Macromol Res
+2015;23:618–27.
+[35] Raemdonck K, Demeester J, De Smedt S. Advanced nanogel
+engineering for drug delivery. Soft Matter 2009;5:707–15.
+[36] Dunn SS, Tian S, Blake S, et al. Reductively responsive
+siRNA-conjugated hydrogel nanoparticles for gene silencing.
+JACS 2012;134:7423–30.
+[37] Creusat G, Rinaldi AS, Weiss E, Elbaghdadi R, Remy JS,
+Mulherkar R, et al. Proton sponge trick for pH-sensitive
+disassembly of polyethylenimine-based siRNA delivery
+systems. Bioconjug Chem 2010;21:994–1002.
+[38] Abolmaali SS, Tamaddon AM, Mohammadi S, Amoozgar Z,
+Dinarvand R. Chemically crosslinked nanogels of PEGylated
+poly ethyleneimine (l-histidine substituted) synthesized via
+metal ion coordinated self-assembly for delivery of
+methotrexate: cytocompatibility, cellular delivery and
+antitumor activity in resistant cells. Mater Sci Eng C Mater
+Biol Appl 2016;62:897–907.
+[39] Freedman RB, Radda GK. The reaction of 2, 4,
+6-trinitrobenzenesulphonic acid with amino acids, peptides
+and proteins. Biochem J 1968;108:383–91.
+[40] Bir K, Crawhall JC, Mauldin D. Reduction of disulfides with
+sodium and potassium borohydrides and its application to
+urinary disulfides. Clin Chim Acta 1970;30:183–90.
+[41] Köping-Höggård M, Vårum KM, Issa M, Danielsen S,
+Christensen BE, Stokke BT, et al. Improved
+chitosan-mediated gene delivery based on easily dissociated
+chitosan polyplexes of highly defined chitosan oligomers.
+Gene Ther 2004;11:1441–52.
+[42] Lepecq JB, Paoletti C. A fluorescent complex between
+ethidium bromide and nucleic acids: Physical—Chemical
+characterization. J Mol Biol 1967;27:87–106.
+[43] Mahmoodi M, Behzad-Behbahani A, Sharifzadeh S,
+Abolmaali SS, Tamaddon A. Co-condensation synthesis of
+well-defined mesoporous silica nanoparticles: Effect of
+surface chemical modification on plasmid DNA
+condensation and transfection. IET Nanbiotechnol
+2017;11:995–1004.
+[44] Gerlier D, Thomasset N. Use of MTT colorimetric assay to
+measure cell activation. J Immunol Methods 1986;94:57–63.
+[45] Strober W. Trypan blue exclusion test of cell viability. Curr
+Protoc Immunol 2001;21(1):A.3B.1–A.3B.2.
+[46] Ciniglia C, Pinto G, Sansone C, Pollio A . Acridine
+orange/Ethidium bromide double staining test: a simple in
+vitro assay to detect apoptosis induced by phenolic
+compounds in plant cells. Allelopathy J 2010;26:301–8.
+
+81
+
+[47] Santos JL, Pandita D, Rodrigues J, Pêgo AP, Granja PL,
+Balian G, et al. Receptor-mediated gene delivery using
+PAMAM dendrimers conjugated with peptides
+recognized by mesenchymal stem cells. Mol Pharmaceut
+2010;7:763–74.
+[48] Snyder SL, Sobocinski PZ. An improved 2, 4,
+6-trinitrobenzenesulfonic acid method for the determination
+of amines. Anal Biochem 1975;64:284–8.
+[49] Stocks SJ, Jones AJM, Ramey CW, Brooks DE. A fluorometric
+assay of the degree of modification of protein primary
+amines with polyethylene glycol. Anal Biochem
+1986;154:232–4.
+[50] Abolmaali SS, Tamaddon AM, Kamali-Sarvestani E,
+Ashraf MJ, Dinarvand R. Stealth nanogels of histinylated poly
+ethyleneimine for sustained delivery of methotrexate in
+collagen-induced arthritis. Model Pharm Res
+2015;32(10):3309–23.
+[51] Dehshahri A, Oskuee RK, Shier WT, Hatefi A, Ramezani M.
+Gene transfer efficiency of high primary amine content,
+hydrophobic, alkyl-oligoamine derivatives of
+polyethylenimine. Biomaterials 2009;30:4187–94.
+[52] Sundberg RJ, Martin RB. Interactions of histidine and other
+imidazole derivatives with transition metal ions in chemical
+and biological systems. Chem Rev 1974;74:471–517.
+[53] Soshilov AA, Denison MS. DNA binding (gel retardation
+assay) analysis for identification of aryl hydrocarbon (Ah)
+receptor agonists and antagonists. In: Caldwell GW, Yan ZY,
+editors. Optimization in drug discovery: in vitro methods.
+Totowa, NJ: Humana Press; 2014. p. 207–19.
+[54] Scott V, Clark AR, Docherty K. The gel retardation assay. In:
+Harwood AJ, editor. Protocols for gene analysis. Totowa, NJ:
+Humana Press; 1994. p. 339–47.
+[55] Golkar N, Samani SM, Tamaddon AM.
+Cholesterol-conjugated supramolecular assemblies of low
+generations polyamidoamine dendrimers for enhanced EGFP
+plasmid DNA transfection. J Nanopart Res 2016;18:107.
+[56] Hartlieb M, Pretzel D, Kempe K, Fritzsche C, Paulus RM,
+Gottschaldt M, et al. Cationic poly (2-oxazoline) hydrogels for
+reversible DNA binding. Soft Matter 2013;9:4693–704.
+[57] Kleemann E, Neu M, Jekel N, Fink L, Schmehl T, Gessler T,
+et al. Nano-carriers for DNA delivery to the lung based upon
+a TAT-derived peptide covalently coupled to PEG–PEI. J
+Control Release 2005;109:299–316.
+[58] Tavakoli S, Tamaddon AM, Golkar N, Samani SM.
+Microencapsulation of (deoxythymidine) 20–DOTAP
+complexes in stealth liposomes optimized by Taguchi
+design. J Liposome Res 2015;25:67–77.
+[59] Geall AJ, Blagbrough IS. Rapid and sensitive ethidium
+bromide fluorescence quenching assay of polyamine
+conjugate–DNA interactions for the analysis of lipoplex
+formation in gene therapy. J Pharm Biomed Anal
+2000;22:849–59.
+[60] Zintchenko A, Philipp A, Dehshahri A, Wagner E. Simple
+modifications of branched PEI lead to highly efficient siRNA
+carriers with low toxicity. Bioconjug Chem 2008;19:1448–55.
+[61] Fischer D, Bieber T, Li Y, Elsässer HP, Kissel T. A novel
+non-viral vector for DNA delivery based on low molecular
+weight, branched polyethylenimine: Effect of molecular
+weight on transfection efficiency and cytotoxicity. Pharm Res
+1999;16:1273–9.
+[62] Zheng N, Song Z, Liu Y, Zhang R, Zhang R, Yao C,
+et al. Redox-responsive, reversibly-crosslinked thiolated
+cationic helical polypeptides for efficient siRNA
+encapsulation and delivery. J Control Release 2015;205:231–9.
+[63] Venault A, Huang YC, Lo JW, Chou CJ, Chinnathambi A,
+Higuchi A, et al. Tunable PEGylation of branch-type PEI/DNA
+polyplexes with a compromise of low cytotoxicity and high
+
+
+Asian Journal of Pharmaceutical Sciences 15 (2020) 69–82
+
+transgene expression: In vitro and in vivo gene delivery. J
+Mater Chem B 2017;5:4732–44.
+Brunot C, Ponsonnet L, Lagneau C, Farge P, Picart C,
+Grosgogeat B. Cytotoxicity of polyethyleneimine (PEI),
+precursor base layer of polyelectrolyte multilayer films.
+Biomaterials 2007;28:632–40.
+Malik N, Wiwattanapatapee R, Klopsch R, Lorenz K, Frey H,
+Weener JW, et al. Dendrimers: Relationship between
+structure and biocompatibility in vitro, and preliminary
+studies on the biodistribution of 125I-labelled
+polyamidoamine dendrimers in vivo. J Control Release
+2000;65:133–48.
+Fischer D, Li Y, Ahlemeyer B, Krieglstein J, Kissel T. In vitro
+cytotoxicity testing of polycations: influence of polymer
+structure on cell viability and hemolysis. Biomaterials
+2003;24:1121–31.
+Louis KS, Siegel AC. Cell viability analysis using trypan blue:
+Manual and automated methods. Mammalian cell viability.
+Springer; 2011. p. 7–12.
+Gao S, Tian H, Guo Y, Li Y, Guo Z, Zhu X, et al. miRNA
+oligonucleotide and sponge for miRNA-21 inhibition
+mediated by PEI-PLL in breast cancer therapy. Acta Biomater
+2015;25:184–93.
+delivery and miR-21 gene silencing to overcome tumor
+multidrug resistance in vitro. Plos One 2013;8:e60034.
+Foged C, Brodin B, Frokjaer S, Sundblad A. Particle size
+and surface charge affect particle uptake by human
+dendritic cells in an in vitro model. Int J Pharm
+2005;298(2):315–22.
+Shim MS, Kwon YJ. Efficient and targeted delivery of siRNA in
+vivo. FEBS J 2010;277:4814–27.
+Drayton RM. The role of microRNA in the response to
+cisplatin treatment. Portland Press Limited; 2012.
+Eitan R, Kushnir M, Lithwick-Yanai G, David MB, Hoshen M,
+Glezerman M, et al. Tumor microRNA expression patterns
+associated with resistance to platinum based chemotherapy
+and survival in ovarian cancer patients. Gynecol Oncol
+2009;114:253–9.
+Titone R, Morani F, Follo C, Vidoni C, Mezzanzanica D,
+Isidoro C. Epigenetic control of autophagy by microRNAs in
+ovarian cancer. Biomed Res Int 2014;2014:343542.
+Bourguignon LYW. Overcoming chemotherapy resistance by
+targeting hyaluronan/cd44-mediated stem cell marker
+(nanog) signaling and microrna-21 in breast, ovarian, and
+head and neck cancer. In: Hayat, editor. Stem cells and
+cancer stem cells, volume 9: Therapeutic application in
+disease and injury. Dordrecht: Springer; 2013. p. 291–8.
+
+end

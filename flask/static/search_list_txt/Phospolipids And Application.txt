@@ -1,0 +1,1380 @@
+H O S T E D BY
+
+ScienceDirect
+journal homepage: http://ees.elsevier.com/ajps/default.asp
+
+Review
+
+A review on phospholipids and their main
+applications in drug delivery systems
+Jing Li, Xuling Wang, Ting Zhang, Chunling Wang, Zhenjun Huang,
+Xiang Luo, Yihui Deng*
+School of Pharmacy, Shenyang Pharmaceutical University, No. 103, Wenhua Road, Shenyang 110016, China
+
+article info
+
+abstract
+
+Article history:
+
+Phospholipids have the characteristics of excellent biocompatibility and a especial
+
+Received 27 June 2014
+
+amphiphilicity. These unique properties make phospholipids most appropriate to be
+
+Received in revised form
+
+employed as important pharmaceutical excipients and they have a very wide range of
+
+29 August 2014
+
+applications in drug delivery systems. The aim of this review is to summarize phospho-
+
+Accepted 10 September 2014
+
+lipids and some of their related applications in drug delivery systems, and highlight the
+
+Available online 28 September 2014
+
+relationship between the properties and applications, and the effect of the species of
+phospholipids on the efficiency of drug delivery. We refer to some relevant literatures,
+
+Keywords:
+
+starting from the structures, main sources and properties of phospholipids to introduce
+
+Phospholipids
+
+their applications in drug delivery systems. The present article focuses on introducing five
+
+Biocompatibility
+
+types of carriers based on phospholipids, including liposomes, intravenous lipid emul-
+
+Amphiphilicity
+
+sions, micelles, drug-phospholipids complexes and cochleates.
+
+Drug delivery systems
+
+© 2015 Shenyang Pharmaceutical University. Production and hosting by Elsevier B.V. All
+rights reserved.
+
+1.
+
+Introduction
+
+Therapeutic agents such as proteins/peptides, nucleic acids,
+anticarcinogens, and other drugs have the drawbacks of low
+bioavailability, rapid clearance, and high toxicity. Therefore,
+there is a great demand to develop delivery methods and
+carriers, which will bring a more efficient delivery for
+therapeutics.
+Drug delivery systems (DDS) are capable of designing to
+increase the bioavailability of drugs, control drug delivery and
+maintain the drug intact transport to the site of action while
+
+avoiding the non-diseased host tissues. Briefly, in a suitable
+dosage and mode of administration, using the smallest dose
+to achieve the best therapeutic effect is the research objective
+of DDS.
+As main components of cellular membrane, phospholipids
+have excellent biocompatibility. In addition, phospholipids
+are renowned for their amphiphilic structures. The amphiphilicity confers phospholipids with self-assembly, emulsifying and wetting characteristics. When introduced into
+aqueous milieu, phospholipids self-assembly generates
+different supermolecular structures which are dependent on
+their specific properties and conditions. For example,
+
+* Corresponding author. Shenyang Pharmaceutical University, No. 103, Wenhua Road, Shenyang 110016, China. Tel./fax: þ86 24 23986316.
+E-mail address: pharmdeng@gmail.com (Y. Deng).
+Peer review under responsibility of Shenyang Pharmaceutical University.
+http://dx.doi.org/10.1016/j.ajps.2014.09.004
+1818-0876/© 2015 Shenyang Pharmaceutical University. Production and hosting by Elsevier B.V. All rights reserved.
+
+phospholipids have a propensity to form liposomes, which
+can be employed as the drug carriers [1]. Phospholipids have
+good emulsifying property which can stabilize the emulsions
+[2]. In addition, phospholipids as surface-active wetting
+agents which can coat on the surface of crystals to enhance
+the hydrophility of hydrophobic drugs [3]. The above properties are successfully employed in the DDS design.
+Phospholipids based DDS have been found promising for
+better and effective delivery of drugs and providing much
+appropriate systematic drug delivery. In recent years, a variety
+of phospholipid-related formulations, such as Doxil® [4],
+Cleviprex® [5], Valium® [6] and Silybin Phytosome™ [7], have
+been used in clinic, and achieving good results.
+Phospholipids are molecules in which hydrophilic head
+group and hydrophobic acyl chains are linked to the alcohol.
+The variation in head groups, aliphatic chains and alcohols
+leads to the existence of a wide variety of phospholipids. In
+addition, the different sources of phospholipids also enhance
+the species of phospholipids. Various phospholipids, such as
+soybean phosphatidylcholine, egg phosphatidylcholine, or
+synthetic phosphatidylcholine, as well as hydrogenated
+phosphatidylcholine, are commonly used in different types of
+formulations. Phospholipids become intriguing as they can
+offer various options. However, the species diversity of phospholipids make how to select an appropriate phospholipid to
+achieve the therapeutic purpose become a crucial problem in
+the design of DDS, so we summarized the structures, main
+sources, properties of phospholipids which can give a guideline in the design of DDS. In addition, we set liposomes,
+intravenous lipid emulsions, PC/bile salt mixed micelles,
+phospholipid micelles, drug-phospholipid complexes, cochleates as examples to introduce the main applications associated with phospholipids and further explain how to make a
+choice among the phospholipids in drug delivery.
+
+Phospholipids
+
+Phospholipids are lipids containing phosphorus, a polar
+potion and non-polar potion in their structures.
+Sphingomyelins
+
+In 1884, Thudicum first described sphingomyelins (SMs), but it
+was not until 1927 that Pick and Bielschowsky proved their
+structures to be N-acylsphingosine-1-phosphatidylcholine
+
+
+According to the alcohols contained in the phospholipids,
+they can be divided into glycerophospholipids and
+sphingomyelins.
+
+2.1.1.
+
+phosphatidylglycerol (PG) cardiolipin (CL) (Table 1). The length
+of the apolar moieties leads to different glycerophospholipids,
+e.g. dipalmitoyl, dimyristoyl, distearoyl PC. The saturation of
+aliphatic groups characterizes different glycerophospholipids,
+such as dioleoyl, distearoyl PC. The type of bonding (ester or
+ether) between aliphatic chains and glycerol determines
+different glycerophospholipids, such as plasmalogen [9]. The
+number of aliphatic chains is different, for example, lysophospholipids have only one acyl group at the glycerol backbone [10] (Fig. 1).
+
+Glycerophospholipids
+
+Glycerophospholipids which are the main phospholipids in
+eukaryotic cells, refer to the phospholipids in which glycerol is
+the backbone. All naturally occurring glycerophospholipids
+possess a-structure and L-configuration [8].
+The chemical structures of glycerophospholipids can be
+classified by the head group, the length and the saturation of
+hydrophobic side chains, the type of bonding between the
+aliphatic moieties and glycerol backbone, and the number of
+aliphatic chains. Variation in the head group leads to
+different glycerophospholipids, such as phosphatidylcholine
+(PC), phosphatidylethanolamine (PE), phosphatidylserine (PS),
+phosphatidic
+acid
+(PA),
+phosphatidylinositol
+Fig. 1 e Schematic representation of the structures of phospholipids.
+
+(Fig. 1). In 1962, Shapiro and Flowers confirmed that all SMs of
+biological sources are D-erythro configuration [12].
+SMs are an important component of animal cell membranes. Although PC and SM are very similar in molecular
+structure, they still have some differences. 1) The backbone of
+SM is a sphingosine, while the backbone of PC is a glycerol. 2)
+Each SM molecule averagely contains 0.1e0.35 cis-double
+bonds in amide-linked acyl chains, and PC contains 1.1e1.5
+cis-double bonds. It is obvious that the saturation of hydrophobic regions of SMs is higher than that of PCs. 3) The typical
+acyl lengths of the naturally occurring SMs are usually more
+than 20, while the paraffin residues of sphingosine are relatively shorter, so the SMs are asymmetric molecules [13]; in
+contrast, PCs typically contain moderate lengths (16e18) of
+the acyl chains, and the lengths of two chains are approximately equal, so the PCs are symmetric molecules [14]. 4) SMs
+are capable of forming intermolecular and intramolecular
+hydrogen bonds, so the SM and PC bilayer have a significant
+difference in the macroscopic properties [13]. 5) The range of
+phase transition temperature (Tc) of all naturally occurring
+SMs is 30e45  C which is above the natural PCs [13]. 6)
+
+Numerous observations have shown that SM and cholesterol
+have a very strong interaction, for example, compared with
+the non-saturated PC/cholesterol bilayer, SM/cholesterol
+bilayer has higher compressibility, and lower permeability to
+water. The reason for this phenomenon is that higher saturation of the acyl chain of SM leads to stronger interaction
+with steroid nucleus [13].
+
+2.2.
+
+The main sources of phospholipids
+
+According to the sources, phospholipids can be divided into
+natural phospholipids and synthetic phospholipids.
+
+2.2.1.
+
+Natural phospholipids
+
+In 1793, Fourcroy was likely to be the first to find the existence
+evidence of complex aliphatic compounds. In 1812, Uauquelin
+found phospholipids in human brain. In 1846, Gobley separated phospholipids from egg yolk. The term “lecithin” which
+is derived from the Greek lekithos was first used to describe a
+sticky orange material isolated from egg yolk. After 20 years,
+choline component in lecithin was determined [15]. Currently,
+
+84
+
+a s i a n j o u r n a l o f p h a r m a c e u t i c a l s c i e n c e s 1 0 ( 2 0 1 5 ) 8 1 e9 8
+
+there are three definitions of “lecithin” appeared in literatures,
+including: 1) from a business perspective, “lecithin” mainly
+includes PC, PE, PS, PI, other phospholipids, triglycerides, fatty
+acids and carbohydrates; 2) from a historical point of view,
+“lecithin” refers to the lipids containing phosphorus isolated
+from eggs and brains; 3) from a scientific point of view, “lecithin” refers to PCs [16].
+Phospholipids are widely distributed in animals and plants,
+and the main sources include vegetable oils (e.g. soybean, cotton seed, corn, sunflower and rapeseed) and animal tissues (e.g.
+egg yolk and bovine brain). In terms of production, egg yolk and
+soybean are the most important sources for phospholipids [17].
+However, soybean and egg yolk have differences in the contents
+and species of phospholipids, mainly including: 1) egg yolk
+lecithin contains a higher amounts of PC; 2) phospholipids in
+egg yolk exist long chain polyunsaturated fatty acids of n-6 and
+n-3 series, primarily arachidonic acid (AA) and docosahexaenoic acid (DHA), which are absent in soybean lecithins; 3) animal lecithins have characteristic of the presence of SM [18]; 4)
+the saturation level of egg yolk lecithins is higher than that of
+soybean lecithins [19], so their oxidative stability is better than
+that of soybean lecithins; 5) for egg yolk phospholipids, saturated fatty acid is usually at sn-1 position, and unsaturated fatty
+acid is at sn-2 position [9], while for soybean lecithin, sn-1 and
+sn-2 position can be both unsaturated fatty acids. For example,
+dilinoleoylphosphatidylcholine (DLPC) is the main component
+of soybean phosphatidylcholine (SPC) [20].
+The cost of phospholipids isolated from natural sources is
+always lower than that obtained by synthetic or semisynthetic methods. For natural phospholipids, the more
+pure they are, the higher the price is [9].
+Phospholipids isolated from plants and animals can be
+purified into different levels, including food and pharmaceutical grade. For example, lipoid E80 can contain PC, PE, lysophosphatidylcholine (LPC), lysophosphatidylethanolamine
+(LPE), SM and trace amounts of triglycerides, cholesterol, fatty
+acid, d, L-a-vitamin E and water [21].
+
+2.2.2.
+
+Synthetic phospholipids
+
+Since chromatographic purification techniques still cannot
+get single component of naturally occurring phospholipids,
+researchers focus on chemical synthesis which can obtain
+single component with defined structure and configuration
+[22]. The synthesis of phospholipids can be divided into semisynthesis and total synthesis.
+Semi-synthesis of glycerophospholipids refers to the
+changing of head, tail groups or both on the basis of natural
+phospholipids. Therefore, compared with the total synthesis,
+it requires less reaction steps. The semi-synthetic methods of
+glycerophospholipids mainly include: 1) the double bonds of
+natural phospholipids are hydrogenated to obtain the saturated phospholipids which have a higher melting point and
+oxidation
+stability;
+2)
+Acylation
+of
+sn-glycero-3phosphocholine (GPC) obtained by deacylation of natural PC
+with activated acyl derivative can get the desired PC; 3)
+phospholipase D catalyzes glycerophospholipids to generate
+the phosphatidic acid (PA), and the hydroxy-containing acceptors such as glycerol and serine can attach to PA, which
+can converse the choline head group into various phosphorylated alcohol head groups [9].
+
+The total synthesis of glycerophospholipids involves the
+formation of ester or ether bonds linking apolar moieties to
+glycerol backbone, and the attachement of polar head group.
+Ispropylidene glycerols or sugar alcohols, such as D-mannitol,
+are often served as the precursors of glycerol part of phospholipids, which are available from many sources. The synthetic glycerophospholipids have the advantages of single
+component and stable property [9].
+The procedure of semi-synthesis of SM involves the
+deacylation of the natural SM extracts (primarily from bovine
+brains) to obtain the sphingosylphospocholine which is subsequently acylated to SM using the fatty acid of choice. It has
+been found that during the deacylation-reacylation procedure, a significant amount of the L-threo stereoisomer is
+formed. Thus, the final product represents a mixture of
+D-erythro and L-threo stereoiomers [23].
+Because the total synthesis of SM is considerably more
+complex than that of the glycerophospholipids, there is few
+studies on the fully synthetic and stereochemically pure SM
+[23].The access to synthetic SM is limited by the availability of
+synthetic sphingosine. Following the total synthesis of
+sphingosine [24], the first synthetic SM was synthesized by
+Shapiro et al [25]. The complete synthesis of SM includes the
+following steps: 1) the synthesis of sphingosine, 2) the synthesis of ceramide (N-acylsphingosine), 3) the synthesis of SM.
+
+2.3.
+
+The physiological properties of phospholipids
+
+Phospholipids are basic substances to maintain life activity.
+They are widely distributed in humans, animals, plants, and
+so on. Phospholipids are indispensable components of all
+cellular and sub-cellular membranes, they can arrange as
+bilayer membranes. In addition to assembling the membrane,
+phospholipids are also used to assemble the circulating lipoproteins, the main task of which is to transport lipophilic triglycerides and cholesterols through the hydrophilic blood.
+The human body uses phospholipids as emulsifiers. Together
+with cholesterols and bile acids, they form mixed micelles in
+the gallbladder to promote the absorption of fat-soluble substances. The human body also uses phospholipids as the
+surface-active wetting agents in the pleura and alveoli of lung,
+pericardium, joints, etc [26].
+Different kinds of phospholipids have some general properties, but they also own their unique physiological functions
+(Table 2).
+
+2.4.
+
+The physical properties of phospholipids
+
+2.4.1.
+
+Phospholipid polymorphisms in water
+
+Phospholipids in water can form many kinds of assemblies,
+such as micelles, liposomes and hexagonal (HII) phase, which
+is attributed to the molecular shapes of the phospholipids.
+The assemblies and molecular shapes of different phospholipids in water are summarized in Table 3 [1]. Understanding
+the lipid polymorphisms is necessary for establishing a stable
+carrier and triggered release lipid-based delivery system.
+
+2.4.2.
+
+Factors modulating lipid polymorphisms
+
+Non-bilayer lipids such as unsaturated PE can be stabilized in
+a bilayer structure by the presence of bilayer preferring lipids
+
+Physiological properties
+a. An important substrate of synthesis of the neurotransmitter acetylcholine, and having the function of nourishing
+the brain and improving intelligence [27].
+a. Playing an important role in membrane fusion [28].
+a. Improving function of nerve cells, regulating the conduction of nerve impulse, and enhancing the memory
+function of brain [29].
+b. The common feature of apoptosis [30].
+c. The main acidic phospholipids of membranes of platelets, and involved in the clotting process [31].
+a. The precursor of second messenger, which plays a very important role in the process of transmission of messages
+in neural system [32].
+a. A phospholipid of unusual structure is localized almost exclusively to inner mitochondrial membrane, is particularly
+rich in unsaturated fatty acids. This phospholipid plays an important role in mitochondrial bioenergetics by affecting the
+activity of key proteins of mitochondrial inner membrane [33].
+a. Along with cholesterol, constituting the key components of the stable, detergent-resistant nanodomains in
+membranes, called functional lipid rafts which have been identified as the important membrane structure of signal
+transduction, protein transport and sorting of membrane components [34].
+
+such as PS. It is usually found that between 20 and 50 mol% of
+the bilayer preferring lipids are required to maintain a net
+bilayer organization when mixed with HII preferring lipids
+such as PE. The structural preferences of these pure and
+mixed lipid systems can be modulated by a wide variety of
+factors, such as head group size temperature, hydrocarbon
+unsaturation, ionic strength, pH, the incorporation of inverted
+cone molecules and the presence of divalent cations such as
+Ca2þ [35].
+
+(1) The smaller head group of PE (as compared to PC) is
+consistent with HII organization. In addition, in the case
+of PE, increasing acyl chain unsaturation, temperature
+and acyl chain length lead to increased cone shape and
+possible HII phase formation [35]. The lamellar to HII
+transition temperature (Tbh) decreases with the
+increasing chain length and the increasing unsaturation of acyl chain of PE. Many species of naturally
+occurring PE preferentially adopt a HII phase at
+physiological temperatures. In terms of Tbh for various
+synthetic and naturally derived PE, the readers can refer
+to Tilcock's review [36].
+(2) The hydration of the head group can modulate the
+polymorphisms. For PE, decreasing the water content or
+increasing the ionic strength leads to increased
+proclivity for HII structure. In addition, under the condition of high salt concentration, unsaturated PG, CL
+and PA can adopt HII phase [36].
+(3) In the case of pure lipid systems, for example, protonation of the PS carboxyl and PA phosphate at low pH
+values leads to HII structure [37,38]. Similar observations
+extend to mixed lipid systems, where bilayer-HII transitions are observed for PS-PE and PA-PE systems as the
+pH is reduced below 5 as such pH values convert the PA
+and PS to HII preferring lipid species [39].
+(4) Conventional liposomes as drug carriers are avidly
+taken up by the mononuclear phagocyte system (MPS),
+so in order to increase the circulation time of liposomes
+in vivo, researchers focus on studying the longcirculating liposomes. The study for a synthetic lipid
+that can extend circulation times finally gives rise to the
+development of polymer grafted bilayers. Several polymer lipids lead to prolonged circulation times, but the
+most well studied are those consisting of polyethyleneglycol (PEG) grafted onto PE (Fig. 2) [40]. For
+instance, DSPE-PEG2000 is a PEGylated phospholipid
+which is widely applied in various preparations, and
+PEG layer usually serves as a steric barrier to stabilize
+the molecule assemblies among them. Nanostructures
+based on DSPE-PEG2000 play an important role in DDS.
+For instance, DSPE-PEG2000 is used in the FDA approved
+drug product Doxil® [4].
+However, the concentration of PE-PEG derivatives can
+affect the structures and properties of liposomes. For
+phospholipid-PEG conjugates, the larger the size of the
+attached PEG is, the more wedge-shaped the phospholipidPEG is. Thus, the cone shaped phospholipid-PEG2000 and
+phospholipid-PEG5000 molecules form micelles in solution and
+they can convert DSPC bilayer to micelles at high
+phospholipid-PEG concentrations. In contrast, phospholipidPEG350 is able to separate PC head groups enough to cause
+interdigitation at high concentrations, but not enough to
+cause micelles formation even in dispersions containing pure
+phospholipid-PEG350. Phospholipid-PEG750 has an intermediate shape, so that when added to DSPC, it induces interdigitated bilayers at moderate concentrations and mixed micelles
+at higher concentrations [41].
+The experimental results of Johnsson et al. showed that the
+structural evolution of aggregates formed in this system with
+
+increasing phospholipid-PEG (PEG molecular weight 2000 or
+5000)
+concentration
+can
+be
+summarized
+as:
+liposomes / discoidal micelles / spherical micelles [42].
+Unlike DPPC and DSPC, the mixtures of EPC and phospholipidPEG form cylindrical micelles rather than discoidal micelles
+[43]. Moreover, the addition of phospholipid-PEG to DOPE is
+able to facilitate liposomes formation at physiological conditions (Fig. 3). The observations of Johnsson et al. showed that
+in order to obtain a dispersed phase consisting of only liposomes (predominantly unilamellar), 8 mol% phospholipidPEG2000 and greater than 10 mol% of phospholipid-PEG750 must
+be added to the DOPE system at physiological conditions.
+When the concentration of phospholipid-PEG beyond bilayer
+saturating concentration, small disks and spherical micelles
+formed [44].
+When the concentration of PE-PEG derivatives exceeds
+10 mol%, a large portion of discoidal or cylindrical micelles
+structures formed which have no effect on the delivery for
+water-soluble drugs. To reach the target site, liposomes must
+not only possess a long circulation time, but also maintain the
+encapsulated drugs. Therefore, these two factors must be
+taken into consideration to choose the most appropriate
+concentration of PE-PEG derivatives [40].
+(5) In 1974, Verkleij et al. [45] observed cylindrical lipid
+structures using dilauryl phosphatidylglycerol with the
+addition of Ca2þ by freeze-etch electron microscopy. The
+structure were also observed in the presence of Mg2þ [46].
+In 1975, Papahadjopoulos et al. [47] observed the fusion
+of small unilamellar PS liposomes in the presence of Ca2þ
+by negative staining electron microscopy and they
+observed the fusion of sonicated PS vesicles with Ca2þ to
+form rolled-up cylindrical structures which were named
+as cochleate cylinders by freeze-fracture electron microscopy [48]. Negatively charged phospholipids, such as
+PA, PS, PG and PI, can serve as the main building blocks of
+cochleates. In addition, mixture the negatively phospholipids with other phospholipids can also form cochleates, for example, vesicles prepared from PS/PC
+(PS > 50%) in the presence of Ca2þ can form cochleates,
+which needs higher threshold concentration of Ca2þ
+[47,49]. For cochleates, the molar ratio of divalent cations
+and phospholipids is 1:2. Ca2þ maintains the cochleate in
+its rolled form, and bridges each successive layer
+through ionic interaction [48] (Fig. 4). Moreover,
+removing the calcium by chelation with EDTA leads to
+the cochleates unrolling and spontaneously forming
+large single-bilayer vesicles [48] (Fig. 5).
+In the case of pure lipid systems, for PS, Ca2þ induces
+crystalline cochleate structure, whereas CL can adopt HII
+
+phase in the presence of Ca2þ [50]. And for other acidic
+phospholipids such as PA, PG and PI, their structures on hydration may be sensitive to the fatty acid composition, for
+example, “cochleate” structure can be observed for saturated
+species in the presence of Ca2þ, however, unsaturated PA
+adopt HII phase [51], and unsaturated PG and PI still prefer a
+bilayer organization by the addition of Ca2þ [52,53].
+In the case of mixed systems, it has been proved that
+mixtures of acidic phospholipids (such as PS, CL, PA and PG)
+with unsaturated (HII phase) PE are sensitive to the presence of
+Ca2þ (and in some cases Mg2þ) which can trigger bilayer to HII
+phase transitions. In systems stabilized by CL and PA, Ca2þ
+can convert the CL and PA to HII preferring species, thus
+allowing the entire mixture to adopt the HII phase. This contrasts with systems stabilized by PS, where Ca2þ segregates
+the PS into “cochleate” domains, allowing the PE to revert to
+the HII phase it prefers in isolation. Alternatively, in PE systems stabilized by up to 30 mol% (unsaturated) PG, Ca2þ appears to reduce the bilayer stabilizing capacity of PG and both
+PG and PE enter the HII configuration. However, the behavior
+of systems stabilized by PI suggests that none of these
+mechanisms apply. Nayar et al. suggested that to a limited
+extent Ca2þ is able to segregate PI in these mixed systems,
+where the PI-Ca2þ aggregates remain in a hydrated lamellar
+
+structure [53]. An inability of Ca2þ to induce a cochleate
+structure for PG [52], PI [53] and PA [51] may arise in part from
+the relatively unsaturated nature of the acyl chains.
+
+2.4.3.
+
+The phase transition temperature of phospholipids
+
+The Tc of phospholipids is a temperature at which phospholipids transit from gel to liquid crystalline state. Many factors
+affect the Tc. 1) The nature of the polar head group. PC and PG
+with the same hydrocarbon chains have similar Tc, but the
+corresponding PE has a higher Tc. For example, the Tc of DPPC
+and DPPG are both 41  C, whereas DPPE is 63  C, which is
+attributed to a stronger head group interaction. 2) The length
+of the hydrocarbon chains. Phospholipids with longer hydrocarbon chains have a higher Tc than those with shorter ones.
+For example, the Tc of DSPC is 55  C, and yet DPPC is 41  C. 3)
+The degree of saturation of the hydrocarbon chains. For
+phospholipids with the same head group and length of
+aliphatic chain, high saturation in the hydrocarbon chains
+increases the Tc. For example, the Tc of DSPC is 55  C, whereas
+DOPC is 20  C. 4) Purity. The low purity of phospholipids
+widen the range of Tc. Naturally occurring phospholipids are
+usually mixtures of components having different length hydrocarbon chains. Such mixtures would usually be expected
+to produce broad ill defined transitions, but the syntheti
+
+phospholipids usually have definite Tc. For example, the Tc of
+SPC is 20 to 30  C, whereas DLPC is 20  C [54]. Table 4
+summarizes the Tc of commonly used phospholipids.
+When chosing the phospholipids as carrier materials,
+many factors must be taken into comprehensive consideration to select a kind of phospholipid with appropriate Tc.
+
+The development of liposomal drug delivery system
+
+Liposomes are vesicles prepared with phospholipids as the
+main substance, the structure of which is similar to cellular
+
+
+membrane. Liposomes origined from multilaminar vesicles
+which were clearly taken on morphosis by electron microscope images observed by Bangham and Horne in 1964 [58]. In
+1965, Bangham et al. reported biomembrane model system
+which was established based on vesicle structures and had
+ion gradient [59]. In 1971, Gregoriadis et al. first used liposomes to deliver bioactive substances [60]. After that, liposomes in drug delivery field flourish. In 1990, the first
+injectable liposomal drug-amphotericin B liposome (AmBisome®) was available in Europe [61]. In 1995, the first liposomal anticancer drug (Doxil®) which is also the first FDA
+approved nanomedicine was on the market in the USA [4].
+Liposomes as carriers of therapeutic drugs have attracted
+attention more than 40 years. As a DDS, liposomes have many
+advantages as follows: delivering both hydrophilic and lipophilic drugs (Fig. 6), possessing targeting, controlled release
+properties, cell affinity, tissue compatibility, reducing drug
+toxicity and improving drug stability. During the researches,
+the conventional structures of the liposomes have some
+changes, which have brought out a series of new type liposomes, such as long-circulating liposomes, stimuli-responsive
+liposomes, cationic liposomes and ligand-targeted liposomes.
+Liposomes can serve as the carriers of antitumor drugs, antifungal drugs, analgesic drugs, gene therapeutics and vaccines,
+and there have been some liposomal formulations industrialized which are listed in Table 5.
+
+3.1.2. Considering a variety of factors to select the
+appropriate phospholipid to prepare liposomes
+(1) Synthetic and natural phospholipids have both advantages and disadvantages. The advantages of synthetic
+phospholipids are that the property is relatively stable,
+and purity is relatively high; the drawback is that the
+price is relatively high. However, the advantage of natural phospholipids is that the price is relatively low; the
+disadvantages are that the purity is difficult to control,
+and the nature is relatively unstable which can be
+metabolized to lysophospholipids in the process of
+usage and storage. So the source should be considered
+when choosing natural phospholipids to prepare the
+liposomes. For example, the content of unsaturated
+fatty acids in soybean phospholipids is higher than that
+in egg yolk phospholipids. Therefore, it is difficult to
+obtain quality controlled liposomes product using soybean lecithins [63]. In addition, Wang et al. studied the
+relationship between drug carrying ability of liposomes
+and PCs. The results showed that the encapsulation
+efficiency of EPC liposomes was higher than that of SPC
+liposomes, and the leakage rate was lower than that of
+SPC liposomes, so EPC liposomes had better drug carrying ability [64].
+Based on the above advantages of EPC, the current listing
+liposomes prepared by natural phospholipids are substantially composed of EPC (Table 5).
+(2) pH-sensitive liposomes. In order to make the drugs
+escape from being degradated into inactive compounds
+by enzymes in lysosomes after endocytosis, usually pHsensitive liposomes are prepared. DOPE is usually
+selected to prepare pH-sensitive liposomes, however,
+which is found to suffer from their difficulty to form liposomes by themselves. So in order to form stable liposomes, materials containing titratable acidic groups
+must be added to DOPE. The liposomes established by
+the above membrane materials have pH-sensitivity,
+because at neutral pH, the fatty acid carboxyl ion can
+provide effective electrostatic repulsion, which makes
+
+the liposomes stable at lamellar phase, and at acidic pH,
+fatty acid carboxyl groups are protonated, causing the
+formation of the HII phase, which makes the liposomes
+unstable and easy to aggregate, fuse and release the
+contents [65]. In addition, compared with other phospholipids, liposomes formed by PE contribute to the
+membrane fusion, which is because of the low hydration
+of the polar head of PE [66]. Thus, the presence of DOPE
+can increase the hydrophobicity of liposomal membrane, and promote its interaction with the lipid bilayer.
+To increase the stability of pH-sensitive liposomes, the
+structures have undergone a series of changes, including:
+long-circulating DOPE-containing pH-sensitive liposomes and
+association of pH-sensitive polymers with liposomes. Adding
+DSPE-PEG to DOPE liposomes is not only able to promote the
+formation of DOPE liposomes, but also can increase the circulation time of liposomes in vivo [44]. Another method for
+conferring the liposomes with pH-sensitivity is to anchor the
+pH-sensitive polymers to liposomes. The principle is beyound
+the scope of this review.
+(3) Thermosensitive liposomes (temperature-sensitive
+liposomes) are very promising strategies for cancer
+treatment, which effectively utilize the dual advantages
+of liposomes and hyperthermia to improve the therapeutic effects and reduce toxicity.
+In 1978, Yatvin et al. were the first to realize the therapeutic
+potential of liposomes which are composed of phospholipids
+that can be achieved Tc (higher than the physiological temperature, but below 42  C) by gentle heating [67]. Liposomes
+have a characteristic Tc, at which the liposome membranes
+transit from the gel phase to liquid crystalline phase, and the
+encapsulated drugs are released from the vesicles [67].
+The early thermosensitive liposomes are mainly based on
+DPPC (Tc ¼ 41  C). Although pure DPPC liposomes can increase
+drug release, the amount and rate of release are relatively low.
+Adding other phospholipids (mainly DSPC and HSPC) to DPPC
+would have a positive impact on the amount and rate of drug
+release [68]. However, the Tc of liposomes composed of DPPC/
+DSPC are enhanced. Furthermore, DSPC added increases the
+
+span of Tc. As a result, only 43e45  C can trigger the release of
+drugs, but this range can make normal tissue surrounding the
+tumor at the risk of necrosis. Therefore, it is necessary to find
+a way that gentle heating (39e42  C) can promote the release
+of drugs, and simultaneously keep burst relase [68].
+In 1999, Anyarambhatla and Needham proposed that
+incorporating 10 mol% lysolipid monopalmitoyl phosphocholine (MPPS) into the PEGylated conventional thermosensitive liposomes composed of DPPC could make the Tc
+reduce from 43  C to 39e40  C, and enhance the release of
+drugs upon heating (approximately 50% of drugs will be
+released at 40  C for 20 s) (Fig. 7) [69]. ThermoDox® is a
+lysophospholipid-containing
+thermosensitive
+liposome,
+which is developed by Celsion company. Unfortunately, the
+combination of ThermoDox® and radiofrequency thermal
+ablation (RFA) did not significantly improve the therapeutic
+effects in third period clinical trials. There are many reasons
+for the failure, one of which is that drugs loading in ThermoDox® are easy to leak, leading to the loss of drugs before
+reaching the target site. Another important reason is that
+most drugs do not reach the target site, causing failure to
+generate substantial trigger release. Therefore, in order to
+achieve the desired effect, the lipid composition should be
+further changed [70].
+Another method for preparing thermosensitive liposomes
+is to incorporate heat-sensitive polymers in liposomes. The
+temperature sensitivity of such liposomes are mainly dependent on the temperature-sensitive polymers. Moreover, DPPC
+incorporated to the thermal thermosensitive liposomes can
+achieve a synergistic effect with the polymers [71].
+(4) The types of phospholipids can also affect the delivery
+efficiency of drugs.
+There is evidence that the composition of liposomes
+markedly contributes to their ability to escape recognition by
+the MPS. Liposomes that resemble the exterior layer of
+erythrocytes in composition are particularly resistant to
+clearance [72]. In erythrocytes, PC and SM are mainly in the
+exterior layer, whereas the PE and PS are restricted to the
+interior layer [73]. Moreover, the fatty acyl chains of phospholipids in the outer layer are more highly saturated than
+
+that in the interior layer [74]. Evidence showed that the loss of
+phospholipid asymmetry of erythrocytes might be translated
+into a signal of recognition by macrophages. This result not
+only provides a guideline for understanding the behavior of
+liposomes in vivo, but also provides a reference for the design
+of liposome DDS.
+It has been observed that liposomes containing negatively
+charged phospholipids such as PS, PG and PA, can be quickly
+eliminated from the circulation system and focused on the
+MPS [72]. In contrast, liposomes containing negatively charged
+ganglioside (GM1) and PI are able to inhibit the uptake by the
+MPS and prolong the circulating time [75]. Therefore, clearance rate can not be fully explained by negative charge. Allen
+[76] proposed that the hydrophilicity on the surface can play a
+very important role in phagocytosis of particles.
+In addition, membrane fluidity can also affect the circulation time of the liposomes. Increasing the rigidity of liposomes
+by incorporating phospholipids with high Tc (e.g. DSPC) and
+more rigid phospholipids like SM can reduce their clearance
+by the MPS [75]. Adding SM in liposomal formulation can not
+only decrease the distribution of liposomes to the MPS [77],
+but also stabilize the membrane structure [78]. The fatty chain
+is connected to the skeleton via an amide bond in SM molecule, while in the glycerophospholipids, the aliphatic chains
+are connected to the skeleton of the molecule via an ester
+bond. In vivo, the amide bond is difficult to be hydrolyzed and
+degraded by enzymes than the ester bond, so an amide bond is
+more stable than an ester bond. Furthermore, SM can form
+intermolecular hydrogen bonds, so it also has the effect of
+solidifying the bilayer [79]. The successful application of liposomes prepared by SM is Marqibo® [4].
+Therefore, we can select the phospholipids to prepare liposomes according to the site of disease. When the sites of
+diseases are in the MPS, the majority of liposomes need to be
+removed from the blood circulation within minutes to exert
+therapeutic effects. So in order to make drugs target to the
+MPS, conventional liposomes (i.e. liposomes composed of
+various phospholipids and cholesterol and possibly other
+lipids, without specific components conferring the property of
+long circulation in blood) can be prepared. However, the rapid
+elimination of liposomes has thus far been an obstacle for
+transporting drugs to the sites of diseases beyond the MPS,
+such as some tumors. So in order to enhance the circulation
+time, long circulation liposomes can be prepared [80].
+(5) Accelerated blood clearace phenomenon.
+
+Fig. 7 e Schematic of the lysolipid-containing
+thermosensitive liposome.
+
+When PEGylated liposomes are repeatedly injected into the
+same animal, the second dose of liposomes would rapidly be
+cleared from the bloodstream and accumulated in liver and
+spleen, and this phenomenon is called “accelerated blood
+clearance (ABC)”. There are many factors known to influence
+ABC phenomenon, in this review, we mainly focus on the effects of types and dose of phospholipids. 1) The effect of the
+dose of phospholipids on the ABC phenomenon is different
+with the variation of phospholipids types, for example, when
+the first phospholipids dose of PEGylated liposomes composed
+of hydrogenated egg phosphatidylcholine (HEPC) is larger than
+1 mmol/kg in rats, the second injection of PEGylated liposomes
+cannot induce the ABC phenomenon [81]; however, when
+
+liposomes are composed of partially hydrogenated egg phosphatidylcholine (PHEPC), intravenous injection of different
+phospholipids doses of PEGylated liposomes (i.e. 0.05, 0.5 or
+5 mmol/kg) as a first dose can cause the second specific dose
+(5 mmol/kg) of injected PEGylated liposomes to induce the ABC
+phenomenon [82]. In addition, the magnitude of ABC phenomenon is different when lipsomes composed of the same
+phospholipid, which could be reduced by the increasing of
+phospholipids dose [81,82]. 2) Phospholipids can also affect the
+magnitude of ABC phenomenon. Xu et al. demonstrated that
+ABC phenomenon of liposomes prepared by unsaturated
+phospholipids (SPC, EPC and ESM) was more obvious than that
+of saturated phospholipids (DPPC and HSPC) [83].
+In addition, Depth study showed that PEG is not necessary
+for the generaion of ABC phenomenon for liposomes. Laverman et al. [82] demonstrated that conventional liposomes can
+also accelerate blood clearance of the second injection of
+conventional or PEGylated liposomes. Unlike PEGylated liposomes, the results of Ishida et al. showed that a high dose
+(5 mmol/kg) of conventional liposomes (without a PEG-coating)
+can induce the same phenomenon, while a low lipid dose
+(0.001 mmol/kg) did not [81].
+
+3.2.
+
+Intravenous lipid emulsions
+
+Intravenous emulsions are originated from the development
+of intravenous nutrition emulsions. In 1962, Intralipid was
+successfully developed in Sweden and proved to be safe and
+effective, which lay the foundation for the development of
+medicinal intravenous emulsions [84]. Intravenous fat emulsions possess many advantages, including targeting, reducing
+drug toxicity, which make them attract more and more attentions recently.
+Phospholipids as zwitterionic surfactants can be used as
+emulsifying agent of O/W type emulsions, and due to their
+biological and non-toxic characteristics, they can be used as
+emulsifiers for intravenous injection [2]. The O/W type emulsions are mainly composed of two parts: the oil core and the
+emulsifying agents on the surface. Unlike liposomes, fat
+emulsions are suitable for large-scale industrial production
+and relatively stable below 25  C for long term. More
+
+importantly, a large quantity of lipophilic drugs can be dissolved in the hydrophobic core of emulsions [85].
+Currently, the listed drug containing injectable emulsions
+using phospholipids as an emulsifier are summarized in
+Table 6 [5]. The main disadvantage of phospholipids as
+emulsifiers is that in the process of emulsification, sterilization and storage, natural lecithins are readily hydrolyzed to
+generate lysophospholipids which can lead to hemolysis after
+intravenous injection. Phospholipid mixtures derived from
+the egg yolk of birds and soybean have stronger emulsifying
+ability than single component. However, using purified lecithins [86] can reduce the generation of lysophospholipids. The
+physical nature of lecithins and the resulting emulsion stability are changing a lot, depending on the sources and the
+degrees of purification of the emulsifiers.
+The component of PC determines the surface properties of
+fat emulsions, and also affects their distribution in the body.
+Lenzo et al. studied the in vivo behavior of emulsions using
+EPC, DOPC, DMPC, DPPC, and 1-palmitoyl-2-oleoyl phosphatidylcholine (POPC) as an emulsifier. In that study, emulsions
+were prepared in the size of about 150 nm, and the elimination rate in rat plasma mainly depended on the types of
+phospholipids. When these emulsions were injected into the
+blood of conscious rats, the elimination rate of formulations
+using DPPC as an emulsifier was the slowest. The fat emulsions stabilized by EPC and POPC were metabolized similarly
+to natural chylomicrons. The triacylglycerols were rapidly
+hydrolyzed by lipoprotein lipase (LPL), followed by the remnants derived from the emulsions was taken up by liver.
+Phospholipids from the injected emulsions were removed
+more slowly and became associated with the high-density
+lipoprotein (HDL) fractions of the plasma. Emulsions containing DPPC were metabolized differently. The triacylglycerols were eliminated very slowly from plasma,
+which indicated that LPL hydrolysis did not occur and
+phospholipids were not transferred to the HDL. For the
+emulsions containing DMPC, the triacylglycerols and
+cholesterol esters of emulsion were eliminated very fast, but
+phospholipids were not transferred to the HDL. For DOPC
+emulsions, clearances were slower than EPC and POPC
+emulsions, but it was effectively transferred to the HDL [87].
+
+Redgrave et al. showed that the clearances of DSPC-stabilized
+fat emulsions from the plasma were faster than the DPPCstabilized fat emulsions. Although DSPC fat emulsions can
+hardly be hydrolyzed by LPL, it can be avidly taken up by the
+macrophages in liver and spleen, which is different from the
+liposomes prepared by DSPC [88].
+SM is a very important component of lipoproteins surface,
+and the surface concentration of SM plays an important role in
+metabolism and distribution of emulsions. Redgrave et al. [88]
+observed that adding SM to emulsions caused the prolongation of circulation time in plasma and the reduction of uptake
+by liver, which are attributed to the decrease of binding of
+apolipoprotein E and the reduction of LPL-mediated lipolysis
+induced by SM.
+Recently, in order to increase the circulation time of
+intravenous emulsions (Fig. 8A) and enhance the antitumor
+effect of drugs, PEGylated derivatives as emulsifiers are usually added to prepare long-circulating emulsions (Fig. 8B).
+These effects of PEG derivatives can be attributed to the increase of hydrophilicity and steric stability of the emulsion
+surface [80]. However, repeated injections of PEGylated
+emulsions can also induce the ABC phenomenon [89], and the
+factors related to phospholipids affecting it still need in-depth
+study.
+
+3.3.
+
+Micelles
+
+The applications of phospholipids in micelle systems mainly
+include PC/Bile salt mixed micelles and phospholipid micelles.
+
+3.3.1.
+
+PC/bile salt mixed micelles
+
+In classical mixed micelles (MMs), water-insoluble phospholipid molecules combine with another surfactant such as bile
+salt (BS) to form MMs, and the hydrophobic core of MM can
+encapsulate poorly soluble drugs [90]. Insoluble drugs
+dispersed in MMs in molecular state can improve their
+bioavailability. Phospholipids can form MMs with multiple
+substances, and PC/BS MMs have entered into pharmaceutical
+drug market.
+BS, detergent-like chemicals produced by liver and stored
+in the gallbladder, are able to solubilize PC to a large extent,
+and form a clear MMs solution which promotes the adsorption
+
+of fat-soluble substances. Therefore, PC/BS MMs serve as a
+carrier that can greatly improve solubility of poorly soluble
+drugs. In addition, the results of a previous research showed
+that PC can protect against plasma membrane disruption by
+BS [91].
+Valium® and Konakion® representing the classical MM
+system prepared by SPC and glycocholic acid are two MM
+preparations which can be available in currently medical
+market [6]. Intravenous injection of these MMs exhibits good
+stability and compatibity [92].
+There are two essentially different types of PC/BS MMs,
+which is dependent on the ratio of BS and PC. When BS: lecithin molar ratios are less than approximately 2:1, lamellar
+particles similar to a lecithin bilayer arrangement are found
+(Fig. 9A). When molar ratios exceed 2:1, a different type of
+micelle structure is found. This is a highly isometrical particle
+of globular shape (Fig. 9B), probably having a centrosymmetric
+arrangement of the molecular constituents [93]. Therefore, a
+drawback of PC/BS MMs is that a change in the lecithin/BS
+ratio or in the total concentration leads to a change in the MM
+size and structure [94].
+
+3.3.2.
+
+Phospholipid micelles
+
+In 1994, it was observed that PE-PEG molecules are able to
+form micelles in an aqueous environment [95] (Fig. 10). When
+trying to prepare long-circulating liposomes, phoshpholipidePEePEG mixtures could form micelles rather than liposomes if PEePEG content exceeds certain critical limit [40].
+This phenomenon is considered as a nuisance until it is
+realized that PE-PEG molecules can aggregate to form sterically stabilized micelles (SSMs) which have potential as a
+particulate carrier to deliver poorly water-soluble therapeutics, especially anticancer molecules [96]. In PE-PEG micelles,
+two fatty acyl chains of the phospholipid residues make hydrophobic interaction of micellar core stronger which leads to
+higher stability of micelles, and PEG residue exposed on the
+surface can avert the uptake by the MPS which can prolong
+the circulating time of micelles [97].
+The saturation level of PE has an effect on the circulating
+half-life of the micelles. Anatoly et al. demonstrated that
+replacing DSPE that is lipid component of PE-PEG with DOPE to
+form micelles can reduce the circulating half-life [98].
+
+Fig. 9 e Molecular models for the lecithin-rich type of mixed micelles (A) and for the bile salt-rich type (B). The bile salts are
+thought to form pairs to avoid contact of the hydroxyl groups (solid circles) with the apolar environment.
+
+Although the SSMs have many advantages, they also
+have drawbacks, one of which is the limited solubilization
+capability for poorly soluble drugs. In some cases, to
+improve drug solubilization, additional micelle-forming
+compounds can be added to PEePEG micelles to form MMs.
+EPC is added to the micelle composition to form sterically
+stabilized mixed micelles (SSMMs) [99]. Insertion of a small
+percentage of EPC into a PE-PEG micellar system is able to
+increase the volume of the hydrophobic region of micelles.
+This would therefore provide a larger space for the hydrophobic drugs to be solubilized. The results showed that the
+SSMMs approximately double the paclitaxel encapsulation
+efficiency [99].
+The addition of EPC into the micelle composition is able to
+increase the encapsulation efficiency of paclitaxel, but when
+EPC content exceeds certain critical limit, cylindrical micelles
+begin to dominate and the solubilization potential for drugs
+decreases [100].
+Kaminskas et al. studied the ABC phenomenon of PEGylated micelles and liposomes. The results demonstrated that
+although PEG micelles could stimulate production of anti-PEG
+IgM, which led to accelerated clearance of subsequently
+administered PEGylated liposomes. But the second injection
+of PEGylated micelles were not substrates for IgM binding and
+did not exhibit a similar ABC phenomenon [101].
+
+Drug-phospholipid complexes
+
+Many synthetic and herbal drugs possess the problem of poor
+oral bioavailability, and the reason is their very low water
+solubility or poor permeation through the biological membrane. Poorly soluble drugs have suffered from low bioavailability and inefficacy in therapy due to their low dissolution
+profile in biological fluid. Without a proper level of drug concentration in the gastrointestinal (GI) fluid, the drugs cannot
+be effectively transported by the epithelia of the GI tract,
+resulting in low systemic absorption [102]. However, although
+most bioactive molecules of plants are biologically polar or
+water-soluble, they are difficult to pass through the lipid-rich
+biological membrane and be absorbed by human, the reasons
+of which include: 1) large molecular weight, 2) low lipid solubility [103].
+When studied liposomes, Bombardelli et al. stumbled that
+natural flavonoids have a special affinity for phospholipids,
+and they can combine to form complexes which exhibit
+markedly different biological properties and pharmacological
+activities from parent drugs [104]. Thereafter, the drugphospholipid complexes (aptly called as phytosomes) gradually attracted people's attention, and their studies are
+increasing. Later researchers found that many types of natural
+ingredients and natural extracts can be made from phospholipid complexes. The interaction had been attributed to the
+formation of hydrogen bonds and/or hydrophobic interactions between the two molecules [105].
+Phytosomes are characterized by amphiphilicity, which
+makes them have not only better dissolution in the GI fluid but
+also better absorption through the lipophilic membrane system or tissue. Drug-phospholipid complexes can improve the
+bioavailability of parent drugs which have either very low lipid
+solubility or very poor water solubility. Therefore, both kinds
+of drugs can be complexed for improving biopharmaceutical
+properties [106]. In addition to improving the drug absorption,
+drug-phospholipid complexes also have the following advantages: 1) increasing the stability of drugs, 2) prolonging the
+duration of action of drugs [7].
+When treated with water, phytosomes form liposome-like
+structures (Fig. 11A). However, there are many differences
+between phytosomes and liposomes, mainly including: 1) the
+
+size of liposomes is much bigger than that of phytosomes; 2)
+there is the formation of new bonds in phytosomes, whereas
+no chemical bond is formed in liposomes; 3) in liposomes,
+there are hundreds or thousands of PC molecules surrounding
+the water-soluble compounds. Conversely, the molar ratio of
+PC and natural ingredients is 1:1 or 2:1 for phytosomes, which
+depends on the chemical bond-forming material; 4) the natural active ingredients are dissolved in the medium or wrapped by the membrane in liposomes, while in phytosomes the
+active principle is anchored through the chemical bond to the
+polar head of phospholipids [107] (Fig. 11B).
+In recent years, the reports about phospholipid complexes
+of natural active ingredients are gradually increasing. In
+abroad, there have been dozens of phytosome products such
+as Silybin Phytosome™, Ginkgo Phytosome™, and Ginseng
+Phytosome™ [7].
+
+3.5.
+
+[112]. Cochleates can be stored in a cation-containing buffer
+solution for over 2 years at 4  C, and at least a year at room
+temperature as a lyophilized powder [113]. Cochleates can
+be lyophilized to a free flowing powder that can be incorporated in capsules for oral administration or redispersed in
+water for injection [114]. 3) Ability to significantly improved
+oral absorption of encochleated drug molecules [110]. This
+enhanced activity can be attributed to the membrane fusion
+capability of cochleates which can be envisioned as membrane fusion intermediates in many naturally occurring
+membrane fusion events [110,115]. The high tension of
+edges of cochleates makes them interact with the tissue
+membrane [110]. 4) High safety. Cochleates are usually
+composed of PS and Ca2þ, which are derived from naturally
+occurring substances. PS has been used as a nutrient supplement which have a role in supporting the mental functions in aging brains [116].
+
+Cochleates
+
+Cochleates are a lipid-based macromolecular assembles,
+having enormous potential in drug delivery. They have
+many characteristics including: 1) Ability to deliver a variety
+of drugs, such as antifungal agents, polypeptides, proteins,
+vaccines, oligonucleotides and genes [108]. Cochleates as a
+drug delivery platform are applicable to macromolecules as
+well as small molecule drugs that are hydrophobic, amphiphilic, negatively charged, positively charged which have
+poor bioavailability [109] (Fig. 12). At first, cochleates are
+formed by ionic interaction between negatively charged liposomes and bivalent cations, subsequently, Syed et al.
+used cationic drugs themselves as the bridging agents and
+successfully prepared the cochleates without adding any
+bivalent cations [110] (Fig. 12E). 2) High stability. There is
+evidence that drug molecules encochleated in the cochleate
+cylinders are present in the inner layers of a solid, stable,
+water and oxygen impermeable structure which is capable
+of increasing the stability of drugs [111]. The encochleated
+drug molecules can remain intact, even though the outermost layer of cochleates can be exposed to the harsh environmental condition or enzyme, which contributes to the
+efficaciousness of cochleates for the oral delivery of drugs
+
+4.
+
+Conclusions
+
+In the material world, applications are determined by properties, which are essentially determined by structure. Phospholipids are endogenous substances, so understanding their
+nature and physiological functions in vivo is very necessary for
+us to comprehend and design its application in drug delivery
+platform. For example, from the distribution of phospholipids
+in the cell membrane, we can understand the circulation time
+of liposome composed of different phospholipids in vivo. The
+discussed examples show that phospholipids offer manifold
+possibilities to be used as excipients in DDS, which can deliver
+both hydrophilic and lipophilic drugs. Thus, suitable carrier
+have to be thoughtfully selected for every therapeutic. The applications of phospholipids in drug delivery are certainly not
+limited to those described in the present article, and there are
+still other applications, such as suspensions, solid lipid nanoparticle and so on. In the future there will be a broad space for
+the development of DDS based on phospholipids. Although the
+phospholipids have wide applications in DDS, they also face
+challenges, for instance, liposomes and intravenous lipid
+emulsions have ABC phenomenon. In sum, the applications of
+
+
+phospholipids in DDS are the coexistence of opportunities and
+challenges.
+
+references
+
+[1] Pt Cullis, De Kruijff B. Lipid polymorphism and the
+functional roles of lipids in biological membranes. Biochim
+Biophys Acta (BBA) 1979;559(4):399e420. Reviews on
+Biomembranes.
+[2] Yang R, Zhang X, Li F, et al. Role of phospholipids and
+copolymers in enhancing stability and controlling
+degradation of intravenous lipid emulsions. Colloid Surf A
+Physicochem Eng Asp 2013;436(0):434e442.
+[3] Haynes DH. Phospholipid-coated microcrystals: injectable
+formulations of water-insoluble drugs [M]. Google Patents.
+1992.
+
+[4] Allen TM, Cullis PR. Liposomal drug delivery systems: from
+concept to clinical applications. Adv Drug Deliv Rev
+2013;65(1):36e48.
+[5] Hippalgaonkar K, Majumdar S, Kansara V. Injectable lipid
+emulsionsdadvancements, opportunities and challenges.
+AAPS PharmSciTech 2010;11(4):1526e1540.
+[6] Rupp C, Steckel H, Müller BW. Solubilization of poorly
+water-soluble drugs by mixed micelles based on
+hydrogenated phosphatidylcholine. Int J Pharm
+2010;395(1):272e280.
+[7] Bhattacharya S. Phytosomes: the new technology for
+enhancement of bioavailability of botanicals and
+nutraceuticals. Int J Health Res 2009;2(3):225e232.
+[8] Baer E, Pavanaram SK. N-Methylcephalins I. Synthesis of
+distearoyl l-a-glycerylphosphoryl-(n-methyl) ethanolamine.
+J Biol Chem 1961;236(5):1269e1272.
+[9] Paltauf F, Hermetter A. Phospholipidsdnatural,
+semisynthetic, synthetic[M]. Phospholipids. Springer; 1990.
+p. 1e12.
+[10] Stafford RE, Dennis EA. Lysophospholipids as
+biosurfactants. Colloids Surf 1987;30(1):47e64.
+[11] Washington C. Stability of lipid emulsions for drug delivery.
+Adv Drug Deliv Rev 1996;20(2):131e145.
+[12] Barenholz Y, Thompson T. Sphingomyelins in bilayers and
+biological membranes. Biochim Biophys Acta (BBA)
+1980;604:129e158. Reviews on Biomembranes.
+[13] McIntosh TJ, Simon SA, Needham D, et al. Structure and
+cohesive properties of sphingomyelin/cholesterol bilayers.
+Biochemistry 1992;31(7):2012e2020.
+[14] Barenholz Y, Thompson TE. Sphingomyelin: biophysical
+aspects. Chem Phys Lipids 1999;102(1):29e34.
+[15] Baer E. From the trioses to the synthesis of natural
+phospholipids: a research trail of forty years. J Am Oil Chem
+Soc 1965;42(4):257e266.
+[16] Szuhaj BF. Lecithins: sources, manufacture and uses. Am
+Oil Chem Soc 1989;12.
+[17] Lecithin Wendel A. Kirk-othmer encyclopedia of chemical
+technology. 1995.
+[18] Rossi M. Use of lecithin and lecithin fractions[M]. Bioactive
+Egg Compounds. Springer; 2007. p. 229e239.
+[19] Hager A, De Paoli T, Ihlo J, et al. Stability study of lecithin
+liposomes during storage using ESR. Spectrochim Acta A
+1993;49(13):1999e2005.
+[20] Terao J, Hirota Y, Kawakatsu M, et al. Structural analysis of
+hydroperoxides formed by oxidation of phosphatidylcholine
+with singlet oxygen. Lipids 1981;16(6):427e432.
+[21] Pace G, Mishra AK, Snow RA, et al. Spray drying process of
+compositions containing FENOFIBRATE [M]. EP Patent
+1,322,289. 2007.
+[22] Eibl H. Synthesis of glycerophospholipids. Chem Phys Lipids
+1980;26(4):405e429.
+[23] Koynova R, Caffrey M. Phases and phase transitions of the
+sphingolipids. Biochim Biophys Acta (BBA) 1995;1255(3):
+213e236. Lipids and Lipid Metabolism.
+[24] Shapiro D, Segal K. The synthesis of sphingosine. J Am
+Chem Soc 1954;76(22):5894e5895.
+[25] Shapiro D, Flowers H. Studies on sphingolipids. VII.
+Synthesis and configuration of natural sphingomyelins. J
+Am Chem Soc 1962;84(6):1047e1050.
+[26] Kidd P. Phospholipids: versatile nutraceuticals for
+functional foods. Functional ingredients. 2002.
+[27] Little A, Levy R, Chuaqui-Kidd P, et al. A double-blind,
+placebo controlled trial of high-dose lecithin in Alzheimer's
+disease. J Neurol Neurosurg Psychiatry 1985;48(8):736e742.
+[28] Dowhan W, Bogdanov M. Functional roles of lipids in
+membranes. New Compr Biochem 2002;36:1e35.
+[29] Pepeu G, Pepeu I, Amaducci L. A review of
+phosphatidylserine pharmacological and clinical effects. Is
+phosphatidylserine a drug for the ageing brain? Pharmacol
+Res 1996;33(2):73e80.
+[30] Fadok VA, de Cathelineau A, Daleke DL, et al. Loss of
+phospholipid asymmetry and surface exposure of
+phosphatidylserine is required for phagocytosis of
+apoptotic cells by macrophages and fibroblasts. J Biol Chem
+2001;276(2):1071e1077.
+[31] Lentz BR. Exposure of platelet membrane
+phosphatidylserine regulates blood coagulation. Prog Lipid
+Res 2003;42(5):423e438.
+[32] Bansal VS, Majerus PW. Phosphatidylinositol-derived
+precursors and signals. Annu Rev Cell Biol 1990;6(1):41e67.
+[33] Hoch FL. Cardiolipins and biomembrane function. Biochim
+Biophys Acta (BBA) 1992;1113(1):71e133. Reviews on
+Biomembranes.
+[34] Chiu S, Vasudevan S, Jakobsson E, et al. Structure of
+sphingomyelin bilayers: a simulation study. Biophys J
+2003;85(6):3624e3635.
+
+[35] Cullis PR, Hope MJ, Tilcock CPS. Lipid polymorphism and
+the roles of lipids in membranes. Chem Phys Lipids
+1986;40(2e4):127e144.
+[36] Tilcock CP. Lipid polymorphism. Chem Phys Lipids
+1986;40(2):109e125.
+[37] Hope MJ, Cullis PR. Effects of divalent cations and pH on
+phosphatidylserine model membranes: a 31P NMR study.
+Biochem Biophys Res Commun 1980;92(3):846e852.
+[38] Farren SB, Hope MJ, Cullis PR. Polymorphic phase
+preferences of phosphatidic acid: a 31P and 2H NMR study.
+Biochem Biophys Res Commun 1983;111(2):675e682.
+[39] Hope MJ, Walker DC, Cullis PR. Ca2þ and pH induced fusion
+of small unilamellar vesicles consisting of
+phosphatidylethanolamine and negatively charged
+phospholipids: a freeze fracture study. Biochem Biophys
+Res Commun 1983;110(1):15e22.
+[40] Edwards K, Johnsson M, Karlsson G, et al. Effect of
+polyethyleneglycol-phospholipids on aggregate structure in
+preparations of small unilamellar liposomes. Biophys J
+1997;73(1):258e266.
+[41] Kenworthy AK, Simon SA, McIntosh TJ. Structure and phase
+behavior of lipid suspensions containing phospholipids
+with covalently attached poly (ethylene glycol). Biophys J
+1995;68(5):1903e1920.
+[42] Johnsson M, Edwards K. Liposomes, disks, and spherical
+micelles: aggregate structure in mixtures of gel phase
+phosphatidylcholines and poly (ethylene glycol)phospholipids. Biophys J 2003;85(6):3839e3847.
+[43] Holland JW, Cullis PR, Madden TD. Poly (ethylene
+glycol)-lipid conjugates promote bilayer formation in
+mixtures of non-bilayer-forming lipids. Biochemistry
+1996;35(8):2610e2617.
+[44] Johnsson M, Edwards K. Phase behavior and aggregate
+structure in mixtures of dioleoylphosphatidylethanolamine
+and poly (ethylene glycol)-lipids. Biophys J
+2001;80(1):313e323.
+[45] Verkleij A, De Kruyff B, Ververgaert P, et al. The influence of
+pH, Ca2þ and protein on the thermotropic behaviour of the
+negatively charged phospholipid, phosphatidylglycerol.
+Biochim Biophys Acta (BBA) 1974;339(3):432e437.
+Biomembranes.
+[46] Ververgaert JT, De Kruyff B, Verkleij A, et al. Calorimetric
+and freeze-etch study of the influence of Mg2þ on the
+thermotropic behaviour of phosphatidylglycerol. Chem
+Phys Lipids 1975;14(1):97e101.
+[47] Papahadjopoulos D, Poste G, Schaeffer B, et al. Membrane
+fusion and molecular segregation in phospholipid vesicles.
+Biochim Biophys Acta (BBA) 1974;352(1):10e28.
+Biomembranes.
+[48] Papahadjopoulos D, Vail W, Jacobson K, et al. Cochleate
+lipid cylinders: formation by fusion of unilamellar lipid
+vesicles. Biochim Biophys Acta (BBA) 1975;394(3):483e491.
+Biomembranes.
+[49] Düzgüne N, Nir S, Wilschut J, et al. Calcium- and
+magnesium-induced fusion of mixed phosphatidylserine/
+phosphatidylcholine vesicles: effect of ion binding. J Membr
+Biol 1981;59(2):115e125.
+[50] Vail WJ, Stollery JG. Phase changes of cardiolipin vesicles
+mediated by divalent cations. Biochim Biophys Acta (BBA)
+1979;551(1):74e84. Biomembranes.
+[51] Graham I, Gagne J, Silvius JR. Kinetics and thermodynamics
+of calcium-induced lateral phase separations in
+phosphatidic acid-containing bilayers. Biochemistry
+1985;24(25):7123e7131.
+[52] Farren SB, Cullis PR. Polymorphism of
+phosphatidylglycerol-phosphatidylethanolamine model
+membrane systems: a 31P NMR study. Biochem Biophys Res
+Commun 1980;97(1):182e191.
+
+a s i a n j o u r n a l o f p h a r m a c e u t i c a l s c i e n c e s 1 0 ( 2 0 1 5 ) 8 1 e9 8
+
+[53] Nayar R, Schmid S, Hope M, et al. Structural preferences of
+phosphatidylinositol and phosphatidylinositolphosphatidylethanolamine model membranes influence of
+Ca2þand Mg2þ. Biochim Biophys Acta (BBA)
+1982;688(1):169e176. Biomembranes.
+[54] Taylor KM, Morris RM. Thermal analysis of phase transition
+behaviour in liposomes. Thermochim Acta
+1995;248:289e301.
+[55] Samad A, Sultana Y, Aqil M. Liposomal drug delivery
+systems: an update review. Curr Drug Deliv
+2007;4(4):297e305.
+[56] Ikeda A, Kawai Y, Kikuchi J, et al. Formation and regulation
+of fullerene-incorporation in liposomes under the phase
+transition temperature. Org Biomol Chem
+2011;9(8):2622e2627.
+[57] Contreras F-X, Sot J, Ruiz-Argüello M-B, et al. Cholesterol
+modulation of sphingomyelinase activity at physiological
+temperatures. Chem Phys Lipids 2004;130(2):127e134.
+[58] Bangham A, Horne R. Negative staining of phospholipids
+and their structural modification by surface-active agents
+as observed in the electron microscope. J Mol Biol 1964;8(5).
+660eIN10.
+[59] Bangham A, Standish M, Watkins J. Diffusion of univalent
+ions across the lamellae of swollen phospholipids. J Mol Biol
+1965;13(1). 238eIN27.
+[60] Gregoriadis G, Leathwood P, Ryman BE. Enzyme entrapment
+in liposomes. FEBS Lett 1971;14(2):95e99.
+[61] Hann IM, Prentice HG. Lipid-based amphotericin B: a review
+of the last 10 years of use. Int J Antimicrob Agents
+2001;17(3):161e169.
+[62] Fan Y, Zhang Q. Development of liposomal formulations:
+from concept to clinical investigations. Asian J Pharm Sci
+2013;8(2):81e87.
+[63] Nara E, Miyashita K, Ota T. Oxidative stability of liposomes
+prepared from soybean PC, chicken egg PC, and salmon egg
+PC. Biosci Biotechnol Biochem 1997;61(10):1736.
+[64] Wang Jibo, Sun Yanzeng. The relationship between drug
+carrying ability of liposomes and phosphatidylcholines.
+Fine Chemicals 2008;25:256e259.
+[65] Simoes S, Slepushkin V, Düzgünes N, et al. On the
+mechanisms of internalization and intracellular delivery
+mediated by pH-sensitive liposomes. Biochim Biophys Acta
+(BBA) 2001;1515(1):23e37. Biomembranes.
+[66] Schroit AJ, Madsen J, Nayar R. Liposome-cell interactions:
+in vitro discrimination of uptake mechanism and in vivo
+targeting strategies to mononuclear phagocytes. Chem Phys
+Lipids 1986;40(2):373e393.
+[67] Yatvin MB, Weinstein JN, Dennis WH, et al. Design of
+liposomes for enhanced local release of drugs by
+hyperthermia. Science 1978;202(4374):1290e1293.
+[68] Gaber MH, Hong K, Huang SK, et al. Thermosensitive
+sterically stabilized liposomes: formulation and in vitro
+studies on mechanism of doxorubicin release by bovine
+serum and human plasma. Pharm Res
+1995;12(10):1407e1416.
+[69] Anyarambhatla GR, Needham D. Enhancement of the
+phase transition permeability of DPPC liposomes by
+incorporation of MPPC: a new temperature-sensitive
+liposome for use with mild hyperthermia. J Liposome Res
+1999;9(4):491e506.
+[70] Oude Blenke E, Mastrobattista E, Schiffelers RM. Strategies
+for triggered drug release from tumor targeted liposomes.
+Expert Opin Drug Deliv 2013;10(10):1399e1410.
+[71] Kono K. Thermosensitive polymer-modified liposomes. Adv
+Drug Deliv Rev 2001;53(3):307e319.
+[72] Allen T, Williamson P, Schlegel RA. Phosphatidylserine as a
+determinant of reticuloendothelial recognition of liposome
+
+models of the erythrocyte surface. Proc Natl Acad Sci
+1988;85(21):8067e8071.
+Zachowski A. Phospholipids in animal eukaryotic
+membranes: transverse asymmetry and movement.
+Biochem J London 1993;294:1.
+McEvoY L, Williamson P, Schlegel RA. Membrane
+phospholipid asymmetry as a determinant of erythrocyte
+recognition by macrophages. Proc Natl Acad Sci
+1986;83(10):3311e3315.
+Allen TM, Hansen C, Rutledge J. Liposomes with prolonged
+circulation times: factors affecting uptake by
+reticuloendothelial and other tissues. Biochim Biophys Acta
+(BBA) 1989;981(1):27e35. Biomembranes.
+Allen TM. Stealth liposomes: five years on. J Liposome Res
+1992;2(3):289e305.
+Allen T, Chonn A. Large unilamellar liposomes with low
+uptake into the reticuloendothelial system. FEBS Lett
+1987;223(1):42e46.
+Webb M, Harasym T, Masin D, et al. Sphingomyelincholesterol liposomes significantly enhance the
+pharmacokinetic and therapeutic properties of vincristine
+in murine and human tumour models. B J Cancer
+1995;72(4):896.
+Allen TM. A study of phospholipid interactions between
+high-density lipoproteins and small unilamellar vesicles.
+Biochim Biophysica Acta (BBA) 1981;640(2):385e397.
+Biomembranes.
+Papahadjopoulos D, Allen T, Gabizon A, et al. Sterically
+stabilized liposomes: improvements in pharmacokinetics
+and antitumor therapeutic efficacy. Proc Natl Acad Sci
+1991;88(24):11460e11464.
+Ishida T, Harada M, Wang XY, et al. Accelerated blood
+clearance of PEGylated liposomes following preceding
+liposome injection: effects of lipid dose and PEG surfacedensity and chain length of the first-dose liposomes. J
+Control Release 2005;105(3):305e317.
+Laverman P, Carstens MG, Boerman OC, et al. Factors
+affecting the accelerated blood clearance of polyethylene
+glycol-liposomes upon repeated injection. J Pharmacol Exp
+Ther 2001;298(2):607e612.
+Xu H, Ye F, Hu M, et al. Influence of phospholipid types and
+animal models on the accelerated blood clearance
+phenomenon of PEGylated liposomes upon repeated
+injection. Drug Deliv 2014:1e10.
+Wretlind A. Development of fat emulsions. JPEN J Parenter
+Enteral Nutr 1980;5(3):230e235.
+Hansrani P, Davis S, Groves M. The preparation and
+properties of sterile intravenous emulsions. PDA J Pharm
+Sci Tech JulyeAugust 1983;37(4):145e150. PDA J Pharm Sci
+Technol 1983;37: 145e150.
+Herman C, Groves M. Hydrolysis kinetics of phospholipids
+in thermally stressed intravenous lipid emulsion
+formulations. J Pharm Pharmacol 1992;44(7):539e542.
+Lenzo NP, Martins I, Mortimer B-C, et al. Effects of
+phospholipid composition on the metabolism of
+triacylglycerol, cholesteryl ester and phosphatidylcholine
+from lipid emulsions injected intravenously in rats.
+Biochim Biophys Acta (BBA) 1988;960(1):111e118. Lipids and
+Lipid Metabolism.
+Redgrave TG, Rakic V, Mortimer B-C, et al. Effects of
+sphingomyelin and phosphatidylcholine acyl chains on the
+clearance of triacylglycerol-rich lipoproteins from plasma.
+Studies with lipid emulsions in rats. Biochim Biophys Acta
+(BBA) 1992;1126(1):65e72. Lipids and Lipid Metabolism.
+Wang C, Cheng X, Sui Y, et al. A noticeable phenomenon:
+thiol terminal PEG enhances the immunogenicity of
+PEGylated emulsions injected intravenously or
+
+subcutaneously into rats. Eur J Pharm Biopharm
+2013;85(3):744e751.
+Hammad M, Müller B. Increasing drug solubility by means
+of bile saltephosphatidylcholine-based mixed micelles. Eur
+J Pharm Biopharm 1998;46(3):361e367.
+Narain P, DeMaria E, Heuman D. Lecithin protects against
+plasma membrane disruption by bile salts. J Surg Res
+1998;78(2):131e136.
+€ rtl A, et al. Microemulsion and
+Mrestani Y, Behbood L, Ha
+mixed micelle for oral administration as new drug
+formulations for highly hydrophilic drugs. Eur J Pharm
+Biopharm 2010;74(2):219e222.
+Müller K. Structural dimorphism of bile salt/lecithin mixed
+micelles. A possible regulatory mechanism for cholesterol
+solubility in bile? X-ray structural analysis. Biochemistry
+1981;20(2):404e414.
+Shankland W. The equilibrium and structure of lecithincholate mixed micelles. Chem Phys Lipids
+1970;4(2):109e130.
+Torchilin VP, Omelyanenko VG, Papisov MI, et al. Poly
+(ethylene glycol) on the liposome surface: on the
+mechanism of polymer-coated liposome longevity. Biochim
+Biophys Acta (BBA) 1994;1195(1):11e20. Biomembranes.
+Trubetskoy V, Torchilin V. Polyethyleneglycol based
+micelles as carriers of therapeutic and diagnostic agents.
+STP Pharma Sci 1996;6(1):79e86.
+Trubetskoy VS, Torchilin VP. Use of polyoxyethylene-lipid
+conjugates as long-circulating carriers for delivery of
+therapeutic and diagnostic agents. Adv Drug Deliv Rev
+1995;16(2):311e320.
+Lukyanov AN, Torchilin VP. Micelles from lipid derivatives
+of water-soluble polymers as delivery systems for poorly
+soluble drugs. Adv Drug Deliv Rev 2004;56(9):1273e1289.
+€
+Krishnadas A, Rubinstein I, Onyüksel
+H. Sterically stabilized
+phospholipid mixed micelles: in vitro evaluation as a novel
+carrier for water-insoluble drugs. Pharm Res
+2003;20(2):297e302.
+Ashok B, Arleth L, Hjelm RP, et al. In vitro characterization
+of PEGylated phospholipid micelles for improved drug
+solubilization: effects of PEG chain length and PC
+incorporation. J Pharm Sci 2004;93(10):2476e2487.
+Kaminskas LM, Mcleod VM, Porter H, et al. Differences in
+colloidal structure of PEGylated nanomaterials dictate the
+likelihood of accelerated blood clearance. J Pharm Sci
+2011;100(11):5069e5077.
+
+[102] Singh D, Rawat M, Semalty A, et al.
+Chrysophanolephospholipid complex. J Therm Anal
+Calorim 2013;111(3):2069e2077.
+[103] Shivanand P, Kinjal P. Phytosomes: technical revolution in
+phytomedicine. Int J PharmTech Res 2010;2(1):627e631.
+[104] Bombardelli E. Phytosome: new cosmetic delivery system.
+Boll Chim Farm 1991;130(11):431.
+[105] Pathan RA, Bhandari U. Preparation & characterization of
+embelinephospholipid complex as effective drug delivery
+tool. J Incl Phenom Macrocycl Chem 2011;69(1e2):139e147.
+[106] Semalty A, Semalty M, Rawat BS, et al. Pharmacosomes: the
+lipid-based new drug delivery system. 2009.
+[107] Shelke SS. Phytosomes-a new herbal drug delivery system.
+Int J Res Pharm Biomed Sci 2012;3(4):1710e1715.
+[108] Rao R, Squillante III E, Kim KH. Lipid-based cochleates: a
+promising formulation platform for oral and parenteral
+delivery of therapeutic agents. Crit Rev Ther Drug Carrier
+Syst 2007;24(1).
+[109] Zarif L, Graybill JR, Perlin D, et al. Cochleates: new lipidbased drug delivery system. J Liposome Res
+2000;10(4):523e538.
+[110] Syed UM, Woo AF, Plakogiannis F, et al. Cochleates bridged
+by drug molecules. Int J Pharm 2008;363(1):118e125.
+[111] Marone P, Elsmore S, Sandulow J, et al. Structural
+determinants of divalent cation-induced
+phosphatidylserine cochleate crystallization. Microsc
+Microanal 2005;11(S02):1244e1245.
+[112] Gould-Fogerite S, Mannino RJ. Mucosal and systemic
+immunization using cochleate and liposome vaccines. J
+Liposome Res 1996;6(2):357e379.
+[113] Delmarre D, Gould-Fogerite S, Mannino R. Formulation of
+hydrophobic drugs into cochleate delivery vehicles: a
+simplified protocol & bioral TM formulation kit. Drug Deliv
+Technol 2004;4(1):1e10.
+[114] Rawat M, Singh D, Saraf S, et al. Lipid carriers: a versatile
+delivery vehicle for proteins and peptides. Proteins 2008;3:2.
+[115] Sanchezmigallon MP, Aranda FJ, Gomezfernandez JC. Role
+of phosphatidylserine and diacylglycerol in the fusion of
+chromaffin granules with target membranes. Arch Biochem
+Biophys 1994;314(1):205e216.
+[116] Nerozzi D, Aceti F, Melia E, et al. Phosphatidylserine and
+memory disorders in the aged. La Clinica Terapeutica
+1987;120(5):399e404.
+
+end

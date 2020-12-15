@@ -1,0 +1,479 @@
+Journal of Developing Drugs
+
+ISSN: 2329-6631
+
+Armano et al., J Dev Drugs 2016, 5:3
+DOI: 10.4172/2329-6631.1000161
+
+Open Access
+
+Review Article
+
+Pharmacological Options Beyond Proton Pump Inhibitors in Children
+with Gastroesophageal Reflux Disease
+Armano C, Fumagalli LA, Ripepi A, Moretti A, Macchi F, Scolari A and Salvatore S*
+Pediatric Department, Ospedale “F. Del Ponte”, Università dell’Insubria, Varese, Italy
+*Corresponding
+
+author: Salvatore S, Pediatric Department, Ospedale “F. Del Ponte”, Università dell’Insubria, Varese, Italy, Tel: 0039-0-332 299247; E-mail:
+silvia.salvatore@uninsubria.it
+Received date: August 29, 2016; Accepted date: October 10, 2016; Published date: October 18, 2016
+
+Copyright: © 2016 Armano C, et al. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted
+use, distribution, and reproduction in any medium, provided the original author and source are credited.
+
+Abstract
+Pharmacological treatment of gastroesophageal reflux (GER) disease is mostly based on acid control. However,
+different molecules have been proposed both for patients with persisting symptoms and to limit adverse effects of
+proton pump inhibitors (PPI). This paper focuses on other acid inhibitors, alginate, prokinetics, drug acting on lower
+esophageal sphincter and esophageal hypersensitivity. Mechanism of action, indications, efficacy, limits and recent
+advances are reported. Pediatric data and possible adverse effects are also considered.
+
+Keywords: Reflux; Ranitidine; Alginate; Prokinetics; Baclofen
+
+Abbreviations:
+ASIC: Acid-sensitive ion channels; ESPGHAN: European Society for
+Paediatric Gastroenterology, Hepatology and Nutrition; GABA: γ
+aminobutyric acid; GER: Gastroesophageal reflux; GERD:
+Gastroesophageal reflux disease; NASPGHAN: North American
+Society for Pediatric Gastroenterology, Hepatology and Nutrition;
+NICE: National Institute for Health and Care Excellence; PPI: Proton
+pump inhibitors; PCABs: Acid-inhibitor acting on potassium; SSRIs:
+Serotonine selective re-uptake inhibitors; TLESRs: Transient lower
+esophageal sphincter relaxation; TRPV: Transient receptor potential
+vanilloid.
+
+Introduction
+Proton pump inhibitors (PPI) are the treatment of choice both for
+children and adolescents with heartburn, reflux esophagitis,
+pathological acid exposure or significant association with symptoms
+related to acid gastroesophageal reflux (GER) detected by (impedance)
+pH-monitoring [1]. Persisting symptoms on PPI may be related to
+several factors such as: insufficient drug dosage (e.g., in neurological
+patients), incorrect intake (e.g., not before the first meal of the day),
+major effect of the non-acid component (or currently classified as
+weakly acid reflux with pH>4) or of the volume of reflux (esophageal
+distention) in the generation of symptoms, esophageal hypersensitivity,
+primary motor disorders or other diagnosis (non GER disorder).
+The pathogenesis of GER disease (GERD) is complex and include
+several contributing factors such as inappropriate lower esophageal
+sphincter (LES) relaxations, abnormal esophageal motility and
+clearance, delayed gastric emptying, increased both acid and non-acid
+GER, impaired esophageal resistance and esophageal hypersensitivity.
+Physiologic GER and infantile regurgitation do not need medical
+treatment although they frequently cause parental distress and
+anxiousness [1]. Management in these patients should be based on
+parental education and reassurance, dietary and, eventually, positional
+treatment.
+
+J Dev Drugs, an open access journal
+ISSN: 2329-6631
+
+Pharmacological therapy used to treat GERD encompass
+antisecretory agents, antacids, surface barrier agents, prokinetics,
+agents reducing LES relaxations and, more recently in adult patients,
+anti-depressant drugs. From the pathophysiologic point of view,
+prokinetic drugs are the most logic therapeutic approach to treat
+GERD because they improve the motility of both esophagus and
+stomach, reducing the time of the esophageal contact with refluxate
+and accelerating gastric emptying. However, there is no effective and
+safe prokinetic agent on the market.
+Appropriate treatment of GERD is important to reduce GER related
+symptoms and possible esophageal (e.g., esophagitis) and extraesophageal (e.g., respiratory manifestations, sleeping or feeding
+disturbances) complications and to improve quality of life of the
+patients.
+This article focuses on current therapeutic pharmacological options
+beyond PPI in GERD and updates the current pediatric data of other
+acid-inhibitors, “barrier agents”, prokinetics, and drugs that act on the
+inferior esophageal sphincter or on the “symptomatic sensitivity”
+(Table 1). Neither non-pharmacological therapies (e.g., postural,
+dietetic ones) nor endoscopic and surgical treatments will be herein
+discussed.
+
+Other acid-inhibitors except PPI
+Ranitidine is often (too much) administered, especially in infants,
+on clinical basis without a proven diagnosis of GERD. The preference
+towards ranitidine compared to PPI is mostly related to its availability
+as a syrup and off-label use of PPI in the first year of life. Ranitidine (at
+an oral dose of 5-10 mg/kg/die divided in 2-3 doses) suppresses the
+gastric acid secretion less (partially) and for a shorter period (about
+4-8 hours) of time compared to PPI, and is often associated with
+tachyphylaxis, which cannot be solved with an increase of the dosage.
+In 2006 Pfefferkorn evaluated the possible benefit of ranitidine (4
+mg/kg), as add-on therapy to PPI, to cover the night-time acid
+secretion (nocturnal acid breakthrough) in children with reflux
+esophagitis. There was no evidence of any decrease in the symptomatic
+score, in the acid exposure detected by pH-monitoring or in the
+esophageal mucosal lesions compared to placebo [2].
+
+Table 1: Pharmacological therapy of GERD beyond acid-inhibitors:
+molecules and mechanisms
+A systematic review analysing 8 studies (276 children treated) have
+recently reported a limited evidence of effectiveness and safety in
+pediatric age and a lack of good quality data. Conversely, adverse
+effects similar to PPI have been shown, including increased infections,
+variation of the intestinal microbiota and an increased risk of
+necrotizing enterocolitis in premature babies [3].
+Cimetidine has seldom been used as acid-inhibitor in children and
+is not recommended for its side effects on cytochrome P450, on the
+metabolism of vitamin D and on the endocrine function.
+Other drugs have been proposed for adult patients with GERD, e.g.,
+Vonoprazan (a new acid-inhibitor acting on potassium, PCABs),
+which seems to have a stronger and more lasting effect of acid
+suppression compared to PPI [4,5].
+Current available information about antacids (based on potassium/
+sodium bicarbonate, aluminum and magnesium hydroxide or calcium
+salts) in children with GERD are too limited to recommend their use
+and concern about the prolonged use of aluminum has been raised,
+especially in young children and in patients affected by kidney diseases
+[1].
+
+J Dev Drugs, an open access journal
+ISSN: 2329-6631
+
+Alginate
+Alginate is a polysaccharide derived from brown seaweed and it can
+absorb water or react with gastric enzymes like pepsin, thus increasing
+the viscosity of the gastric content.
+Alginate based drugs can act on GERD both physically, through a
+mechanic effect in the stomach and chemically, reducing acid content.
+Alginate precipitates in an acidic environment and quickly creates, a
+few minutes after administration, a viscous gel or “rafting” in the upper
+part of the stomach, thus reducing reflux. Besides, some commercial
+alginate compounds may decrease acid GER because of the
+concomitant presenceof antacids (e.g., bicarbonate, with a “foam” effect
+over gel and gastric content) thus reducing the “backwash” of the acid
+pocket located in the gastric fundus. However, alginate is not currently
+recommended for the treatment of esophagitis for less evidence of
+efficacy compared to ranitidine and PPI, but only for heartburn in
+older children and for regurgitations associated to other distressing
+symptoms in infants [6,7].
+In 2000 a review evaluated the effect of alginate based specific
+formulations (Gaviscon and Gaviscon Infant) and included 6 pediatric
+studies for a total amount of 303 treated children or infants. Only one
+double-blind trial was available. The authors reported a significant
+effect of alginate in reducing regurgitation/vomiting and heartburn, a
+possible benefit on the pH-monitoring parameters (in one study with a
+concurrent presence of thickening agents), and less effectiveness
+compared to H2-antagonists in the treatment of esophagitis. Tolerance
+was satisfactory in all patients and the only report assessing side effects
+showed diarrhea or constipation in few patients, with a similar rate
+compared to placebo [8]. A double-blind pediatric trial which enrolled
+20 infants with random administration (3+3) of milk formula on/off
+an alginate formulation (Gaviscon Infant) without antacids, showed a
+decrease of all reflux parameters, assessed by impedance-pH
+monitoring, with a significant effect of alginate only for the height
+(esophageal extension) of reflux [9].
+In 32 preterm newborns Corvaglia et al. confirmed a significant
+reduction of proximal, gasseous, and acid reflux and of the acid
+esophageal exposure after the 4 meals with alginate (Gaviscon 0.25
+ml/kg/dose) compared with the other 4 drug-free meals [10]. Another
+trial of the same year which have analysed only one postprandial
+period with alginate, reported the decrease of acid GER without a
+concurrent effect on the reflux related apneas in 28 preterm newborns.
+No adverse effect occurred [11]. In 2015 a clinical study comparing 3
+groups of infants showed a greater reduction of GER related symptoms
+in the group (25 infants) treated for 2 months with a magnesium plus
+simeticone alginate based formulation (Gastrotuss Baby) (2.5 to 5 mls
+three times per day) compared to the other two groups (one treated
+with a thickened milk formula and the other one with parental
+reassurance). Only one infant reported constipation as a possible side
+effect of the treatment [12].
+Currently, the evidence of effectiveness of alginate in GER is limited
+in the pediatric age, whereas it’s more validated in the adults.
+Considering the lack of information, NASPGHAN and ESPGHAN
+guidelines published in 2009 did not recommend alginate in GER(D)
+treatment [1]. More recently, NICE guidelines have considered alginate
+as first pharmacological approach in GER, with a 1-2 weeks trial (to
+extend in case of benefit) in infants with severe reflux symptoms
+(regurgitations and “marked distress”), persisting after parental
+reassurance, postural treatment and diet changes [7]. It’s recommended
+to use formulations without aluminum and to consider the sodium
+
+Armano C, Fumagalli LA, Ripepi A, Moretti A, Macchi F, et al. (2016) Pharmacological Options Beyond Proton Pump Inhibitors in
+Children with Gastroesophageal Reflux Disease. J Dev Drugs 5: 161. doi:10.4172/2329-6631.1000161
+
+Page 3 of 5
+content (variable according to the different commercial products) for a
+prolonged use particularly in preterm newborns and in children with
+kidney diseases.
+The heterogeneity of age of the populations, of commercial alginate
+formulations and outcomes, does not allow a proper meta-analysis of
+the results.
+In a trial recruiting 16 adults affected by GERD, an alginate-antacid
+based product (Gaviscon Double Action Liquid) proved to be located
+into the postprandial “acid pocket” (an upper stomach area not
+buffered by meal) right under the diaphragm and close to LES, thus
+reducing the postprandial acid reflux [13].
+
+Prokinetics
+From a pathogenetic point of view prokinetics should be one of the
+most rational therapeutic approach in patients with GERD, especially
+in case of non-acid reflux disease. Nevertheless, prokinetics are not
+recommended as GERD treatment in infants and children because of
+the limited evidence of efficacy and their known neurological and
+cardiological adverse events.
+No recent trials using erythromycin (a macrolide that promotes
+peristalsis and gastric emptying binding to motilin receptors) or
+metoclopramide (a molecule with an alfa sympathomimetic effect with
+dopamine and serotonin receptor antagonism) as GERD treatment in
+children are available. Moreover, metoclopramide should not be
+administered because of its high rate of serious side effects like
+lethargy, irritability, gynaecomastia, galactorrhoea and extrapyramidal
+reactions with possible permanent dyskinesia.
+Domperidone is a dopamine receptor antagonist (D2) with a gastric
+prokinetic effect. A systematic review on domperidone published in
+2005 identified only 4 controlled randomized trials in children and no
+one of them showed a significant evidence of efficacy supporting its use
+in pediatric GERD [14]. In 2008 Cresi et al. assessed the effect of
+domperidone in 13 neonates with symptoms of GERD using
+impedance-pH monitoring. The number of reflux episodes increased
+although the duration of each GER events decreased [15].
+Furthermore, domperidone may cause extrapyramidal effects, increase
+of prolactin, unpredictable increase of QTc on ECG and serious
+ventricular arrhythmias with possible sudden death [16].
+
+myenteric plexus, of cellular bodies and of nerve fibers of the nodose
+ganglion (except GABA(A) ones), in the dorsal motor and in the
+solitary tract nuclei [18]. Pharmacological molecules which interact
+with these receptors may thus determine a reduction of GER through a
+peripheral action but may, concurrently, also cause central side effects.
+Gamma-aminobutyric acid type B receptor agonist baclofen is often
+used to reduce spasticity in neurological patients. Moreover, in adult
+patients with GER baclofen reduced TLESRs of 40-60%, both acid and
+nonacid (postprandial) GER and a symptomatic score, increased LES
+basal pressure and accelerated gastric emptying [19]. Because of its
+passage through the blood-brain barrier, several side effects have been
+reported in patients treated with baclofen, such as headache, fatigue,
+tiredness, drowsiness, lethargy, confusion, unsteadiness, dizziness,
+hypotension, “memory lapses”, dyspnoea sensation, weakness, tremor
+and reduction of seizure threshold.
+A 1-week small trial in 8 neurologically impaired children with
+GERD treated with baclofen showed a reduction in the number of acid
+reflux episodes and in the frequency of emesis (in 6 children), whilst
+the percentage of esophageal acid exposure (reflux index) didn’t
+decrease and the esophageal clearance time increased (in 4 out of 8
+patients) [20]. The efficacy of 0.5 mg/kg baclofen has been evaluated in
+the only randomised, placebo controlled trial in 30 children affected by
+resistant GERD. Measurement of esophageal motility and pH during
+the 2 hours’ test period showed a significant reduction of the incidence
+of TLESR and a significant acceleration of gastric emptying [21]. No
+important adverse effect occurred during the first 48 hours post
+treatment. More recently, a retrospective analysis including 53 children
+with proven GERD or GERD related symptoms (such as heartburn,
+regurgitation, vomiting, abdominal pain, weight loss, dyspepsia, lack of
+appetite, coughing, dental erosion) treated with 0.5 mg/kg/day (or 30
+mg/die maximum) of baclofen in 3 divided doses showed a significant
+reduction in symptoms in 2/3 (35) of patients at their first follow-up
+evaluation and in 22 patients after 12 months, respectively. In 3
+patients the treatment was stopped because of sleepiness [22].
+Prospective studies are needed to validate these preliminary results
+and assess baclefon safety.
+Arbaclofen placarbil has only been studied in adults without
+significant efficacy compared to placebo in reducing symptoms of
+GERD [23,24].
+
+No pediatric studies have been published so far and limited data are
+available in adult patients treated for GERD with other prokinetic
+molecules like mosapride, itopride, prucalopride, levosulpiride,
+revexepride and renzapride, or motilin agonists [17].
+
+In another trial in adult patients, Lesogaberan, another GABA-B
+receptor agonist with a peripheral action, showed an important
+reduction of both TLESR and of acid and postprandial non-acid reflux
+[25].
+
+Bethanechol, a choline carbamate with para sympathomimetic
+action selectively stimulating muscarinic receptors as a cholinergic
+agonist, showed a doubtful effectiveness and a high rate of side effects
+in children affected by GERD [1].
+
+Preliminary analysis in adults with GERD treated with mGluR5
+selective receptor antagonists (AZD2066, ADX10059) reported a
+reduction TLESRs and of acid reflux with adverse events like instability
+(in 3 out of 13) and attention disorders (in 3 out of 13) or an increase
+of liver enzymes [18].
+
+Drugs acting on LES
+Inappropriate (because not triggered by swallowing) transient LES
+relaxations (TLESRs) are one of the most important mechanism in
+reflux genesis at any age and are mediated by a vasovagal reflex
+stimulated by gastric distention. This reflex can be blocked by an
+interaction with 5 metabotropic Glutamate receptors (mGluR5), A and
+B alfa-aminobutyric acid receptors (GABA (A, B)) and cannabinoid
+ones (CB 1,2). The above receptors recently proved to be widely
+expressed (except GABA(A) receptors) in the neurons of LES
+
+J Dev Drugs, an open access journal
+ISSN: 2329-6631
+
+“Esophageal hypersensitivity” therapy and future perspective
+In the last ten years, it has been clearly demonstrated that many
+patients suffering from GERD present non-erosive reflux disease, that
+both esophageal symptoms and mucosal injuries can occur with
+nonacid GER (pH>4) and that several “sensory” receptors are located
+in the esophagus and respond to different pH (transient receptor
+potential vanilloid receptor (TRPV) type 1 and TPRV4 at pH<6, acidsensitive ion channels (ASIC) between pH 6 and 7 and p2X at pH<7).
+
+Armano C, Fumagalli LA, Ripepi A, Moretti A, Macchi F, et al. (2016) Pharmacological Options Beyond Proton Pump Inhibitors in
+Children with Gastroesophageal Reflux Disease. J Dev Drugs 5: 161. doi:10.4172/2329-6631.1000161
+
+Page 4 of 5
+However, the manifestation of pain, heartburn or other symptoms, are
+dependent on many components (chemical, physical and mechanical
+ones, related to pH, to volume and content of GER, or to esophageal
+distention, clearance and mucosal defense) and, particularly, on the
+individual threshold of perception of one or more stimuli.
+Neither enough information nor current studies on mucosal
+protective drugs, such as sucralfate, are available in pediatric patients
+and they are not recommended by the current guidelines on GERD
+treatment [1]. Sucralfate is a sucrose, sulphate and aluminium
+compound that, in an acid environment, creates a gel binding to the
+mucosa with peptic erosions. The only pediatric randomized
+controlled study available was published in 1989 and proved that
+sucralfate was as effective as cimetidine in the treatment of esophagitis
+Serotonine selective re-uptake inhibitors (SSRIs) have been
+proposed in adult patients with esophageal hypersensitivity (negative
+endoscopy and acid exposure at pH-monitoring but positive symptom
+association with GER in the (impedance)pH-monitoring) [27].
+Analgesic drugs and low doses of tricyclic antidepressants have been
+suggested in case of functional heartburn (symptoms of GER but
+normal endoscopy and (impedance)pH-monitoring) [27].
+Pain modulators like tricyclic antidepressants, trazodone,
+serotonine-norepinephrine re-uptake inhibitors or SSRIs can act as gut
+analgesics both through central nervous system effects and/or sensory
+nerve fibers afferents.
+A systematic review has recently analysed the efficacy of
+antidepressants in adults with GERD or esophageal functional
+disorders with symptoms like heartburn or chest pain, dysphagia or
+pharyngeal globus, caused by possible esophageal visceral hyperalgesia.
+Overall 378 articles and 15 randomised controlled trials eligible for the
+inclusion criteria were identified. After antidepressant therapy the
+esophageal pain threshold raised from 7 to 37%, with a reduction of
+pain from 18 to 67% and a reduction of heartburn, in patients with
+GERD, from 23 to 61%, highlighting that antidepressants can ease
+esophageal symptoms in a subgroup of patients with GERD [28].
+Further controlled trials are needed to evaluate their effects on
+esophageal functional disorders [28].
+No study evaluates the prevalence of esophageal functional
+disorders in children and analgesics or antidepressants effect in
+pediatric patients with GERD.
+
+Conclusion
+As reported by a recent Cochrane review on pharmacological
+treatment of children with GERD, analyzing 24 randomized controlled
+trials, for an amount of 1201 children, there is no enough evidence of
+the efficacy of prokinetics, there is some evidence of benefit using H2
+antagonists, and there’s a moderate evidence of a specific alginate
+formulation in improving infant’s symptoms [6]. Data about GABA
+receptor agonists are still too limited and there are no pediatric data on
+pain modulators or mucosal protective agents in patients with GERD.
+Several adverse effects have been shown for all categories of drugs. A
+proper diagnostic work-up and an adequate assessment of the safety
+profile of the molecule are fundamental before starting any
+pharmacological treatment in infants and children with only
+symptoms or evidence of GERD.
+
+J Dev Drugs, an open access journal
+ISSN: 2329-6631
+
+References
+Vandenplas Y, Rudolph CD, Di Lorenzo C, Hassall E, Liptak G, et al.
+(2009) Pediatric Gastroesophageal Reflux Clinical Practice Guidelines:
+Joint Recommendations of the North American Society of Pediatric
+Gastroenterology, Hepatology and Nutrition (NASPGHAN) and the
+European Society of Pediatric Gastroenterology, Hepatology, and
+Nutrition (ESPGHAN). J Pediatr Gastroenterol Nutr 49: 498-547.
+Pfeffrkorn MD, Croffie JM, Gupta SK, Molleston JP, Eckert GJ, et al.
+(2006) Nocturnal acid breakthrough in children with reflux esophagitis
+taking proton pump inhibitors. J Pediatr Gastroenterol Nutr 42: 160-165.
+Van der Pol R, Langendam M, Benninga M, van Wijk M, Tabbers M
+(2014) Efficacy and Safety of Histamine-2 Receptor Antagonists. JAMA
+Pediatr 168: 947-954.
+Hunt RH, Scarpignato C (2015) Potassium-Competitive Acid Blockers
+(P-CABs): Are They Finally Ready for Prime Time in Acid-Related
+Disease? Clin Transl Gastroenterol 6: e119.
+Otake K, Sakurai Y, Nishida H, Fukui H, Tagawa Y, et al. (2016)
+Characteristics of the Novel Potassium-Competitive Acid Blocker
+Vonoprazan Fumarate (TAK-438). Adv Ther 33: 1140-1157.
+Tighe M, Afzal NA, Bevan A, Hayen A, Munro A, et al. (2014)
+Pharmacological treatment of children with gastro-oesophageal reflux.
+Cochrane Database Syst Rev: CD008550.
+National Institute for Health and Care Excellence (NICE) (2015) Clinical
+Knowledge Summaries on Gastroesophageal reflux disease in children.
+NG1.
+Mandel KG, Daggy BP, Brodie DA, Jacoby HI (2000) Review article:
+alginate-raft formulations in the treatment of heartburn and acid reflux.
+Aliment Pharmacol Ther 14: 669-690.
+Del Buono R, Wenzl TG, Ball G, Keady S, Thomson M (2005) Effect of
+Gaviscon Infant on gastro-oesophageal reflux in infants assessed by
+combined intraluminal impedance/pH. Arch Dis Child 90: 460-463.
+Corvaglia L, Aceti A, Mariani E, De Giorgi M, Capretti MG, et al. (2011)
+The efficacy of sodium alginate (Gaviscon) for the treatment of gastrooesophageal reflux in preterm infants. Alimenti Pharmacol Ther 33:
+466-470.
+Corvaglia L, Spizzichino M, Zama D, Aceti A, Mariani E, et al. (2011)
+Sodium Alginate (Gaviscon®) does not reduce apnoeas related to gastrooesophageal reflux in preterm infants. Early Hum Dev 87: 775-778.
+Ummarino D, Miele E, Martinelli M, Scarpato E, Crocetto F, et al. (2015)
+Effect of magnesium alginate plus simethicone on gastroesophageal reflux
+in infants. J Pediatr Gastroenterol Nutr 60: 230-235.
+Rohof WO, Bennink RJ, Smout AJ, Thomas E, Boeckxstaens GE (2013)
+An alginate-antacid formulation localizes to the acid pocket to reduce
+acid reflux in patients with gastroesophageal reflux disease. Clin
+Gastroenterol Hepatol 11: 1585-1591.
+Pritchard DS, Baber N, Stephenson T (2005) Should domperidone be
+used for the treatment of gastro-oesophageal reflux in children?
+Systematic review of randomized controlled trials in children aged 1
+month to 11 years old. Br J Clin Pharmacol 59: 725-729.
+Cresi F, Marinaccio C, Russo MC, Miniero R, Silvestro L (2008) Shortterm effect of domperidone on gastroesophageal reflux in newborns
+assessed by combined intraluminal impedance and pH monitoring. J
+Perinatol 28: 766–770.
+Michaud V, Turgeon J (2013) Domperidone and sudden cardiac death:
+How much longer should we wait? J Cardiovasc Pharmacol 61: 215-217.
+Vandenplas Y (2014) Management of paediatric GERD. Nat Rev
+Gastroenterol Hepatol 11: 147–157.
+Rohof WO, Aronica E, Beaumont H, Troost D, Boeckxstaens GE (2012)
+Localization of mGluR5, GABAB, GABAA, and cannabinoid receptors on
+the vago-vagal reflex pathway responsible for transient lower esophageal
+sphincter relaxation in humans: an immunohistochemical study.
+Neurogastroenterol Motil 24: 383-e173.
+Vela MF, Tutuian R, Katz PO, Castell DO (2003) Baclofen decreases acid
+and non-acid post-prandial gastro-oesophageal reflux measured by
+Armano C, Fumagalli LA, Ripepi A, Moretti A, Macchi F, et al. (2016) Pharmacological Options Beyond Proton Pump Inhibitors in
+Children with Gastroesophageal Reflux Disease. J Dev Drugs 5: 161. doi:10.4172/2329-6631.1000161
+combined multichannel intraluminal impedance and pH. Aliment
+Pharmacol Ther 17: 243-251.
+Kawai M, Kawahara H, Hirayama S, Yoshimura N, Ida S (2004) Effect of
+baclofen on emesis and 24-hour esophageal pH in neurologically
+impaired children with gastroesofageal reflux disease. J Pediatr
+Gastroenterol Nutr 38: 317-323.
+Omari TI, Benninga MA, Sansom L, Butler RN, Dent J, et al. (2006) Effect
+of baclofen on esophagogastric motility and gastroesophageal reflux in
+children with gastroesophageal reflux disease: a randomized controlled
+trial. J Pediatr 149: 468-474.
+Vadlamudi NB, Hitch MC, Dimmitt RA, Thame KA (2013) Baclofen for
+the treatment of pediatric GERD. J Pediatr Gastroenterol Nutr 57:
+808-812.
+Vakil NB, Huff FJ, Bian A, Jones DS, Stamler D (2011) Arbaclofen
+placarbil in GERD: a randomized, double-blind, placebo-controlled
+study. Am J Gastroenterol 106: 1427-1438.
+Vakil NB, Huff FJ, Cundy KC (2013) Randomized clinical trial: arbaclofen
+placarbil in gastro-oesophageal reflux disease-insights into study design
+
+J Dev Drugs, an open access journal
+ISSN: 2329-6631
+for transient lower sphincter relaxation inhibitors. Aliment Pharmacol
+Ther 38: 107-117.
+Miner PB Jr, Silberg DG, Ruth M, Miller F, Pandolfino J (2014) Dosedependent effects of lesogaberan on reflux measures in patients with
+refractory gastroesophageal reflux disease: a randomized, placebocontrolled study. BMC Gastroenterol 14: 188.
+Arguelles-Martin F, Gonzalez-Fernandez F, Gentles MG (1989) Sucralfate
+versus cimetidine in the treatment of reflux esophagitis in children. Am J
+Med 86: 73-76.
+Zerbib F, Sifrim D, Tutuian R, Attwood S, Lundell L (2013) Modern
+medical and surgical management of difficult-to-treat GORD. United
+European Gastroenterol J 1: 21-31.
+Weijenborg PW, de Schepper HS, Smout AJ, Bredenoord AJ (2015) Effects
+of antidepressants in patients with functional disorders or
+gastroesophageal reflux disease: a systematic review. Clin Gastroenterol
+Hepatol 13: 251-259
+
+end

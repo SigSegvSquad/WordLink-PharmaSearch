@@ -1,0 +1,520 @@
+Journal of Pharmaceutical Sciences 109 (2020) 2676-2683
+
+Contents lists available at ScienceDirect
+
+Journal of Pharmaceutical Sciences
+journal homepage: www.jpharmsci.org
+
+Drug Discovery-Development Interface
+
+Deamidation in Moxetumomab Pasudotox Leading to
+Conformational Change and Immunotoxin Activity Loss
+Xiaojun Lu, Shihua Lin, Niluka De Mel, Arun Parupudi, Jared Delmar, Madhu Pandey,
+Xiangyang Wang, Jihong Wang*
+Analytical Sciences, Biopharmaceutical Development, AstraZeneca, One MedImmune Way, Gaithersburg, Maryland 20878
+
+article info
+
+abstract
+
+Article history:
+Received 16 February 2020
+Revised 14 May 2020
+Accepted 1 June 2020
+Available online 11 June 2020
+
+Asparagine (Asn) deamidation is a common posttranslational modiﬁcation in which Asn is converted to
+aspartic acid or isoaspartic acid. By introducing a negative charge, deamidation could potentially impact
+the binding interface and biological activities of protein therapeutics. We identiﬁed a deamidation
+variant in moxetumomab pasudotox, an immunotoxin Fv fusion protein drug derived from a 38-kDa
+truncated Pseudomonas exotoxin A (PE38) for the treatment of hairy-cell leukemia. Although the deamidation site, Asn-358, was outside of the binding interface, the modiﬁcation had a signiﬁcant impact on
+the biological activity of moxetumomab pasudotox. Surprisingly, the variant eluted earlier than its unmodiﬁed form on anion exchange chromatography, which often leads to the conclusion that it has a
+higher positive charge. Here we describe the characterization of the deamidation variant with differential
+scanning calorimetry and hydrogen-deuterium exchange mass spectrometry, which revealed that the
+Asn-358 deamidation caused the conformational changes in the catalytic domain of the PE38 region.
+These results provide an explanation for why the deamidation affected the biological activity of moxetumomab pasudotox and suggest the approach that can be used for process control to ensure product
+quality and process consistency.
+© 2020 The Authors. Published by Elsevier Inc. on behalf of the American Pharmacists Association®. This
+is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/
+4.0/).
+
+Keywords:
+Proteins structure
+Protein conformation
+Protein stability
+Protein folding
+Posttranslational modiﬁcation
+Mass spectrometry
+Calorimetry
+Modeling
+Deamidation
+Biological activity
+Hydrogen-deuterium exchange
+
+Introduction
+Since the approval of recombinant human insulin by the U.S.
+Food and Drug Administration (FDA) in 1982, the use of therapeutic
+proteins for the treatment of many diseases and disorders,
+including cancer, autoimmune and inﬂammatory disorders, and
+metabolic, cardiovascular, and infectious diseases, has grown
+tremendously.1,2 Protein-based biopharmaceuticals often have
+higher speciﬁcity and therefore lower potential to cause adverse
+effects and immune responses than small-molecule drugs, but they
+also present their own challenges.2 One of the most critical of these
+
+Current address for Lu: Adimab, 7 Lucent Drive, Lebanon, NH 03766, USA.
+Current address for X. Wang and J. Wang: Viela Bio, One Medimmune Way, Gaithersburg, MD 20878, USA.
+Disclosure of Potential Conﬂicts of Interest: This study was funded by AstraZeneca,
+United Kingdom. All authors are or were employees of AstraZeneca at the time this
+work was performed, with stock interests or options in AstraZeneca.
+* Corresponding author.
+E-mail address: WangJh@VielaBio.com (J. Wang).
+
+challenges is the chemical degradation that may occur during the
+manufacturing and storage of most therapeutic proteins, which
+leads to one or more posttranslational modiﬁcations (PTMs).2,3
+Asparagine (Asn) deamidation, one of most common nonenzymatic PTMs, has long been considered to be a major degradation
+pathway for many monoclonal antibodies and other therapeutic
+proteins.4 It is generally believed that under neutral and basic
+conditions, the reaction goes through a ﬁve-membered cyclic succinimide intermediate, which then hydrolyzes and yields both
+isoaspartic acid and aspartic acid (Asp).5-7
+It has been reported that Asn deamidation could have a significant impact on the biological activity of therapeutic proteins. For
+example, in a study of dornase alpha, a recombinant enzyme used
+for the treatment of cystic ﬁbrosis, deamidation of a single Asn
+residue resulted in loss of its biological activity.8 Deamidation was
+also reported to compromise antibody colloidal stability and to
+increase aggregation under low-pH conditions.9 Especially in light
+of the relationship between protein structure and function, detailed
+structural characterization is essential to understand the molecular
+basis of such reactions.
+
+https://doi.org/10.1016/j.xphs.2020.06.002
+0022-3549/© 2020 The Authors. Published by Elsevier Inc. on behalf of the American Pharmacists Association®. This is an open access article under the CC BY-NC-ND license
+(http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+X. Lu et al. / Journal of Pharmaceutical Sciences 109 (2020) 2676-2683
+
+Hydrogen-deuterium exchange (HDX) mass spectrometry (MS)
+has emerged as a useful tool to monitor the conformation and
+dynamics of therapeutic proteins.10-13 Conventional biophysical
+techniques such as circular dichroism and ﬂuorescence14-16 provide
+only general information, and it is difﬁcult to detect subtle
+conformational changes or changes related only to speciﬁc regions
+of proteins with these techniques. In contrast, HDX-MS can be used
+to detect and localize the impact of PTMs on the structure of proteins at the peptide level, or even at the residue level. For example,
+HDX has been used to study Asp isomerization and methionine
+oxidation in complementarity-determining regions (CDRs) of antibodies. Although they are only one amino acid apart in sequence,
+these two modiﬁcations have been found to result in opposing
+conformational impacts on local and nearby regions, leading
+directly to different alterations on antibody-antigen binding afﬁnity.17 It has also been reported that oxidation of a CDR tryptophan
+residue signiﬁcantly reduces antigen binding afﬁnity, and HDX-MS
+data have revealed that the modiﬁcations increase the ﬂexibility of
+variable regions and disrupt local conformation.18 Although a
+similar experiment with Asn deamidation revealed no measurable
+local conformational changes caused by the modiﬁcation, this
+ﬁnding may have been compromised by the low deamidation levels
+(~30%) in the material used in the study.19
+A few studies have explored how Asn deamidation affects the
+three-dimensional structure of proteins.20-25 Deamidation of human norovirus capsid protein has been reported to attenuate glycan
+binding, and HDX-MS data have revealed localized alterations in
+protein ﬂexibility, supporting ﬁndings from nuclear magnetic
+resonance and X-ray crystallography studies.26 In another HDX-MS
+study, deamidation was reported to slow Curli amyloid-protein
+aggregation.11
+Moxetumomab pasudotox (formerly CAT-8015) is a recombinant immunotoxin therapeutic protein developed for the treatment
+of B-cell malignancies27 that received FDA approval in September
+2018 for the treatment of adults with relapsed or refractory hairycell leukemia who have received at least two prior systemic therapies, including treatment with a purine nucleoside analog.28,29 It is
+composed of a 38-kDa truncated Pseudomonas exotoxin A (PE38)
+that is genetically fused to the variable fragment (Fv) of an antiCD22 antibody. When bound to CD22, a B-lymphocyteespeciﬁc
+cell surface protein, it is rapidly internalized and processed. The
+Pseudomonas exotoxin (PE) catalyzes the transfer of ADP ribose
+from nicotinamide adenine dinucleotide (NAD) to eukaryotic
+elongation factor 2 (eEF2), which inhibits protein translation and
+leads to cell death. Deamidation in the catalytic domain of PE38 at
+Asn-358 has previously demonstrated signiﬁcantly reduced biological activity in cell-based bioassay,30 but it remains unclear how
+a single residue modiﬁcation could have such a marked impact on
+the cytotoxicity of the molecule. Another puzzling observation is
+that the deamidated species eluted before the major product peak
+on a positively charged anion exchange column, despite the fact
+that Asn deamidation introduces an extra negative charge.
+In this work, Asn-358edeamidated moxetumomab pasudotox
+was ﬁrst isolated using ion exchange chromatography (IEC). The
+structural impact of deamidation was carefully examined by both
+differential scanning calorimetry (DSC) and HDX-MS, which
+showed alteration of the conformation of the PE catalytic domain.
+In the comprehensive functional studies described here, we gained
+a deep understanding of why the single deamidation diminished
+biological activity and appeared as a basic variant, an early elution
+peak in anion exchange chromatography. After evaluation of the
+results from our stability study and the refolding process, a control
+strategy was established and implemented in the commercial
+manufacture process to minimize the deamidation level and to
+maintain process and product consistency.
+
+2677
+
+Fig. 1. IEC fractionation of moxetumomab pasudotox. IEC proﬁles of (a) starting material, (b) pre-peak fraction, and (c) main peak fraction.
+
+Materials and Methods
+Moxetumomab Pasudotox
+Recombinant moxetumomab pasudotox used in this study was
+expressed in Escherichia coli strains and was puriﬁed at AstraZeneca
+(Gaithersburg, MD) as previously described.31 All other commercial
+chemicals were reagent grade or better. Peptide mapping and cellbased bioassay methods were employed as previously described.30
+IEC Fractionation
+IEC fractionation was performed on a 1200 HPLC system
+equipped with a PL-SAX strong anion exchange column
+(4.6  50 mm, 8 mm, 1000 Å; Agilent, Santa Clara, CA). Mobile phase
+A was composed of 10 mM Tris and 1 mM ethylenediaminetetraacetic acid, pH 8.0, and mobile phase B was composed of 10 mM
+Tris, 1 mM ethylenediaminetetraacetic acid, and 0.5 M NaCl, pH 8.0.
+For each experiment, 500 mL of moxetumomab pasudotox starting
+material at a concentration of 1 mg/mL was loaded on the system
+and eluted with a linear gradient of up to 80% mobile phase B at a
+ﬂow rate of 1.0 mL/min. The eluted protein was monitored by ultraviolet absorbance at 280 nm, and two fractions (pre-peak and
+main peak) were collected with a fraction collector. The fractions
+from multiple injections were pooled together and buffer
+exchanged with 25 mM sodium phosphate, pH 7.4, to a ﬁnal
+
+2678
+
+X. Lu et al. / Journal of Pharmaceutical Sciences 109 (2020) 2676-2683
+
+three-dimensional structures of PE38 were drawn based on the
+structure 1IKQ from the Protein Data Bank.
+CD22 Binding Assay
+
+Fig. 2. DSC thermograms of IEC pre-peak (deamidated product) and main peak
+(original protein) fractions. Cp ¼ heat capacity; Tm ¼ melting temperature.
+
+concentration of approximately 1 mg/mL. The purity of IEC fractionation was veriﬁed by injecting 25 mg of starting material and
+5 mg of each fraction on the anion exchange column.
+
+A surface plasmon resonanceebased characterization assay was
+used to measure the kinetic binding afﬁnity (equilibrium dissociation constant [KD]) of moxetumomab pasudotox for human CD22.
+An anti-his tagged antibody was immobilized to two ﬂow cells of a
+sensor chip, using a standard amine coupling procedure. A reference surface was created by omitting the capture of CD22 on one
+ﬂow cell. A dilution series of moxetumomab pasudotox was prepared and then injected in a serial-ﬂow fashion across the reference
+surface and the CD22 surface, followed by regeneration of both ﬂow
+cells. The data were reference ﬂow cell subtracted and buffer
+blanked and then ﬁt to a 1:1 binding model, using Biacore Evaluation software (Precision Antibody, Columbia, MD). This model
+yields an association rate constant (ka) and a dissociation rate
+constant (kd). The KD for the interaction between moxetumomab
+pasudotox and CD22 was determined by the equation KD ¼ kd/ka.
+Internalization Assay
+
+Differential Scanning Calorimetry
+DSC experiments were performed with a Microcal VP-Capillary
+DSC instrument (Malvern Instruments, Malvern, PA) at a concentration of approximately 1 mg/mL. A scan rate of 60  C per hour was
+used with temperatures ranging from 20  C to 100  C. Results were
+analyzed with Origin 7.0 Microcal plug-in software (Malvern Instruments). Concentration-normalized data were ﬁtted to a nonetwo-state model with two peaks to calculate melting temperature
+and calorimetric enthalpy of the individual domains after subtracting the heat capacity of the reference buffer.
+
+Kinetic imaging analysis was used to determine whether moxetumomab pasudotox IEC pre-peak material was internalized into
+B-lymphoma cells. Moxetumomab pasudotox was conjugated with
+Alexa Fluor 647 (Thermo Fisher Scientiﬁc, Waltham, MA) and was
+bound to Daudi cells. The internalization of moxetumomab pasudotox was monitored with confocal ﬂuorescence microscopy.
+Quantitative assessment of kinetic images of the cell membrane
+and cytoplasm over time demonstrated the internalization of
+moxetumomab pasudotox into the cytoplasm.
+ADP Ribosylation Assay
+
+HDX-MS Analysis
+HDX-MS analysis was performed by using Waters HDX Technology (Waters, Milford, MA). Both IEC pre-peak and main peak
+fractions were concentrated to 4 mg/mL prior to the HDX experiment. Samples containing 2 mL each were diluted 10-fold with
+either H2O buffer (25 mM sodium phosphate, pH 7.4) or D2O buffer
+(25 mM sodium phosphate, pH 7.4) at 25  C. After incubation for
+0 (undeuterated), 0.5, 1, 5, 10, 30, 60, and 120 min, the labeled
+samples were quenched by adding 20 mL of ice-cold quench buffer
+[7.2 M guanidine, 500 mM tris(2-carboxyethyl) phosphine hydrochloride, pH 2.4] and were then further diluted with 120 mL of icecold 0.1% formic acid solution. Immediately, 50 mL of diluted samples was digested using an Enzymate Pepsin Column (5 mM,
+2.1  30 mm; Waters) at 20  C. The peptic fragments were collected
+with an Acquity BEH C18 VanGuard Pre-column (2.1  5 mm;
+Waters) and eluted into an Acquity BEH C18 column (1.7 mm,
+1.0  100 mm; Waters) at 0  C. Peptides separated on the column
+were analyzed with a Xevo G2-XS QToF mass spectrometer (Waters). Data analysis was performed as previously described,23 and
+
+An ADP ribosylation assay was used to evaluate the ADP ribosylation activity of moxetumomab pasudotox in vitro. Moxetumomab pasudotox reference standard and test samples were
+serially diluted in ultrapure nuclease-free water and incubated
+with an ADP ribosylation assay system containing eukaryotic eEF2,
+NADþ, luciferase mRNA, complete amino acids mixture, RNase inhibitor, and wheat germ extract in a 96-well plate for 2 h at ambient
+temperature. After incubation, an equal volume of Steady Glo
+Luciferase assay buffer and substrate (Promega, Madison, WI) was
+added to each well, and the plate was incubated at ambient temperature with gentle shaking for 30 min before the luminescence
+was read on a plate reader. The amount of luminescence detected in
+each well was directly proportional to the amount of translated
+luciferase protein, which was inversely proportional to the amount
+of ADP ribosylation of eEF2 by moxetumomab pasudotox. The test
+sample would be considered active if inhibition of luciferase mRNA
+translation was similar to that in the moxetumomab pasudotox
+reference standard. If there was no inhibition of luciferase mRNA
+translation, the sample would be inactive.
+
+Table 1
+DSC Melting Temperature and Enthalpy of the Pre-Peak (deamidated Product) and Main Peak (Original Protein) Fractions.
+Sample
+X. Lu et al. / Journal of Pharmaceutical Sciences 109 (2020) 2676-2683
+
+Results and Discussion
+Separation and Identiﬁcation of Asn-358 Deamidated Variant
+IEC analysis of moxetumomab pasudotox starting material led to
+a two-peak proﬁle, indicating the presence of two charge variants
+(Fig. 1a). The elution time of these variants (10.0 min and 12.5 min)
+were consistent with those in previous studies,21,30 so these two IEC
+peaks were termed “pre-peak” and “main peak.” Successful
+enrichment of two variants was conﬁrmed (Fig. 1b and c), and
+subsequent peptide mapping analysis revealed that the pre-peak
+fraction was mainly Asn-358 deamidated moxetumomab pasudotox (97.5%), whereas the main peak fraction contained only 9.6%
+deamidated Asn-358. Other deamidation site, Asn-243, showed no
+signiﬁcant difference in deamidation levels between the two IEC
+fractions. Non-reducing peptide mapping results showed the same
+disulﬁde bond linkages for both pre-peak and main peak.
+DSC Study
+As a technology that can monitor the thermal unfolding transitions of a protein, DSC provided the ﬁrst insight on the structural
+
+impact of Asn-358 deamidation. DSC measurements of both the
+pre-peak and the main peak fractions showed two distinct transitions, the ﬁrst at ~44  C and the second at ~78  C (Fig. 2 and
+Table 1). Native trypsin digestion of moxetumomab pasudotox was
+used to assign the ﬁrst peak to unfolding of the PE38 domains and
+the second peak to the Fv domain (see Supplementary Figs. S1, S2,
+S3 and Table S1), which is consistent with previous ﬁndings.32
+Comparison of the two DSC proﬁles revealed that both fractions
+shared similar melting transition points for the Fv domain, but the
+PE38 domain of the pre-peak fraction showed a decrease of 1.3  C in
+melting temperature and a 15-kcal loss in enthalpy compared with
+the main peak fraction. These results suggest that Asn-358 deamidation had no effect on Fv thermal stability but slightly destabilized the PE38 region, indicating the possible conformation
+change in PE38.
+HDX-MS Analysis
+To further localize the conformational change caused by Asn-358
+deamidation, HDX-MS was employed to analyze the two IEC fractions. A total of 182 peptic peptides were identiﬁed during the HDX
+data processing, and the standard deviation for each exchange time
+
+2680
+
+X. Lu et al. / Journal of Pharmaceutical Sciences 109 (2020) 2676-2683
+point was determined to be ±0.3 Dalton (Da). Among all identiﬁed
+peptides, 14 were from the variable domain of the light chain (LC),
+resulting in 81% of the LC sequence coverage. Both fractions had
+superimposable exchange kinetic curves for the peptide LC 37e47
+(Fig. 3a), indicating no conformational difference in this peptide
+region. Similar results were also observed for the other 13 LC peptides. To gain a global view of the LC, the differences in deuterium
+incorporation between the two fractions were calculated for all the
+LC peptides (Fig. 3b). It is clear that all these differences were smaller
+than 0.3 Da and were insigniﬁcant, so it was concluded that there
+was no structural difference between the two IEC fractions in the LC,
+which is consistent with similar DSC melting temperatures
+observed from the second thermal transition.
+
+The rest of the 168 peptides were identiﬁed to provide 96%
+sequence coverage of the variable heavy and PE38 domains (VHPE38, also referred to as heavy chain [HC]), and their HDX-MS data
+were more complex than those from the LC. First, consistent with
+the LC, all peptides located in the Fv region (residues HC1e129)
+showed no difference between the two fractions; exchange kinetic
+curves of peptides HC52e69 are shown as an example in Fig. 3a.
+Second, most peptides in the PE38 region (residues HC130e476)
+showed no or only minor differences (0.3 Da) in deuterium uptake between the pre-peak and the main peak fractions, suggesting
+that no signiﬁcant conformational difference was caused by Asn358 deamidation in most of the PE38 region. Finally, obvious differences were observed for peptides associated with four regions
+
+X. Lu et al. / Journal of Pharmaceutical Sciences 109 (2020) 2676-2683
+
+2681
+
+
+Plausible Mechanism for Biological Activity Loss
+
+(HC270e280, HC301e315, HC334e362, and HC428e455). The
+peptides in regions HC267e275, HC301e307, HC341e361, and
+HC428e454 all exhibited higher deuterium uptake in the pre-peak
+fraction than in the main peak fraction (Fig. 3a), and all other
+peptides related to these regions showed similar differences
+(Fig. 3c). The differences at many exchange time points were
+greater than 0.3 Da, and a few were as high as 2.5 Da. These results
+indicated that some local conformational changes led to less protection against deuterium exchange in these regions.
+One limitation of the differences shown in Fig. 3c is that the
+peptide length was not considered. Longer peptides sometimes
+show more signiﬁcant differences than short ones because they can
+accumulate more backbone amide deuterium, and back-exchange
+can easily overwhelm the exchange on shorter peptides. To take
+the peptide length into account, the differences in deuterium uptake by PE38 peptides between the two fractions were divided by
+the total number of the exchangeable amide hydrogens in each
+peptide, depicted as colors in the heat map (Fig. 4). This heat map
+clearly highlights the four PE38 regions in which the pre-peak
+fraction showed signiﬁcantly higher deuterium uptake than the
+main peak fraction. Overall, the HDX data suggest that Asn-358
+deamidation had no impact on the Fv region but did change local
+conformation in four regions in PE38. Considering that these regions account for only ~24% of the total PE38 sequence, these data
+are consistent with the 1.3  C difference in the DSC melting temperature in the ﬁrst transition.
+In addition, careful examination of the sequence revealed that
+these HDX-deﬁned regions contained a total of ﬁve arginine residues. Because the HDX data suggested that these regions gained
+more solvent accessibility due to the deamidation of Asn-358, the
+deamidated moxetumomab pasudotox molecules might expose
+more positive charges that overcome one negative charge from
+Asn-358 deamidation. This would explain why the deamidated
+species eluted before the unmodiﬁed ones on a positively charged
+anion exchange column.
+
+As a truncated form of PE, PE38 contains part of the expression
+improvement domain (domain Ib), the translocation domain
+(domain II), and the ADP ribosyltransferase enzyme domain
+(domain III) as shown in Supplementary Fig. S4 sequence alignment
+of PE and PE38 domains. The ﬁnding that all four HDX-deﬁned
+regions were in domain III suggested that the deamidation of
+Asn-358 (Asn-495 in PE) led to the misfolding of the catalytic
+domain and reduction of the biological activity of moxetumomab
+pasudotox. In a previous structural study of the complex eEF2-PE,
+eEF2 mainly bound to 486e493, 576e580, and Arg-412 of PE.33
+When the HDX heat map and these eEF2 binding interfaces were
+superimposed on the crystal structure of PE in our study (Fig. 5), it
+became obvious that the eEF2 binding interface completely overlapped with the four HDX-deﬁned regions 270e280, 301e315,
+334e362, and 428e455 (407e417, 438e452, 471e499, and
+565e592 in PE, see Supplementary Fig. S4 for sequence alignment
+of PE and PE38). Furthermore, ﬁve of nine residues that constructed
+the NAD binding interface were also located in these HDX-deﬁned
+regions (Fig. 5b).34 All of these results suggest that the conformational changes resulting from Asn-358 deamidation disrupted
+binding of moxetumomab pasudotox to eEF2 and NAD, which led to
+loss of PE38-mediated cell-killing biological activity.
+This proposed mechanism is supported by observations from
+further biological characterization of the IEC pre-peak fraction
+(Table 2). The target binding results indicate that the IEC pre-peak
+material is capable of binding to the soluble CD22 with an afﬁnity
+similar to that of the main peak, indicating that deamidation of
+PE38 at residue Asn-358 does not have an impact on binding to the
+CD22. Kinetic imaging analysis was used to determine whether the
+moxetumomab pasudotox IEC pre-peak material was internalized
+into B-lymphoma cells. Quantitative assessment of kinetic images
+of the cell membrane and cytoplasm over time demonstrated the
+internalization of moxetumomab pasudotox into the cytoplasm.
+
+
+X. Lu et al. / Journal of Pharmaceutical Sciences 109 (2020) 2676-2683
+
+The IEC pre-peak material was internalized into the cells with kinetics similar to those of the moxetumomab pasudotox starting
+material (Supplementary Fig. S5). The ADP ribosylation activity of
+moxetumomab pasudotox was assessed by using an in vitro luciferase translation assay. No inhibition of the luciferase mRNA
+translation was observed for IEC pre-peak material, whereas the
+moxetumomab pasudotox starting material inhibited the luciferase
+mRNA translation in a dose-dependent manner (Fig. 6). These results suggest that the IEC pre-peak material had dramatically
+decreased activity to induce the ADP ribosylation of eEF2, as indicated by the changes on the catalyst domain of PE38, and therefore
+caused the loss of cell-killing activity.
+The correlation of IEC pre-peak levels with relative potency by
+apoptosis bioassay were linearly plotted as described in a prior
+study,30 but the ratio of the percent increase in deamidation to the
+percent decrease in relative potency was not 1:1. A spiking study
+was therefore carried out in which various ratios of puriﬁed IEC
+pre-peak to main peak were tested for relative potency. The correlation between IEC pre-peak to potency was nonlinear (Fig. 7),
+indicating that the IEC pre-peak material was not only inactive but
+also appeared to competitively inhibit the biological activity of
+moxetumomab pasudotox. The relationship between the IEC prepeak and relative potency can been expressed as
+
+y ¼ að1  xÞ  ð1  bxÞ
+where x is percent pre-peak, y is percent relative potency, a is the
+relative potency of the pure main peak (percent pre-peak is 0), and
+b is the factor of competitive inhibition. In this case, b is approximately 0.55. With an understanding of the correlation between
+pre-peak and relative potency, an appropriate speciﬁcation can be
+set for the pre-peak to ensure drug efﬁcacy and safety.
+Interestingly, the Asn-358 deamidation level did not change
+during the forced degradation study at high pH. The crystalline
+structure of PE indicates that Asn-358 (Asn-495 in PE) is buried, so
+Asn-358 deamidation can occur only during the refolding step,
+when the molecule is exposed to high pH and denaturing conditions. The deamidated molecule folded incorrectly. With a clear
+understanding of the structural impact of the deamidation, process
+control can be achieved by optimizing the refolding conditions and
+the puriﬁcation process to consistently produce high-quality
+product.
+Conclusions
+In this study, we report a conformational change caused by a
+single Asn deamidation based on DSC and HDX-MS data. Our results
+provide an explanation for how Asn-358 deamidation impacted the
+biological activity of moxetumomab pasudotox and why the deamidated variant eluted as an early peak in anion exchange chromatography. Importantly, our results indicate that residue Asn-358
+is enveloped once the protein is folded and thus will not change
+during storage conditions. With a clear understanding of the
+structure-function relationship, the level of Asn-358 deamidation
+variant can be minimized and controlled consistently in the current
+process for producing clinical and commercial supplies.
+Acknowledgments
+We acknowledge Timothy Pabst and Thomas Linke for providing
+the moxetumomab pasudotox material, LeeAnn Machiesky and
+Erika Farmer for biological activity testing, and Irma Vainshtein for
+the internalization assay. We thank Ben Niu and Xiaoyu Chen for
+reviewing and editing the manuscript. Editorial support was provided by Deborah Shuman. (All are employees of AstraZeneca.)
+
+Appendix A. Supplementary Data
+Supplementary data to this article can be found online at
+https://doi.org/10.1016/j.xphs.2020.06.002.
+References
+1. Kinch MS, Griesenauer RH. 2017 in review: FDA approvals of new molecular
+entities. Drug Discov Today. 2018;23(8):1469-1473.
+2. Leader B, Baca QJ, Golan DE. Protein therapeutics: a summary and pharmacological classiﬁcation. Nat Rev Drug Discov. 2008;7(1):21-39.
+3. Jenkins N. Modiﬁcations of therapeutic proteins: challenges and prospects.
+Cytotechnology. 2007;53(1-3):121-125.
+4. Manning MC, Chou DK, Murphy BM, Payne RW, Katayama DS. Stability of
+protein pharmaceuticals: an update. Pharm Res. 2010;27(4):544-575.
+5. Capasso S, Salvadori S. Effect of the three-dimensional structure on the deamidation reaction of ribonuclease A. J Pept Res. 1999;54(5):377-382.
+6. Capasso S, Mazzarella L, Sica F, Zagari A. Deamidation via cyclic imide in
+asparaginyl peptides. Pept Res. 1989;2(2):195-200.
+7. Capasso S, Mazzarella L, Zagari A. Deamidation via cyclic imide of asparaginyl
+peptides: dependence on salts, buffers and organic solvents. Pept Res.
+1991;4(4):234-238.
+8. Shire SJ. Stability characterization and formulation development of recombinant human deoxyribonuclease I (Pulmozyme [dornase alpha]). Pharm Biotechnol. 1996;9:393-426.
+9. Alam ME, Barnett GV, Slaney TR, Starr CG, Das TK, Tessier PM. Deamidation can
+compromise antibody colloidal stability and enhance aggregation in a pHdependent manner. Mol Pharm. 2019;16(5):1939-1949.
+10. Berkowitz SA, Engen JR, Mazzeo JR, Jones GB. Analytical tools for characterizing
+biopharmaceuticals and the implications for biosimilars. Nat Rev Drug Discov.
+2012;11(7):527-540.
+11. Wang H, Shu Q, Frieden C, Gross ML. Deamidation slows Curli amyloid-protein
+aggregation. Biochemistry. 2017;56(23):2865-2872.
+12. Oganesyan I, Lento C, Wilson DJ. Contemporary hydrogen deuterium exchange
+mass spectrometry. Methods. 2018;144:27-42.
+13. Deng B, Lento C, Wilson DJ. Hydrogen deuterium exchange mass spectrometry
+in biopharmaceutical discovery and development: a review. Anal Chim Acta.
+2016;940:8-20.
+14. Asomugha CO, Gupta R, Srivastava OP. Structural and functional roles of deamidation of N146 and/or truncation of NH2- or COOH-termini in human aBcrystallin. Mol Vis. 2011;17:2407-2420.
+15. Barnett GV, Balakrishnan G, Chennamsetty N, et al. Probing the tryptophan
+environment in therapeutic proteins: implications for higher-order structure
+on tryptophan oxidation. J Pharm Sci. 2019;108(6):1944-1952.
+16. Gupta R, Srivastava OP. Deamidation affects structural and functional properties of human alphaA-crystallin and its oligomerization with alphaB-crystallin.
+J Biol Chem. 2004;279(43):44258-44269.
+17. Yan Y, Wei H, Fu Y, et al. Isomerization and oxidation in the complementaritydetermining regions of a monoclonal antibody: a study of the modiﬁcationstructure-function correlations by hydrogen-deuterium exchange mass spectrometry. Anal Chem. 2016;88(4):2041-2050.
+18. Hageman T, Wei H, Kuehne P, et al. Impact of tryptophan oxidation in
+complementarity-determining regions of two monoclonal antibodies on
+structure-function characterized by hydrogen-deuterium exchange mass
+spectrometry and surface plasmon resonance. Pharm Res. 2018;36(1):24.
+19. Zhang A, Hu P, MacGregor P, et al. Understanding the conformational impact of
+chemical modiﬁcations on monoclonal antibodies with diverse sequence
+variation using hydrogen/deuterium exchange mass spectrometry and structural modeling. Anal Chem. 2014;86(7):3468-3475.
+20. Noguchi S, Satow Y, Uchida T, Sasaki C, Matsuzaki T. Crystal structure of Ustilago sphaerogena ribonuclease U2 at 1.8 A resolution. Biochemistry.
+1995;34(47):15583-15591.
+21. Noguchi S, Miyawaki K, Satow Y. Succinimide and isoaspartate residues in the
+crystal structures of hen egg-white lysozyme complexed with tri-N-acetylchitotriose. J Mol Biol. 1998;278(1):231-238.
+22. Esposito L, Vitagliano L, Sica F, Sorrentino G, Zagari A, Mazzarella L. The ultrahigh resolution crystal structure of ribonuclease A containing an isoaspartyl
+residue: hydration and stereochemical analysis. J Mol Biol. 2000;297(3):713732.
+23. Rester U, Moser M, Huber R, Bode W, L-Isoaspartate. 115 of porcine betatrypsin promotes crystallization of its complex with bdellastasin. Acta Crystallogr D Biol Crystallogr. 2000;56(Pt 5):581-588.
+24. Eschenburg S, Schonbrunn E. Comparative X-ray analysis of the un-liganded
+fosfomycin-target murA. Proteins. 2000;40(2):290-298.
+25. Noguchi S. Structural changes induced by the deamidation and isomerization
+of asparagine revealed by the crystal structure of Ustilago sphaerogena ribonuclease U2B. Biopolymers. 2010;93(11):1003-1010.
+26. Mallagaray A, Creutznacher R, Dulfer J, et al. A post-translational modiﬁcation
+of human norovirus capsid protein attenuates glycan binding. Nat Commun.
+2019;10(1):1320.
+27. Kreitman RJ, Pastan I. Antibody fusion proteins: anti-CD22 recombinant
+immunotoxin moxetumomab pasudotox. Clin Cancer Res. 2011;17(20):63986405.
+
+X. Lu et al. / Journal of Pharmaceutical Sciences 109 (2020) 2676-2683
+28. Dhillon S. Moxetumomab pasudotox: ﬁrst global approval. Drugs. 2018;78(16):
+1763-1767.
+29. Mohseni M, Uludag H, Brandwein JM. Advances in biology of acute lymphoblastic leukemia (ALL) and therapeutic implications. Am J Blood Res. 2018;8(4):
+29-56.
+30. Linke T, Feng J, Yu K, et al. Process scale separation of an anti-CD22 immunotoxin charge variant. J Chromatogr A. 2012;1260:120-125.
+31. Linke T, Aspelund MT, Thompson C, et al. Development and scale-up of a
+commercial fed batch refolding process for an anti-CD22 two chain immunotoxin. Biotechnol Prog. 2014;30(6):1380-1389.
+
+2683
+
+32. Ionescu RM, Vlasak J, Price C, Kirchmeier M. Contribution of variable domains
+to the stability of humanized IgG1 monoclonal antibodies. J Pharm Sci.
+2008;97(4):1414-1426.
+33. Jorgensen R, Merrill AR, Yates SP, et al. Exotoxin A-eEF2 complex structure
+indicates ADP ribosylation by ribosome mimicry. Nature. 2005;436(7053):979984.
+34. Li M, Dyda F, Benhar I, Pastan I, Davies DR. Crystal structure of the catalytic
+domain of Pseudomonas exotoxin A complexed with a nicotinamide adenine
+dinucleotide analog: implications for the activation process and for ADP
+ribosylation. Proc Natl Acad Sci U S A. 1996;93(14):6902-6906.
+end

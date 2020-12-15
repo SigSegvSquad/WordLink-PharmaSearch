@@ -1,0 +1,701 @@
+International Journal of Pharmaceutics: X 1 (2019) 100012
+
+Contents lists available at ScienceDirect
+
+International Journal of Pharmaceutics: X
+journal homepage: www.journals.elsevier.com/international-journal-of-pharmaceutics-x
+
+Development of muco-adhesive orally disintegrating tablets containing
+tamarind gum-coated tea powders for oral care
+
+T
+
+Rika Kiniwaa, Masaki Miyakeb, Shin-ichiro Kimuraa, Shigeru Itaia, Hiromu Kondoa,
+⁎
+Yasunori Iwaoa,
+a
+
+Laboratory of Pharmaceutical Engineering and Drug Delivery Science, School of Pharmaceutical Sciences, University of Shizuoka, 52-1 Yada, Suruga-ku, Shizuoka 4228526, Japan
+b
+Laboratory of Microbiology and Immunology, School of Pharmaceutical Sciences, University of Shizuoka, 52-1 Yada, Suruga-ku, Shizuoka 422-8526, Japan
+
+ARTICLE INFO
+
+ABSTRACT
+
+Keywords:
+Oral care
+Orally disintegrating tablet
+Tea powder
+Microwave
+Adhesive property
+Tamarind gum
+
+The aim of this study was to design and evaluate muco-adhesive orally disintegrating tablets manufactured by
+microwave irradiation and containing polysaccharide. We prepared orally disintegrating tea tablets (ODTTs)
+containing a 1 w/w% mass fraction of one of ﬁve polysaccharides (gum arabic, carrageenan, guar gum, tamarind
+gum, or pectin) and evaluated the swelling degree, tablet hardness, friability, disintegration time, and adhesive
+properties. All tablets had a swelling degree of about 1 mm, a hardness of over 13 N, and a friability degree
+of < 1%. Tablets containing gum arabic and tamarind gum had disintegration times of 30 s or less and satisﬁed
+requirements as orally disintegrating tablets. This could be attributed to their high void contents, which allowed
+for water penetration. The adhesive properties and particle retention ratios were highest in ODTTs containing
+tamarind gum, which was thought to be caused by the rapid disintegration and high viscosity of the tamarind
+gum itself. When we investigated changing the mass fraction of tamarind gum, we found 1 w/w% was most
+suitable for rapid disintegration and high adhesiveness. The ODTTs containing 1 w/w% tamarind gum showed
+signiﬁcant growth inhibition towards Streptococcus mutans. Therefore, microwave irradiation technology and
+addition of tamarind gum could be used to manufacture muco-adhesive orally disintegrating tablets for oral care.
+
+1. Introduction
+In the modern era, the pneumonia death rate has been increasing
+with population aging and super-aging societies (Miyashita and
+Yamauchi, 2018). Over 90% of pneumonia deaths are of older adults
+aged 65 years or older, and about 70% of older adults suﬀering from
+pneumonia have aspiration pneumonia (Teramoto et al., 2008; Baine
+et al., 2001). Aspiration pneumonia is caused by bacteria or other
+contaminants that enter the trachea because of decreased swallowing
+function (i.e., deglutition reﬂex and cough reﬂex) (Manabe et al.,
+2015), which is common in the older adult (Ebihara et al., 2016; Perry
+et al., 2001; Li et al., 2015). Therefore, it is important to keep the oral
+cavities of older adults clean to prevent aspiration pneumonia. In addition, eﬀective oral care can prevent intraoral diseases (e.g., periodontal disease and dental caries) and systemic diseases such as angina,
+brain infarction, and diabetes that can be induced by intraoral disease.
+Oral care preparations can improve quality of life for older adults
+
+(Langmore et al., 1998; Teramoto et al., 2015), especially if the preparations are easily handled and can be taken even by bedridden patients.
+Methods used for oral care include tooth brushing, mouthwashes,
+and oral care supplements to control plaque derived from bacteria. In
+dental caries, some Streptococcus mutans (S. mutans) produce insoluble
+glucan, which various microorganisms adhere to and then generate acid
+and dissolve the tooth enamel (Leme et al., 2006; Forssten et al., 2010).
+To prevent dental caries, chlorhexidine has been used to decrease
+plaque accumulation (Charles et al., 2004). However, some side eﬀects,
+such as tooth coloration, tartar formation in gingival crevices, and taste
+disorders, have been reported when it is used for more than 2 weeks.
+Consequently, it is best avoid long-term use of chlorhexidine where
+possible (James et al., 2017). As other candidates, polyphenols such as
+tannins, catechin, quercetin, and anthocyanin, which are biological
+components of certain plants and very safe, have been reported to inhibit the formation of glucosyltransferase and bioﬁlms involved in the
+
+Abbreviations: ECG, Epicatechin gallate; EGC, Epigallocatechin; EGCG, Epigallocatechin gallate; GCG, Gallocatechin gallate; ODTs, Orally disintegrating tablets;
+ODTTs, Orally disintegrating tea tablets; SEM, Scanning electron microscope
+⁎
+Corresponding author.
+E-mail address: yasuiwao@u-shizuoka-ken.ac.jp (Y. Iwao).
+https://doi.org/10.1016/j.ijpx.2019.100012
+Received 18 December 2018; Received in revised form 7 March 2019; Accepted 3 April 2019
+Available online 04 April 2019
+2590-1567/ © 2019 The Authors. Published by Elsevier B.V. This is an open access article under the CC BY license
+(http://creativecommons.org/licenses/BY/4.0/).
+
+International Journal of Pharmaceutics: X 1 (2019) 100012
+
+R. Kiniwa, et al.
+
+ODTTs, we selected thermally stable polysaccharides (gum arabic,
+carrageenan, guar gum, tamarind gum, and pectin). We determined the
+eﬀects of these polysaccharides on the muco-adhesive properties of the
+tablets for potential use as oral care preparations.
+
+production of insoluble glucan (Ferrazzano et al., 2009; Percival et al.,
+2006; Yamanaka-Okada et al., 2008). Polyphenols have not only antibacterial activity but also antioxidant and anti-inﬂammatory activities
+(Almajano et al., 2008; Jalil and Ismail, 2008; Cavet et al., 2011). In
+diseases in the oral cavity such as dental caries and periodontal disease,
+inﬂammation occurs as a host immune response towards bacteria. The
+use of polyphenols with antioxidant and anti-inﬂammatory activities
+can reduce inﬂammation caused by oral bacteria and keep the inside of
+the mouth clean. Tea leaves contain many compounds with antimicrobial, antioxidant, and anti-inﬂammatory activities, and are a
+candidate for preparation of oral care products (Graham, 1992).
+We recently developed a novel method for facile preparation of
+orally disintegrating tablets (ODTs) by microwave irradiation of wetmolded tablets containing mannitol, sugar alcohol, a polymeric disintegrant, and water absorbent materials (Sano et al., 2011; Sano et al.,
+2013; Sano et al., 2014). ODTs are designed to dissolve in a small
+amount of water in the oral cavity to enable patients with dysphagia or
+restricted water intake to swallow tablets. They represent one of the
+most patient-friendly dosage forms (Wade et al., 2012; Pﬁster and
+Ghosh, 2005). In our methodology, the microwave irradiation led to the
+formation of water vapor, which resulted in the expansion of the pores
+inside the tablets and the formation of new void networks. These new
+void networks allowed for the water to penetrate into the tablet more
+eﬃciently and resulted in a decrease in their disintegration time. In
+addition, the formation of water vapor during the microwave irradiation also led to the dissolution/precipitation of some of the mannitol
+particles, which resulted in the formation of new solid bridges. The
+formation of new solid bridges between the mannitol particles led to an
+increase in the hardness of the tablets. Taken together, this new method
+therefore makes it possible to prepare ODTs with opposing physicochemical properties such as rapid disintegration time and enhanced
+hardness. In addition, we developed orally disintegrating tea tablets
+(ODTTs) containing powdered tea leaves. These ODTTs disintegrated
+within the oral cavity within 30 s (Tanaka et al., 2016). In a preliminary
+evaluation of antibacterial activity against S. mutans, an ODTT extract
+greatly inhibited bacterial growth compared with artiﬁcial saliva. As
+the disintegrated particles are kept in the oral cavity for a long time, the
+antimicrobial action is sustained, and this should increase the therapeutic eﬀect for oral care. If we could give ODTTs muco-adhesive
+properties, the powdered tea that disintegrates in the oral cavity would
+adhere to the oral mucosa and exhibit sustained antibacterial action
+against oral microbial ﬂora and provide eﬃcient oral care (Fig. 1).
+In the present study, we tried to make muco-adhesive orally disintegrating tea tablets by adding polysaccharides. Polysaccharides contain many connected monosaccharides and have diﬀerent types of
+bonding and molecular weights (Wüstenberg, 2015). Polysaccharides
+contain hydroxyl and carboxyl groups, and their thickening or gelling
+action is determined by the type and concentration of these groups
+(Dickinson, 2003). They are used in a wide range of applications in
+foods, cosmetics, oral care products, and medicines (Avachat et al.,
+2011; Nayak et al., 2014; Datta and Bandyopadhyay, 2006). Mucin, the
+main component of oral mucosa, reportedly strengthens interactions
+with hydrogen bond donors in the solute, and polysaccharides containing many hydroxyl and carboxyl groups interact with mucin (Caron
+et al., 2015). This allows powdered tea to attach to the oral cavity via
+polysaccharides. Because we used microwave irradiation to prepare the
+
+2. Materials and methods
+2.1. Materials
+Oolong tea leaves (Utonrousousuisen) were purchased from the
+Banboo Cakan Chinese tea ceremony (Kochi, Japan). D(−)-Mannitol
+was purchased in its β crystalline form from Merck Ltd (Tokyo, Japan).
+Low-substituted hydroxypropyl cellulose (L-HPC) (mean particle size,
+45 µm; hydroxyepoxy group, NBD-020) was supplied by Shin-etsu
+Chemical Co., Ltd (Tokyo, Japan). Polyvinylpyrrolidone (PVP)
+(Kollidon® 25) was obtained from BASF Japan (Tokyo, Japan). Gum
+arabic (Gum arabic HP powder), carrageenan (Sheepy gum® FA), guar
+gum (Guar pack® PF-20), tamarind gum (Glyroid® 6C), and pectin (H&F
+pectin classic AF701) were purchased from DSP Gokyo Food and
+Chemical (Osaka, Japan). Yeast nitrogen base without amino acids was
+purchased from Nippon Becton Dickinson Co., Ltd (Tokyo, Japan).
+Glucose, ammonium sulfate, polypeptone S, and monopotassium
+phosphate were purchased from Wako Pure Chemical Industries, Ltd
+(Osaka, Japan). Brain heart infusion was purchased from Nissui
+Pharmaceutical Co., Ltd. (Tokyo, Japan). All other reagents used were
+of the highest grade available from commercial sources.
+2.2. Design of muco-adhesive tablet formulations containing
+polysaccharide-coated tea powders
+2.2.1. Formulation of ODTTs containing polysaccharides
+ODTTs were prepared using an established method with a slight
+modiﬁcation (Tanaka et al., 2016). Oolong tea leaves were ground
+using a standard tea grinder (Teaﬁne Mutow, Shizuoka, Japan). The
+resulting powder was sieved through a 75-µm screen and 32 w/w% of
+the powdered tea was placed in a mortar. A 1.68 M Na2HPO4 aqueous
+solution (40 w/w% mass fraction of the powdered tea mass) for use as
+an adsorption solvent was then dropped into the mortar using a pipette,
+and the resulting mixture was stirred using a pestle to obtain a homogenous mixture. Polysaccharide (1 w/w% mass fraction of the total
+mass of mixed powder) was added and it adsorbed onto and coated the
+powdered tea surface. The ODTT formulations are summarized in
+Table 1. D-Mannitol (55 w/w% or 56 w/w%), L-HPC (10 w/w%), and
+PVP (2 w/w%) were then added, and the resulting mixture was blended
+with the pestle. An additional portion of distilled water (45 w/w% mass
+fraction of the total mass of mixed powder) was then added to the
+mortar as a granulation solvent, and the resulting mixture was granulated for approximately 1 min. A portion (60 mg) of the wet granules
+was compressed using a compression test apparatus (MPC-100, Okada
+Seiko, Tokyo, Japan) ﬁtted with several punches (ø 5 mm). Considering
+the further development of tablets which are easily handled and can be
+taken even by bedridden patients, smaller sized tablet (ø 5 mm) was
+selected. A compression force of 0.43 kN was used for tablet preparation. The wet molded tablets were heated in a microwave oven (NEEH226, Panasonic, Osaka, Japan) at 500 W, which gave a reaction
+temperature of 140 °C. After microwave treatment, the tablets were
+Fig. 1. Illustration of the interaction between oral
+mucosa and powdered tea after tablet disintegration.
+
+2
+
+International Journal of Pharmaceutics: X 1 (2019) 100012
+
+R. Kiniwa, et al.
+
+were repeated three times and the average values were calculated.
+
+Table 1
+ODTT formulations containing polysaccharides.
+
+2.3.4. Disintegration time
+The disintegration time was measured using an ODT tester (ODmate, Imotoseisakusyo, Kyoto, Japan). The bottom surface on which the
+tablets were placed was 4 mm mesh. The tablet was placed in the center
+of the mesh, and the tester loading tool was placed on the top of the
+tablet. An aliquot (10 mL) of artiﬁcial saliva, which contained distilled
+water (1 L), NaCl (1.44 g), KCl (1.47 g), and Tween 80 (3 g) and was at
+37 °C, was placed in a beaker and stirred at 1000 rpm. The tablet
+sandwiched between the loading tool and the bottom surface was
+lowered in the beaker to the predetermined position. The disintegration
+time was recorded as the period between when the tester arm was
+lowered to the predetermined position and when the loading tool touched the bottom of the mesh. The start and end points of each measurement were recorded by a photo microsensor. The maximum disintegration time for these experiments was set to 120 s. All of the
+measurements were repeated three times and the average values were
+calculated.
+
+dried in a thermostatic chamber at 80 °C for 24 h.
+2.2.2. Formulation of ODTTs with various tamarind gum mass fractions
+We formulated ODTTs with various tamarind gum mass fractions
+(Table 2). The mass fractions of powdered tea, L-HPC, and PVP did not
+change; therefore, 32 w/w% of the powdered tea, 10 w/w% of L-HPC
+and 2 w/w% of PVP were used. The preparation method was similar to
+that described in Section 2.2.1.
+
+2.3.5. Adhesive property of the tablets
+The adhesive properties of the tablets were measured using a tabletype tensile compression testing machine (Force Tester MCT-2150, A&D
+Co. Ltd., Tokyo, Japan) (Ikeuchi-Takahashi et al., 2013). The tablet to
+be analyzed was ﬁxed with double-sided tape to the movable adapter.
+Then, a mucin layer (10 w/v%) was prepared to the ﬁxed adapter.
+Artiﬁcial saliva (50 μL) was placed on the mucin layer, and the movable
+adapter with tablet was placed in contact with the mucin layer. After
+conﬁrming that the tablet was in contact with the artiﬁcial saliva and
+mucin layer and maintaining for 20 s, the movable adapter was raised
+(Supplemental Fig. 1A). The load at that time was measured and the
+adhesiveness was calculated from the load and the tablet area using Eq.
+(2). All of these measurements were repeated three times and the
+average values were calculated.
+
+2.3. Characterization of ODTTs
+2.3.1. Swelling degree
+The degree of swelling was calculation according to Eq. (1).
+
+Swelling degree = Thickness Treated − ThicknessUntreated ,
+
+(1)
+
+where ThicknessTreated and ThicknessUntreated are the thickness of the
+microwave -treated and untreated tablets, respectively. The thickness of
+each tablet was measured with a micrometer with a precision of
+0.01 mm (CD-20, Mitsutoyo Corporation, Kanagawa, Japan). Three tablets were randomly selected for thickness measurements and the
+average values were used for subsequent calculations.
+
+Adhesiveness =
+
+2.3.3. Friability
+The tablet friability was determined using a tablet friability tester
+(Friabilator, Toyama Sangyo, Osaka, Japan) in accordance with the
+procedure described in the seventeenth edition of the Japanese
+Pharmacopoeia (Osei-Yeboah and Sun, 2015). All the measurements
+
+Particle retention ratio
+Before drop treatment (g ) − After drop treatment (g )
+=
+Before drop treatment (g )
+
+2.3.6. Particle retention ratio
+Each tablet was pulverized with a mortar and pestle, and 100 mg of
+the pulverized powders which have same particle size and particle size
+distribution analyzed by a laser diﬀraction particle size analyzer
+(Mastersizer2000; Marvern, Worcestershire, UK)(data not shown), was
+suspended in 1 mL of artiﬁcial saliva. For analysis, a mucin layer (10 w/
+v%) was prepared on a glass slide. The glass slide was inclined at 15°
+and the suspension was dropped on it at a rate of 1 mL/min
+(Supplemental Fig. 1B). The weights of the suspension before and after
+the test were used to calculate particle retention ratio on the mucin
+layer (Eq. (3)). All of these measurements were repeated three times
+and the average values were calculated.
+
+2.3.2. Tablet hardness
+The tablet fracture strength was deﬁned as the force required to
+break the tablet by radial compression. The tablet hardness was determined using a tablet hardness tester (PC30, Okada Seiko, Tokyo,
+Japan). All of these measurements were repeated three times and the
+average values were calculated.
+
+0.5
+
+Load (N )
+Tablet area (m2)
+
+(3)
+
+2.3.7. Tablet surface
+The tablet surface was observed using a scanning electron microscope (Miniscope®TM3030, Hitachi High-Technologies Co., Tokyo,
+Japan).
+2.3.8. Polysaccharide viscosity
+The viscosity was measured using a viscometer (RV DV 2 T, EKOKO
+SEIKI Co., Ltd., Tokyo, Japan) after dissolving 10 mg of each polysaccharide (gum arabic, carrageenan, guar gum, tamarind gum, or
+pectin) in 1 mL of 1.68 M aqueous Na2HPO4 with stirring for 1 min at
+3
+
+International Journal of Pharmaceutics: X 1 (2019) 100012
+
+R. Kiniwa, et al.
+
+Fig. 2. Tablet properties of orally disintegrating tea tablets manufactured using polysaccharides. (A) Swelling degree, (B) hardness, (C) friability, (D) disintegration
+time, (E) adhesive property with tablets, and (F) particle retention ratio. *p < 0.05 and **p < 0.01 versus the tablets without polysaccharide (F1). Each column
+represents the mean ± S.D. (n = 3).
+
+Shimadzu, Kyoto, Japan) to determine the amounts of epigallocatechin
+gallate (EGCG). A mixture of methanol (solvent A) and puriﬁed water
+(solvent B), which was deaerated ultrasonically for more than 10 min in
+advance, was used as the mobile phase with a ﬂow rate of 1.0 mL/min.
+Quantiﬁcation was carried out on TSK ODS-80TM (150 mm × 4.6 mm,
+5 µm). The column temperature was 40 °C and the sample volume was
+5 µL. The detector was set at 280 nm. For the elution program, the
+proportion of solvent A was increased from 10% to 50% from 0 to
+30 min.
+In addition, to completely elute the EGCG from the oolong tea
+leaves, further incubation (100 rpm, 1 h) was performed after dissolution test and the total amount of EGCG was determined. The ratio of
+EGCG released into the medium (%) was quantitatively obtained by
+dividing by the total amount of EGCG.
+
+12 rpm. Measurements were carried out at 25 °C and 80 °C. All of these
+measurements were repeated three times and the average values were
+calculated.
+2.3.9. Dissolution of epigallocatechin gallate
+A dissolution test was performed for polysaccharide-free tablets
+without microwave (F1-without microwave), ODTTs with microwave
+(F1), tablets containing 1 w/w% tamarind gum without microwave (F5without microwave), and ODTTs containing 1 w/w% (mass fraction)
+tamarind gum with microwave (F5) using the paddle apparatus. Each
+test was performed by placing 10 tablets in each vessel, which was ﬁlled
+with 150 mL of pH 6.8 phosphate buﬀer solution and kept at
+37 ± 0.5 °C. The paddle speed was adjusted to 50 rpm. Samples were
+taken after 5, 10 min, 20 min, 30 min, 1 h, and 2 h. The samples were
+ﬁltered through a ﬁlter with a pore size of 0.20 µm and then applied for
+high-performance liquid chromatography (HPLC) (LC-2010CHT,
+4
+
+International Journal of Pharmaceutics: X 1 (2019) 100012
+
+R. Kiniwa, et al.
+
+Fig. 3. Scanning electron micrographs of the surfaces of orally disintegrating tea tablets manufactured using polysaccharides. Magniﬁcation 600× (F1, F2, F3, F4,
+F5, and F6). Yellow Triangles indicated the void with a diameter of over 3 μm. (For interpretation of the references to colour in this ﬁgure legend, the reader is
+referred to the web version of this article.)
+
+of the resulting mixture was adjusted to 7.1 with a sodium hydroxide
+solution. This mixture was used as the catechin medium. The catechin
+medium (8 mL), test solution (1 mL), and S. mutans (270 µL) were cultured for 24 h in brain heart infusion in a boiling tube. Thereafter,
+cultivation was carried out at 37 °C. The turbidity at 651.5 nm was
+measured at 0, 3, 5, and 7 h using a spectrophotometer (UV-mini-1240,
+Shimadzu Co.) and used for determination of growth inhibition. The
+sample containing artiﬁcial saliva was designated as the control for
+comparison purposes. All of these measurements were repeated three
+times and the average values were calculated.
+
+2.4. Antibacterial eﬀect
+2.4.1. Preparation of test solutions
+Five polysaccharide-free tablets without microwave (F1-without
+microwave), Five ODTTs with microwave (F1), Five tablets containing
+1 w/w% tamarind gum without microwave (F5-without microwave),
+and Five ODTTs containing 1 w/w% tamarind gum with microwave
+(F5) were incubated in separate 10-mL aliquots of artiﬁcial saliva for
+1 h at 37 °C. After 10 min of sonication, centrifugation was performed
+for 20 min. Each supernatant was ﬁltered through a 0.20-μm sterilizing
+ﬁlter to prepare a test solution.
+
+2.5. Statistical analysis
+
+2.4.2. Quantitative analysis of catechins
+Quantiﬁcation of catechins (epicatechin gallate (ECG), gallocatechin gallate (GCG), epigallocatechin (EGC), and EGCG) in the prepared tablets was carried out by HPLC (LC-2010CHT) in the same
+manner described in Section 2.3.9.
+
+All date were expressed as the mean ± standard deviation. In tablets properties, the statistical signiﬁcance of diﬀerences between
+ODTTs with microwave (F1) and ODTTs with each polysaccharide, as
+well as between ODTTs containing 1 w/w% tamarind gum with microwave (F5) and ODTTs containing 0.5, 3 and 5 w/w% tamarind gum
+with microwave was determined using ANOVA. P-values < 0.05 were
+considered to be statistically signiﬁcant.
+
+2.4.3. Evaluation of the antibacterial eﬀect
+Yeast nitrogen base without amino acids (4 g), glucose (2.5 g),
+ammonium sulfate (2.5 g) polypeptone S (1 g), monopotassium phosphate (0.5 g), and water (1000 mL) were added to a beaker, and the pH
+5
+
+International Journal of Pharmaceutics: X 1 (2019) 100012
+
+R. Kiniwa, et al.
+
+3. Results and discussion
+
+gum had higher viscosities than other polysaccharides at 25 °C. We
+assumed that this was caused by aggregation of polysaccharide molecules by dehydration of saccharides and alcohols, and by formation of
+higher-order networks by hydrogen bonding of saccharides and alcohols with polysaccharide molecules. From these results, we considered
+that artiﬁcial saliva rapidly inﬁltrated into F5 in the 20 s and the tamarind gum dissolved. The adhesiveness was high in this case because
+tamarind gum strongly bound to mucin via hydrogen bonding. Guar
+gum also had a high viscosity like tamarind gum, but the adhesiveness
+of the tablet containing guar gum was not as high as that of F5. We
+considered that this diﬀerence was caused by the permeability of the
+ODTTs. A small air gap was observed in F4 and it had a disintegration
+time of 120 s (Fig. 3), so the permeability to F4 appeared to be lower
+than that of F5. Therefore, despite the high viscosity, the amount of
+guar gum dissolved was small and the adhesiveness of F4 was lower
+than that of F5. For the particle retention ratio, although bonding between the pulverized tablet particles and the mucin layer was relatively
+high (Fig. 2F), F4 had a disintegration time of 120 s or more.
+In summary, although there were no diﬀerences in the swelling
+degree, hardness, and friability among the formulations, F2 and F5
+quickly disintegrated within 30 s and F5 had high adhesiveness properties and a high particle retention ratio.
+
+3.1. Evaluation of ODTTs containing polysaccharides (1 w/w% mass
+fraction)
+The degree of swelling, hardness, friability, disintegration time,
+adhesiveness, and particle retention ratio results are shown in Fig. 2.
+The degree of swelling did not diﬀer between formulations, and all
+formulations swelled by about 1 mm (Fig. 2A). This suggests that when
+the wet tablet was microwave irradiated, water vapor inside the tablet
+evaporated, and the tablet swelled. Suﬃcient swelling should shorten
+the disintegration time. The results of our previous study showed that
+swelling of over 0.2 mm was suﬃcient for shortening the disintegration
+time of ODTs (Sano et al., 2011). All formulations had hardness values
+of over 13 N (Fig. 2B), which is suﬃcient hardness for a 5-mm diameter
+tablet (Tanaka et al., 2016). This is because the excipient D-mannitol
+melts at 168 °C and forms strong particle-to-particle bonds during microwave irradiation. In addition, because of the high hardness, the
+friability was < 1% in all formulations (Fig. 2C). However, the disintegration times were more than 120 s for F3, F4 and F6, which contained carrageenan, guar gum, and pectin, respectively (Fig. 2D). By
+comparison, F1 and F2, which contained gum arabic, and F5, which
+contained with tamarind gum, had disintegration times of < 30 s. According to the Food and Drug Administration, ODTs should disintegrate
+within 30 s (FDA, 2008). The disintegration times of F1, F2, and F5
+satisﬁed this requirement.
+We also observed the surfaces of the tablets by SEM (Fig. 3). Many
+small voids (diameter: over 3 μm) were observed in F1, F2, and F5,
+whereas few voids were observed in F3, F4, and F6. Generally, as the
+number of voids increases, the water permeation to the interior of the
+tablet increases and the disintegration time decreases (Kondo et al.,
+2012). By contrast, as the number of voids decreases, the water permeation decreases and the disintegration time increases. Therefore, the
+disintegration times indicate that F1, F2, and F5 have many voids and
+good water permeation.
+Among the tablets, F5 showed the highest adhesiveness with the
+mucin layer (Fig. 2E and F). The high adhesiveness of tamarind gum
+might be caused by its viscosity. We measured the viscosities of the
+polysaccharides at 25 °C and 80 °C (Fig. 4). Guar gum and tamarind
+
+3.2. Eﬀect of the tamarind gum concentration on physicochemical
+properties of the ODTTs
+Our results showed that ODTTs containing tamarind gum had good
+hardness, rapid disintegration, and high adhesiveness. Therefore, we
+investigated the eﬀect of the tamarind gum mass fraction on physicochemical properties of the ODTTs. We measured the degree of swelling,
+hardness, friability, disintegration time, adhesiveness, and particle retention ratio for tablets with tamarind gum mass fractions of 0.5, 1, 3,
+and 5 w/w% (Fig. 5). For ODTTs with tamarind gum mass fractions of
+0.5 and 1 w/w%, the degree of swelling was about 1 mm, but as the
+tamarind gum mass fraction increased to 3 and 5 w/w%, the degree of
+swelling decreased to about 0.5 mm (Fig. 5A). This is because a gel was
+formed in the tablet as the proportion of tamarind gum increased, and
+even though microwave irradiation was carried out, the water vapor
+could not suﬃciently expand the tablet. The hardness values were over
+13 N in all formulations (Fig. 5B). Because of the high hardness, all
+formulations had friability values of < 1% (Fig. 5C), which suggests
+that the hardness is enough. When the tamarind gum mass fraction was
+0.5 or 1 w/w%, the disintegration time was < 30 s (Fig. 5D); however,
+as the tamarind gum mass fraction increased, the disintegration time
+increased to > 60 s.
+When we observed the tablet surfaces by SEM, many voids were
+observed in ODTTs containing 0.5 and 1 w/w% (mass fraction) tamarind gum, whereas hardly any voids were observed in ODTTs containing 3 and 5 w/w% (mass fraction) tamarind gum (Fig. 6). As discussed above, with an increase in the viscosity of tamarind gum, the
+surface voids would disappear. This indicates that the lack of voids
+prevents water permeation into the tablet and extends the disintegration time.
+The adhesive properties of the tablets increased as the mass fraction
+of tamarind gum increased (Fig. 5E). Because of the increase in the
+tamarind gum mass fraction, the viscosity increased and the bond with
+the mucin layer became stronger. This increased the load and the adhesiveness increased. In addition, as the mass fraction of tamarind gum
+increased, the particle retention ratio increased (Fig. 5F). It is thought
+that as the content of tamarind gum bonded to the mucin layer increased, the adhesiveness increased. Therefore, although an increase in
+the mass fraction of tamarind gum tended to enhance the adhesiveness
+of the tablet, addition of 1 w/w% tamarind gum produced tablets with
+suﬃcient hardness, disintegration, and adhesiveness.
+
+Fig. 4. Viscosities of polysaccharides dissolved in a 1.68 M Na2HPO4 solution.
+(A) 25 °C and (B) 80 °C. *p < 0.05 and **p < 0.01 versus gum arabic. Each
+column represents the mean ± S.D. (n = 3).
+6
+
+International Journal of Pharmaceutics: X 1 (2019) 100012
+
+R. Kiniwa, et al.
+
+Fig. 5. Properties of orally disintegrating tea tablets manufactured using tamarind gum. (A) Swelling degree, (B) hardness, (C) friability, (D) disintegration time, (E)
+adhesiveness, and (F) particle retention ratio. *p < 0.05 and **p < 0.01 versus the tablets with 1 w/w% tamarind gum. Each column represents the mean ± S.D.
+(n = 3).
+
+microwave -treated tablets (F1 and F5) showed rapid dissolution
+compared with tablets prepared without microwave. This was because
+the powdered tea became friable at the high temperature induced by
+microwave irradiation, and this increased the EGCG dissolution.
+
+3.3. Evaluation of the dissolution behavior of EGCG
+We studied the dissolution behavior of EGCG, which is an active
+compound in tea leaves (Fig. 7). We examined its dissolution using
+ODTTs containing 1 w/w% (mass fraction) tamarind gum and prepared
+with microwave (F5). These tablets showed rapid disintegration and
+high adhesiveness. In addition, we carried out a dissolution test with
+polysaccharide-free tablets without microwave (F1-without microwave), ODTTs with microwave (F1), and tablets containing 1 w/w%
+(mass fraction) tamarind gum without microwave (F5-without microwave). F1 showed the highest dissolution rate until 30 min, and after
+1 h, all tablets showed dissolution rates of almost 90%. Compared with
+F1 and F5, even with the addition of tamarind gum, F5 showed a dissolution rate of 90% or more after 1 h. Therefore, addition of tamarind
+gum hardly aﬀected the dissolution rate of EGCG. In addition,
+
+3.4. Quantitative analysis of catechin
+In addition to the dissolution study of EGCG, we extracted other
+active compounds from the tablets and performed quantitative analyses
+for further antibacterial studies. The quantitative values for all compounds (ECG, GCG, EGC, and EGCG) (Table 3) were lower after microwave treatment than before. This indicates that they were likely
+converted to other compounds by microwave irradiation or decomposed. However, even when tamarind gum was added, fast dissolution
+was observed compared with the tablet without tamarind gum. This
+7
+
+International Journal of Pharmaceutics: X 1 (2019) 100012
+
+R. Kiniwa, et al.
+
+Fig. 6. Scanning electron micrographs of the surfaces of orally disintegrating tea tablets manufactured using tamarind gum. Magniﬁcation 40× (0.5, 1, 3 and 5 w/w
+%).
+
+Fig. 7. Dissolution proﬁle of EGCG from polysaccharide-free ODTTs with/
+without microwave and ODTTs containing 1 w/w% (mass fraction) tamarind
+gum with/without microwave. Each symbol represents the mean ± S.D.
+(n = 3).
+
+suggests that tamarind gum does not aﬀect the active ingredients contents (ECG, GCG, EGC, and EGCG).
+Fig. 8. Evaluation of the antibacterial eﬀects when extracts from tablets were
+treated. *p < 0.01 versus control. Each symbol represents the mean ± S.D.
+(n = 3).
+
+3.5. Evaluation of the antibacterial eﬀect
+Next, we studied the antimicrobial activity against S. mutans
+(Fig. 8). The vertical axis represents the absorbance at 651.5 nm. A
+*p < 0.05 and **p < 0.01 versus F1-without microwave group. ♯♯p < 0.01 versus F5-without microwave. Each value represents the mean ± S.D. (n = 3).
+8
+
+International Journal of Pharmaceutics: X 1 (2019) 100012
+
+R. Kiniwa, et al.
+
+Appendix A. Supplementary data
+
+higher absorbance value means S. mutans is proliferating, whereas a
+lower absorbance value means that growth of S. mutans is suppressed.
+The absorbance of the control gradually increased with time and
+marked proliferation of S. mutans was observed. In all formulations, the
+absorbances were markedly low and little bacterial growth was observed, indicating that all formulations had growth inhibitory eﬀects.
+From the results of dissolution tests, we found EGCG had a dissolution
+rate of 90% or more at 1 h (Fig. 7). Therefore, although the amounts of
+the active compound in F1 and F5 were a little bit lower than those in
+tablets prepared without microwave irradiation, suﬃcient EGCG was
+present to show antibacterial activity. Overall, the slight diﬀerences of
+total amounts of EGCG did not aﬀect the antibacterial properties. Previously, EGCG have been reported to inhibit the formation of glucosyltransferases and bioﬁlms at 500 µg/mL (Koo et al., 2002), which is
+similar to our results. We can conclude that polyphenols extracted from
+tea leaves seems show signiﬁcant growth inhibitory eﬀects.
+
+Supplementary data to this article can be found online at https://
+doi.org/10.1016/j.ijpx.2019.100012.
+References
+Almajano, M.P., Carbó, R., Jiménez, J.A.L., Gordon, M.H., 2008. Antioxidant and antimicrobial activities of tea infusions. Food Chem. https://doi.org/10.1016/j.
+foodchem.2007.10.040.
+Avachat, A.M., Dash, R.R., Shrotriya, S.N., 2011. Recent investigations of plant based
+natural gums, mucilages and resins in novel drug delivery systems. Indian J. Pharm.
+Educ. Res doi:Nill.
+Baine, W.B., Yu, W., Summe, J.P., 2001. Epidemiologic trends in the hospitalization of
+elderly medicare patients for pneumonia, 1991–1998. Am. J. Public Health 91,
+1121–1123. https://doi.org/10.2105/AJPH.91.7.1121.
+Caron, G., Visentin, S., Pontremoli, C., Ermondi, G., 2015. Proﬁle of the intermolecular
+forces governing the interaction of drugs with mucin. Int. J. Pharm. https://doi.org/
+10.1016/j.ijpharm.2015.04.058.
+Cavet, M.E., Harrington, K.L., Vollmer, T.R., Ward, K.W., Zhang, J.-Z., 2011. Anti-inﬂammatory and anti-oxidative eﬀects of the green tea polyphenol epigallocatechin
+gallate in human corneal epithelial cells. Mol. Vis.
+Charles, C.H., Mostler, K.M., Bartels, L.L., Mankodi, S.M., 2004. Comparative antiplaque
+and antigingivitis eﬀectiveness of a chlorhexidine and an essential oil mouthrinse: 6month clinical trial. J. Clin. Periodontol. https://doi.org/10.1111/j.1600-051X.2004.
+00578.x.
+Datta, R., Bandyopadhyay, A.K., 2006. A new nasal drug delivery system for diazepam
+using natural mucoadhesive polysaccharide obtained from tamarind seeds. Saudi
+Pharm. J.
+Dickinson, E., 2003. Hydrocolloids at interfaces and the inﬂuence on the properties of
+dispersed systems. Food Hydrocoll. https://doi.org/10.1016/S0268-005X(01)
+00120-5.
+Du, X., Huang, X., Huang, C., Wang, Y., Zhang, Y., 2012. Epigallocatechin-3-gallate
+(EGCG) enhances the therapeutic activity of a dental adhesive. J. Dent. 40, 485–492.
+https://doi.org/10.1016/j.jdent.2012.02.013.
+Ebihara, S., Sekiya, H., Miyagi, M., Ebihara, T., Okazaki, T., 2016. Dysphagia, dystussia,
+and aspiration pneumonia in elderly people. J. Thorac. Dis. 8, 632–639. https://doi.
+org/10.21037/jtd.2016.02.60.
+FDA, 2008. Guidance for industry: orally disintegrating tablets. Cent. Drug Eval. Res.
+https://doi.org/10.3354/ab00285.
+Ferrazzano, G.F., Amato, I., Ingenito, A., De Natale, A., Pollio, A., 2009. Anti-cariogenic
+eﬀects of polyphenols from plant stimulant beverages (cocoa, coﬀee, tea).
+Fitoterapia. https://doi.org/10.1016/j.ﬁtote.2009.04.006.
+Forssten, S.D., Björklund, M., Ouwehand, A.C., 2010. Streptococcus mutans, caries and
+simulation models. Nutrients. https://doi.org/10.3390/nu2030290.
+Graham, H.N., 1992. Green tea composition, consumption, and polyphenol chemistry.
+Prev. Med. (Baltim). https://doi.org/10.1016/0091-7435(92)90041-F.
+Ikeuchi-Takahashi, Y., Sasatsu, M., Onishi, H., 2013. Evaluation of matrix type mucoadhesive tablets containing indomethacin for buccal application. Int. J. Pharm.
+https://doi.org/10.1016/j.ijpharm.2013.06.007.
+Jalil, A.M.M., Ismail, A., 2008. Polyphenols in cocoa and cocoa products: is there a link
+between antioxidant properties and health? Molecules. https://doi.org/10.3390/
+molecules13092190.
+James, P., Worthington, H.V., Parnell, C., Harding, M., Lamont, T., Cheung, A., Whelton,
+H., Riley, P., 2017. Chlorhexidine mouthrinse as an adjunctive treatment for gingival
+health. Cochrane Database Syst. Rev. https://doi.org/10.1002/14651858.CD008676.
+pub2.
+Kondo, K., Niwa, T., Danjo, K., 2012. Evaluation of disintegration properties of orally
+rapidly disintegrating tablets using a novel disintegration tester. Chem. Pharm. Bull.
+https://doi.org/10.1248/cpb.c12-00307.
+Koo, H., Pearson, S.K., Scott-Anne, K., Abranches, J., Cury, J.A., Rosalen, P.L., Park, Y.K.,
+Marquis, R.E., Bowen, W.H., 2002. Eﬀects of apigenin and tt-farnesol on glucosyltransferase activity, bioﬁlm viability and caries development in rats. Oral Microbiol.
+Immunol. https://doi.org/10.1034/j.1399-302X.2002.170602.x.
+Langmore, S.E., Terpenning, M.S., Schork, A., Chen, Y., Murray, J.T., Lopatin, D.,
+Loesche, W.J., 1998. Predictors of aspiration pneumonia: how important is dysphagia? Dysphagia 13, 69–81. https://doi.org/10.1007/PL00009559.
+Leme, A.F.P., Koo, H., Bellato, C.M., Bedi, G., Cury, J.A., 2006. The role of sucrose in
+cariogenic dental bioﬁlm formation – new insight. J. Dent. Res. https://doi.org/10.
+1177/154405910608501002.
+Li, M., Wang, Z., Han, W.-J., Lu, S.-Y., Fang, Y.-Z., 2015. Eﬀect of feeding management on
+aspiration pneumonia in elderly patients with dysphagia. Chinese Nurs. Res. 2,
+40–44. https://doi.org/10.1016/j.cnre.2015.09.004.
+Manabe, T., Teramoto, S., Tamiya, N., Okochi, J., Hizawa, N., 2015. Risk factors for
+aspiration pneumonia in older adults. PLoS One 10. https://doi.org/10.1371/journal.
+pone.0140060.
+Miyashita, N., Yamauchi, Y., 2018. Bacterial pneumonia in elderly Japanese populations.
+Japanese Clin. Med. Med. https://doi.org/10.1177/1179670717751433.
+Nayak, A.K., Pal, D., Santra, K., 2014. Tamarind seed polysaccharide-gellan mucoadhesive beads for controlled release of metformin HCl. Carbohydr. Polym. https://doi.
+org/10.1016/j.carbpol.2013.12.031.
+Osei-Yeboah, F., Sun, C.C., 2015. Validation and applications of an expedited tablet
+friability method. Int. J. Pharm. https://doi.org/10.1016/j.ijpharm.2015.02.061.
+Percival, R.S., Devine, D.A., Duggal, M.S., Chartron, S., Marsh, P.D., 2006. The eﬀect of
+
+4. Conclusions
+We used polysaccharides to prepare ODTTs with adhesive properties
+for use as novel oral care preparations. The prepared ODTTs had a
+swelling degree of about 1 mm, hardness of 13 N or more, and friability
+of 1% or less. Among the ODTTs, those containing tamarind gum disintegrated in 30 s or less because there were many voids on the tablet
+surface for water to penetrate. The adhesive properties and particle
+retention ratios were also highest in the ODTTs containing tamarind
+gum, which could be attributed to the rapid disintegration and high
+viscosity of the tamarind gum itself. When we increased the tamarind
+gum mass fraction in the formulation, the swelling degree decreased to
+about 0.5 mm and the disintegration time increased. This is because the
+thickening action of the gum increases as its mass fraction increases,
+and the tablet surface is covered by a gel. This prevents void and suppresses water penetration. Although the adhesive properties and particle retention ratios increased as the mass fraction of tamarind gum
+increased, the disintegration time was adversely aﬀected. Therefore,
+among the mass fractions we studied, 1 w/w% tamarind gum is best for
+preparation of ODTTs. In our dissolution tests, even with the addition of
+tamarind gum, the dissolution rate was 90% or more after 1 h, indicating that addition of tamarind gum hardly aﬀected the dissolution
+rate of EGCG. When we evaluated the antimicrobial activities of ODTTs
+with/without 1 w/w% tamarind gum, we observed growth inhibition
+against S. mutans with all formulations. In summary, ODTTs containing
+1 w/w% tamarind gum have suﬃcient hardness, disintegration, adhesiveness, and antibacterial activity. Especially, Du et al., demonstrated
+that the dental adhesives containing 200 or 300 μg/mL EGCG were
+found to exhibit inhibitory eﬀect on the growth of S. mutans (Du et al.,
+2012), speculating that polyphenols extracted from ODTTs with mucoadhesive property might show signiﬁcant growth inhibitory eﬀects in
+vivo. Future studies using animal models with periodontal disease are
+needed to determine whether the ODTTs with tamarind gum work as
+expected in the oral cavity. If they do, they could be used for selfmedication to contribute to the health of many people.
+
+Declaration of interest
+None.
+
+Acknowledgements
+We thank Gabrielle David, PhD, from Edanz Group (www.edanzediting.com/ac) for editing a draft of this manuscript. This study was
+supported by Over the Counter (OTC) self-medication promotion
+foundation grant No. 28-2A-013.
+9
+
+International Journal of Pharmaceutics: X 1 (2019) 100012
+
+R. Kiniwa, et al.
+
+technique. Chem. Pharm. Bull. (Tokyo). https://doi.org/10.1248/cpb.c16-00224.
+Teramoto, S., Fukuchi, Y., Sasaki, H., Sato, K., Sekizawa, K., Matsuse, T., 2008. High
+incidence of aspiration pneumonia in community- and hospital-acquired pneumonia
+in hospitalized patients: a multicenter, prospective study in Japan. J. Am. Geriatr.
+Soc. https://doi.org/10.1111/j.1532-5415.2008.01597.x.
+Teramoto, S., Yoshida, K., Hizawa, N., 2015. Update on the pathogenesis and management of pneumonia in the elderly-roles of aspiration pneumonia. Respir. Investig.
+https://doi.org/10.1016/j.resinv.2015.01.003.
+Wade, A.G., Crawford, G.M., Young, D., 2012. A survey of patient preferences for a
+placebo orodispersible tablet. Patient Prefer. Adherence. https://doi.org/10.2147/
+PPA.S28283.
+Wüstenberg, T., 2015. General Overview of Food Hydrocolloids. Cellulose and Cellulose
+Derivates in the Food Industry: Fundamentals and Applications 10.1002/
+9783527682935.ch01.
+Yamanaka-Okada, A., Sato, E., Kouchi, T., Kimizuka, R., Kato, T., Okuda, K., 2008.
+Inhibitory eﬀect of cranberry polyphenol on cariogenic bacteria. Bull Tokyo Dent.
+Coll. https://doi.org/10.2209/tdcpublication.49.107.
+
+cocoa polyphenols on the growth, metabolism, and bioﬁlm formation by
+Streptococcus mutans and Streptococcus sanguinis. Eur. J. Oral Sci. https://doi.org/
+10.1111/j.1600-0722.2006.00386.x.
+Perry, A., Shannon, J., Fowler, M.R., Baethge, B.A., 2001. Aspiration pneumonia. N. Engl.
+J. Med. 344, 1869–1870. https://doi.org/10.1378/chest.35.1.6.
+Pﬁster, T.K., Ghosh, W.R., 2005. Orally disintegrating tablets. Pharm. Technol.
+Sano, S., Iwao, Y., Kimura, S., Itai, S., 2011. Preparation and evaluation of swelling induced-orally disintegrating tablets by microwave irradiation. Int. J. Pharm. https://
+doi.org/10.1016/j.ijpharm.2011.07.001.
+Sano, S., Iwao, Y., Kimura, S., Noguchi, S., Itai, S., 2014. Impact of active ingredients on
+the swelling properties of orally disintegrating tablets prepared by microwave
+treatment. Int. J. Pharm. https://doi.org/10.1016/j.ijpharm.2014.04.011.
+Sano, S., Iwao, Y., Noguchi, S., Kimura, S., Itai, S., 2013. Design and evaluation of microwave-treated orally disintegrating tablets containing polymeric disintegrant and
+mannitol. Int. J. Pharm. https://doi.org/10.1016/j.ijpharm.2013.03.023.
+Tanaka, H., Iwao, Y., Izumikawa, M., Sano, S., Ishida, H., Noguchi, S., Itai, S., 2016.
+Preparation of orally disintegrating tablets containing powdered tea leaves with
+enriched levels of bioactive compounds by means of microwave irradiation
