@@ -83,7 +83,7 @@
         for(var i=0;i<result.length;i++) {
             results_div.innerHTML += `
             <div class="result-row">
-                <a href="#"><h3>${result[i][0]}</h3></a>
+                <a href="../static/search_list_txt/${result[i][0]}.txt"><h3>${result[i][0]}</h3></a>
                 <p>This document has a similarity score of ${result[i][1] * 100}%</p>
             </div>
             `;
