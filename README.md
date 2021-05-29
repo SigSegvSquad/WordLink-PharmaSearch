@@ -9,6 +9,7 @@
 ![PR](https://img.shields.io/badge/PRs-welcome-red?style=for-the-badge)
 ![PR](https://img.shields.io/badge/%20-Open%20Source-blueviolet?style=for-the-badge)
 
+A Natural Language Search Enabled for Pharmaceutical research data. We aim to easily and efficiently find any search results using a word2vec encoder
 
 ## Dataset
 
